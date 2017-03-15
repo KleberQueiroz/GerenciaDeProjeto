@@ -35,6 +35,17 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 
 ### 3.1 Git
 
+| | |
+|-|-|
+|**Data**|16/03/2017|
+|**Objetivo**||
+|**Teoria**||
+|**Prática**||
+|**Pontuação**|Os membros do grupo deverão ser capazes de perceber as principais distinções entre as metodologias, bem como a importância de suas utilizações e dos/ artefatos nelas desenvolvidos|
+|**Tempo**|00h45m|
+|**Responsável**|Eduardo Gomes|
+
+
 ### 3.2 Configuração de Ambiente
 
 ### 3.3 RUP e Documentação
