@@ -11,15 +11,15 @@
 
 3.   [Treinamentos](#3-treinamentos)
 
-3.1. [Git](#31-git)
+  3.1. [Git](#31-git)
 
-3.2. [Configuração de Ambiente](#32-configuração-de-ambiente)
+  3.2. [Configuração de Ambiente](#32-configuração-de-ambiente)
 
-3.3. [RUP e Documentação](#33-rup-e-documentação)
+  3.3. [RUP e Documentação](#33-rup-e-documentação)
 
-3.4. [Ruby on Rails](#34-ruby-on-rails)
+  3.4. [Ruby on Rails](#34-ruby-on-rails)
 
-3.5. [Testes](#35-testes)
+  3.5. [Testes](#35-testes)
 
 4.   [Estratégia](#4-estratégia) 
 
