@@ -45,3 +45,4 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 
 ## 4. Estratégia
 
+Todos os treinamentos são divididos em duas etapas. A primeira etapa tem caráter introdutório e expositivio sobre o assunto. Já a segunda etapa tem caráter prático, serão realizados exercícios individualmente ou em grupos. Os treinamentos serão gamificados, assim teremos premiações para o(s) membro(s) que se sair(em) melhor. Ao fim, contabilizaremos as pontuações de cada um e será formalizado um ranking com essa pontuação. Esse critério foi adotado pela equipe de gestão a fim de motivar os membros da equipe de desenvolvimento e assim melhorar a sua produtividade.
