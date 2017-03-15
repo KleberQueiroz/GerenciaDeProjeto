@@ -3,6 +3,7 @@
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
 |15/03/2017|1.0|Criação da estrutura do documento|Rafael Rabetti|
+|15/03/2017|1.0|Definição inicial dos treinamentos|Rafael Rabetti|
 
 ## Sumário
 1.   [Introdução](#1-introdução)
@@ -41,18 +42,58 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 |**Objetivo**||
 |**Teoria**||
 |**Prática**||
-|**Pontuação**|Os membros do grupo deverão ser capazes de perceber as principais distinções entre as metodologias, bem como a importância de suas utilizações e dos/ artefatos nelas desenvolvidos|
+|**Pontuação**||
 |**Tempo**|00h45m|
 |**Responsável**|Eduardo Gomes|
 
 
 ### 3.2 Configuração de Ambiente
 
+| | |
+|-|-|
+|**Data**|16/03/2017|
+|**Objetivo**||
+|**Teoria**||
+|**Prática**||
+|**Pontuação**||
+|**Tempo**|00h45m|
+|**Responsável**||
+
 ### 3.3 RUP e Documentação
+
+| | |
+|-|-|
+|**Data**|16/03/2017|
+|**Objetivo**||
+|**Teoria**||
+|**Prática**||
+|**Pontuação**||
+|**Tempo**|00h45m|
+|**Responsável**||
 
 ### 3.4 Ruby on Rails
 
+| | |
+|-|-|
+|**Data**|16/03/2017|
+|**Objetivo**||
+|**Teoria**||
+|**Prática**||
+|**Pontuação**||
+|**Tempo**|00h45m|
+|**Responsável**||
+
 ### 3.5 Testes
+
+| | |
+|-|-|
+|**Data**|16/03/2017|
+|**Objetivo**||
+|**Teoria**||
+|**Prática**||
+|**Pontuação**||
+|**Tempo**|00h45m|
+|**Responsável**||
 
 ## 4. Estratégia
 
