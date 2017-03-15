@@ -5,6 +5,6 @@
 ### Plano de Gerência
 
 * [Termo de Abertura](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Termo-de-Abertura)
-* [Plano de Treinamento] ()
+* [Plano de Treinamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Treinamento)
 
 ## Release 2
