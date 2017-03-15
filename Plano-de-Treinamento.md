@@ -6,3 +6,9 @@
 
 # Introdução
 
+## Objetivo
+
+# Treinamentos
+
+# Estratégia
+
