@@ -1,1 +1,4 @@
-# Termo de Abertura
+## Histórico de Revisões
+
+| Data | Versão | Descrição | Autor |
+|:----:|:------:|:---------:|:-----:|
