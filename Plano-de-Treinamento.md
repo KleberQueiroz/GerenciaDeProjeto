@@ -25,7 +25,11 @@
 
 ## 1. Introdução
 
+Este documento tem o propósito de manter registrado o calendário de treinamentos técnicos que serão aplicados aos membros da equipe visando a sua produtividade durante a execução do projeto.
+
 ## 2. Objetivo
+
+Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os treinamentos serão aplicados pela equipe de gestão do projeto. Assim, podemos nivelar todos da equipe e diminuir os riscos relacionados à dificuldade técnica.
 
 ## 3. Treinamentos
 
