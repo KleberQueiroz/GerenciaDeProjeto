@@ -39,9 +39,9 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 | | |
 |-|-|
 |**Data**|16/03/2017|
-|**Objetivo**||
-|**Teoria**||
-|**Prática**||
+|**Objetivo**|Capacitar a equipe de desenvolvimento para que sejam capazes de trabalhar colaborativamente e manter um controle de versão adequado.|
+|**Teoria**|Slides expositivos sobre a importância do mesmo e com uma lista de comandos úteis.|
+|**Prática**|A equipe de desenvolvimento terá um tempo para praticare ao final será feita uma competição. |
 |**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
 |**Tempo**|00h45m|
 |**Responsável**|Eduardo Gomes|
@@ -55,9 +55,7 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 |**Objetivo**||
 |**Teoria**||
 |**Prática**||
-|**Pontuação**|1º - 5 Pontos
-2º - 3 Pontos
-3º - 1 Pontos|
+|**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
 |**Tempo**|00h45m|
 |**Responsável**||
 
@@ -69,9 +67,7 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 |**Objetivo**||
 |**Teoria**||
 |**Prática**||
-|**Pontuação**|1º - 5 Pontos
-2º - 3 Pontos
-3º - 1 Pontos|
+|**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
 |**Tempo**|00h45m|
 |**Responsável**||
 
@@ -83,9 +79,7 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 |**Objetivo**||
 |**Teoria**||
 |**Prática**||
-|**Pontuação**|1º - 5 Pontos
-2º - 3 Pontos
-3º - 1 Pontos|
+|**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
 |**Tempo**|00h45m|
 |**Responsável**||
 
@@ -97,9 +91,7 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 |**Objetivo**||
 |**Teoria**||
 |**Prática**||
-|**Pontuação**|1º - 5 Pontos
-2º - 3 Pontos
-3º - 1 Pontos|
+|**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
 |**Tempo**|00h45m|
 |**Responsável**||
 
