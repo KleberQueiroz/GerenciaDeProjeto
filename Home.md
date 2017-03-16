@@ -1,6 +1,8 @@
 # Sistema de Localização no campus Darcy Ribeiro
 
-## GPP
+# Equipe
+
+## Gerência
 
 |              **Nome**                |            **__Email__**              |      **GitHub** |
 |:-------------------------------:|:---------------------------:|:---------------------------:| 
@@ -11,7 +13,7 @@
 |Alexandre Torres Kryonidis     |<alexandrekry@gmail.com> | |
 |Matheus|                  | |
 
-## MDS
+## Desenvolvimento
 
 |              **Nome**                |            **__Email__**             |     **GitHub** |
 |:-------------------------------:|:---------------------------:|:---------------------------:| 
