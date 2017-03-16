@@ -55,7 +55,7 @@ Todos os treinamentos são divididos em duas etapas. A primeira etapa tem carát
 
 | | |
 |-|-|
-|**Data**|16/03/2017|
+|**Data**|18/03/2017|
 |**Objetivo**|Manter a equipe com o ambiente configurado evitando problemas de compatibilidade e erros de dependência.|
 |**Teoria**|Será explicado a importância da virtualização de máquinas e o uso do Virtual Box e Vagrant.|
 |**Prática**|Cada membro da equipe de desenvolvimento irá executar os mesmos passos para configurar a sua própria máquina.|
@@ -68,7 +68,7 @@ Todos os treinamentos são divididos em duas etapas. A primeira etapa tem carát
 
 | | |
 |-|-|
-|**Data**|17/03/2017|
+|**Data**|18/03/2017|
 |**Objetivo**|Detalhar os valores, as disciplinas e as fases do RUP bem como os seus artefatos necessários em cada uma dessas fases.|
 |**Teoria**|Slides expositivos.|
 |**Prática**|Ao final será feita uma competição. Nesse caso será um jogo de perguntas e respostas. |
@@ -81,7 +81,7 @@ Todos os treinamentos são divididos em duas etapas. A primeira etapa tem carát
 
 | | |
 |-|-|
-|**Data**|18/03/2017|
+|**Data**|21/03/2017|
 |**Objetivo**|Explicação técnica sobre a tecnologia Ruby on Rails para que a equipe esteja nivelada e com o conhecimento necessário para o desenvolvimento do projeto.|
 |**Teoria**|Slides expositivos.|
 |**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição.|
@@ -94,7 +94,7 @@ Todos os treinamentos são divididos em duas etapas. A primeira etapa tem carát
 
 | | |
 |-|-|
-|**Data**|28/03/2017|
+|**Data**|04/04/2017|
 |**Objetivo**|Serão passados os conhecimentos sobre teste de software para a equipe de desenvolvimento a fim de alcançar à meta de cobertura de testes dentro do código do projeto.|
 |**Teoria**|Slides expositvos e exemplos de testes unitários.|
 |**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição.|
@@ -107,7 +107,7 @@ Todos os treinamentos são divididos em duas etapas. A primeira etapa tem carát
 
 | | |
 |-|-|
-|**Data**|21/03/2017|
+|**Data**|21/04/2017|
 |**Objetivo**|Automatizar os testes para aumentar a produtividade da equipe.|
 |**Teoria**|Slides expositvos e exemplos de automatização.|
 |**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição.|
