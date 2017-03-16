@@ -17,6 +17,8 @@
 
 ## 1. Introdução
 
+O presente documento visa introduzir e mostrar as características do projeto Sistema de Localização no campus Darcy Ribeiro. Consequentemente, será apresentada a visão geral do projeto, seus objetivos, quais motivações levaram ao seu desenvolvimento, os riscos envolvidos e os interessados no projeto.
+
 ## 2. Visão Geral e Objetivo
 
 ## 3. Motivação
