@@ -44,7 +44,7 @@ Todos os treinamentos são divididos em duas etapas. A primeira etapa tem carát
 |**Data**|16/03/2017|
 |**Objetivo**|Capacitar a equipe de desenvolvimento para que sejam capazes de trabalhar colaborativamente e manter um controle de versão adequado.|
 |**Teoria**|Slides expositivos sobre a importância do mesmo e com uma lista de comandos úteis.|
-|**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição. <br /> A equipe de desenvolvimento será dividida em dois times e serão feitos 4 desafios. As duas equipes terão 5 minutos para completar o desafio. Ao final será decretada a equipe campeã. |
+|**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição. <br /> Os integrantes serão divididos em dois times e serão feitos 4 desafios. As duas equipes terão 5 minutos para completar o desafio. Ao final será decretada a equipe campeã. |
 |**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />Fora do tempo - 1 Ponto |
 |**Campeão**|Empate|
 |**Tempo**|01h30m|
