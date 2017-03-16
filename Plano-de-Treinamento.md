@@ -81,7 +81,7 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 |-|-|
 |**Data**|18/03/2017|
 |**Objetivo**|Explicação técnica sobre a tecnologia Ruby on Rails para que a equipe esteja nivelada e com o conhecimento necessário para o desenvolvimento do projeto.|
-|**Teoria**|Slides expositivos|
+|**Teoria**|Slides expositivos sobre teste unitário.|
 |**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição.|
 |**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
 |**Tempo**|01h30m|
@@ -92,9 +92,9 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 
 | | |
 |-|-|
-|**Data**|21/03/2017|
+|**Data**|28/03/2017|
 |**Objetivo**|Serão passados os conhecimentos sobre teste de software para a equipe de desenvolvimento a fim de alcançar à meta de cobertura de testes dentro do código do projeto.|
-|**Teoria**|Slides expositvos e exemplos.|
+|**Teoria**|Slides expositvos e exemplos de automatização.|
 |**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição.|
 |**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
 |**Tempo**|01h20m|
