@@ -36,12 +36,11 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 
 ### 3.1 Git
 
-| | |
 |-|-|
 |**Data**|16/03/2017|
 |**Objetivo**|Capacitar a equipe de desenvolvimento para que sejam capazes de trabalhar colaborativamente e manter um controle de versão adequado.|
 |**Teoria**|Slides expositivos sobre a importância do mesmo e com uma lista de comandos úteis.|
-|**Prática**|A equipe de desenvolvimento terá um tempo para praticare ao final será feita uma competição. |
+|**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição. |
 |**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
 |**Tempo**|00h45m|
 |**Responsável**|Eduardo Gomes|
@@ -49,51 +48,47 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 
 ### 3.2 Configuração de Ambiente
 
-| | |
 |-|-|
 |**Data**|16/03/2017|
-|**Objetivo**||
-|**Teoria**||
-|**Prática**||
+|**Objetivo**|Manter a equipe com o ambiente configurado evitando problemas de compatibilidade e erros de dependência.|
+|**Teoria**|Será explicado a importância da virtualização de máquinas e o uso do Virtual Box e Vagrant.|
+|**Prática**|Cada membro da equipe de desenvolvimento irá executar os mesmos passos para configurar a sua própria máquina.|
 |**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
 |**Tempo**|00h45m|
-|**Responsável**||
+|**Responsável**|Daniel Moura|
 
 ### 3.3 RUP e Documentação
 
-| | |
 |-|-|
 |**Data**|16/03/2017|
-|**Objetivo**||
-|**Teoria**||
-|**Prática**||
+|**Objetivo**|Detalhar os valores, as disciplinas e as fases do RUP bem como os seus artefatos necessários em cada uma dessas fases.|
+|**Teoria**|Slides expositivos.|
+|**Prática**|Ao final será feita uma competição. Nesse caso será um jogo de perguntas e respostas. |
 |**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
 |**Tempo**|00h45m|
-|**Responsável**||
+|**Responsável**|Eduardo Brasil|
 
 ### 3.4 Ruby on Rails
 
-| | |
 |-|-|
 |**Data**|16/03/2017|
 |**Objetivo**||
 |**Teoria**||
-|**Prática**||
+|**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição.|
 |**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
 |**Tempo**|00h45m|
-|**Responsável**||
+|**Responsável**|Rafael Rabetti|
 
 ### 3.5 Testes
 
-| | |
 |-|-|
 |**Data**|16/03/2017|
-|**Objetivo**||
-|**Teoria**||
-|**Prática**||
+|**Objetivo**|Serão passados os conhecimentos sobre teste de software para a equipe de desenvolvimento a fim de alcançar à meta de cobertura de testes dentro do código do projeto.|
+|**Teoria**|Slides expositvos e exemplos.|
+|**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição.|
 |**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
 |**Tempo**|00h45m|
-|**Responsável**||
+|**Responsável**|Matheus|
 
 ## 4. Estratégia
 
