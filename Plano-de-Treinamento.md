@@ -56,7 +56,7 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 |**Teoria**|Será explicado a importância da virtualização de máquinas e o uso do Virtual Box e Vagrant.|
 |**Prática**|Cada membro da equipe de desenvolvimento irá executar os mesmos passos para configurar a sua própria máquina.|
 |**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
-|**Tempo**|00h45m|
+|**Tempo**|00h30m|
 |**Responsável**|Daniel Moura|
 
 ### 3.3 RUP e Documentação
@@ -69,7 +69,7 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 |**Teoria**|Slides expositivos.|
 |**Prática**|Ao final será feita uma competição. Nesse caso será um jogo de perguntas e respostas. |
 |**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
-|**Tempo**|00h45m|
+|**Tempo**|01h00m|
 |**Responsável**|Eduardo Brasil|
 
 ### 3.4 Ruby on Rails
@@ -78,11 +78,11 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 | | |
 |-|-|
 |**Data**|16/03/2017|
-|**Objetivo**||
-|**Teoria**||
+|**Objetivo**|Explicação técnica sobre a tecnologia Ruby on Rails para que a equipe esteja nivelada e com o conhecimento necessário para o desenvolvimento do projeto.|
+|**Teoria**|Slides expositivos|
 |**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição.|
 |**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
-|**Tempo**|00h45m|
+|**Tempo**|01h30m|
 |**Responsável**|Rafael Rabetti|
 
 ### 3.5 Testes
@@ -95,7 +95,7 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 |**Teoria**|Slides expositvos e exemplos.|
 |**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição.|
 |**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
-|**Tempo**|00h45m|
+|**Tempo**|01h20m|
 |**Responsável**|Matheus|
 
 ## 4. Estratégia
