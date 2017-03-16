@@ -36,7 +36,7 @@ Esta equipe é formada por alunos de graduação de Engenharia de Software da Un
 |Rafael dos Santos Rabetti    |<rafael.rabetti@gmail.com> |[rafaelrabetti](https://github.com/rafaelrabetti) |
 |Eduardo Quintino Gomes       | <eduardoqgomes@gmail.com>| [eduqg](https://github.com/eduqg)|
 |Alexandre Torres Kryonidis     |<alexandrekry@gmail.com> | |
-|Matheus|                  |
+|Matheus|                  | |
 
 ### 5.1 Equipe de Métodos de Desenvolvimento de Software
 
@@ -45,10 +45,10 @@ Esta equipe é formada por alunos de graduação de Engenharia de Software da Un
 
 |              **Nome**                |            **__Email__**             |     **GitHub** |
 |:-------------------------------:|:---------------------------:|:---------------------------:| 
-|Lucas Soares Souza	|	lucas.soaresouza@gmail.com|  [lucassoaresouza](https://github.com/lucassoaresouza)| 
-|Jordan de Oliveira Miranda   |	jordan.oliveira.m@gmail.com| [JordanMiranda](https://github.com/JordanMiranda) |
-|Stéfane Bogéa de Souza	   |	stefanesouza04@gmail.com| [stefanesouza](https://github.com/stefanesouza)|
-|Mateus Vieira da Silva Roriz	 |	mateusvroriz6b@gmail.com|[mateusvroriz](https://github.com/mateusvroriz) |
-|Sannya Santana de Arvelos	|	sannyasantana@gmail.com| [SannyaArvelos](https://github.com/SannyaArvelos)|
-|Taynara de Jesus Carvalho	|	tayhcarvalho@gmail.com| [tayh](https://github.com/tayh)|
+|Lucas Soares Souza	|<lucas.soaresouza@gmail.com>|  [lucassoaresouza](https://github.com/lucassoaresouza)| 
+|Jordan de Oliveira Miranda   |<jordan.oliveira.m@gmail.com>| [JordanMiranda](https://github.com/JordanMiranda) |
+|Stéfane Bogéa de Souza	   |<stefanesouza04@gmail.com>| [stefanesouza](https://github.com/stefanesouza)|
+|Mateus Vieira da Silva Roriz	 |<mateusvroriz6b@gmail.com>|[mateusvroriz](https://github.com/mateusvroriz) |
+|Sannya Santana de Arvelos	|<sannyasantana@gmail.com>| [SannyaArvelos](https://github.com/SannyaArvelos)|
+|Taynara de Jesus Carvalho	|<tayhcarvalho@gmail.com>| [tayh](https://github.com/tayh)|
 |Kairon			|                     | |
