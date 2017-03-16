@@ -27,7 +27,7 @@
 
 |              **Nome**                |            **__Email__**              |      **GitHub** |
 |:-------------------------------:|:---------------------------:|:---------------------------:| 
-|Eduardo Brasil Martins   |brasil.eduardo1@gmail.com| [EduardoBrasil]((https://github.com/EduardoBrasil)|
+|Eduardo Brasil Martins   |brasil.eduardo1@gmail.com| [EduardoBrasil](https://github.com/EduardoBrasil)|
 |Daniel Moura da Silva        |danmoura17@gmail.com| [danmoura17](https://github.com/danmoura17) |
 |Rafael dos Santos Rabetti    |rafael.rabetti@gmail.com |[rafaelrabetti](https://github.com/rafaelrabetti) |
 |Eduardo Quintino Gomes       | eduardoqgomes@gmail.com| [eduqg](https://github.com/eduqg)|
