@@ -11,7 +11,7 @@
 |Rafael dos Santos Rabetti    |<rafael.rabetti@gmail.com> |[rafaelrabetti](https://github.com/rafaelrabetti) |
 |Eduardo Quintino Gomes       | <eduardoqgomes@gmail.com>| [eduqg](https://github.com/eduqg)|
 |Alexandre Torres Kryonidis     |<alexandrekry@gmail.com> | |
-|Matheus|                  | |
+|Matheus|                  | [matmello](https://github.com/matmello)|
 
 ## Desenvolvimento
 
