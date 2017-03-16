@@ -36,6 +36,7 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 
 ### 3.1 Git
 
+| | |
 |-|-|
 |**Data**|16/03/2017|
 |**Objetivo**|Capacitar a equipe de desenvolvimento para que sejam capazes de trabalhar colaborativamente e manter um controle de versão adequado.|
@@ -48,6 +49,7 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 
 ### 3.2 Configuração de Ambiente
 
+| | |
 |-|-|
 |**Data**|16/03/2017|
 |**Objetivo**|Manter a equipe com o ambiente configurado evitando problemas de compatibilidade e erros de dependência.|
@@ -59,6 +61,8 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 
 ### 3.3 RUP e Documentação
 
+
+| | |
 |-|-|
 |**Data**|16/03/2017|
 |**Objetivo**|Detalhar os valores, as disciplinas e as fases do RUP bem como os seus artefatos necessários em cada uma dessas fases.|
@@ -70,6 +74,8 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 
 ### 3.4 Ruby on Rails
 
+
+| | |
 |-|-|
 |**Data**|16/03/2017|
 |**Objetivo**||
@@ -81,6 +87,8 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 
 ### 3.5 Testes
 
+
+| | |
 |-|-|
 |**Data**|16/03/2017|
 |**Objetivo**|Serão passados os conhecimentos sobre teste de software para a equipe de desenvolvimento a fim de alcançar à meta de cobertura de testes dentro do código do projeto.|
