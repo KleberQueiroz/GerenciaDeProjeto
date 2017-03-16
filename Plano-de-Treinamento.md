@@ -42,7 +42,9 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 |**Objetivo**||
 |**Teoria**||
 |**Prática**||
-|**Pontuação**|1º - 5 Pontos 2º - 3 Pontos 3º - 1 Pontos|
+|**Pontuação**|1º - 5 Pontos 
+               2º - 3 Pontos 
+               3º - 1 Pontos|
 |**Tempo**|00h45m|
 |**Responsável**|Eduardo Gomes|
 
