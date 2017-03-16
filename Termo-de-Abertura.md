@@ -25,6 +25,10 @@
 
 ## 5. Interessados
 
+### 5.1 Equipe de Gerência de Projetos e Portifólio de Software
+
+Esta equipe é formada por alunos de graduação de Engenharia de Software da Universidade de Brasília campus Gama que cursam a disciplina Gerência de Projetos e Portifólio de Software.
+
 |              **Nome**                |            **__Email__**              |      **GitHub** |
 |:-------------------------------:|:---------------------------:|:---------------------------:| 
 |Eduardo Brasil Martins   |brasil.eduardo1@gmail.com| [EduardoBrasil](https://github.com/EduardoBrasil)|
@@ -33,6 +37,11 @@
 |Eduardo Quintino Gomes       | eduardoqgomes@gmail.com| [eduqg](https://github.com/eduqg)|
 |Alexandre Torres Kryonidis     |alexandrekry@gmail.com | |
 |Matheus|                  |
+
+### 5.1 Equipe de Métodos de Desenvolvimento de Software
+
+Esta equipe é formada por alunos de graduação de Engenharia de Software da Universidade de Brasília campus Gama que cursam a disciplina Métodos de Desenvolvimento de Software.
+
 
 |              **Nome**                |            **__Email__**             |     **GitHub** |
 |:-------------------------------:|:---------------------------:|:---------------------------:| 
