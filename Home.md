@@ -16,7 +16,7 @@
 |              **Nome**                |            **__Email__**             |     **GitHub** |
 |:-------------------------------:|:---------------------------:|:---------------------------:| 
 |Lucas Soares Souza	|<lucas.soaresouza@gmail.com>|  [lucassoaresouza](https://github.com/lucassoaresouza)| 
-|Jordan de Oliveira Miranda   |	jordan.oliveira.m@gmail.com>| [JordanMiranda](https://github.com/JordanMiranda) |
+|Jordan de Oliveira Miranda   |	<jordan.oliveira.m@gmail.com>| [JordanMiranda](https://github.com/JordanMiranda) |
 |Stéfane Bogéa de Souza	   |<stefanesouza04@gmail.com>| [stefanesouza](https://github.com/stefanesouza)|
 |Mateus Vieira da Silva Roriz	 |<mateusvroriz6b@gmail.com>|[mateusvroriz](https://github.com/mateusvroriz) |
 |Sannya Santana de Arvelos	|<sannyasantana@gmail.com>| [SannyaArvelos](https://github.com/SannyaArvelos)|
