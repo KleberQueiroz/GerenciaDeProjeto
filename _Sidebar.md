@@ -1,6 +1,4 @@
-# Sistema de localização no campus Darcy Ribeiro
-
-## [Home](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki)
+# [Sistema de localização no campus Darcy Ribeiro]((https://github.com/fga-gpp-mds/mds-gpp-g2/wiki))
 
 ## Release 1
 
