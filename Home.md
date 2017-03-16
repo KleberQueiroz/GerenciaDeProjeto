@@ -23,4 +23,4 @@
 |Mateus Vieira da Silva Roriz	 |<mateusvroriz6b@gmail.com>|[mateusvroriz](https://github.com/mateusvroriz) |
 |Sannya Santana de Arvelos	|<sannyasantana@gmail.com>| [SannyaArvelos](https://github.com/SannyaArvelos)|
 |Taynara de Jesus Carvalho	|<tayhcarvalho@gmail.com>| [tayh](https://github.com/tayh)|
-|Kairon			|                     | |
+|Kairon			|  <kairon.vzb@gmail.com>  | |
