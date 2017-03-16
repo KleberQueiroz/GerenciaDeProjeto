@@ -13,7 +13,11 @@
 
 4.   [Riscos](#4-riscos)
 
-5.   [Interessados](#5-interessados)
+5.   [Resumo do Cronograma de Marcos](#5-resumo-do-cronograma-de-marcos)
+
+6.   [Resumo do Orçamento](#6-resumo-do-orçamento)
+
+7.   [Interessados](#7-interessados)
 
 ## 1. Introdução
 
@@ -41,11 +45,28 @@ Como o projeto está no contexto de disciplinas de graduação, caso algum aluno
 
 Como o prazo de entrega não é negociável, atrasos no cronograma podem trazer dificuldades.
 
-## 5. Interessados
+## 5. Resumo do Cronograma de Marcos
+
+Este projeto possui dois marcos principais de entrega do produto: Release 1 e Release 2.
+
+| || |
+|-||-|
+|**Data**|**Entrega**|
+|**22/04/2017** <br /> **Release 1**|| Toda documentação e versão funcional inicial.|
+|**26/06/2017** <br /> **Release 2**|| Todas as funcionalidades e documentação finalizadas.|
+## 6. Resumo do Orçamento
+
+O custo será de R$ 19384923,99 reais.
+
+## 7. Interessados
 
 * **CPD**
 
 * **Alunos do campus Darcy Ribeiro**
+
+* **Docente**
+
+A professora Carla Rocha, a qual ministra as disciplinas Gerência de Projetos e Portifólio de Software e Métodos de Desenvolvimento de Software na Universidade de Brasília campus Gama, é a avaliadora do produto final.
 
 * **Equipe de Gerência de Projetos e Portifólio de Software**
 
