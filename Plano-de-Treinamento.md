@@ -24,7 +24,6 @@
 
      3.6. [Testes Automatizados](#36-testes-automatizados)
 
-4.   [Estratégia](#4-estratégia) 
 
 ## 1. Introdução
 
@@ -35,6 +34,8 @@ Este documento tem o propósito de manter registrado o calendário de treinament
 Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os treinamentos serão aplicados pela equipe de gestão do projeto. Assim, podemos nivelar todos da equipe e diminuir os riscos relacionados à dificuldade técnica.
 
 ## 3. Treinamentos
+
+Todos os treinamentos são divididos em duas etapas. A primeira etapa tem caráter introdutório e expositivio sobre o assunto. Já a segunda etapa tem caráter prático, serão realizados exercícios individualmente ou em grupos. Os treinamentos serão gamificados, assim teremos premiações para o(s) membro(s) que se sair(em) melhor. Ao fim, contabilizaremos as pontuações de cada um e será formalizado um ranking com essa pontuação. Esse critério foi adotado pela equipe de gestão a fim de motivar os membros da equipe de desenvolvimento e assim melhorar a sua produtividade.
 
 ### 3.1 Git
 
@@ -111,8 +112,4 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 |**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição.|
 |**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
 |**Tempo**|01h45m|
-|**Responsável**|Matheus|
-
-## 4. Estratégia
-
-Todos os treinamentos são divididos em duas etapas. A primeira etapa tem caráter introdutório e expositivio sobre o assunto. Já a segunda etapa tem caráter prático, serão realizados exercícios individualmente ou em grupos. Os treinamentos serão gamificados, assim teremos premiações para o(s) membro(s) que se sair(em) melhor. Ao fim, contabilizaremos as pontuações de cada um e será formalizado um ranking com essa pontuação. Esse critério foi adotado pela equipe de gestão a fim de motivar os membros da equipe de desenvolvimento e assim melhorar a sua produtividade.
+|**Responsável**|
