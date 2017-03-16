@@ -22,6 +22,8 @@
 
      3.5. [Testes](#35-testes)
 
+     3.6. [Testes Automatizados](#36-testes-automatizados)
+
 4.   [Estratégia](#4-estratégia) 
 
 ## 1. Introdução
@@ -64,7 +66,7 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 
 | | |
 |-|-|
-|**Data**|16/03/2017|
+|**Data**|17/03/2017|
 |**Objetivo**|Detalhar os valores, as disciplinas e as fases do RUP bem como os seus artefatos necessários em cada uma dessas fases.|
 |**Teoria**|Slides expositivos.|
 |**Prática**|Ao final será feita uma competição. Nesse caso será um jogo de perguntas e respostas. |
@@ -77,7 +79,7 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 
 | | |
 |-|-|
-|**Data**|16/03/2017|
+|**Data**|18/03/2017|
 |**Objetivo**|Explicação técnica sobre a tecnologia Ruby on Rails para que a equipe esteja nivelada e com o conhecimento necessário para o desenvolvimento do projeto.|
 |**Teoria**|Slides expositivos|
 |**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição.|
@@ -90,12 +92,25 @@ Com o objetivo de facilitar o aprendizado da equipe de desenvolvimento, os trein
 
 | | |
 |-|-|
-|**Data**|16/03/2017|
+|**Data**|21/03/2017|
 |**Objetivo**|Serão passados os conhecimentos sobre teste de software para a equipe de desenvolvimento a fim de alcançar à meta de cobertura de testes dentro do código do projeto.|
 |**Teoria**|Slides expositvos e exemplos.|
 |**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição.|
 |**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
 |**Tempo**|01h20m|
+|**Responsável**|Alexandre |
+
+### 3.6 Testes Automatizados
+
+
+| | |
+|-|-|
+|**Data**|21/03/2017|
+|**Objetivo**|Automatizar os testes para aumentar a produtividade da equipe.|
+|**Teoria**|Slides expositvos e exemplos.|
+|**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição.|
+|**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
+|**Tempo**|01h45m|
 |**Responsável**|Matheus|
 
 ## 4. Estratégia
