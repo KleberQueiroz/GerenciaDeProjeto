@@ -49,11 +49,12 @@ Como o prazo de entrega não é negociável, atrasos no cronograma podem trazer 
 
 Este projeto possui dois marcos principais de entrega do produto: Release 1 e Release 2.
 
-| || |
-|-||-|
+| | |
+|-|-|
 |**Data**|**Entrega**|
-|**22/04/2017** <br /> **Release 1**|| Toda documentação e versão funcional inicial.|
-|**26/06/2017** <br /> **Release 2**|| Todas as funcionalidades e documentação finalizadas.|
+|**22/04/2017** <br /> **Release 1**| Toda documentação e versão funcional inicial.|
+|**26/06/2017** <br /> **Release 2**| Todas as funcionalidades e documentação finalizadas.|
+
 ## 6. Resumo do Orçamento
 
 O custo será de R$ 19384923,99 reais.
