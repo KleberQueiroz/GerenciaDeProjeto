@@ -53,8 +53,8 @@ Este projeto possui dois marcos principais de entrega do produto: Release 1 e Re
 | | |
 |-|-|
 |**Data**|**Entrega**|
-|**22/04/2017** <br /> --------------- <br /> **Release 1**| Toda documentação e versão funcional inicial.|
-|**26/06/2017** <br /> --------------- <br /> **Release 2**| Todas as funcionalidades concluídas e documentação finalizada.|
+|22/04/2017 <br /> --------------- <br /> Release 1| Toda documentação e versão funcional inicial.|
+|26/06/2017 <br /> --------------- <br /> Release 2| Todas as funcionalidades concluídas e documentação finalizada.|
 
 ## 6. Resumo do Orçamento
 
