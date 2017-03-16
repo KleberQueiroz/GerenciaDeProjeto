@@ -25,7 +25,7 @@
 
 ## 5. Interessados
 
-### 5.1 Equipe de Gerência de Projetos e Portifólio de Software
+* **Equipe de Gerência de Projetos e Portifólio de Software**
 
 Esta equipe é formada por alunos de graduação de Engenharia de Software da Universidade de Brasília campus Gama que cursam a disciplina Gerência de Projetos e Portifólio de Software.
 
@@ -38,7 +38,7 @@ Esta equipe é formada por alunos de graduação de Engenharia de Software da Un
 |Alexandre Torres Kryonidis     |<alexandrekry@gmail.com> | |
 |Matheus|                  | |
 
-### 5.1 Equipe de Métodos de Desenvolvimento de Software
+* **Equipe de Métodos de Desenvolvimento de Software**
 
 Esta equipe é formada por alunos de graduação de Engenharia de Software da Universidade de Brasília campus Gama que cursam a disciplina Métodos de Desenvolvimento de Software.
 
