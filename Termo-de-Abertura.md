@@ -23,7 +23,27 @@
 
 ## 4. Riscos
 
+* **Capacitação Técnica**
+
+A tecnologia Ruby on Rails é nova para a maioria dos membros da equipe e isso pode trazer alguma dificuldade na produção.
+
+* **Recursos**
+
+
+
+* **Desistência de Aluno**
+
+Como o projeto está no contexto de disciplinas de graduação, caso algum aluno desista, isso pode trazer dificuldades à equipe.
+
+* **Prazo de Entrega Fixo**
+
+Como o prazo de entrega não é negociável, atrasos no cronograma podem trazer dificuldades.
+
 ## 5. Interessados
+
+* **CPD**
+
+* **Alunos do campus Darcy Ribeiro**
 
 * **Equipe de Gerência de Projetos e Portifólio de Software**
 
