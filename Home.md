@@ -10,7 +10,7 @@
 |Daniel Moura da Silva        |<danmoura17@gmail.com>| [danmoura17](https://github.com/danmoura17) |
 |Rafael dos Santos Rabetti    |<rafael.rabetti@gmail.com> |[rafaelrabetti](https://github.com/rafaelrabetti) |
 |Eduardo Quintino Gomes       | <eduardoqgomes@gmail.com>| [eduqg](https://github.com/eduqg)|
-|Alexandre Torres Kryonidis     |<alexandrekry@gmail.com> | |
+|Alexandre Torres Kryonidis     |<alexandrekry@gmail.com> |[alexandretk](https://github.com/alexandretk) |
 |Matheus Mello | <mat.mello93@gmail.com>    | [matmello](https://github.com/matmello)|
 
 ## Desenvolvimento
