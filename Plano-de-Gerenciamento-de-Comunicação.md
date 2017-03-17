@@ -14,13 +14,19 @@
 
 3. [Comunicação](#3-comunicação)
 
+        3.1 [Ferramentas de Comunicação](#31-ferramentas-de-comunicação)
+
 ### 1. Introdução
+
+Este documento visa
 
 ### 2. Objetivo
 
+Definir a comunicação dentro de uma equipe é essencial. Uma equipe com boa comunicação é uma equipe produtiva.
+
 ### 3. Comunicação
 
-* **Ferramentas de Comunicação**
+#### 3.1 Ferramentas de Comunicação
 
 |**Ferramenta**|**Objetivo**|
 |:------------:|:----------:|
