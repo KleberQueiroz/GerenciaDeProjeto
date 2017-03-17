@@ -21,6 +21,10 @@
 
 ## 01) Introdução
 
+Este documento tem por objetivo estipular uma visão geral sobre o que será o software para localização, via mapa, das instalações do Campus Darcy Ribeiro da Universidade de Brasília (UnB).
+
+Sendo assim, espera-se que o leitor deste documento consiga comprender o objetivo global do software, além de tomar conhecimento das partes envolvidas, tais como a equipe gerenciamento, a equipe de desenvolvimento e stakeholders). 
+
 ### 1.1 Propósito:
 
 ### 1.2 Escopo:
