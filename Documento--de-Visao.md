@@ -1,5 +1,3 @@
-# Documento de Visão
-
 ## Histórico de Revisões
 
 |    Data    | Versão |     Descriçao     |   Autor   |
