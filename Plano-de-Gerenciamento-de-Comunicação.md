@@ -8,4 +8,4 @@
 
 |**Ferramenta**|**Objetivo**|
 |:------------:|:----------:|
-|![Whatsapp](http://i.imgur.com/isKpHKx.png =100x100)| Comunicação rápida e informal entre os membros da equipe. Esta ferramenta é utilizada para avisos em geral e para marcar reuniões.|
+|<img src="//imgur.com/isKpHKx" alt="Drawing" style="width: 100px;"/>| Comunicação rápida e informal entre os membros da equipe. Esta ferramenta é utilizada para avisos em geral e para marcar reuniões.|
