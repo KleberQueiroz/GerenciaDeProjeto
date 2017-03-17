@@ -8,4 +8,4 @@
 
 |**Ferramenta**|**Objetivo**|
 |-|-|
-|![Whatsapp](http://imgur.com/RMxkGnR) <br /> Whatsapp| Comunicação rápida e informal entre os membros da equipe. Esta ferramenta é utilizada para avisos em geral e para marcar reuniões.|
+|![Whatsapp](http://imgur.com/a/3eJhF) <br /> Whatsapp| Comunicação rápida e informal entre os membros da equipe. Esta ferramenta é utilizada para avisos em geral e para marcar reuniões.|
