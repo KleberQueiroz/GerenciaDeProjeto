@@ -6,6 +6,8 @@
 |15/03/2017|1.1|Definição inicial dos treinamentos|Rafael Rabetti|
 |16/03/2017|1.2|Refazendo treinamento de Git|Rafael Rabetti|
 
+***
+
 ## Sumário
 1.   [Introdução](#1-introdução)
 
