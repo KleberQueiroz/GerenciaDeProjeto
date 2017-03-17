@@ -9,3 +9,4 @@
 |**Ferramenta**|**Objetivo**|
 |:------------:|:----------:|
 |![Whatsapp](http://i.imgur.com/isKpHKx.png?1)| Comunicação rápida e informal entre os membros da equipe. Esta ferramenta é utilizada para avisos em geral e para marcar reuniões.|
+|![Drive](http://i.imgur.com/0K1OMv1.png?1)| Compartilhamento de arquivos online entre os membros da equipe.|
