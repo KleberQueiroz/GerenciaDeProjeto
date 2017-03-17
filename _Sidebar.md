@@ -9,6 +9,6 @@
 
 ### Desenvolvimento
 
-* [Documento de visão]()
+* [Documento de Visão](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento--de-Visao)
 
 ## Release 2

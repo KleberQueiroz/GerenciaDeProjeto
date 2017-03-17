@@ -16,7 +16,7 @@
 [04) Visão Geral do Produto](#04-visão-geral-do-produto)  
 [05) Recursos do Produto](#05-recursos-do-produto)  
 [06) Restrições](#06-restrições)  
-[07) Faixas de Qualidade](#07-faixas-de-qualidade)
+[07) Faixas de Qualidade](#07-faixas-de-qualidade)  
 [08) Precedência e Prioridade](#08-precência-e-prioridade)
 
 ------
