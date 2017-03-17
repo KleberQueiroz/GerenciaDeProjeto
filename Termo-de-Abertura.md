@@ -5,6 +5,8 @@
 |15/03/2017|1.0|Criação da estrutura do documento|Rafael Rabetti|
 |15/03/2017|1.1|Introdução, riscos, cronograma e interessados|Rafael Rabetti|
 
+***
+
 ## Sumário
 1.   [Introdução](#1-introdução)
 
