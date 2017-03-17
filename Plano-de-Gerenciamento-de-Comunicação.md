@@ -4,6 +4,8 @@
 |:----:|:------:|:---------:|:-----:|
 |17/03/2017|1.0|Criação da estrutura do documento|Rafael Rabetti|
 
+***
+
 ### Ferramentas de Comunicação
 
 |**Ferramenta**|**Objetivo**|
