@@ -28,6 +28,8 @@ Sendo assim, espera-se que o leitor deste documento consiga comprender o objetiv
 ### 1.1 Propósito:
 
 ### 1.2 Escopo:
+O CPD, ou Centro de Informática da Universidade de Brasilia, é um orgão complementar da UnB que possui como intuito desenvolver as atividades de caráter permanente de apoio da pesquisa e da extensão ao desenvolvimento de ensino no que se refere ao processamento de dados, cujo os objetivos são: promover e incentivar a informática na unb, desenvolver, implantar e manter sistemas de mainframe e em microcomputadores e supervisionar, coordenar e controlar as atividades relacionadas com pesquisas referentes a hardware, software e rede de teleprocessamento. O UnbMapa se propõe a desenvolver um software de localização, via mapa, das instações do Campus Darcy Ribeiro da UnB. 
+ <!--- Colocar mais informações sobre o UnbMapa quando mais informações sobre o mesmo forem adicionadas ---->
 
 ### 1.3 Definições, acrônimos e abreviações:
 
