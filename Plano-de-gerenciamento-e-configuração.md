@@ -4,6 +4,7 @@
 |:----:|:------:|:---------:|:-----:|
 |19/03/2017| 1.0 | Criação da estrutura do documento | Eduardo Brasil |
 |19/03/2017| 1.1 | Introdução, Objetivo e Ferramentas | Eduardo Brasil |
+|19/03/2017| 1.2 | Git/Github | Eduardo Brasil |
 
 ***
 
@@ -50,8 +51,10 @@ Atividades a Serem desenvolvidas neste plano.
 |Circle CI|	Ferramenta de integração continua|
 
 
-
 #### 3.2 _Git_/_GitHub_  
+
+O git é uma ferramenta de controle de versão distribuído, possuindo forte suporte para desenvolvimento não-linear.
+O Github é um Forge para a ferramenta de controle de versão git, e também pode ser utilizada como ferramenta de gerenciamento de projetos.
 
 ##### 3.2.1 Repositórios do projeto
 
