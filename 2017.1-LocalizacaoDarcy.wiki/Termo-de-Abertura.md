@@ -4,6 +4,7 @@
 |:----:|:------:|:---------:|:-----:|
 |15/03/2017|1.0|Criação da estrutura do documento|Rafael Rabetti|
 |15/03/2017|1.1|Introdução, riscos, cronograma e interessados|Rafael Rabetti|
+|15/03/2017|1.2|Objetivo, Visão geral, Motivação|Rafael Rabetti|
 
 ***
 
@@ -26,15 +27,21 @@
 
 O presente documento visa introduzir e mostrar as características do projeto Sistema de Localização no campus Darcy Ribeiro. Consequentemente, será apresentada a visão geral do projeto, seus objetivos, quais motivações levaram ao seu desenvolvimento, os riscos envolvidos e os interessados no projeto.
 
-## 2. Visão Geral e Objetivo
+## 2. Objetivo e Visão geral
 
-## 3. Motivação
+Este documento tem como objetivo dar uma visão geral a respeito do projeto, facilitando assim o rapido entendimento a cerca do tema assim como a motivação e os riscos envolvidos neste projeto.
 
-## 4. Riscos
+O software localização darcy tem como proposta apresentar um software que auxilie as pessoas que frequentam o campus Darcy Ribeiro, ajudando os frequentadores do mesmo a se localizarem la dentro, pois devido as dimensões do campus as vezes se torna complicado a localização de prédios departamentos e salas.
+
+## 3. Motivação 
+
+A motivação surgiu por conta do tamanho do campus Darcy ribeiro, pois devido as suas proporções, as vezes se torna complicado a localização de prédios e departamentos, principalmente para pessoas que não estão familiarizadas com o campus, como alunos que acabaram de ingressar no campus ou pessoas que se encaminham ao mesmo para realização de provas de concursos publicos e pesquisadores de outras universidades, Com isso surgiu uma demanda vinda do CPD da própria universidade afim de que se pudesse auxiliar esse publico alvo.
+
+## 4. Riscos 
 
 * **Capacitação Técnica**
 
-A tecnologia Ruby on Rails é nova para a maioria dos membros da equipe e isso pode trazer alguma dificuldade na produção.
+A tecnologia Ruby on Rails é nova para a maioria dos membros da equipe e isso pode trazer alguma dificuldade na produção. 
 
 * **Recursos**
 
