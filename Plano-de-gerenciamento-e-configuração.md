@@ -3,6 +3,7 @@
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
 |19/03/2017| 1.0 | Criação da estrutura do documento | Eduardo Brasil |
+|19/03/2017| 1.1 | Introdução, Objetivo e Ferramentas | Eduardo Brasil |
 
 ***
 
@@ -21,9 +22,34 @@
 
 ### 1. Introdução
 
+Este Plano de Gerenciamento de Configuração tem como objetivo auxiliar o projeto Localização Darcy. Tal plano visa controlar as mudanças que ocorrerão durante o ciclo de vida do projeto e Almeja guiar os envolvidos no projeto para as boas práticas, manter a integridade do desenvolvimento e do projeto assim como facilitar o controle de mudanças.
+
 ### 2. Objetivo
 
+Este Plano de Gerenciamento de Configuração tem como finalidade ser a base para as decisões tomadas no projeto no que se diz respeito à gerência de configuração de software.
+
+##### Definições,Acrônimos e Abreviações 
+
+| Sigla | Descrição |
+|:----:|:------:|
+|CM|	Gerência de Configuração (Management Configuration)|
+|CI|	Integração Contínua (Continuous Integration)|
+
+Atividades a Serem desenvolvidas neste plano.
+
+ * Estabelecer politicas de CM
+ * Escrever Plano de CM
+
 ### 3. Ferramentas   
+
+| Ferramenta | Descrição |
+|:----:|:------:|
+|Git|	Controle de versão de código|
+|Github| que sera utilizado como repositório oficial do Software|
+|Sublime text| 	Editor de Texto|
+|Circle CI|	Ferramenta de integração continua|
+
+
 
 #### 3.2 _Git_/_GitHub_  
 
