@@ -3,6 +3,7 @@
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
 |17/03/2017|1.0|Criação da estrutura do documento|Rafael Rabetti|
+|19/03/2017|1.1|Introdução, Objetivo e Reuniões|Eduardo Brasil|
 
 ***
 
@@ -16,13 +17,14 @@
 
      3.1 [Ferramentas de Comunicação](#31-ferramentas-de-comunicação)
 
+
 ### 1. Introdução
 
-Este documento visa
+Definir a comunicação dentro de uma equipe é essencial, e o plano de comunicação é uma parte fundamental neste processo, pois o mesmo traça as definições, metas e objetivos a serem cumpridos ao longo do projeto, auxiliando assim a equipe a trabalhar de forma alinhada, utilizando-se dos meios necessários para manter todos os membros do projeto sempre atualizados a respeito do status do andamento do projeto, como reuniões e para solução de duvidas, por este motivo este plano se faz tão necessário para o sucesso do projeto.
 
 ### 2. Objetivo
 
-Definir a comunicação dentro de uma equipe é essencial. Uma equipe com boa comunicação é uma equipe produtiva.
+Este plano tem como objetivo estabelecer ferramentas para a comunicação entre a equipe de forma que, facilite a comunicação e a solução de problemas e duvidas referentes ao andamento do projeto. 
 
 ### 3. Comunicação
 
@@ -35,3 +37,9 @@ Definir a comunicação dentro de uma equipe é essencial. Uma equipe com boa co
 |![Slack](http://i.imgur.com/bPufcvT.png?1) <br /> <sub> Slack </sub>| Comunicação formal entre os membros da equipe. Esta ferramenta é utilizada para avisos em geral e para marcar reuniões.|
 |![Gmail](http://i.imgur.com/sNew5jX.png?2) <br /> <sub> Gmail </sub>| Comunicação formal com todos os envolvidos do projeto, inclusive cliente.|
 |![GitHub](http://i.imgur.com/Zgu1pxJ.png?1) <br /> <sub> GitHub </sub>| Produção de artefatos e resolução das issues. |
+
+#### 3.1 Agenda e Reuniões
+
+Neste plano também consta a forma como se dará as reuniões da equipe para o desenvolvimento do projeto.
+Foi definido pela equipe de gerenciamento que as reuniões ocorrerão durante os dias de terça e quinta em um horario já definido e ocasionalmente aos sabados.
+
