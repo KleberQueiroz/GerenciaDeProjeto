@@ -14,6 +14,7 @@
 
 * [Plano de Recursos Humanos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos)
 
+* [Cronograma](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Cronograma)
 
 
 ### Desenvolvimento
