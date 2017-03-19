@@ -62,7 +62,7 @@ Todos os treinamentos são divididos em duas etapas. A primeira etapa tem carát
 |**Objetivo**|Manter a equipe com o ambiente configurado evitando problemas de compatibilidade e erros de dependência.|
 |**Teoria**|Será explicado a importância da virtualização de máquinas e o uso do Virtual Box e Vagrant.|
 |**Prática**|Cada membro da equipe de desenvolvimento irá executar os mesmos passos para configurar a sua própria máquina.|
-|**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
+|**Pontuação**|Não houve competição nesse treinamento. |
 |**Tempo**|00h30m|
 |**Responsável**|Daniel Moura|
 
