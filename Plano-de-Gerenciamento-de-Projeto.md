@@ -10,8 +10,6 @@
 
 1. [Introdução](#1-introdução)
 
-Neste documento, estão contidas as informações referentes ao Plano de Gerenciamento do Projeto Localização Darcy. Apresentando o Ciclo de Vida, as Linhas de Base e os Planos de Gerenciamento
-
 2. [Ciclo de Vida do Projeto](#2-ciclo-de-vida-do-projeto)
 
 3. [Adequação do Modelo Proposto pelo PMBOK](#3-adequação-do-modelo-proposto-pelo-pmbok)
@@ -32,6 +30,8 @@ Neste documento, estão contidas as informações referentes ao Plano de Gerenci
 
 
 ### 1. Introdução
+
+Neste documento, estão contidas as informações referentes ao Plano de Gerenciamento do Projeto Localização Darcy. Apresentando o Ciclo de Vida, as Linhas de Base e os Planos de Gerenciamento
 
 ### 2. Ciclo de Vida do Projeto
 
