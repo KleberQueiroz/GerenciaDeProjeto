@@ -2,7 +2,7 @@
 
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
-|17/03/2017|1.0|Criação da estrutura do documento|Rafael Rabetti|
+|17/03/2017|1.0|Criação da estrutura do documento e ferramentas de comunicação|Rafael Rabetti|
 |19/03/2017|1.1|Introdução, Objetivo e Reuniões|Eduardo Brasil|
 
 ***
