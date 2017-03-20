@@ -5,6 +5,7 @@
 |15/03/2017|1.0|Criação da estrutura do documento|Rafael Rabetti|
 |15/03/2017|1.1|Definição inicial dos treinamentos|Rafael Rabetti|
 |16/03/2017|1.2|Refazendo treinamento de Git|Rafael Rabetti|
+|20/03/2017|1.3|Treinamento JS|Matheus Mello|
 
 ***
 
