@@ -5,6 +5,7 @@
 |19/03/2017| 1.0 | Criação da estrutura do documento | Eduardo Brasil |
 |19/03/2017| 1.1 | Introdução, Objetivo e Ferramentas | Eduardo Brasil |
 |19/03/2017| 1.2 | Git/Github | Eduardo Brasil |
+|20/03/2017| 1.3 | Circle CI | Matheus Mello |
 
 ***
 
@@ -63,5 +64,9 @@ O Github é um Forge para a ferramenta de controle de versão git, e também pod
 ##### 3.2.4 _Commits_
 
 ##### 3.2.5 Política de aprovação do código
+
+#### 3.3 _Circle CI_  
+
+Circle CI é uma ferramenta para integração contínua e deploy, para projetos hospedados no GitHub. Nele é possível, criar uma build em cada commit, passando por todos os testes unitários e de integração, e por fim realizando um deploy. Garantindo assim que a versão no servidor será sempre a última versão estável e que passou nos testes.
 
 ### 4. _Deployment_  
