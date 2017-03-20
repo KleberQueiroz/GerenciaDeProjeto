@@ -24,3 +24,9 @@
 |Sannya Santana de Arvelos	|<sannyasantana@gmail.com>| [SannyaArvelos](https://github.com/SannyaArvelos)|
 |Taynara de Jesus Carvalho	|<tayhcarvalho@gmail.com>| [tayh](https://github.com/tayh)|
 |Kairon	Velozo Brito		|  <kairon.vzb@gmail.com>  | [kairon-v](https://github.com/kairon-v) |
+
+## Coaches
+
+|              **Nome**                |            **__Email__**              |      **GitHub** |
+|:-------------------------------:|:---------------------------:|:---------------------------:| 
+|Vinicius Bandeira | <bandeiravinicius0@gmail.com>    | [viniciusbandeira](https://github.com/viniciusbandeira)|
