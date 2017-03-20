@@ -67,6 +67,6 @@ O Github é um Forge para a ferramenta de controle de versão git, e também pod
 
 #### 3.3 _Circle CI_  
 
-Circle CI é uma ferramenta para integração contínua e deploy, para projetos hospedados no GitHub. Nele é possível, criar uma build em cada commit, passando por todos os testes unitários e de integração, e por fim realizando um deploy. Garantindo assim que a versão no servidor será sempre a última versão estável e que passou nos testes.
+Circle CI é uma ferramenta de integração contínua e deploy para projetos hospedados no GitHub. Nele é possível criar uma build em cada commit, passando por todos os testes unitários e de integração. Garantindo assim que a versão no servidor será sempre a última versão estável do software.
 
 ### 4. _Deployment_  
