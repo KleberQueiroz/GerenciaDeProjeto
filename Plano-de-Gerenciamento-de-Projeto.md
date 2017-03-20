@@ -29,23 +29,23 @@
 
 
 
-### 1. Introdução
+## 1. Introdução
 
 Neste documento, estão contidas as informações referentes ao Plano de Gerenciamento do Projeto Localização Darcy. Apresentando o Ciclo de Vida, as Linhas de Base e os Planos de Gerenciamento
 
-### 2. Ciclo de Vida do Projeto
+## 2. Ciclo de Vida do Projeto
 
-### 3. Adequação do Modelo Proposto pelo PMBOK
+## 3. Adequação do Modelo Proposto pelo PMBOK
 
-### 4. Comunicação entre as Partes Interessadas
+## 4. Comunicação entre as Partes Interessadas
 
-### 5. Linha de Base do Escopo
+## 5. Linha de Base do Escopo
 
-### 6. Linha de Base do Cronograma
+## 6. Linha de Base do Cronograma
 
-### 7. Linha de Base de Custo
+## 7. Linha de Base de Custo
 
-### 8. Planos de Gerenciamento
+## 8. Planos de Gerenciamento
 
 * [Plano de Treinamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Treinamento)
 
@@ -55,4 +55,4 @@ Neste documento, estão contidas as informações referentes ao Plano de Gerenci
 
 * [Plano de Recursos Humanos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos)
 
-### 9. Referências Bibliográficas
+## 9. Referências Bibliográficas
