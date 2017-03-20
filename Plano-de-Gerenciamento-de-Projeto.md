@@ -31,7 +31,7 @@
 
 ## 1. Introdução
 
-Neste documento, estão contidas as informações referentes ao Plano de Gerenciamento do Projeto Localização Darcy. Apresentando o Ciclo de Vida, as Linhas de Base e os Planos de Gerenciamento
+Neste documento, estão contidas as informações referentes ao Plano de Gerenciamento do Projeto Localização Darcy. Apresentando o Ciclo de Vida, as Linhas de Base e os Planos de Gerenciamento.
 
 ## 2. Ciclo de Vida do Projeto
 
