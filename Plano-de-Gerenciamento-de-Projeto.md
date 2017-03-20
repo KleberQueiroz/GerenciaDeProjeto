@@ -45,4 +45,12 @@
 
 ### 8. Planos de Gerenciamento
 
+* [Plano de Treinamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Treinamento)
+
+* [Plano de Gerenciamento de Comunicação](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Comunica%C3%A7%C3%A3o)
+
+* [Plano de Gerenciamento e Configuração](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-gerenciamento-e-configura%C3%A7%C3%A3o)
+
+* [Plano de Recursos Humanos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos)
+
 ### 9. Referências Bibliográficas
