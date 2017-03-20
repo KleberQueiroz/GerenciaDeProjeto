@@ -6,6 +6,8 @@
 
 * [Termo de Abertura](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Termo-de-Abertura)
 
+* [Plano de Gerenciamento de Projeto](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Gerenciamento-de-Projeto)
+
 * [Plano de Treinamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Treinamento)
 
 * [Plano de Gerenciamento de Comunicação](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Comunica%C3%A7%C3%A3o)
