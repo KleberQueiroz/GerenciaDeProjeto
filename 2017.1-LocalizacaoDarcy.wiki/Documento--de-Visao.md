@@ -30,7 +30,9 @@
 [4. Visão Geral do Produto](#4-visão-geral-do-produto)  
 &nbsp;&nbsp;[4.3. Suposições de Dependências](#43-suposições-e-dependências)  
 [5. Recursos do Produto](#5-recursos-do-produto)  
-[06) Restrições](#06-restrições)  
+[6. Restrições](#6-restrições)  
+&nbsp;&nbsp;[6.1. Restrições Externas](#61-restrições-externas)  
+&nbsp;&nbsp;[6.2. Restrições de Implementação](#61-restrições-de-implementação)  
 [07) Faixas de Qualidade](#07-faixas-de-qualidade)  
 [08) Precedência e Prioridade](#08-precência-e-prioridade)
 
@@ -197,8 +199,17 @@ Além de oferecer uma forma mais intuitiva para localização dos edifícios, o 
 | Pesquisa de Salas de Aulas e Laboratórios | Permite que o usuário localizar salas e/ou laboratórios onde uma determinada aula é ministrada de acordo com a disciplina e turma.                |
 | Pesquisa de Sala de Professores           | Permite que o usuário localize a sala de um professor através do seu nome.                                                                        |
 | Painel Administrativo                     | Possibilita o cliente, alterar e incluir informações que serão disponibilizadas publicamente.                                                     |
-## 06) Restrições
+## 6. Restrições
 
+### 6.1. Restrições Externas
+
+Os usuários deverão possuir acesso a internet para usufruir do UnBMapa, isso acontece porque as informações são exibidas ao usuário por demanda, não havendo, portanto, o armazenamento local dos dados exibidas, de modo que permitisse o funcionamento offline do UnBMapa.
+
+O Campus Darcy Ribeiro possui vários eventos que, por vezes, modificam o seu funcionamento. Dessa forma, as informações fornecidas através do UnBMapa podem ficar temporariamente desatualizadas.
+
+### 6.2. Restrições de Implementação
+
+A experiência da equipe com o uso das tecnologias utilizadas para a implementação do UnBMapa e o tamanho da equipe são restrições. Tais restrições podem reduzir o escopo do projeto para que o mesmo seja entregue.
 
 
 ## 07) Faixas de Qualidade
