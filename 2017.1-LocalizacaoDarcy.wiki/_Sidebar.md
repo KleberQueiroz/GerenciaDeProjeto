@@ -1,6 +1,7 @@
 # [Sistema de localização no campus Darcy Ribeiro](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki)
-
+***
 ## Release 1
+***
 
 ### Plano de Gerência
 
@@ -23,4 +24,6 @@
 
 * [Documento de Visão](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento--de-Visao)
 
+***
 ## Release 2
+***
