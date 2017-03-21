@@ -25,7 +25,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[3.4.1. Equipe de Gestão de Projeto](#341-equipe-de-gestão-de-projeto)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3.4.2. Equipe de Desenvolvedores](#342-equipe-de-desenvolvedores)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3.4.3. Diretoria do CPD UnB](#343-diretoria-do-cpd-unb)  
-
+&nbsp;&nbsp;[3.5. Perfis do Usuário](#35-perfis-do-usuário)  
   
 [04) Visão Geral do Produto](#04-visão-geral-do-produto)  
 [05) Recursos do Produto](#05-recursos-do-produto)  
@@ -136,6 +136,15 @@ O ambiente em que o usuário utilizará o sistema deverá ser um navegador com a
 | Comentários/Problemas | Conseguir fornecer um grande número de dados para a conclusão do projeto.                                    |
 
 ### 3.5 Perfis do Usuário
+
+| Representantes        | Novos alunos, palestrantes, candidatos, visitantes.                                                                       |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Descrição             | Pessoas que vão ao Campus Darcy Ribeiro e nunca tiveram contato com o próprio.                                            |
+| Tipo                  | Usuário Informal.                                                                                                         |
+| Responsabilidades     | Acessar a aplicação e usá-la para localizar lugares.                                                                      |
+| Critérios de Sucesso  | Encontrar o local desejado com facilidade.                                                                                |
+| Envolvimento          | Baixo.                                                                                                                    |
+| Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
 
 ### 3.6 Principais Necessidades da Parte Interessada ou do Usuário 
 
