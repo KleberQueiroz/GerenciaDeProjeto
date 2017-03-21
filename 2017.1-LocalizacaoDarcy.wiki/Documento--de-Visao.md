@@ -8,7 +8,7 @@
 
 ## Sumário
 
-[01) Introdução](#01-introdução)  
+[1. Introdução](#1-introdução)  
 [02) Posicionamento](#02-posicionamento)  
 [03) Envolvidos e Usuários](#03-descrição-dos-envolvidos-e-dos-usuários)  
 [04) Visão Geral do Produto](#04-visão-geral-do-produto)  
@@ -19,24 +19,28 @@
 
 ------
 
-## 01) Introdução
+## 1. Introdução
+Este documento tem o objetivo de apresentar uma visão completa sobre o software de mapeamento das instalações e de localização do Campus Darcy Ribeiro da Universidade de Brasília (UnB).
 
-Este documento tem por objetivo estipular uma visão geral sobre o que será o software para localização, via mapa, das instalações do Campus Darcy Ribeiro da Universidade de Brasília (UnB).
+Espera-se que o leitor deste documento consiga compreender a finalidade global da aplicação UnbMapa. 
 
-Sendo assim, espera-se que o leitor deste documento consiga comprender o objetivo global do software, além de tomar conhecimento das partes envolvidas, tais como a equipe gerenciamento, a equipe de desenvolvimento e stakeholders). 
+### 1.1. Propósito
 
-### 1.1 Propósito:
+O Software tem como propósito facilitar a locomoção entre as instalações do Campus Darcy Ribeiro da UnB, bem como a fácil localização de salas e outras dependências.
 
-### 1.2 Escopo:
-O CPD, ou Centro de Informática da Universidade de Brasilia, é um orgão complementar da UnB que possui como intuito desenvolver as atividades de caráter permanente de apoio da pesquisa e da extensão ao desenvolvimento de ensino no que se refere ao processamento de dados, cujo os objetivos são: promover e incentivar a informática na unb, desenvolver, implantar e manter sistemas de mainframe e em microcomputadores e supervisionar, coordenar e controlar as atividades relacionadas com pesquisas referentes a hardware, software e rede de teleprocessamento. O UnbMapa se propõe a desenvolver um software de localização, via mapa, das instações do Campus Darcy Ribeiro da UnB. 
- <!--- Colocar mais informações sobre o UnbMapa quando mais informações sobre o mesmo forem adicionadas ---->
- 
-### 1.3 Definições, acrônimos e abreviações:
+### 1.2. Escopo
 
-### 1.4 Referências: 
+O Centro de Informática da Universidade de Brasília (CPD), é um órgão complementar da UnB que possui como intuito desenvolver as atividades de caráter permanente de apoio da pesquisa e da extensão ao desenvolvimento de ensino no que se refere ao processamento de dados, cujo os objetivos são: promover e incentivar a informática na UnB, desenvolver, implantar e manter sistemas de mainframe e em microcomputadores e supervisionar, coordenar e controlar as atividades relacionadas com pesquisas referentes a hardware, software e rede de teleprocessamento.
 
-### 1.5 Visão geral: 
+O UnbMapa tem a finalidade de desenvolver o software de localização, via mapa, de algumas das instalações do Campus Darcy Ribeiro da UnB bem como de alguns de seus estabelecimentos.
 
+### 1.3. Definições, acrônimos e abreviações
+
+### 1.4. Referências 
+
+UNIVERSIDADE DE BRASÍLIA. Institucional. Disponível em: <[http://www.unb.br/a-unb?menu=423](http://www.unb.br/a-unb?menu=423)>. Acesso em 20 março de 2017.
+
+CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disponível em: <[http://www.cpd.unb.br/sobre-o-cpd](http://www.cpd.unb.br/sobre-o-cpd)>. Acesso em 20 março de 2017.
 
 ## 02) Posicionamento
 
