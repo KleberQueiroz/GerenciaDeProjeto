@@ -98,6 +98,8 @@ O Campus Darcy Ribeiro é o mais antigo da Universidade de Brasília. Com o seu 
 
 ### 3.3. Ambiente do Usuário
 
+O ambiente em que o usuário utilizará o sistema deverá ser um navegador com acesso à internet. Este navegador pode estar presente tanto em um computador desktop quanto um dispositivo móvel.
+
 ### 3.4. Perfis das Partes Interessadas
 
 #### 3.4.1. Equipe de Gestão de Projeto
