@@ -9,7 +9,11 @@
 ## Sumário
 
 [1. Introdução](#1-introdução)  
-[02) Posicionamento](#02-posicionamento)  
+&nbsp;&nbsp;[1.1. Propósito](#11-propósito)  
+&nbsp;&nbsp;[1.2. Escopo](#12-escopo)  
+&nbsp;&nbsp;[1.3. Definições, acrônimos e abreviações](#13-definições-acrônimos-e-abreviações)  
+&nbsp;&nbsp;[1.4. Referências](#14-referências)  
+[2. Posicionamento](#2-posicionamento)  
 [03) Envolvidos e Usuários](#03-descrição-dos-envolvidos-e-dos-usuários)  
 [04) Visão Geral do Produto](#04-visão-geral-do-produto)  
 [05) Recursos do Produto](#05-recursos-do-produto)  
@@ -36,13 +40,15 @@ O UnbMapa tem a finalidade de desenvolver o software de localização, via mapa,
 
 ### 1.3. Definições, acrônimos e abreviações
 
+
+
 ### 1.4. Referências 
 
 UNIVERSIDADE DE BRASÍLIA. Institucional. Disponível em: <[http://www.unb.br/a-unb?menu=423](http://www.unb.br/a-unb?menu=423)>. Acesso em 20 março de 2017.
 
 CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disponível em: <[http://www.cpd.unb.br/sobre-o-cpd](http://www.cpd.unb.br/sobre-o-cpd)>. Acesso em 20 março de 2017.
 
-## 02) Posicionamento
+## 2. Posicionamento
 
 ### 2.1 Oportunidade de Negócios:
 
