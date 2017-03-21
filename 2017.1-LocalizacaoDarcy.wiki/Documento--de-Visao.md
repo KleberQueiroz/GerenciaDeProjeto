@@ -29,7 +29,7 @@
 &nbsp;&nbsp;[3.6 Principais Necessidades da Parte Interessada ou do Usuário](#36-principais-necessidades-da-parte-interessada-ou-do-usuário)  
 [4. Visão Geral do Produto](#4-visão-geral-do-produto)  
 &nbsp;&nbsp;[4.3. Suposições de Dependências](#43-suposições-e-dependências)  
-[05) Recursos do Produto](#05-recursos-do-produto)  
+[5. Recursos do Produto](#5-recursos-do-produto)  
 [06) Restrições](#06-restrições)  
 [07) Faixas de Qualidade](#07-faixas-de-qualidade)  
 [08) Precedência e Prioridade](#08-precência-e-prioridade)
@@ -187,14 +187,16 @@ Além de oferecer uma forma mais intuitiva para localização dos edifícios, o 
 ### 4.5 Licenciamento e Instalação: 
 
 
-## 05) Recursos do Produto
+## 5. Recursos do Produto
 
-(citar recursos)
-
-### Recurso 1:
-### Recuros 2:
-
-
+| Recurso                                   | Descrição                                                                                                                                         |
+|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Interface Responsiva                      | A interface do usuário é adaptável aos diversos tamanhos e resoluções de tela, podendo ser utilizado em Desktops, Laptops, Tablets e Smartphones. |
+| Pesquisa de Departamentos                 | Possibilita o usuário encontrar a localização de um departamento através do nome ou sigla.                                                        |
+| Trajeto entre edifícios                   | Permite que o usuário consulte o trajeto entre edifícios do campus.                                                                               |
+| Pesquisa de Salas de Aulas e Laboratórios | Permite que o usuário localizar salas e/ou laboratórios onde uma determinada aula é ministrada de acordo com a disciplina e turma.                |
+| Pesquisa de Sala de Professores           | Permite que o usuário localize a sala de um professor através do seu nome.                                                                        |
+| Painel Administrativo                     | Possibilita o cliente, alterar e incluir informações que serão disponibilizadas publicamente.                                                     |
 ## 06) Restrições
 
 
