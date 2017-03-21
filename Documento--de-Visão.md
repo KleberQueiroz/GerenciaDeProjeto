@@ -98,6 +98,13 @@ O Campus Darcy Ribeiro é o mais antigo da Universidade de Brasília. Com o seu 
 
 ### 2.3. Instrução de Posição do Produto  
 
+| Para          | Estudantes, servidores e visitantes da universidade                                                                    |
+|---------------|------------------------------------------------------------------------------------------------------------------------|
+| Que           | desejam facilitar sua locomoção entre instalações do Campus Darcy Ribeiro                                              |
+| O             | UnBMapa                                                                                                                |
+| Que           | é uma plataforma web                                                                                                   |
+| Diferente de  | Google Maps e mapas avulsos                                                                                            |
+| Nosso produto | Possibilita a localização de edifícios, departamentos, salas e laboratórios do Campus Darcy Ribeiro pertencente a UnB. |
 
 ## 3. Envolvidos e Usuários
 
