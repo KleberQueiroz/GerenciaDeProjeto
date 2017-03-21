@@ -33,8 +33,10 @@
 [6. Restrições](#6-restrições)  
 &nbsp;&nbsp;[6.1. Restrições Externas](#61-restrições-externas)  
 &nbsp;&nbsp;[6.2. Restrições de Implementação](#61-restrições-de-implementação)  
-[07) Faixas de Qualidade](#07-faixas-de-qualidade)  
-[08) Precedência e Prioridade](#08-precência-e-prioridade)
+[7. Faixas de Qualidade](#7-faixas-de-qualidade)  
+&nbsp;&nbsp;[7.1. Requisitos do Sistema](#71-requisitos-do-sistema)  
+&nbsp;&nbsp;[7.2. Requisitos de Desempenho](#72-requisitos-de-desempenho)  
+&nbsp;&nbsp;[7.3. Requisitos Ambientais](#73-requisitos-ambientais)  
 
 ------
 
@@ -212,20 +214,16 @@ O Campus Darcy Ribeiro possui vários eventos que, por vezes, modificam o seu fu
 A experiência da equipe com o uso das tecnologias utilizadas para a implementação do UnBMapa e o tamanho da equipe são restrições. Tais restrições podem reduzir o escopo do projeto para que o mesmo seja entregue.
 
 
-## 07) Faixas de Qualidade
+## 7. Faixas de Qualidade
 
+### 7.1. Requisitos do Sistema
 
+O serviço deverá funcionar ao menos nos seguintes navegadores: Firefox, Chrome, Chromium, Safari ou Opera ou Internet Explorer.
 
-## 08) Precedência e Prioridade
+### 7.2. Requisitos de Desempenho
 
+A aplicação deve responder de forma mais otimizada possível já que terá foco sobre a localização atual do usuário e seu caminho até uma outra localidade.
 
+### 7.3. Requisitos Ambientais
 
-## 09) Outros Requisitos do Produto
-
-### 9.1 Padrões Aplicáveis:
-
-### 9.2 Requisitos do Sistema:
-
-### 9.3 Requisitos de Desempenho:
-
-### 9.4 Requisitos Ambientais:
+A aplicação será dependente de conexão à internet pois todos os seus dados serão processados no servidor para somente após serem passados aos usuários.
