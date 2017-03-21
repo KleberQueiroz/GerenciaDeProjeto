@@ -55,9 +55,9 @@
 ------
 
 ## 1. Introdução
-Este documento tem o objetivo de apresentar uma visão completa sobre o software de mapeamento das instalações e de localização do Campus Darcy Ribeiro da Universidade de Brasília (UnB).
+Este documento tem o objetivo de apresentar uma visão completa sobre o software de mapeamento das instalações e de localização no Campus Darcy Ribeiro da Universidade de Brasília (UnB).
 
-Espera-se que o leitor deste documento consiga compreender a finalidade global da aplicação UnbMapa. 
+Espera-se que o leitor deste documento consiga compreender a finalidade global da aplicação UnBMapa. 
 
 ### 1.1. Propósito
 
@@ -65,7 +65,7 @@ O Software tem como propósito facilitar a locomoção entre as instalações do
 
 ### 1.2. Escopo
 
-O Centro de Informática da Universidade de Brasília (CPD), é um órgão complementar da UnB que possui como intuito desenvolver as atividades de caráter permanente de apoio da pesquisa e da extensão ao desenvolvimento de ensino no que se refere ao processamento de dados, cujo os objetivos são promover e incentivar a informática na UnB, desenvolver, implantar e manter sistemas de mainframe e em microcomputadores e supervisionar, coordenar e controlar as atividades relacionadas com pesquisas referentes a hardware, software e rede de teleprocessamento.
+O Centro de Processamento de Dados da Universidade de Brasília (CPD - UnB), é um órgão complementar da UnB que possui como intuito desenvolver as atividades de caráter permanente de apoio da pesquisa e da extensão ao desenvolvimento de ensino no que se refere ao processamento de dados, cujo os objetivos são promover e incentivar a informática na UnB, desenvolver, implantar e manter sistemas de mainframe e em microcomputadores e supervisionar, coordenar e controlar as atividades relacionadas com pesquisas referentes a hardware, software e rede de teleprocessamento.
 
 O UnbMapa tem a finalidade de desenvolver o software de localização, via mapa, de algumas das instalações do Campus Darcy Ribeiro da UnB bem como de alguns de seus estabelecimentos.
 
