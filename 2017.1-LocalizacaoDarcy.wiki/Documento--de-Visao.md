@@ -27,7 +27,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[3.4.3. Diretoria do CPD UnB](#343-diretoria-do-cpd-unb)  
 &nbsp;&nbsp;[3.5. Perfis do Usuário](#35-perfis-do-usuário)  
 &nbsp;&nbsp;[3.6 Principais Necessidades da Parte Interessada ou do Usuário](#36-principais-necessidades-da-parte-interessada-ou-do-usuário)  
-[04) Visão Geral do Produto](#04-visão-geral-do-produto)  
+[4. Visão Geral do Produto](#4-visão-geral-do-produto)  
 [05) Recursos do Produto](#05-recursos-do-produto)  
 [06) Restrições](#06-restrições)  
 [07) Faixas de Qualidade](#07-faixas-de-qualidade)  
@@ -160,7 +160,9 @@ O ambiente em que o usuário utilizará o sistema deverá ser um navegador com a
 | Trajetos entre edifícios             | Alta       | Transição entre edifícios.               | Google Maps   | Apresentação de rotas mais utilizadas                                |
 
 
-## 04) Visão Geral do Produto
+## 4. Visão Geral do Produto
+
+O sistema se propõe a oferecer uma forma alternativa para a localização entre o usuário e os prédios da UnB do Campus Darcy Ribeiro, além de fornecer uma maneira mais interativa para que os usuários possam mais intuitivamente achar os edifícios que procuram. Isto é feito utilizando-se uma interface baseada API do Google Maps, com ênfase nas mediações da UnB.  
 
 ### 4.1 Perspectiva do Produto:
 
