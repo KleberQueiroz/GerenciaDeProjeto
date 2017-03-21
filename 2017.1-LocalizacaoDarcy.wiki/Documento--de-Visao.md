@@ -89,6 +89,13 @@ O Campus Darcy Ribeiro é o mais antigo da Universidade de Brasília. Com o seu 
 
 ### 3.2. Resumo do Usuário  
 
+| Nome         | Descrição                                                                                                                                                                 |
+|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Novos alunos | Novos aprovados na UnB que nunca tiveram contato com o Campus Darcy Ribeiro.                                                                                              |
+| Palestrantes | Pessoas de fora do Campus Darcy Ribeiro convidadas a ministrar algum tipo de palestra dentro do próprio e que não possuem conhecimento sobre suas localidades.            |
+| Candidatos   | O Campus Darcy Ribeiro constantemente é local de provas de concursos, vestibulares e afins. Alguns destes também não possuem conhecimento sobre as localidades do campus. |
+| Visitantes   | Pessoas que desejam conhecer as instalações do Campus Darcy Ribeiro e nunca estiveram em suas instalações.                                                                |
+
 ### 3.3. Ambiente do Usuário
 
 ### 3.4. Perfis das Partes Interessadas
