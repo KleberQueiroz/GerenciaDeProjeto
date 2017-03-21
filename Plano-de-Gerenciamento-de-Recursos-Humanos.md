@@ -4,12 +4,20 @@
 | Data  | Versão | Descrição                          | Responsável     |
 |-------|--------|------------------------------------|-----------------|
 | 19/03/2017 | 1.0    | Concepção e finalização do documento      | Eduardo Brasil |
+| 21/03/2017 | 1.1    | Adições em treinamento e Revisão do documento  | Eduardo Gomes |
 
 ***
 
 ## 1. Introdução
 
-O plano de Gerenciamento de recursos humanos tem como finalidade orientar a equipe e como a mesma será composta e seus papéis, atribuições e responsábilidades no projeto para que o mesmo obtenha sucesso.
+### 1.1 Propósito
+O plano de Gerenciamento de recursos humanos tem como finalidade orientar a equipe. Em uma organização, é de suma importância definir que os seus membros são seu principal recurso.
+
+### 1.2 Escopo
+O plano de gerenciamento de recursos humanos está relacionado apenas aos membros do projeto de localização do Darcy. Neste documento está apresentado os papéis, responsabilidades e atribuições dos integrantes do grupo para que o mesmo obtenha sucesso.
+
+### 1.3 Visão Geral
+O plano em questão está dividido em nas sessões relacionadas a quem participa do projeto, quais são suas responsabilidades, recursos e controle da equipe.
 
 ## 2. Origem de recursos humanos
 
@@ -49,7 +57,9 @@ Caso ocorra a desistência de algum dos integrantes da equipe, deverá ser segui
 ## 6. Treinamento
 
 A equipe de GPP irá promover treinamentos, a fim de nivelar o conhecimento e diminuir o risco de falhas no projeto.
-
+Portanto foram estabelecidos os seguintes dojôs:
+* GitHub (Política de Branches, clone, init, commit, push, remote, checkout com Desafios)
+* 
 ## 7. Controle e Acompanhamento da equipe
 
 O controle e acompanhamento da equipe é realizado através de um cronograma, também existe uma planilha de horas cujo as atividades realizadas são descritas.
