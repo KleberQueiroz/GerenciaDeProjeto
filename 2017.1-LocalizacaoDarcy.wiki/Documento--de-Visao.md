@@ -71,22 +71,25 @@ O Campus Darcy Ribeiro é o mais antigo da Universidade de Brasília. Com o seu 
 ### 2.3 Instrução de Posição do Produto  
 
 
-## 03) Envolvidos e Usuários
+## 3. Envolvidos e Usuários
 
-### 3.1 Demográficos de Mercado: 
+### 3.1. Resumo dos Envolvidos 
 
-### 3.2 Resumo da Parte Interessada: 
+### 3.2. Resumo do Usuário  
 
-### 3.3 Resumo do Usuário: 
+### 3.3. Ambiente do Usuário
 
-### 3.4 Ambiente do Usuário: 
+### 3.4. Perfis das Partes Interessadas
 
-### 3.5 Perfis das Partes Interessadas: 
+#### 3.4.1. Equipe de Gestão de Projeto
 
-### 3.6 Perfis do Usuário:
+#### 3.4.2. Equipe de Desenvolvedores
 
-### 3.7 Principais Necessidades da Parte Interessada ou do Usuário: 
+#### 3.4.3. Diretoria do CPD UnB
 
+### 3.5 Perfis do Usuário
+
+### 3.6 Principais Necessidades da Parte Interessada ou do Usuário 
 
 |     Necessidade     |     Prioridade     |     Interesses     |     Solução atual     |     Solução proposta     |
 |:-------------------:|:------------------:|:------------------:|:---------------------:|:------------------------:|
