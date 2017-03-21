@@ -71,7 +71,10 @@ O UnbMapa tem a finalidade de desenvolver o software de localização, via mapa,
 
 ### 1.3. Definições, acrônimos e abreviações
 
-
+| Abreviação | Definição                                                     |
+|------------|---------------------------------------------------------------|
+| UnB        | Universidade de Brasília                                      |
+| CPD - UnB  | Centro de Processamento de Dados da Universidade de Brasília. |
 
 ### 1.4. Referências 
 
