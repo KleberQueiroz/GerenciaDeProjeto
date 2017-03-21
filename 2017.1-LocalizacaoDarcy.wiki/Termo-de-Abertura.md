@@ -29,9 +29,7 @@ O presente documento visa introduzir e mostrar as características do projeto Si
 
 ## 2. Objetivo e Visão geral
 
-Este documento tem como objetivo dar uma visão geral a respeito do projeto, facilitando assim o rapido entendimento a cerca do tema assim como a motivação e os riscos envolvidos neste projeto.
-
-O software localização darcy tem como proposta apresentar um software que auxilie as pessoas que frequentam o campus Darcy Ribeiro, ajudando os frequentadores do mesmo a se localizarem la dentro, pois devido as dimensões do campus as vezes se torna complicado a localização de prédios departamentos e salas.
+Este projeto tem como proposta apresentar um software que auxilie as pessoas que frequentam o campus Darcy Ribeiro, ajudando os frequentadores do mesmo a se localizarem la dentro, pois devido as dimensões do campus as vezes se torna complicado a localização de prédios departamentos e salas.
 
 ## 3. Motivação 
 
