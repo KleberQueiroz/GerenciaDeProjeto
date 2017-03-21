@@ -26,8 +26,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[3.4.2. Equipe de Desenvolvedores](#342-equipe-de-desenvolvedores)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3.4.3. Diretoria do CPD UnB](#343-diretoria-do-cpd-unb)  
 &nbsp;&nbsp;[3.5. Perfis do Usuário](#35-perfis-do-usuário)  
-&nbsp;&nbsp;[3.6 Principais Necessidades da Parte Interessada ou do Usuário](#36-principais-necessidades-da-parte-interessada-ou-do-usuário)  
+&nbsp;&nbsp;[3.6. Principais Necessidades da Parte Interessada ou do Usuário](#36-principais-necessidades-da-parte-interessada-ou-do-usuário)  
 [4. Visão Geral do Produto](#4-visão-geral-do-produto)  
+&nbsp;&nbsp;[4.1. Perspectiva do Produto](#41-perspectiva-do-produto)  
+&nbsp;&nbsp;[4.2. Resumo das Capacidades](#42-resumo-das-capacidades)  
 &nbsp;&nbsp;[4.3. Suposições de Dependências](#43-suposições-e-dependências)  
 [5. Recursos do Produto](#5-recursos-do-produto)  
 [6. Restrições](#6-restrições)  
@@ -51,7 +53,7 @@ O Software tem como propósito facilitar a locomoção entre as instalações do
 
 ### 1.2. Escopo
 
-O Centro de Informática da Universidade de Brasília (CPD), é um órgão complementar da UnB que possui como intuito desenvolver as atividades de caráter permanente de apoio da pesquisa e da extensão ao desenvolvimento de ensino no que se refere ao processamento de dados, cujo os objetivos são: promover e incentivar a informática na UnB, desenvolver, implantar e manter sistemas de mainframe e em microcomputadores e supervisionar, coordenar e controlar as atividades relacionadas com pesquisas referentes a hardware, software e rede de teleprocessamento.
+O Centro de Informática da Universidade de Brasília (CPD), é um órgão complementar da UnB que possui como intuito desenvolver as atividades de caráter permanente de apoio da pesquisa e da extensão ao desenvolvimento de ensino no que se refere ao processamento de dados, cujo os objetivos são promover e incentivar a informática na UnB, desenvolver, implantar e manter sistemas de mainframe e em microcomputadores e supervisionar, coordenar e controlar as atividades relacionadas com pesquisas referentes a hardware, software e rede de teleprocessamento.
 
 O UnbMapa tem a finalidade de desenvolver o software de localização, via mapa, de algumas das instalações do Campus Darcy Ribeiro da UnB bem como de alguns de seus estabelecimentos.
 
@@ -173,23 +175,22 @@ O sistema se propõe a oferecer uma forma alternativa para a localização entre
 
 Além de oferecer uma forma mais intuitiva para localização dos edifícios, o sistema também disponibiliza apenas as rotas viáveis para locomoção com base em dados fornecidos pelos usuários conformes eles usam o sistema e conta com o display de estabelecimentos perto do usuário.
 
-### 4.2 Resumo das Capacidades: 
+### 4.2 Resumo das Capacidades 
 
-
-|          Beneficios para o Cliente          |          Recursos de Suporte          |
-|:-------------------------------------------:|:-------------------------------------:|
-
+| Benefício para o Cliente                   | Recursos do Suporte                                                                                |
+|--------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Informar a localização do usuário          | Permite o usuário saber de sua localização atual onde esteja dentro do campus.                     |
+| Traçar rotas de locomoção dentro do campus | Permite que o usuário tenha uma rota para chegar até o seu destino.                                |
+| Pesquisa por departamento, sala, edifício  | Área de acesso à informações sobre os locais.                                                      |
+| Calcular trajeto                           | Permite que o usuário tenha uma estimativa de tempo até o destino desejado                         |
+| Mostrar informações do edifício            | Área para o acesso à informações do edifício.                                                      |
+| Disponibilizar matérias por edifício       | Usuários poderão visualizar as matérias ministradas nas salas de acordo com dia, hora e professor. |
 
 ### 4.3. Suposições e Dependências
 
 | Suposição                                                   | Recurso Afetado                                                                                            |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | O usuário terá conexão de internet durante o uso do sistema | Toda a aplicação é afetada pois o usuário necessidade de conexão com de internet durante o uso do serviço. |
-
-### 4.4 Custo e Precificação: 
-
-### 4.5 Licenciamento e Instalação: 
-
 
 ## 5. Recursos do Produto
 
@@ -218,7 +219,7 @@ A experiência da equipe com o uso das tecnologias utilizadas para a implementa�
 
 ### 7.1. Requisitos do Sistema
 
-O serviço deverá funcionar ao menos nos seguintes navegadores: Firefox, Chrome, Chromium, Safari ou Opera ou Internet Explorer.
+O serviço deverá funcionar ao menos nos seguintes navegadores: Firefox, Chrome, Chromium, Edge, Safari, Opera e Internet Explorer.
 
 ### 7.2. Requisitos de Desempenho
 
