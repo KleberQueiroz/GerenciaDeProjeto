@@ -68,6 +68,12 @@ O Campus Darcy Ribeiro é o mais antigo da Universidade de Brasília. Com o seu 
 
 ### 2.2 Instrução do Problema 
 
+| O problema seria      | A dificuldade das pessoas de se localizarem pelos edifícios e salas no campus Darcy Ribeiro,      |
+|-----------------------|---------------------------------------------------------------------------------------------------|
+| afeta                 | estudantes, servidores e visitantes da universidade,                                              |
+| cujo impacto é        | a demora para encontrar e chegar à determinado lugar na universidade,                             |
+| uma boa solução seria | uma plataforma web que fornece as informações de localização de salas e prédios dentro do campus. |
+
 ### 2.3 Instrução de Posição do Produto  
 
 
