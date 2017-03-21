@@ -114,6 +114,15 @@ O ambiente em que o usuário utilizará o sistema deverá ser um navegador com a
 | Comentários/Problemas | Mesmo sendo uma equipe de alunos conseguir gerir uma equipe de outros alunos com objetivo de entregar um produto à um cliente real.                                                                                                                |
 
 #### 3.4.2. Equipe de Desenvolvedores
+| Representantes        | Jordan de Oliveira Miranda, Kairon Velozo, Lucas Soares Souza, Mateus Vieira da Silva Roriz, Sannya Santana de Arvelos, Stéfane Bogéa de Souza e Taynara de Jesus Carvalho. |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Descrição             | Desenvolvedores do projeto.                                                                                                                                                 |
+| Tipo                  | Grupo de discentes da Universidade de Brasília que estão matriculados na matéria Métodos de Desenvolvimento de Software.                                                    |
+| Responsabilidades     | Desenvolver, testar, implementar a aplicação neste documento apresentada.                                                                                                   |
+| Critérios de Sucesso  | Fornecerem o software de acordo com o que foi estipulado pelo cliente e pela equipe da Gestão de Projeto.                                                                   |
+| Envolvimento          | Alto.                                                                                                                                                                       |
+| Comentários/Problemas | Trabalhar com ferramentas nunca, ou pouco, utilizadas pela a equipe para a implementação do projeto.                                                                        |
+
 
 #### 3.4.3. Diretoria do CPD UnB
 
