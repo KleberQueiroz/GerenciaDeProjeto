@@ -26,7 +26,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[3.4.2. Equipe de Desenvolvedores](#342-equipe-de-desenvolvedores)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3.4.3. Diretoria do CPD UnB](#343-diretoria-do-cpd-unb)  
 &nbsp;&nbsp;[3.5. Perfis do Usuário](#35-perfis-do-usuário)  
-  
+&nbsp;&nbsp;[3.6 Principais Necessidades da Parte Interessada ou do Usuário](#36-principais-necessidades-da-parte-interessada-ou-do-usuário)  
 [04) Visão Geral do Produto](#04-visão-geral-do-produto)  
 [05) Recursos do Produto](#05-recursos-do-produto)  
 [06) Restrições](#06-restrições)  
@@ -148,8 +148,16 @@ O ambiente em que o usuário utilizará o sistema deverá ser um navegador com a
 
 ### 3.6 Principais Necessidades da Parte Interessada ou do Usuário 
 
-|     Necessidade     |     Prioridade     |     Interesses     |     Solução atual     |     Solução proposta     |
-|:-------------------:|:------------------:|:------------------:|:---------------------:|:------------------------:|
+| Necessidade                          | Prioridade | Interesses                               | Solução Atual | Solução Proposta                                                     |
+|--------------------------------------|------------|------------------------------------------|---------------|----------------------------------------------------------------------|
+| Localização de Prédios               | Alta       | Se localizar entre os prédios do campus. | Google Maps   | Manter                                                               |
+| Localização de Departamentos         | Alta       | Acesso aos departamentos                 | Google Maps   | Manter                                                               |
+| Localização de Salas de Aula         | Alta       | Acesso às salas de aula                  | Não possui    | Mapeamento das áreas de maior circulação                             |
+| Localização de Salas de Professores  | Alta       | Acesso às salas de professores           | Não possui    | Mapeamento das salas mais procuradas                                 |
+| Localização de Laboratórios          | Alta       | Acesso aos laboratórios                  | Não possui    | Mapeamento dos laboratórios mais utilizados                          |
+| Localização de locais de alimentação | Média      | Acesso aos locais de alimentação         | Google Maps   | Mapeamento de locais de alimentação como restaurantes e lanchonetes. |
+| Localização de centros acadêmicos    | Baixa      | Acesso aos centros acadêmicos            | Não possui    | Mapeamento dos centros acadêmicos                                    |
+| Trajetos entre edifícios             | Alta       | Transição entre edifícios.               | Google Maps   | Apresentação de rotas mais utilizadas                                |
 
 
 ## 04) Visão Geral do Produto
