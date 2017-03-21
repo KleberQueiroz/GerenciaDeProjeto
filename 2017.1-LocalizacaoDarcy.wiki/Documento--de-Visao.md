@@ -28,6 +28,7 @@
 &nbsp;&nbsp;[3.5. Perfis do Usuário](#35-perfis-do-usuário)  
 &nbsp;&nbsp;[3.6 Principais Necessidades da Parte Interessada ou do Usuário](#36-principais-necessidades-da-parte-interessada-ou-do-usuário)  
 [4. Visão Geral do Produto](#4-visão-geral-do-produto)  
+&nbsp;&nbsp;[4.3. Suposições de Dependências](#43-suposições-e-dependências)  
 [05) Recursos do Produto](#05-recursos-do-produto)  
 [06) Restrições](#06-restrições)  
 [07) Faixas de Qualidade](#07-faixas-de-qualidade)  
@@ -164,7 +165,9 @@ O ambiente em que o usuário utilizará o sistema deverá ser um navegador com a
 
 O sistema se propõe a oferecer uma forma alternativa para a localização entre o usuário e os prédios da UnB do Campus Darcy Ribeiro, além de fornecer uma maneira mais interativa para que os usuários possam mais intuitivamente achar os edifícios que procuram. Isto é feito utilizando-se uma interface baseada API do Google Maps, com ênfase nas mediações da UnB.  
 
-### 4.1 Perspectiva do Produto:
+### 4.1. Perspectiva do Produto
+
+Além de oferecer uma forma mais intuitiva para localização dos edifícios, o sistema também disponibiliza apenas as rotas viáveis para locomoção com base em dados fornecidos pelos usuários conformes eles usam o sistema e conta com o display de estabelecimentos perto do usuário.
 
 ### 4.2 Resumo das Capacidades: 
 
@@ -173,7 +176,11 @@ O sistema se propõe a oferecer uma forma alternativa para a localização entre
 |:-------------------------------------------:|:-------------------------------------:|
 
 
-### 4.3 Suposições e Dependências:
+### 4.3. Suposições e Dependências
+
+| Suposição                                                   | Recurso Afetado                                                                                            |
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| O usuário terá conexão de internet durante o uso do sistema | Toda a aplicação é afetada pois o usuário necessidade de conexão com de internet durante o uso do serviço. |
 
 ### 4.4 Custo e Precificação: 
 
