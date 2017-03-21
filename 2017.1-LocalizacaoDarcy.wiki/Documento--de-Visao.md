@@ -81,6 +81,12 @@ O Campus Darcy Ribeiro é o mais antigo da Universidade de Brasília. Com o seu 
 
 ### 3.1. Resumo dos Envolvidos 
 
+| Nome                        | Representa                                                                                                               | Função                                                                                                                                               |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Equipe de Desenvolvedores   | Grupo de discentes da Universidade de Brasília que estão matriculados na matéria Métodos de Desenvolvimento de Software. | Desenvolver e implementar a ferramenta web apresentada neste documento.                                                                              |
+| Equipe de Gestão do Projeto | Grupo de discentes da UnB que estão matriculados na matéria Gestão de Portfólio de Projeto.                              | Desenvolver a aplicação web apresentada visando a detecção de possíveis riscos futuros, problemas e soluções viáveis para a conclusão deste projeto. |
+| Clientes                    | Diretoria do CPD da UnB.                                                                                                 | Fornecer os dados necessários para o desenvolvimento e implementação da aplicação aqui apresentada.                                                  |
+
 ### 3.2. Resumo do Usuário  
 
 ### 3.3. Ambiente do Usuário
