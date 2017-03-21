@@ -126,6 +126,15 @@ O ambiente em que o usuário utilizará o sistema deverá ser um navegador com a
 
 #### 3.4.3. Diretoria do CPD UnB
 
+| Representante         | Felipe Santos.                                                                                               |
+|-----------------------|--------------------------------------------------------------------------------------------------------------|
+| Descrição             | Representante do CPD UnB                                                                                     |
+| Tipo                  | Cliente do projeto.                                                                                          |
+| Responsabilidades     | Fornecer os dados necessários para a conclusão da aplicação.                                                 |
+| Critérios de Sucesso  | Receber um software que seja capaz de orientar as pessoas que precisem se localizar no Campus Darcy Ribeiro. |
+| Envolvimento          | Alto.                                                                                                        |
+| Comentários/Problemas | Conseguir fornecer um grande número de dados para a conclusão do projeto.                                    |
+
 ### 3.5 Perfis do Usuário
 
 ### 3.6 Principais Necessidades da Parte Interessada ou do Usuário 
