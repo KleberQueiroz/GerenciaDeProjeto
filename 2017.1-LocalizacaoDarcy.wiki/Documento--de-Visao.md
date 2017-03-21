@@ -104,6 +104,15 @@ O ambiente em que o usuário utilizará o sistema deverá ser um navegador com a
 
 #### 3.4.1. Equipe de Gestão de Projeto
 
+| Representantes        | Alexandre Torres Kryonidis, Daniel Moura da Silva, Eduardo Brasil Martins, Eduardo Quintino Gomes e Rafael dos Santos Rabetti.                                                                                                                     |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Descrição             |                                                                                                                                                                                                                                                    |
+| Tipo                  | Grupo de discentes da Universidade de Brasília que estão matriculados na matéria Gestão de Portfólio de Projeto.                                                                                                                                   |
+| Responsabilidades     | Gerir a equipe visando a entrega da ferramenta web aqui proposta de acordo com as metas e propostas entregues por eles.                                                                                                                            |
+| Critérios de Sucesso  | Fazer com que o grupo de desenvolvedores possua um conhecimento uniforme, trabalhe bem em equipe. Seguir de forma correta um projeto de desenvolvimento de software visando a entrega, no prazo, de uma aplicação com um ótimo nível de qualidade. |
+| Envolvimento          | Alto.                                                                                                                                                                                                                                              |
+| Comentários/Problemas | Mesmo sendo uma equipe de alunos conseguir gerir uma equipe de outros alunos com objetivo de entregar um produto à um cliente real.                                                                                                                |
+
 #### 3.4.2. Equipe de Desenvolvedores
 
 #### 3.4.3. Diretoria do CPD UnB
