@@ -3,8 +3,8 @@
 
 | Data  | Versão | Descrição                          | Responsável     |
 |-------|--------|------------------------------------|-----------------|
-| 19/03/2017 | 1.0    | Concepção e finalização do documento      | Eduardo Brasil |
-| 21/03/2017 | 1.1    | Adições em treinamento e Revisão do documento  | Eduardo Gomes |
+| 19/03/2017 | 1.0    | Concepção e primeira versão do documento      | Eduardo Brasil |
+| 21/03/2017 | 1.1    | Adições em Introdução e Treinamento  | Eduardo Gomes |
 
 ***
 
@@ -59,7 +59,13 @@ Caso ocorra a desistência de algum dos integrantes da equipe, deverá ser segui
 A equipe de GPP irá promover treinamentos, a fim de nivelar o conhecimento e diminuir o risco de falhas no projeto.
 Portanto foram estabelecidos os seguintes dojôs:
 * GitHub (Política de Branches, clone, init, commit, push, remote, checkout com Desafios)
-* 
+* Ambiente (VirtualBox, Vagrant, configuração Ruby on Rails)
+* RUP (Conceitos gerais, metodologias, gráfico de baleia)
+* Rails (Conceitos, Model, View, Controller)
+* Javascript
+* Testes
+
 ## 7. Controle e Acompanhamento da equipe
 
 O controle e acompanhamento da equipe é realizado através de um cronograma, também existe uma planilha de horas cujo as atividades realizadas são descritas.
+Para determinados dojôs foram estabelecidos pontuações para desafios em equipe de MDS, com isso, a motivação da equipe foi direcionada para obter um melhor entendimento sobre o assunto em questão.
