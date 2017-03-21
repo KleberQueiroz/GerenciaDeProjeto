@@ -14,7 +14,19 @@
 &nbsp;&nbsp;[1.3. Definições, acrônimos e abreviações](#13-definições-acrônimos-e-abreviações)  
 &nbsp;&nbsp;[1.4. Referências](#14-referências)  
 [2. Posicionamento](#2-posicionamento)  
-[03) Envolvidos e Usuários](#03-descrição-dos-envolvidos-e-dos-usuários)  
+&nbsp;&nbsp;[2.1. Oportunidade de Negócios](#21-oportunidade-de-negócios)  
+&nbsp;&nbsp;[2.2. Instrução do Problema ](#21-instrução-do-problema)  
+&nbsp;&nbsp;[2.3. Instrução de Posição do Produto ](#23-instrução-de-posição-do-produto)  
+[3. Envolvidos e Usuários](#03-envolvidos-e-usuários)  
+&nbsp;&nbsp;[3.1. Resumo dos Envolvidos](#31-resumo-dos-envolvidos)  
+&nbsp;&nbsp;[3.2. Resumo do Usuário](#32-resumo-do-usuário)  
+&nbsp;&nbsp;[3.3. Ambiente do Usuário](#33-ambiente-do-usuário)  
+&nbsp;&nbsp;[3.4. Perfis das Partes Interessadas](#34-perfis-das-partes-interessadas)  
+&nbsp;&nbsp;&nbsp;&nbsp;[3.4.1. Equipe de Gestão de Projeto](#341-equipe-de-gestão-de-projeto)  
+&nbsp;&nbsp;&nbsp;&nbsp;[3.4.2. Equipe de Desenvolvedores](#342-equipe-de-desenvolvedores)  
+&nbsp;&nbsp;&nbsp;&nbsp;[3.4.3. Diretoria do CPD UnB](#343-diretoria-do-cpd-unb)  
+
+  
 [04) Visão Geral do Produto](#04-visão-geral-do-produto)  
 [05) Recursos do Produto](#05-recursos-do-produto)  
 [06) Restrições](#06-restrições)  
@@ -50,9 +62,9 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 
 ## 2. Posicionamento
 
-### 2.1 Oportunidade de Negócios:
+### 2.1 Oportunidade de Negócios
 
-### 2.2 Instrução do Problema: 
+### 2.2 Instrução do Problema 
 
 ### 2.3 Instrução de Posição do Produto  
 
