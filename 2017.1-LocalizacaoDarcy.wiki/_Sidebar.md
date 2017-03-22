@@ -25,38 +25,37 @@
 
 :ballot_box_with_check: [Plano de Iteração]()
 
-* :ballot_box_with_check: [Plano de Integração]()
+:ballot_box_with_check: [Plano de Integração]()
 
-* :ballot_box_with_check: [Plano de Gerenciamento das Aquisições]()
+:ballot_box_with_check: [Plano de Gerenciamento das Aquisições]()
 
-* :ballot_box_with_check: [Plano de Gerenciamento dos Riscos]()
+:ballot_box_with_check: [Plano de Gerenciamento dos Riscos]()
 
-* :ballot_box_with_check: [Plano de Gerenciamento de Configuração e Mudanças]()
+:ballot_box_with_check: [Plano de Gerenciamento de Configuração e Mudanças]()
 
-* :ballot_box_with_check: [Plano de Gerenciamento da Qualidade]()
+:ballot_box_with_check: [Plano de Gerenciamento da Qualidade]()
 
-* :ballot_box_with_check: [Plano de Gerenciamento dos Custos]()
+:ballot_box_with_check: [Plano de Gerenciamento dos Custos]()
 
 
 ### Desenvolvimento
+:white_check_mark: [Documento de Visão](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento--de-Visão)
 
-* :white_check_mark: [Documento de Visão](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento--de-Visão)
+:ballot_box_with_check: [Documento de Arquitetura]()
 
-* :ballot_box_with_check: [Documento de Arquitetura]()
+:ballot_box_with_check: [Folha de Estilo]()
 
-* :ballot_box_with_check: [Folha de Estilo]()
+:ballot_box_with_check: [Especificação de Casos de Uso]()
 
-* :ballot_box_with_check: [Especificação de Casos de Uso]()
+:ballot_box_with_check: [Diagrama de Caso de Uso]()
 
-* :ballot_box_with_check: [Diagrama de Caso de Uso]()
+:ballot_box_with_check: [Protótipos]()
 
-* :ballot_box_with_check: [Protótipos]()
+:ballot_box_with_check: [Especificação de Casos de Teste]()
 
-* :ballot_box_with_check: [Especificação de Casos de Teste]()
+:ballot_box_with_check: [Relatório de Teste]()
 
-* :ballot_box_with_check: [Relatório de Teste]()
-
-* :ballot_box_with_check: [API]()
+:ballot_box_with_check: [API]()
 
 ***
 ## Release 2
@@ -65,6 +64,6 @@
 ***
 ### Encerramento
  
-* :ballot_box_with_check: [_Postmortem_]()
-* :ballot_box_with_check: [_Release Notes_]()
-* :ballot_box_with_check: [Apresentação]()
+:ballot_box_with_check: [_Postmortem_]()
+:ballot_box_with_check: [_Release Notes_]()
+:ballot_box_with_check: [Apresentação]()
