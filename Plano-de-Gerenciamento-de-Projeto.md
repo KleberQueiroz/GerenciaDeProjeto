@@ -51,19 +51,21 @@ Para que um projeto de software seja bem sucedido, é necessário que haja uma o
 - RUP - Rational Unified Process
 - EAP - Estrutura analítica do projeto
 
-## 3. Ciclo de Vida do Projeto
+## 3. Resumo do escopo do projeto
 
-## 4. Adequação do Modelo Proposto pelo PMBOK
+## 4. Ciclo de Vida do Projeto
 
-## 5. Comunicação entre as Partes Interessadas
+## 5. Adequação do Modelo Proposto pelo PMBOK
 
-## 6. Linha de Base do Escopo
+## 6. Comunicação entre as Partes Interessadas
 
-## 7. Linha de Base do Cronograma
+## 7. Linha de Base do Escopo
 
-## 8. Linha de Base de Custo
+## 8. Linha de Base do Cronograma
 
-## 9. Planos de Gerenciamento
+## 9. Linha de Base de Custo
+
+## 10. Planos de Gerenciamento
 
 * [Plano de Treinamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Treinamento)
 
@@ -73,4 +75,4 @@ Para que um projeto de software seja bem sucedido, é necessário que haja uma o
 
 * [Plano de Recursos Humanos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos)
 
-## 10. Referências Bibliográficas
+## 11. Referências Bibliográficas
