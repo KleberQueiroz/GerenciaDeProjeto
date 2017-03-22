@@ -65,5 +65,7 @@
 ### Encerramento
  
 :ballot_box_with_check: [_Postmortem_]()
+
 :ballot_box_with_check: [_Release Notes_]()
+
 :ballot_box_with_check: [Apresentação]()
