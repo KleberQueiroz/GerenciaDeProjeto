@@ -3,7 +3,8 @@
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
 |20/03/2017|1.0|Criação da estrutura do documento|Matheus Mello|
-
+|22/03/2017|1.1|Atualização da estrutura do documento|Alexandre|
+|22/03/2017|1.1|Adicionados Tópicos|Alexandre|
 ***
 
 ## Sumário
