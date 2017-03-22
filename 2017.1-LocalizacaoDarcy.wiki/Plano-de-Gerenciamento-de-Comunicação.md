@@ -4,6 +4,8 @@
 |:----:|:------:|:---------:|:-----:|
 |17/03/2017|1.0|Criação da estrutura do documento e ferramentas de comunicação|Rafael Rabetti|
 |19/03/2017|1.1|Introdução, Objetivo e Reuniões|Eduardo Brasil|
+|22/03/2017|1.2|Agenda de reuniões, comunicação interna e externa|Rafael Rabetti|
+
 
 ***
 
@@ -42,7 +44,7 @@ Este plano tem como objetivo estabelecer ferramentas para a comunicação entre 
 
 #### 3.2 Comunicação Interna
 
-Por comunicação interna entende-se o modo pelo qual a equipe diretamente envolvida no projeto irá se comunicar utilizando-se das ferramentas citadas acima. 
+Por comunicação interna entende-se o modo pelo qual a equipe diretamente envolvida no projeto irá se comunicar entre si utilizando-se das ferramentas citadas acima. 
 
 ##### 3.2.1 Agenda de Reuniões
 
@@ -52,3 +54,7 @@ Por comunicação interna entende-se o modo pelo qual a equipe diretamente envol
 |Reunião gerencial|GPP|Semanalmente|Aberto/À definir|Presencial ou virtual|
 |Revisão de artefatos, treinamentos, tomadas de decisões rápidas e emergenciais|GPP/MDS|Indeterminado|Indeterminado|Presencial ou virtual|
 |Reunião de MDS|MDS|Semanal|Indeterminado|Presencial ou virtual|
+
+##### 3.3 Comunicação Externa
+
+Por comunicação externa entende-se como se dará a comunicação com a equipe que está indiretamente envolvida no projeto. Nesse contexto, temos o CPD da UnB como cliente e a professora Carla Rocha que ministra as disciplinas e os *coaches*.
