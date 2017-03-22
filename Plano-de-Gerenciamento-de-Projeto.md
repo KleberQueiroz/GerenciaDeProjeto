@@ -36,7 +36,8 @@
 
 ## 1. Introdução
 
-(REMOVER) Neste documento, estão contidas as informações referentes ao Plano de Gerenciamento do Projeto Localização Darcy. Apresentando o Ciclo de Vida, as Linhas de Base e os Planos de Gerenciamento. (REMOVER)
+**(REMOVER) Neste documento, estão contidas as informações referentes ao Plano de Gerenciamento do Projeto Localização Darcy. Apresentando o Ciclo de Vida, as Linhas de Base e os Planos de Gerenciamento. (REMOVER)**
+
 ### 1.1. Visão Geral do Documento
 
 Este documento tem como objetivo apresentar o Plano de Gerenciamento do Projeto de “Mapeamento das salas do minhocão do Darcy Ribeiro - Unb”. Nele são definidos o ciclo de vida do projeto, responsabilidades e organização da equipe. Também são referenciados os planos de diversas áreas de projetos, baseados no PMBOK, a serem utilizados a fim de gerenciar, monitorar e controlar a execução projeto. 
@@ -76,7 +77,7 @@ Já na segunda parte do projeto, o ciclo de vida será constituído por iteraç�
 O PMBOK será utilizado ao longo do projeto a fim de melhorar o Índice de Produtividade do projeto. Para isso, o foco da equipe de gerência será em minimizar os riscos e custo e tempo do projeto enquanto foca em maximizar a qualidade. Para isso, é fundamental que haja planejamento, monitoramento e controle do projeto, e nisso o PMBOK pode auxiliar-nos. Dessa forma é interessante o utilizarmos em nosso projeto.
 Dessa forma, os seguintes processos serão utilizados em nosso projeto:
 
-TABELA DOS PROCESSOS DO PMBOK
+**TABELA DOS PROCESSOS DO PMBOK**
 
 ## 6. Comunicação entre as Partes Interessadas
 
