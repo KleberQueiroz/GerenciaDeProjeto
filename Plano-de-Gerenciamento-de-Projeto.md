@@ -10,21 +10,23 @@
 
 1. [Introdução](#1-introdução)
 
-2. [Ciclo de Vida do Projeto](#2-ciclo-de-vida-do-projeto)
+2. [Definições](#2-definições)
 
-3. [Adequação do Modelo Proposto pelo PMBOK](#3-adequação-do-modelo-proposto-pelo-pmbok)
+3. [Ciclo de Vida do Projeto](#3-ciclo-de-vida-do-projeto)
 
-4. [Comunicação entre as Partes Interessadas](#4-comunicação-entre-as-partes-interessadas)
+4. [Adequação do Modelo Proposto pelo PMBOK](#4-adequação-do-modelo-proposto-pelo-pmbok)
 
-5. [Linha de Base do Escopo](#5-linha-de-base-do-escopo)
+5. [Comunicação entre as Partes Interessadas](#5-comunicação-entre-as-partes-interessadas)
 
-6. [Linha de Base do Cronograma](#6-linha-de-base-do-cronograma)
+6. [Linha de Base do Escopo](#6-linha-de-base-do-escopo)
 
-7. [Linha de Base de Custo](#7-linha-de-base-de-custo)
+7. [Linha de Base do Cronograma](#7-linha-de-base-do-cronograma)
 
-8. [Planos de Gerenciamento](#8-planos-de-gerenciamento)
+8. [Linha de Base de Custo](#8-linha-de-base-de-custo)
 
-9. [Referências Bibliográficas](#9referências-bibliográficas)
+9. [Planos de Gerenciamento](#9-planos-de-gerenciamento)
+
+10. [Referências Bibliográficas](#10referências-bibliográficas)
 
 
 
@@ -40,19 +42,21 @@ Este documento tem como objetivo apresentar o Plano de Gerenciamento do Projeto 
 
 Para que um projeto de software seja bem sucedido, é necessário que haja uma organização prévia das atividades a serem desenvolvidas. É recomendável também a análise do escopo do software, dos riscos envolvidos, dos recursos necessários, dos indicadores a serem acompanhados, etc. Esse documento em conjunto com os planos específicos serão utilizados pela equipe de gerenciamento do projeto como guia para a execução, controle, monitoramento e finalização do processo e das atividades.
 
-## 2. Ciclo de Vida do Projeto
+## 2. Definições
 
-## 3. Adequação do Modelo Proposto pelo PMBOK
+## 3. Ciclo de Vida do Projeto
 
-## 4. Comunicação entre as Partes Interessadas
+## 4. Adequação do Modelo Proposto pelo PMBOK
 
-## 5. Linha de Base do Escopo
+## 5. Comunicação entre as Partes Interessadas
 
-## 6. Linha de Base do Cronograma
+## 6. Linha de Base do Escopo
 
-## 7. Linha de Base de Custo
+## 7. Linha de Base do Cronograma
 
-## 8. Planos de Gerenciamento
+## 8. Linha de Base de Custo
+
+## 9. Planos de Gerenciamento
 
 * [Plano de Treinamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Treinamento)
 
@@ -62,4 +66,4 @@ Para que um projeto de software seja bem sucedido, é necessário que haja uma o
 
 * [Plano de Recursos Humanos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos)
 
-## 9. Referências Bibliográficas
+## 10. Referências Bibliográficas
