@@ -58,3 +58,9 @@ Por comunicação interna entende-se o modo pelo qual a equipe diretamente envol
 ##### 3.3 Comunicação Externa
 
 Por comunicação externa entende-se como se dará a comunicação com a equipe que está indiretamente envolvida no projeto. Nesse contexto, temos o CPD da UnB como cliente e a professora Carla Rocha que ministra as disciplinas e os *coaches*.
+
+|Envolvidos|Comunicação|
+|:--------:|:---------:|
+| CPD| Toda troca de informação com o cliente é feita por email. São feitas validações e obtenção informações novas.|
+|Carla Rocha|Durante as aulas das disciplinas, *coaches* e wiki|
+|*Coaches*|Whatsapp, Telegram e reuniões sob demanda|
