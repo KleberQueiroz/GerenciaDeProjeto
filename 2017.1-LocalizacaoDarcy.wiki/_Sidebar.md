@@ -1,8 +1,8 @@
 # [Sistema de localização no campus Darcy Ribeiro](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki)
 ***
-<small>
+<sup>
 :arrows_counterclockwise: [Ata da Equipe](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Ata-da-Equipe)
-</small>
+</sup>
 ## Release 1
 
 ### Plano de Gerência
