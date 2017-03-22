@@ -44,6 +44,10 @@ Para que um projeto de software seja bem sucedido, é necessário que haja uma o
 
 ## 2. Definições
 
+- PMBOK - Project Management Body of Knowledge
+- RUP - Rational Unified Process
+- EAP - Estrutura analítica do projeto
+
 ## 3. Ciclo de Vida do Projeto
 
 ## 4. Adequação do Modelo Proposto pelo PMBOK
