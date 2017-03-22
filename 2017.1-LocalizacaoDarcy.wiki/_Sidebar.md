@@ -1,6 +1,5 @@
 # [Sistema de localização no campus Darcy Ribeiro](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki)
 ***
-* :ballot_box_with_check: [Folha de Estilo]()
 * :arrows_counterclockwise: [Ata da Equipe](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Ata-da-Equipe)
 ## Release 1
 
@@ -20,12 +19,38 @@
 
 * :arrows_counterclockwise: [Cronograma](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Cronograma)
 
+* :ballot_box_with_check: [Plano de Gerenciamento do Escopo]()
+  * :ballot_box_with_check: [EAP - Estrutura Analítica do Projeto]()
+
+* :ballot_box_with_check: [Plano de Gerenciamento do Cronograma]()
+  * :ballot_box_with_check: [Cronograma do Projeto]()
+
+* :ballot_box_with_check: [Plano de Iteração]()
+
+* :ballot_box_with_check: [Plano de Integração]()
+
+* :ballot_box_with_check: [Plano de Gerenciamento das Aquisições]()
+  * :ballot_box_with_check: [Registro das Aquisições]()
+
+* :ballot_box_with_check: [Plano de Gerenciamento dos Riscos]()
+  * :ballot_box_with_check: [Registro de riscos]()
+
+* :ballot_box_with_check: [Plano de Gerenciamento de Configuração e Mudanças]()
+
+* :ballot_box_with_check: [Plano de Gerenciamento da Qualidade]()
+  * :ballot_box_with_check: [Relatório de Métricas]()
+
+* :ballot_box_with_check: [Plano de Gerenciamento dos Custos]()
+  * :ballot_box_with_check: [Registro de Custos]()
+
 
 ### Desenvolvimento
 
 * :white_check_mark: [Documento de Visão](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento--de-Visão)
 
 * :ballot_box_with_check: [Documento de Arquitetura]()
+
+* :ballot_box_with_check: [Folha de Estilo]()
 
 * :ballot_box_with_check: [Especificação de Casos de Uso]()
 
