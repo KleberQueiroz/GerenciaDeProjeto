@@ -17,6 +17,8 @@
 
      3.1 [Ferramentas de Comunicação](#31-ferramentas-de-comunicação)
 
+     3.2 [Comunicação Interna](#32-comunicação-interna)
+
 
 ### 1. Introdução
 
@@ -38,8 +40,14 @@ Este plano tem como objetivo estabelecer ferramentas para a comunicação entre 
 |![Gmail](http://i.imgur.com/sNew5jX.png?2) <br /> <sub> Gmail </sub>| Comunicação formal com todos os envolvidos do projeto, inclusive cliente.|
 |![GitHub](http://i.imgur.com/Zgu1pxJ.png?1) <br /> <sub> GitHub </sub>| Produção de artefatos e resolução das issues. |
 
-#### 3.1 Agenda e Reuniões
+#### 3.2 Comunicação Interna
 
-Neste plano também consta a forma como se dará as reuniões da equipe para o desenvolvimento do projeto.
-Foi definido pela equipe de gerenciamento que as reuniões ocorrerão durante os dias de terça e quinta em um horario já definido e ocasionalmente aos sabados.
+Por comunicação interna entende-se o modo pelo qual a equipe diretamente envolvida no projeto irá se comunicar utilizando-se das ferramentas citadas acima. 
 
+##### 3.2.1 Agenda de Reuniões
+
+|Objetivo | Envolvidos | Frequência |Horário | Meio |
+|:-------:|:---------:|:----------:|:-------:|:-----:|
+| Alinhamento das equipes, produção, resolver conflitos, planejamento e tomada de decisões| GPP/MDS| Sábado | 14:00 às 18:00 | Presencial |
+|Reunião gerencial|GPP|Semanalmente|Aberto/À definir|Aberto/À definir|Presencial ou virtual|
+|Revisão de artefatos, treinamentos, tomadas de decisões rápidas e emergenciais|GPP/MDS|Indeterminado|Indeterminado|Presencial ou virtual|
