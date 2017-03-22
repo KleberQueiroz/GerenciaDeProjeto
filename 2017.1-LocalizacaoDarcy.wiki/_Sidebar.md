@@ -1,5 +1,6 @@
-<sup><sub> # [Sistema de localização no campus Darcy Ribeiro](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki)
+# [Sistema de localização no campus Darcy Ribeiro](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki)
 ***
+<small>
 :arrows_counterclockwise: [Ata da Equipe](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Ata-da-Equipe)
 ## Release 1
 
@@ -72,4 +73,4 @@
 :ballot_box_with_check: [_Release Notes_]()
 
 :ballot_box_with_check: [Apresentação]()
-</sup></sub>
+</small>
