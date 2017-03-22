@@ -29,9 +29,11 @@ O presente documento visa introduzir e mostrar as características do projeto Si
 
 ## 2. Objetivo e Visão geral
 
-Este projeto tem como proposta apresentar um software que auxilie as pessoas que frequentam o campus Darcy Ribeiro, ajudando os frequentadores do mesmo a se localizarem la dentro, pois devido as dimensões do campus as vezes se torna complicado a localização de prédios departamentos e salas.
+Este projeto tem como proposta apresentar um software que auxilie na localização dos visitantes, novos frequentadores e calouros dentro do campus Darcy Ribeiro da Universidade de Brasília. Com isso, objetiva-se que os atrasos em compromissos diminuam e que não haja pessoas desorientadas dentro da universidade.
 
 ## 3. Motivação 
+
+Todo início de semestre muitos calouros ficam perdidos no campus Darcy Ribeiro, perguntando onde ficaria tal prédio ou departamento. O novo aluno demora para se habituar com o novo local de estudos, devido à grande dimensão do campus Darcy Ribeiro. Até estar habituado, o aluno se atrasa para as suas aulas e acaba até recebendo falta.  
 
 A motivação surgiu por conta do tamanho do campus Darcy ribeiro, pois devido as suas proporções, as vezes se torna complicado a localização de prédios e departamentos, principalmente para pessoas que não estão familiarizadas com o campus, como alunos que acabaram de ingressar no campus ou pessoas que se encaminham ao mesmo para realização de provas de concursos publicos e pesquisadores de outras universidades, Com isso surgiu uma demanda vinda do CPD da própria universidade afim de que se pudesse auxiliar esse publico alvo.
 
@@ -71,7 +73,7 @@ O custo será de R$ 19384923,99 reais.
 
 * **CPD**
 
-* **Alunos do campus Darcy Ribeiro**
+* **Visitantes e novos frequentadores do campus Darcy Ribeiro**
 
 * **Docente**
 
