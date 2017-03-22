@@ -4,7 +4,7 @@
 |:----:|:------:|:---------:|:-----:|
 |20/03/2017|1.0|Criação da estrutura do documento|Matheus Mello|
 |22/03/2017|1.1|Atualização da estrutura do documento|Alexandre|
-|22/03/2017|1.1.1|Adicionados Tópicos|Alexandre|
+|22/03/2017|1.1.1|Adicionados Tópicos 1, 2, 3, 4, 5, 8|Alexandre|
 ***
 
 ## Sumário
