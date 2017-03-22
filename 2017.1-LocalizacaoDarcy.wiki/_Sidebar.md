@@ -25,6 +25,20 @@
 
 * :white_check_mark: [Documento de Visão](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento--de-Visão)
 
+* :ballot_box_with_check: [Documento de Arquitetura]()
+
+* :ballot_box_with_check: [Especificação de Casos de Uso]()
+
+* :ballot_box_with_check: [Diagrama de Caso de Uso]()
+
+* :ballot_box_with_check: [Protótipos]()
+
+* :ballot_box_with_check: [Especificação de Casos de Teste]()
+
+* :ballot_box_with_check: [Relatório de Teste]()
+
+* :ballot_box_with_check: [API]()
+
 ***
 ## Release 2
 
