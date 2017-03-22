@@ -49,5 +49,5 @@ Por comunicação interna entende-se o modo pelo qual a equipe diretamente envol
 |Objetivo | Envolvidos | Frequência |Horário | Meio |
 |:-------:|:---------:|:----------:|:-------:|:-----:|
 | Alinhamento das equipes, produção, resolver conflitos, planejamento e tomada de decisões| GPP/MDS| Sábado | 14:00 às 18:00 | Presencial |
-|Reunião gerencial|GPP|Semanalmente|Aberto/À definir|Aberto/À definir|Presencial ou virtual|
+|Reunião gerencial|GPP|Semanalmente|Aberto/À definir|Presencial ou virtual|
 |Revisão de artefatos, treinamentos, tomadas de decisões rápidas e emergenciais|GPP/MDS|Indeterminado|Indeterminado|Presencial ou virtual|
