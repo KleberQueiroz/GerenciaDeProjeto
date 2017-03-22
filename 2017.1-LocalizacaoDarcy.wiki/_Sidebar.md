@@ -27,6 +27,8 @@
 
 :ballot_box_with_check: [Plano de Gerenciamento dos Riscos]()
 
+:ballot_box_with_check: [Plano de Gerenciamento dos Requisitos]()
+
 :ballot_box_with_check: [Plano de Gerenciamento de Configuração e Mudanças]()
 
 :ballot_box_with_check: [Plano de Gerenciamento da Qualidade]()
