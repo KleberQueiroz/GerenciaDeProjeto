@@ -5,7 +5,7 @@
 |15/03/2017|1.0|Criação da estrutura do documento|Rafael Rabetti|
 |15/03/2017|1.1|Introdução, riscos, cronograma e interessados|Rafael Rabetti|
 |15/03/2017|1.2|Objetivo, Visão geral, Motivação|Eduardo Brasil|
-|22/03/2017|1.2|Objetivo, Visão geral, Motivação|Rafael Rabetti|
+|22/03/2017|1.3|Objetivo, Visão geral, Motivação|Rafael Rabetti|
 
 ***
 
