@@ -1,7 +1,7 @@
 # [Sistema de localização no campus Darcy Ribeiro](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki)
 ***
 
-:arrows_counterclockwise: [<small>Ata da Equipe</small>](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Ata-da-Equipe)
+:arrows_counterclockwise: [<sup>Ata da Equipe</sup>](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Ata-da-Equipe)
 
 ## Release 1
 
