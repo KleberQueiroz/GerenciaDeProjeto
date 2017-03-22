@@ -1,15 +1,15 @@
 # [Sistema de localização no campus Darcy Ribeiro](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki)
 ***
 
-:arrows_counterclockwise: [<small>Ata da Equipe</small>](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Ata-da-Equipe)
+:arrows_counterclockwise: [Ata da Equipe](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Ata-da-Equipe)
 
 ## Release 1
 
 ### Plano de Gerência
 
-:white_check_mark: [<small>Termo de Abertura</small>](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Termo-de-Abertura)
+:white_check_mark: [Termo de Abertura](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Termo-de-Abertura)
 
-:white_check_mark: [<small>Plano de Treinamento</small>](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Treinamento)
+:white_check_mark: [Plano de Treinamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Treinamento)
 
 :arrows_counterclockwise: [Cronograma](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Cronograma)
 
