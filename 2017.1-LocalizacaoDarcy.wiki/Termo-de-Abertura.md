@@ -36,9 +36,9 @@ Este projeto tem como proposta apresentar um software que auxilie na localizaç�
 
 Todo início de semestre muitos calouros ficam perdidos no campus Darcy Ribeiro, perguntando onde ficaria tal prédio ou departamento. O novo aluno demora para se habituar com o novo local de estudos, devido à grande dimensão do campus Darcy Ribeiro. Até estar habituado, o aluno se atrasa para as suas aulas e acaba até recebendo falta.  
 
-Atualmente não há nenhuma tecnologia que atenda à essa demanda. A maioria desses novos frequentadores acabam recorrendo ao *Google Maps* que, às vezes, não atende à expectativa.
+O campus Darcy Ribeiro possui uma área total de 3.950.569,07 m², porém a área construída é de 513.767, 16 m², o que ainda é muito grande. Atualmente não há nenhuma tecnologia que atenda à essa demanda. A maioria desses novos frequentadores acabam recorrendo ao *Google Maps* que, às vezes, não atende à expectativa.
 
-A motivação surgiu por conta do tamanho do campus Darcy ribeiro, pois devido as suas proporções, as vezes se torna complicado a localização de prédios e departamentos, principalmente para pessoas que não estão familiarizadas com o campus, como alunos que acabaram de ingressar no campus ou pessoas que se encaminham ao mesmo para realização de provas de concursos publicos e pesquisadores de outras universidades, Com isso surgiu uma demanda vinda do CPD da própria universidade afim de que se pudesse auxiliar esse publico alvo.
+A motivação surgiu por conta dessa grande dimensão do campus Darcy Ribeiro, pois devido às suas proporções, às vezes se torna complicado a localização de prédios e departamentos, principalmente para pessoas que não estão familiarizadas com o campus, como alunos que acabaram de ingressar no campus ou pessoas que se encaminham ao mesmo para realização de provas de concursos públicos e até mesmo pesquisadores de outras universidades. Com isso surgiu uma demanda de projeto vinda do CPD (Centro de Informática) da própria universidade com o objetivo de auxiliar esse público alvo.
 
 ## 4. Riscos 
 
