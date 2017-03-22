@@ -73,7 +73,11 @@ O custo será de R$ 19384923,99 reais.
 
 * **CPD**
 
+A diretoria do CPD da UnB é o cliente do projeto. O CPD fornece os dados necessários para o desenvolvimento e implementação do projeto aqui apresentado.
+
 * **Visitantes e novos frequentadores do campus Darcy Ribeiro**
+
+Gostariam de se localizar facilmente dentro do campus.
 
 * **Docente**
 
