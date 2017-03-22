@@ -33,6 +33,8 @@
 
 :ballot_box_with_check: [Plano de Gerenciamento da Qualidade]()
 
+:ballot_box_with_check: [Plano de Gerenciamento das Partes Interessadas]()
+
 :ballot_box_with_check: [Plano de Gerenciamento dos Custos]()
 
 :ballot_box_with_check: [Plano de Iteração]()
