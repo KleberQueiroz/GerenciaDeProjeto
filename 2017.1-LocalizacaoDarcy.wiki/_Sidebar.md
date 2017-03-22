@@ -2,6 +2,7 @@
 ***
 <small>
 :arrows_counterclockwise: [Ata da Equipe](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Ata-da-Equipe)
+</small>
 ## Release 1
 
 ### Plano de Gerência
@@ -73,4 +74,3 @@
 :ballot_box_with_check: [_Release Notes_]()
 
 :ballot_box_with_check: [Apresentação]()
-</small>
