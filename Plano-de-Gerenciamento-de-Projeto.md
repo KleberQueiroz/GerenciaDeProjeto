@@ -13,21 +13,23 @@
 
 2. [Definições](#2-definições)
 
-3. [Ciclo de Vida do Projeto](#3-ciclo-de-vida-do-projeto)
+3. [Resumo do escopo do projeto](#3-definições)
 
-4. [Adequação do Modelo Proposto pelo PMBOK](#4-adequação-do-modelo-proposto-pelo-pmbok)
+4. [Ciclo de Vida do Projeto](#4-ciclo-de-vida-do-projeto)
 
-5. [Comunicação entre as Partes Interessadas](#5-comunicação-entre-as-partes-interessadas)
+5. [Adequação do Modelo Proposto pelo PMBOK](#5-adequação-do-modelo-proposto-pelo-pmbok)
 
-6. [Linha de Base do Escopo](#6-linha-de-base-do-escopo)
+6. [Comunicação entre as Partes Interessadas](#6-comunicação-entre-as-partes-interessadas)
 
-7. [Linha de Base do Cronograma](#7-linha-de-base-do-cronograma)
+7. [Linha de Base do Escopo](#7-linha-de-base-do-escopo)
 
-8. [Linha de Base de Custo](#8-linha-de-base-de-custo)
+8. [Linha de Base do Cronograma](#8-linha-de-base-do-cronograma)
 
-9. [Planos de Gerenciamento](#9-planos-de-gerenciamento)
+9. [Linha de Base de Custo](#9-linha-de-base-de-custo)
 
-10. [Referências Bibliográficas](#10referências-bibliográficas)
+10. [Planos de Gerenciamento](#10-planos-de-gerenciamento)
+
+11. [Referências Bibliográficas](#11-referências-bibliográficas)
 
 
 
