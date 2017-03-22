@@ -1,29 +1,29 @@
 # [Sistema de localização no campus Darcy Ribeiro](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki)
 ***
-* :arrows_counterclockwise: [Ata da Equipe](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Ata-da-Equipe)
+:arrows_counterclockwise: [Ata da Equipe](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Ata-da-Equipe)
 ## Release 1
 
 ### Plano de Gerência
 
-* :white_check_mark: [Termo de Abertura](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Termo-de-Abertura)
+:white_check_mark: [Termo de Abertura](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Termo-de-Abertura)
 
-* :arrows_counterclockwise: [Plano de Gerenciamento de Projeto](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Gerenciamento-de-Projeto)
+:arrows_counterclockwise: [Plano de Gerenciamento de Projeto](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Gerenciamento-de-Projeto)
 
-* :white_check_mark: [Plano de Treinamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Treinamento)
+:white_check_mark: [Plano de Treinamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Treinamento)
 
-* :white_check_mark: [Plano de Gerenciamento de Comunicação](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Comunica%C3%A7%C3%A3o)
+:white_check_mark: [Plano de Gerenciamento de Comunicação](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Comunica%C3%A7%C3%A3o)
 
-* :arrows_counterclockwise: [Plano de Gerenciamento e Configuração](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-gerenciamento-e-configura%C3%A7%C3%A3o)
+:arrows_counterclockwise: [Plano de Gerenciamento e Configuração](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-gerenciamento-e-configura%C3%A7%C3%A3o)
 
-* :arrows_counterclockwise: [Plano de Recursos Humanos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos)
+:arrows_counterclockwise: [Plano de Recursos Humanos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos)
 
-* :arrows_counterclockwise: [Cronograma](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Cronograma)
+:arrows_counterclockwise: [Cronograma](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Cronograma)
 
-* :ballot_box_with_check: [Plano de Gerenciamento do Escopo]()
+:ballot_box_with_check: [Plano de Gerenciamento do Escopo]()
 
-* :ballot_box_with_check: [Plano de Gerenciamento do Cronograma]()
+:ballot_box_with_check: [Plano de Gerenciamento do Cronograma]()
 
-* :ballot_box_with_check: [Plano de Iteração]()
+:ballot_box_with_check: [Plano de Iteração]()
 
 * :ballot_box_with_check: [Plano de Integração]()
 
