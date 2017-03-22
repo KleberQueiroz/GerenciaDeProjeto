@@ -53,15 +53,42 @@ Para que um projeto de software seja bem sucedido, é necessário que haja uma o
 
 ## 3. Resumo do escopo do projeto
 
+O projeto baseia-se no desenvolvimento de uma aplicação web responsiva, que tem como objetivo facilitar que alunos da Universidade de Brasilia encontrem a sala em que terão aula. 
+Devido ao tamanho da universidade, diversos alunos tem dificuldade de encontrar as suas salas durante as primeiras semanas de aula. Com esse problema em mente, a solução proposta consiste em um website que indicaria para é a rota do aluno até a sala destino.
+
 ## 4. Ciclo de Vida do Projeto
 
+O Ciclo de Vida definido para esse projeto é bastante específica para esse projeto, e provavelmente não será utilizado em outras situações. Isto deve-se ao fato de que o projeto situa-se dentro de duas disciplinas, uma focada no desenvolvimento do software e outra voltada a gerenciamento. Somado a isso, a metodologia de desenvolvimento será alterada no meio do projeto.
+
+Em ambas as etapas do projeto, serão utilizados ciclos de vida Iterativos e Incrementais. Porém, na primeira etapa do projeto, será utilizado um ciclo de vida que combina as fases do Processo Unificado (RUP) e de fases relacionadas ao gerenciamento do projeto baseado no PMBOK.
+
+Conforme dito anteriormente, será utilizado RUP apenas na primeira parte de projeto, de tal forma que apenas três das suas fases serão utilizadas nesse projeto. Serão realizadas três iterações, a primeira sendo a Iniciação, a segunda de elaboração e a terceira de construção.
+
+O objetivo da primeira fase será entender o domínio para o qual o software será projetado, estabelecer uma visão comum entre os stakeholders sobre o produto que será desenvolvido, elicitar e iniciar a modelagem e análise dos requisitos. A fase de elaboração tem como finalidade definir a arquitetura do software a ser desenvolvido. Já na fase construção, o foco é na implementação da solução, ou seja, no código.
+
+De acordo com o PMBOK é possível organizar a estrutura de um projeto com as fases de Iniciação, Organização e Preparação, Execução do trabalho e Encerramento do projeto. É interessante também lembrar que o monitoramento e controle do projeto também é fundamental ao longo do projeto. Dessa forma, é possível que as três fases do ciclo de vida associado a primeira parte do projeto esteja associado as três primeiras fases do RUP e das três fases relacionadas ao PMBOK citadas acima. Somado a isso, o processo de monitoramento e controle acontece ao longo de todo o projeto.
+
+Já na segunda parte do projeto, o ciclo de vida será constituído por iterações menores e seguirá os princípios da metodologia ágil.
+
+
 ## 5. Adequação do Modelo Proposto pelo PMBOK
+
+O PMBOK será utilizado ao longo do projeto a fim de melhorar o Índice de Produtividade do projeto. Para isso, o foco da equipe de gerência será em minimizar os riscos e custo e tempo do projeto enquanto foca em maximizar a qualidade. Para isso, é fundamental que haja planejamento, monitoramento e controle do projeto, e nisso o PMBOK pode auxiliar-nos. Dessa forma é interessante o utilizarmos em nosso projeto.
+Dessa forma, os seguintes processos serão utilizados em nosso projeto:
+
+TABELA DOS PROCESSOS DO PMBOK
 
 ## 6. Comunicação entre as Partes Interessadas
 
 ## 7. Linha de Base do Escopo
 
 ## 8. Linha de Base do Cronograma
+
+Com a necessidade de organizar o desenvolvimento e controle do projeto de uma forma linear e cronológica a fim de facilitar o acompanhamento do andamento do projeto e evitar que haja atraso nas entregas, será utilizado um cronograma. Este documento será criado, avaliado, monitorado e adaptado, caso necessário, pela equipe de gerencia do projeto.
+O documento leva em conta o ciclo de vida do projeto, considerando a metodologia e processo de desenvolvimento a serem utilizados. Ele apoiará no controle de atividades a serem elaboradas ao longo do projeto.
+Uma explicação com um maior grau de detalhamento sobre esse tópico pode ser encontrada no **plano de gerenciamento(?)** do cronograma.
+
+
 
 ## 9. Linha de Base de Custo
 
