@@ -3,7 +3,7 @@
 
 | Data|Tema                  | Matheus | Jordan | Thaynara | Stéfane | Sannya  | Kairon | Lucas  |
 | -----------|---------------|:------: |:------:|:------:  |:------: |:------: |:------:|:------:|
-| 16/03/2017 | Dojô Git      |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:|:white_check_mark:|  :x:|:white_check_mark:|
+| 16/03/2017 | Dojô Git      |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|  :x:|:white_check_mark:|
 | 18/03/2017 | Dojô Ambiente |:white_check_mark:|:white_check_mark:|:ok_hand:|:ok_hand:|:white_check_mark:|  :white_check_mark:|:white_check_mark:|
 | 18/03/2017 | Dojô RUP      |:white_check_mark:|:white_check_mark:|:ok_hand:|:ok_hand:|:white_check_mark:|  :white_check_mark:|:white_check_mark:|
 | 22/03/2017 | Dojô Casos de Uso|:white_check_mark:|:x:|:white_check_mark:|:white_check_mark:|:white_check_mark:   |:white_check_mark:|:ok_hand:|
