@@ -5,6 +5,7 @@
 |20/03/2017|1.0|Criação da estrutura do documento|Matheus Mello|
 |22/03/2017|1.0.1|Atualização da estrutura do documento|Alexandre|
 |22/03/2017|1.0.2|Adicionados Tópicos 1, 2, 3, 4, 5, 8|Alexandre|
+|23/03/2017|1.0.2|Atualização Tópicos 1, 6, 7, 9|Matheus mello|
 ***
 
 ## Sumário
@@ -91,9 +92,9 @@ Com a necessidade de organizar o desenvolvimento e controle do projeto de uma fo
 O documento leva em conta o ciclo de vida do projeto, considerando a metodologia e processo de desenvolvimento a serem utilizados. Ele apoiará no controle de atividades a serem elaboradas ao longo do projeto.
 Uma explicação com um maior grau de detalhamento sobre esse tópico pode ser encontrada no [Plano de Gerenciamento do Cronograma]().
 
-
-
 ## 9. Linha de Base de Custo
+
+A linha de base de custos é uma versão aprovada do orçamento do projeto, dividida em fases, relacionando-se ao orçamento total do projeto em função do tempo e de entregas intermediárias. A linha de base de custo pode ser encontrada em detalhes no [Plano de Gerenciamento de Custos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Custos) e será utilizada como base para a comparação com os resultados reais.
 
 ## 10. Planos de Gerenciamento
 
