@@ -81,7 +81,7 @@ Dessa forma, os seguintes processos serão utilizados em nosso projeto:
 
 ## 6. Comunicação entre as Partes Interessadas
 
-Toda a informação referente à comunicação entre as partes interessadas pode ser encontrada no **[Plano de Gerenciamento das Partes Interessadas]()**.
+Toda a informação referente à comunicação entre as partes interessadas pode ser encontrada no [Plano de Gerenciamento das Partes Interessadas]().
 
 ## 7. Linha de Base do Escopo
 
@@ -89,7 +89,7 @@ Toda a informação referente à comunicação entre as partes interessadas pode
 
 Com a necessidade de organizar o desenvolvimento e controle do projeto de uma forma linear e cronológica a fim de facilitar o acompanhamento do andamento do projeto e evitar que haja atraso nas entregas, será utilizado um cronograma. Este documento será criado, avaliado, monitorado e adaptado, caso necessário, pela equipe de gerencia do projeto.
 O documento leva em conta o ciclo de vida do projeto, considerando a metodologia e processo de desenvolvimento a serem utilizados. Ele apoiará no controle de atividades a serem elaboradas ao longo do projeto.
-Uma explicação com um maior grau de detalhamento sobre esse tópico pode ser encontrada no **[Plano de Gerenciamento do Cronograma]()**.
+Uma explicação com um maior grau de detalhamento sobre esse tópico pode ser encontrada no [Plano de Gerenciamento do Cronograma]().
 
 
 
