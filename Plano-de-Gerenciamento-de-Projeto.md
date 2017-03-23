@@ -100,10 +100,31 @@ A linha de base de custos é uma versão aprovada do orçamento do projeto, divi
 
 * [Plano de Treinamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Treinamento)
 
+* [Plano de Gerenciamento de Projeto](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Gerenciamento-de-Projeto)
+
+* [Plano de Gerenciamento do Cronograma]()
+
+* [Plano de Gerenciamento do Escopo]()
+
 * [Plano de Gerenciamento de Comunicação](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Comunica%C3%A7%C3%A3o)
 
 * [Plano de Gerenciamento e Configuração](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-gerenciamento-e-configura%C3%A7%C3%A3o)
 
-* [Plano de Recursos Humanos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos)
+* [Plano de Gerenciamento de Recursos Humanos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos)
+
+* [Plano de Gerenciamento das Aquisições]()
+
+* [Plano de Gerenciamento dos Riscos]()
+
+* [Plano de Gerenciamento dos Requisitos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-dos-Requisitos#1-introdu%C3%A7%C3%A3o)
+
+* [Plano de Gerenciamento de Configuração e Mudanças]()
+
+* [Plano de Gerenciamento da Qualidade]()
+
+* [Plano de Gerenciamento das Partes Interessadas]()
+
+* [Plano de Gerenciamento dos Custos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Custos)
+
 
 ## 11. Referências Bibliográficas
