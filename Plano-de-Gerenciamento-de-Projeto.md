@@ -78,6 +78,8 @@ Dessa forma, os seguintes processos serão utilizados em nosso projeto:
 
 ![](https://preview.ibb.co/i7Dy6F/pmbok_adaptadov2.png)
 
+Para melhor visualização, o arquivo pode ser acessado [aqui](https://ibb.co/di8WRF)
+
 ## 6. Comunicação entre as Partes Interessadas
 
 Toda a informação referente à comunicação entre as partes interessadas pode ser encontrada no [Plano de Gerenciamento das Partes Interessadas]().
