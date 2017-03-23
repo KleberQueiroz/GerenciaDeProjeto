@@ -166,14 +166,19 @@ O ambiente em que o usuário utilizará o sistema deverá ser um navegador com a
 
 ### 3.5 Perfis do Usuário
 
-| Representantes        | Novos alunos, palestrantes, candidatos, visitantes.                                                                       |
+#### 3.5.1 Novos Alunos
+
+| Representantes        | Novos Alunos                                                                     |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------|
-| Descrição             | Pessoas que vão ao Campus Darcy Ribeiro e nunca tiveram contato com o próprio.                                            |
+| Descrição             |Alunos que acabaram de ingressar na Universidade de Brasília e que nunca tiveram contato com o Campus Darcy Ribeiro                               |
 | Tipo                  | Usuário Informal.                                                                                                         |
-| Responsabilidades     | Acessar a aplicação e usá-la para localizar lugares.                                                                      |
-| Critérios de Sucesso  | Encontrar o local desejado com facilidade.                                                                                |
+| Responsabilidades     | Acessar a aplicação e utilizar os recursos para usuários comuns.                                                                    |
+| Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
 | Envolvimento          | Baixo.                                                                                                                    |
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
+
+
+
 
 ### 3.6 Principais Necessidades da Parte Interessada ou do Usuário 
 
