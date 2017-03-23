@@ -98,8 +98,6 @@ A linha de base de custos é uma versão aprovada do orçamento do projeto, divi
 
 ## 10. Planos de Gerenciamento
 
-* [Plano de Treinamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Treinamento)
-
 * [Plano de Gerenciamento de Projeto](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Gerenciamento-de-Projeto)
 
 * [Plano de Gerenciamento do Cronograma]()
