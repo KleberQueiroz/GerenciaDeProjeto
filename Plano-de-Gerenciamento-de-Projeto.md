@@ -6,7 +6,7 @@
 |22/03/2017|1.0.1|Atualização da estrutura do documento|Alexandre|
 |22/03/2017|1.0.2|Adicionados Tópicos 1, 2, 3, 4, 5, 8|Alexandre|
 |23/03/2017|1.0.3|Atualização Tópicos 1, 6, 7, 9|Matheus Mello|
-|23/03/2017|1.0.4|Atualização Tópicos 1, 11|Matheus Mello|
+|23/03/2017|1.0.4|Atualização Tópicos 5, 11|Matheus Mello|
 ***
 
 ## Sumário
