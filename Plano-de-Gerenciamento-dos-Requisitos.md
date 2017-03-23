@@ -19,6 +19,10 @@ Os requisitos são a base de todo e qualquer projeto. Este documento visa estabe
 
 ## 2. Processo de elicitação dos requisitos
 
+* **Entrevista com Cliente**
+
+* **Brainstorming entre a equipe**
+
 ## 3. Gerenciamento da priorização e atributos de requisitos
 
 A priorização dos requisitos se deu por meio da experiência da equipe de gerência em identificar quais os requisitos são mais facilmente implementados, mas mais importante que isso, quais requisitos implementam a arquitetura estabelecida para o software.
