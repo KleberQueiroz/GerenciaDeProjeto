@@ -83,7 +83,7 @@ Toda a informação referente à comunicação entre as partes interessadas pode
 
 ## 7. Linha de Base do Escopo
 
-A fim de alcançar o sucesso do projeto, foram definidos claramente os produtos que serão entregues. O escopo de trabalho pode ser encontrado no [Plano de Gerenciamento de Escopo](). Para uma melhor visualização do projeto e das entregas pelas partes interessadas,  foi criada a [Estrutura Analítica do Projeto](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Estrutura-Analitica-do-Projeto) que organiza e define o escopo total do projeto.
+A fim de alcançar o sucesso do projeto, foram definidos claramente os produtos que serão entregues. O escopo de trabalho pode ser encontrado no [Plano de Gerenciamento de Escopo]() e para uma melhor visualização do projeto e das entregas pelas partes interessadas,  foi criada a [Estrutura Analítica do Projeto](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Estrutura-Analitica-do-Projeto) que organiza e define o escopo total do projeto.
 
 ## 8. Linha de Base do Cronograma
 
