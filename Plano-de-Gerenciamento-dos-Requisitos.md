@@ -29,5 +29,15 @@ A priorização dos requisitos se deu por meio da experiência da equipe de ger�
 
 Os índices iniciados com as letras 'PR' são problemas, com as letras 'NE' são necessidades, com as letras 'CA' são características, com a letra 'R' são requisitos e com as letras 'UC' são casos de uso. 
 
+* Atributos
+
+   * Valor agregado
+
+   * Impacto na arquitetura
+
+   * Risco
+
+   * Esforço
+
 
 ## 4. Rastreabilidade
