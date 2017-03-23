@@ -16,6 +16,9 @@
 | 20/03/2017 | 2.1    | Resumo dos Envolvidos; Perfis das Partes Interessadas; Resumo das Capacidades; Restrições; Faixas de Qualidades; Revisão de Principais Necessidades da Parte Interessada ou do Usuário.                                           | Lucas S.         |
 | 21/03/2017 | 2.2    | Revisão das Oportunidades de Negócios; Instrução do Problema; Instrução de Posição do Produto; Resumo de Capacidade.                                                                                                              | Stéfane Souza    | S.  |
 
+| 23/03/2017 |2.3     | Perfis de usuarios: Novos Alunos, palestrantes            | Lucas S.         |
+| 23/03/2017 |2.4     | Perfis de usuarios: Visitantes            | Sannya Arvelos   |
+| 23/03/2017 |2.5     | Perfis de usuarios: Candidatos         | Mateus Roriz     |
 ------
 
 ## Sumário
@@ -114,7 +117,9 @@ O Campus Darcy Ribeiro é o mais antigo da Universidade de Brasília. Com o seu 
 |-----------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Equipe de Desenvolvedores   | Grupo de discentes da Universidade de Brasília que estão matriculados na matéria Métodos de Desenvolvimento de Software. | Desenvolver e implementar a ferramenta web apresentada neste documento.                                                                              |
 | Equipe de Gestão do Projeto | Grupo de discentes da UnB que estão matriculados na matéria Gestão de Portfólio de Projeto.                              | Desenvolver a aplicação web apresentada visando a detecção de possíveis riscos futuros, problemas e soluções viáveis para a conclusão deste projeto. |
-| Clientes                    | Diretoria do CPD da UnB.                                                                                                 | Fornecer os dados necessários para o desenvolvimento e implementação da aplicação aqui apresentada.                                                  |
+| Stakeholders                | Diretoria do CPD - UnB        | Fornecer os dados necessários para o desenvolvimento e implementação da aplicação aqui apresentada.|
+| Coaches               | Orientadores do projeto        | Orientar a equipe de desenvolvimento e a equipe de gestão no que refere a execução do projeto.|
+| Professores               | Avaliador e orientador do projeto.   | Avaliar o produto e o cumprimento dos métodos de desenvolvimento utilizados e orientar as equipes quanto a execução do projeto.|
 
 ### 3.2. Resumo do Usuário  
 
@@ -170,14 +175,45 @@ O ambiente em que o usuário utilizará o sistema deverá ser um navegador com a
 
 | Representantes        | Novos Alunos                                                                     |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------|
-| Descrição             |Alunos que acabaram de ingressar na Universidade de Brasília e que nunca tiveram contato com o Campus Darcy Ribeiro                               |
+| Descrição             | Alunos que acabaram de ingressar na Universidade de Brasília e que nunca tiveram contato com o Campus Darcy Ribeiro                               |
 | Tipo                  | Usuário Informal.                                                                                                         |
 | Responsabilidades     | Acessar a aplicação e utilizar os recursos para usuários comuns.                                                                    |
 | Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
 | Envolvimento          | Baixo.                                                                                                                    |
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
 
+#### 3.5.2 Palestrantes
 
+| Representantes        | Palestrantes                                                                   |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Descrição             | Pessoas de fora do Campus Darcy Ribeiro convidadas a ministrar algum tipo de palestra dentro do próprio e que não possuem conhecimento sobre suas localidades. Ribeiro                               |
+| Tipo                  | Usuário Informal.                                                                                                         |
+| Responsabilidades     | Acessar a aplicação e utilizar os recursos para usuários comuns.                                                                    |
+| Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
+| Envolvimento          | Baixo.                                                                                                                    |
+| Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
+
+#### 3.5.3 Candidatos
+
+| Representantes        | Candidatos                                                                   |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Descrição             | Candidatos de provas e concursos que possuem pouca ou nenhuma familiaridade com o campus Darcy.                               |
+| Tipo                  | Usuário Informal.                                                                                                         |
+| Responsabilidades     | Acessar a aplicação e utilizar os recursos para usuários comuns.                                                                    |
+| Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
+| Envolvimento          | Baixo.                                                                                                                    |
+| Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
+
+#### 3.5.4 Visitantes
+
+| Representantes        | Visitantes                                                                   |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Descrição             | Pessoas que por alguma eventualidade precisam se localizar pelas instalações do Campus Darcy Ribeiro.                              |
+| Tipo                  | Usuário Informal.                                                                                                         |
+| Responsabilidades     | Acessar a aplicação e utilizar os recursos para usuários comuns.                                                                    |
+| Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
+| Envolvimento          | Baixo.                                                                                                                    |
+| Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
 
 
 ### 3.6 Principais Necessidades da Parte Interessada ou do Usuário 
