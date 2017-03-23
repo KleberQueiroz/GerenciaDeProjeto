@@ -36,8 +36,6 @@
 
 ## 1. Introdução
 
-**(REMOVER) Neste documento, estão contidas as informações referentes ao Plano de Gerenciamento do Projeto Localização Darcy. Apresentando o Ciclo de Vida, as Linhas de Base e os Planos de Gerenciamento. (REMOVER)**
-
 ### 1.1. Visão Geral do Documento
 
 Este documento tem como objetivo apresentar o Plano de Gerenciamento do Projeto de “Mapeamento das salas do minhocão do Darcy Ribeiro - Unb”. Nele são definidos o ciclo de vida do projeto, responsabilidades e organização da equipe. Também são referenciados os planos de diversas áreas de projetos, baseados no PMBOK, a serem utilizados a fim de gerenciar, monitorar e controlar a execução projeto. 
