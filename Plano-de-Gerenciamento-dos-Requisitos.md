@@ -15,7 +15,7 @@
 
 ## 1. Introdução
 
-Os requisitos são a base de todo e qualquer projeto. Este documento visa estabelecer o gerenciamento destes requisitos, mostrando todo o seu ciclo de vida dentro de um projeto, desde sua elicitação até a sua implantação. Definiremos aqui, o processo utilizado para elicitar os requisitos, a definição de prioridade e atributos dos requisitos e a sua rastreabilidade.
+Os requisitos são a base de todo e qualquer projeto. Este documento visa estabelecer o gerenciamento destes requisitos, mostrando todo o seu ciclo de vida dentro de um projeto, desde sua elicitação até a sua implementação. Definiremos aqui, o processo utilizado para elicitar os requisitos, a definição de prioridade e atributos dos requisitos e a sua rastreabilidade.
 
 ## 2. Processo de elicitação dos requisitos
 
