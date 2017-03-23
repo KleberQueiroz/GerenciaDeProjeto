@@ -15,7 +15,6 @@
 | 20/03/2017 | 2.0    | Oportunidade de Negócios; Referências.                                                                                                                                                                                              | Sannya Arvelos   |
 | 20/03/2017 | 2.1    | Resumo dos Envolvidos; Perfis das Partes Interessadas; Resumo das Capacidades; Restrições; Faixas de Qualidades; Revisão de Principais Necessidades da Parte Interessada ou do Usuário.                                           | Lucas S.         |
 | 21/03/2017 | 2.2    | Revisão das Oportunidades de Negócios; Instrução do Problema; Instrução de Posição do Produto; Resumo de Capacidade.                                                                                                              | Stéfane Souza    | S.  |
-
 | 23/03/2017 |2.3     | Perfis de usuarios: Novos Alunos, palestrantes            | Lucas S.         |
 | 23/03/2017 |2.4     | Perfis de usuarios: Visitantes            | Sannya Arvelos   |
 | 23/03/2017 |2.5     | Perfis de usuarios: Candidatos         | Mateus Roriz     |
