@@ -126,3 +126,5 @@ A linha de base de custos é uma versão aprovada do orçamento do projeto, divi
 
 
 ## 11. Referências Bibliográficas
+
+* PROJECT MANAGEMENT INSTITUTE. A Guide to the Project Management Body of Knowledge (PMBOK® Guide) – Fifth Edition. Pennsylvania: Project Management Institute, 2013.
