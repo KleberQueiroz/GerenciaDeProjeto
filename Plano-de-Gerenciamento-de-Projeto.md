@@ -5,7 +5,7 @@
 |20/03/2017|1.0|Criação da estrutura do documento|Matheus Mello|
 |22/03/2017|1.0.1|Atualização da estrutura do documento|Alexandre|
 |22/03/2017|1.0.2|Adicionados Tópicos 1, 2, 3, 4, 5, 8|Alexandre|
-|23/03/2017|1.0.2|Atualização Tópicos 1, 6, 7, 9|Matheus mello|
+|23/03/2017|1.0.2|Atualização Tópicos 1, 6, 7, 9|Matheus Mello|
 ***
 
 ## Sumário
