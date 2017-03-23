@@ -76,7 +76,7 @@ Já na segunda parte do projeto, o ciclo de vida será constituído por iteraç�
 O PMBOK será utilizado ao longo do projeto a fim de melhorar o Índice de Produtividade do projeto. Para isso, o foco da equipe de gerência será em minimizar os riscos e custo e tempo do projeto enquanto foca em maximizar a qualidade. Para isso, é fundamental que haja planejamento, monitoramento e controle do projeto, e nisso o PMBOK pode auxiliar-nos. Dessa forma é interessante o utilizarmos em nosso projeto.
 Dessa forma, os seguintes processos serão utilizados em nosso projeto:
 
-![](https://ibb.co/di8WRF)
+![](https://preview.ibb.co/i7Dy6F/pmbok_adaptadov2.png)
 
 ## 6. Comunicação entre as Partes Interessadas
 
