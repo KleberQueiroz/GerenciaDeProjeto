@@ -124,7 +124,7 @@ Todos os treinamentos são divididos em duas etapas. A primeira etapa tem carát
 
 | | |
 |-|-|
-|**Data**||
+|**Data**|25/04/2017|
 |**Objetivo**|Capacitar a equipe em JavaScript, objetivando a utilização da API JS do Google maps|
 |**Teoria**|Slides expositvos e amostra de código.|
 |**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição.|
