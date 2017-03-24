@@ -1,24 +1,26 @@
 
 # MDS
 
-| Data|Tema                  | Matheus | Jordan | Thaynara | Stéfane | Sannya  | Kairon | Lucas  |
-| -----------|---------------|:------: |:------:|:------:  |:------: |:------: |:------:|:------:|
-| 16/03/2017 | Dojô Git      |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|  :x:|:white_check_mark:|
-| 18/03/2017 | Dojô Ambiente |:white_check_mark:|:white_check_mark:|:ok_hand:|:ok_hand:|:white_check_mark:|  :white_check_mark:|:white_check_mark:|
-| 18/03/2017 | Dojô RUP      |:white_check_mark:|:white_check_mark:|:ok_hand:|:ok_hand:|:white_check_mark:|  :white_check_mark:|:white_check_mark:|
-| 22/03/2017 | Dojô Casos de Uso|:white_check_mark:|:x:|:white_check_mark:|:white_check_mark:|:white_check_mark:   |:white_check_mark:|:ok_hand:|
-|  | Dojô Javascript     |         |        |          |         |         |        |        |
+| Data       | Tema               |       Matheus      |       Jordan       |      Thaynara      |       Stéfane      |       Sannya       |       Kairon       |        Lucas       |
+|------------|--------------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
+| 16/03/2017 | Dojô Git           | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |         :x:        | :white_check_mark: |
+| 18/03/2017 | Dojô Ambiente      | :white_check_mark: | :white_check_mark: |      :ok_hand:     |      :ok_hand:     | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 18/03/2017 | Dojô RUP           | :white_check_mark: | :white_check_mark: |      :ok_hand:     |      :ok_hand:     | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 22/03/2017 | Dojô Casos de Uso  | :white_check_mark: |         :x:        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :ok_hand:     |
+| 23/03/2017 | Dojô Ruby on Rails | :white_check_mark: |         :x:        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+
 
 # GPP
 
-| Data|Tema                   | Daniel  | Eduardo| Alexandre| Rafael  | Brasil  | Matheus|
-| -----------|----------------|:------: |:------:|:------:  |:------: |:------: |:------:|
-| 16/03/2017 | Dojô Git       |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|  :x:    |  :white_check_mark:  |
-| 17/03/2017 | Reunião Cliente     |  :white_check_mark:   |  :white_check_mark:  |      |     |      |    |
-| 18/03/2017 | Dojô Ambiente       |  :white_check_mark:   |  :white_check_mark:  |  :white_check_mark:    |   :white_check_mark:  |  :white_check_mark:   |:ok_hand:|
-| 18/03/2017 | Dojô RUP            |  :white_check_mark:   |  :white_check_mark:  |  :white_check_mark:    |   :white_check_mark:  |  :white_check_mark:   |:ok_hand:|
-| 22/03/2017 | Dojô Casos de Uso   |  :white_check_mark:   |  :white_check_mark:  |  :white_check_mark:    |   :white_check_mark:  |  :x:    |  :x:   |
-|  | Dojô Javascript     |         |        |          |         |         |        |
+| Data       | Tema               |       Daniel       |       Eduardo      |      Alexandre     |       Rafael       |       Brasil       |       Matheus      |
+|------------|--------------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
+| 16/03/2017 | Dojô Git           | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |         :x:        | :white_check_mark: |
+| 17/03/2017 | Reunião Cliente    | :white_check_mark: | :white_check_mark: |                    |                    |                    |                    |
+| 18/03/2017 | Dojô Ambiente      | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :ok_hand:     |
+| 18/03/2017 | Dojô RUP           | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :ok_hand:     |
+| 22/03/2017 | Dojô Casos de Uso  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |         :x:        |         :x:        |
+| 23/03/2017 | Dojô Ruby on Rails |      :ok_hand:     | :white_check_mark: | :white_check_mark: | :white_check_mark: |         :x:        | :white_check_mark: |
+
 
 ### Legenda
 
