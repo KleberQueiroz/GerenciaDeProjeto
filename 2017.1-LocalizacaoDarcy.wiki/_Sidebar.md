@@ -48,7 +48,7 @@
 ### Desenvolvimento
 :white_check_mark: [Documento de Visão](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento--de-Visão)
 
-:ballot_box_with_check: [Documento de Arquitetura]()
+:ballot_box_with_check: [Documento de Arquitetura](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento-de-Arquitetura)
 
 :ballot_box_with_check: [Folha de Estilo]()
 
