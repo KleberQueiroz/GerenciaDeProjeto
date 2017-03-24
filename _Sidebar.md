@@ -11,5 +11,6 @@
 ### Desenvolvimento
 
 * [Documento de Visão](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento--de-Visao)
+* [Documento de Arquitetura](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento-de-Arquitetura)
 
 ## Release 2
