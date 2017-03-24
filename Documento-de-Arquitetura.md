@@ -5,7 +5,7 @@
 |      Data     | Versão | Descrição                                                                | Autor         |
 |---------------|--------|--------------------------------------------------------------------------|---------------|
 |  23/03/2016   |  1.0   | Iniciando documento de arquitetura do projeto.                           | Lucas S.      |
-|  23/03/2016   |  1.0   | Introdução(Finalidade, Escopo)                                           | Lucas S.      |
+|  23/03/2016   |  1.1   | Introdução(Finalidade, Escopo)                                           | Lucas S.      |
 
 
 -------------------------------------------------------------------
