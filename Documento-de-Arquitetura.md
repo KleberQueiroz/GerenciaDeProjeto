@@ -1,3 +1,5 @@
+# Documento de Arquitetura
+
 ## Histórico de Revisões
 
 |      Data     | Versão | Descrição                                                                | Autor         |
@@ -34,8 +36,7 @@
 
 ### 1.2 Escopo
 
-	Este documento foi construido sobre a visão arquitetural utilizada para implementação da UnBMapa. Esta aplicação web, servirá como uma forma de poder-se localizar no extenso campus Darcy Ribeiro pertencente à Universidade de Brasília.
-
+	Este documento foi construído sobre a visão arquitetural utilizada para implementação da UnBMapa. Esta aplicação web, servirá como uma forma de poder-se localizar no extenso campus Darcy Ribeiro pertencente à Universidade de Brasília.
 
 ## 2) Representação da Arquitetura
 
