@@ -32,7 +32,12 @@
 
 ### 1.1 Finalidade
 
+	A finalidade deste artefato é apresentar a arquitetura escolhida para a construção da aplicação web UnbMapa. Serão expostas as visões arquiteturais utilizadas tendo como objetivo deixar de forma explicita as decisões estabelecidas.
+
 ### 1.2 Escopo
+
+	Este documento foi construido sobre a visão arquitetural utilizada para implementação da UnBMapa. Esta aplicação web, servirá como uma forma de poder-se localizar no extenso campus Darcy Ribeiro pertencente à Universidade de Brasília.
+
 
 ## 2) Representação da Arquitetura
 
