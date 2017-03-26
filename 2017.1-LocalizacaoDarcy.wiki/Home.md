@@ -26,7 +26,7 @@
 |Kairon	Velozo Brito		|  <kairon.vzb@gmail.com>  | [kairon-v](https://github.com/kairon-v) |
 
 ## Coaches
-| **Nome**          | **__Email__**                 | **GitHub**                                              | **Time** |
+| **Nome**          | **__Email__**                 | **GitHub**                                              | **Equipe** |
 |-------------------|-------------------------------|---------------------------------------------------------|----------|
 | Vinicius Bandeira | <bandeiravinicius0@gmail.com> | [viniciusbandeira](https://github.com/viniciusbandeira) | MDS      |
 | Daniel Teles      | <danieelteles@gmail.com>      | [danielteles](https://github.com/danielteles)           | GPP      |
