@@ -23,7 +23,23 @@ Os requisitos são a base de todo e qualquer projeto. Este documento visa estabe
 
 * **Entrevista com Cliente**
 
+ Considerando o fato de que o cliente está geograficamente distante das equipes de gerência e desenvolvimento, foi aplicada a técnica de entrevista com o objetivo de se ter uma noção inicial do projeto. Neste caso a entrevista teve um aspecto mais informal, com um tom de conversa, para entendimento do domínio da aplicação e do problema e assim identifição inicial dos requisitos.
+
 * **Brainstorming entre a equipe**
+
+ Com as informações obtidas na entrevista com o cliente, foi apresentado para a equipe essa visão do problema e do domínio. Com essa visão foi feito um *brainstorming* a fim de levantar os requisitos. Depois de todos darem a sua opinião foi feita a análise e negociação desses requisitos.
+ 
+* **Questionário**
+
+ O questionário foi usado para validar com os futuros usuários da aplicação se a solução proposta está de acordo com as suas necessidades.
+
+* **Prototipação**
+
+ Criação de  protótipos de telas contendo as possíveis entradas e saídas do sistema. Assim, o usuário tem uma maior compreensão de como os requisitos serão aplicados dentro do sistema. 
+
+##### Justificativas:
+
+As técnicas selecionadas não necessitam de uma aproximação constante do cliente ao processo e não requerem grande disponibilidade das equipes para que a interação aconteça.
 
 ## 3. Gerenciamento da priorização e atributos de requisitos
 
@@ -41,4 +57,6 @@ A priorização dos requisitos se deu por meio da experiência da equipe de ger�
 
 Os índices iniciados com as letras 'PR' são problemas, com as letras 'NE' são necessidades, com as letras 'CA' são características, com a letra 'R' são requisitos e com as letras 'UC' são casos de uso. 
 
-## 4. Rastreabilidade
+## 4. Gerência de Requisitos
+
+###  Rastreabilidade
