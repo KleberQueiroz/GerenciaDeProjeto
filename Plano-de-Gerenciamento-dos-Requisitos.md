@@ -62,7 +62,7 @@ Os índices iniciados com as letras 'PR' são problemas, com as letras 'NE' são
 ###  Rastreabilidade
 
 ##### 4.1 Problema
-d
+
 | **ID**   | **Problema**     |
 |----------|-----------------|
 | Problema | A dificuldade das pessoas de se localizarem pelos edifícios e salas no campus Darcy Ribeiro |
