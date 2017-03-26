@@ -61,7 +61,7 @@ Os índices iniciados com as letras 'PR' são problemas, com as letras 'NE' são
 
 ###  Rastreabilidade
 
-##### 4.1 Problema
+#### 4.1 Problema
 
 | **ID**   | **Problema**     |
 |----------|-----------------|
