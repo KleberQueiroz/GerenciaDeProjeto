@@ -31,7 +31,7 @@ Os requisitos são a base de todo e qualquer projeto. Este documento visa estabe
  
 * **Questionário**
 
- O questionário foi usado para validar com os futuros usuários da aplicação se a solução proposta está de acordo com as suas necessidades.
+ O questionário foi usado para validar com os futuros usuários da aplicação se a solução proposta está de acordo com as suas necessidades. Além disso, as técnicas vão de acordo com o processo de desenvolvimento adotado.
 
 * **Prototipação**
 
