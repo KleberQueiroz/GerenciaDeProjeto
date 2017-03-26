@@ -67,3 +67,12 @@ Os índices iniciados com a letra 'P' são problemas, com as letras 'NE' são ne
 | **ID**   | **Problema**     | **Descrição**|
 |----------|-----------------|---------------|
 | **P01** | Dificuldade de localização |A dificuldade das pessoas de se localizarem pelos edifícios e salas no campus Darcy Ribeiro afeta estudantes, servidores e visitantes da universidade, cujo impacto é a demora para encontrar e chegar à determinado lugar na universidade, causando atrasos.|
+
+#### 4.2 Necessidades
+| **ID**   | **Problema**     | **Descrição**|
+|----------|-----------------|---------------|
+|**NE01**|||
+|**NE01**|||
+|**NE01**|||
+|**NE01**|||
+|**NE01**|||
