@@ -71,8 +71,11 @@ Os índices iniciados com a letra 'P' são problemas, com as letras 'NE' são ne
 #### 4.2 Necessidades
 | **ID**   | **Problema**     | **Descrição**|
 |----------|-----------------|---------------|
-|**NE01**|||
-|**NE01**|||
-|**NE01**|||
-|**NE01**|||
-|**NE01**|||
+|**NE01**|Localização de Prédios|A falta de sinalização e o grande número e espaçamento dos prédios dificulta a localização dos mesmos.|
+|**NE02**|Localização de Departamentos|A falta de sinalização e o grande número de departamentos nos vários prédios dificultam a sua localização.|
+|**NE03**|Localização de Salas de Aula|Os alunos sentem a necessidade de saber onde ficam as suas salas de aula, assim não precisam ficar perdendo tempo procurando.|
+|**NE04**|Localização de Salas de Professores|Os alunos sentem a necessidade de saber onde fica a sala de tal professor com mais facilidade, em vez de toda vez que precisarem, perguntar ao professor.|
+|**NE05**|Localização de Laboratórios|Muitos alunos e professores contribuem para a universidade com pesquisa científica e por isso é fundamental saber a localização dos laboratórios.|
+|**NE06**|Localização de locais de alimentação|Saber a localização do RU ou de alguma outra lanchonete é fundalmental para os alunos.|
+|**NE07**|Localização de centros acadêmicos|Para fazer novas amizades e conhecer gente nova, é essencial saber onde ficam os centros acadêmicos.|
+|**NE08**|Indicar trajetos entre locais|Além de saber onde fica, é importante saber como chegar.|
