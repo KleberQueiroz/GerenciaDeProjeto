@@ -64,6 +64,6 @@ Os índices iniciados com as letras 'PR' são problemas, com as letras 'NE' são
 
 #### 4.1 Problema
 
-| **ID**   | **Problema**     |
-|----------|-----------------|
-| Problema | A dificuldade das pessoas de se localizarem pelos edifícios e salas no campus Darcy Ribeiro |
+| **ID**   | **Problema**     | **Descrição**|
+|----------|-----------------|---------------|
+| Problema | A dificuldade das pessoas de se localizarem pelos edifícios e salas no campus Darcy Ribeiro |Afeta	estudantes, servidores e visitantes da universidade, cujo impacto é a demora para encontrar e chegar à determinado lugar na universidade, causando atrasos.|
