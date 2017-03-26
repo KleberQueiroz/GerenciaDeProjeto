@@ -30,3 +30,4 @@
 |              **Nome**                |            **__Email__**              |      **GitHub** |
 |:-------------------------------:|:---------------------------:|:---------------------------:| 
 |Vinicius Bandeira | <bandeiravinicius0@gmail.com>    | [viniciusbandeira](https://github.com/viniciusbandeira)|
+|Daniel Teles |   | |
