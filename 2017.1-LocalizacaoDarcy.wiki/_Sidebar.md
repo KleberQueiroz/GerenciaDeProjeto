@@ -11,7 +11,7 @@
 
 :white_check_mark: [Plano de Treinamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Treinamento)
 
-:arrows_counterclockwise: [Cronograma](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Cronograma)
+:white_check_mark: [Cronograma](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Cronograma)
 
 :white_check_mark: [Plano de Gerenciamento de Projeto](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Gerenciamento-de-Projeto)
 
@@ -19,7 +19,7 @@
 
 :ballot_box_with_check: [Plano de Gerenciamento do Escopo]()
 
-:arrows_counterclockwise: [Estrutura Analítica do Projeto (EAP)](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Estrutura-Analitica-do-Projeto)
+:white_check_mark: [Estrutura Analítica do Projeto (EAP)](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Estrutura-Analitica-do-Projeto)
 
 :white_check_mark: [Plano de Gerenciamento de Comunicação](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Comunica%C3%A7%C3%A3o)
 
