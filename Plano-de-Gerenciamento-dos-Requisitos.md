@@ -88,12 +88,10 @@ A rastreabilidade se dará pela seguinte classificação de níveis: Problema, N
 |----------|-----------------|---------------|
 |**R01**|Localizar Edifícios|O sistema deve apresentar ao usuário a localização dos vários edifícios dentro do campus.|
 |**R02**|Localizar Departamentos|O sistema deve apresentar ao usuário a localização dos vários departamentos dentro do campus.|
-|**R03**|Localizar Salas de Aula|O sistema deve apresentar ao usuário a localização das salas de aula dentro do campus.|
-|**R04**|Localizar Salas de Professores|O sistema deve apresentar ao usuário a localização das salas de professores dentro do campus.|
-|**R05**|Localizar Laboratórios|O sistema deve apresentar ao usuário a localização dos laboratórios de pesquisa dentro do campus.|
-|**R06**|Localizar locais de alimentação|O sistema deve apresentar ao usuário a localização dos locais de alimentação dentro do campus.|
-|**R07**|Localizar centros acadêmicos|O sistema deve apresentar ao usuário a localização dos centros acadêmicos dentro do campus.|
-|**R08**|Indicar trajetos entre locais|O sistema deve apresentar rotas, partindo da localização atual do usuário até o destino desejado.|
+|**R03**|Localizar Salas|O sistema deve apresentar ao usuário a localização das salas dentro do campus.|
+|**R04**|Localizar locais de alimentação|O sistema deve apresentar ao usuário a localização dos locais de alimentação dentro do campus.|
+|**R05**|Localizar centros acadêmicos|O sistema deve apresentar ao usuário a localização dos centros acadêmicos dentro do campus.|
+|**R06**|Indicar trajetos entre locais|O sistema deve apresentar rotas, partindo da localização atual do usuário até o destino desejado.|
 
 #### 4.5 Casos de Uso
 
@@ -110,3 +108,7 @@ A rastreabilidade se dará pela seguinte classificação de níveis: Problema, N
 |**UC09**|Visualizar Centros Acadêmicos|Apresenta ao usuário a localização dos centros acadêmicos dentro do campus.|
 |**UC10**|Visualizar Locais de Alimentação|Apresenta ao usuário a localização dos locais de alimentação dentro do campus.|
 |**UC11**|Traçar rotas|Permite ao usuário, partindo da sua localização atual, traçar rotas para chegar a um destino desejado.|
+
+#### 4.6 Matriz de rastreabilidade
+
+[Imgur](http://i.imgur.com/ApuEW2Z.png)
