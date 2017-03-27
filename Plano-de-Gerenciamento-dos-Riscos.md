@@ -5,15 +5,56 @@
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
 |27/03/2017|1.0|Estrutura de Tópicos e Planilha de Riscos|Daniel Moura e Eduardo Gomes|
+|27/03/2017|1.1|Adição de Conteúdo aos Tópicos|Eduardo Gomes|
 
 ***
 
 ## Sumário
 
-1.   [Análise de Riscos Negativos](#1-Analise-de-riscos-negativos)
-2.   [Análise de Riscos Positivos](#1-Analise-de-riscos-positivos)
 
-## 1. Análise de Riscos Negativos
+[1. Introdução](#1-introdução)  
+
+[2. Processo de gerenciamento dos riscos](#2-processo-de-gerenciamento-dos-riscos)
+
+[3. Metodologia](#3-metodologia)
+
+[4. Papéis e responsabilidades](#4-papéis-e-responsabilidades)
+
+[5. Frequência de avaliação](#5-frequência-de-avaliação)
+
+[6. Categoria dos riscos](#6-categoria-dos-riscos)
+
+[7. Definições de probabilidade e impacto dos riscos](#7-definições-de-probabilidade-e-impacto-dos-riscos)
+
+[7.1 Probabilidade](#71-probabilidade)
+
+[7.2 Impacto](#72-impacto)
+
+[8. Matriz de probabilidade e impacto](#8-matriz-de-probabilidade-e-impacto)
+
+[8.1 Prioridade](#81-prioridade)
+
+[9. Análise e resposta dos riscos negativos](#9-análise-e-resposta-dos-riscos-negativos)
+
+[10. Análise e resposta dos riscos positivos](#10-análise-e-resposta-dos-riscos-positivos)
+
+[11. Referências Bibliográficas](#11-referências-bibliográficas)
+
+## 1. Introdução
+
+Um risco é caracterizado pela probabilidade de um evento resultar em um impacto negativo em um projeto. O gerenciamento de risco tem como característica identificar e analisar cada potencial impacto de cada risco e desenvolver estratégias para lidar com cada um e minimizar seus impactos negativos (PMBOK, 2013). Mas não somente existem os riscos negativos, por sua vez, os riscos positivos também podem afetar um projeto. O gerenciamento correto de riscos e aplicação de ações corretivas tem como resultado uma probabilidade maior do sucesso de um projeto.
+
+## 2. Processo de gerenciamento dos riscos
+## 3. Metodologia
+## 4. Papéis e responsabilidades
+## 5. Frequência de avaliação
+## 6. Categoria dos riscos
+## 7. Definições de probabilidade e impacto dos riscos
+### 7.1 Probabilidade
+### 7.2 Impacto
+## 8. Matriz de probabilidade e impacto
+### 8.1 Prioridade
+## 9. Análise e resposta dos riscos negativos
 
 |                                  Risco                                  |                                                    Efeito                                                   | Probabilidade | Impacto |                                                                   Ação                                                                  | Estratégia | Responsável |
 |:-----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:-------------:|:-------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:-----------:|
@@ -34,10 +75,14 @@
 |               Utilização superior a capacidade do sistema               |                                Sobrecarregamento dos servidores da aplicação                                |     Média     |  Médio  |                                  Aumentar a capacidade de armazenamento e processamento dos servidores                                  |   Mitigar  |  Alexandre  |
 |        Arquitetura não estar sólida para a construção do sistema        |                     Possibilidade de a aplicação não conseguir ser construída e entregue                    |     Baixa     |   Alto  |                          Implementar as funcionalidades críticas primeiro para validar a arquitetura utilizada                          |   Evitar   |    Brasil   |
 
-## 2. Análise de Riscos Positivos
+## 10. Análise e resposta dos riscos positivos
 
 |             Risco            |                               Efeito                              | Probabilidade | Impacto |                                     Ação                                    | Estratégia | Responsável |
 |:----------------------------:|:-----------------------------------------------------------------:|:-------------:|:-------:|:---------------------------------------------------------------------------:|:----------:|:-----------:|
 | Alta produtividade da equipe |               Termino do projeto antes do planejado               |     Média     |   Alto  | Revisar artefatos, refatoração do código, inclusão de novas funcionalidades |   Aceitar  |    Todos    |
 |  Alto utilização do sistema  | Elevada quantidade de usuários acessando o sistema ao mesmo tempo |     Média     |   Alto  |     Aumentar capacidade de servidores e acessos a API de mapas do Google    |   Aceitar  |   Matheus   |
 |     Satisfação do cliente    |        Continuidade do projeto e aumentos de investimentos        |     Média     |   Alto  |                Reunião da equipe quanto ao futuro do projeto                |   Aceitar  |    Todos    |
+
+## 11. Referências
+
+PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
