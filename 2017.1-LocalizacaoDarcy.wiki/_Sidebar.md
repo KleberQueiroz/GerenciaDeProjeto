@@ -31,7 +31,7 @@
 
 :arrows_counterclockwise: [Plano de Gerenciamento dos Riscos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-dos-Riscos)
 
-:arrows_counterclockwise: [Plano de Gerenciamento dos Requisitos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-dos-Requisitos#1-introdu%C3%A7%C3%A3o)
+:white_check_mark: [Plano de Gerenciamento dos Requisitos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-dos-Requisitos)
 
 :ballot_box_with_check: [Plano de Gerenciamento de Configuração e Mudanças]()
 
