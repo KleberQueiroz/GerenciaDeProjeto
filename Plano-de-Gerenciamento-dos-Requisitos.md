@@ -86,12 +86,27 @@ A rastreabilidade se dará pela seguinte classificação de níveis: Problema, N
 #### 4.4 Requisitos
 | **ID**   | **Requisito**     | **Descrição**|
 |----------|-----------------|---------------|
-|**R01**|Localizar Prédios|A falta de sinalização e o grande número e espaçamento dos prédios dificulta a localização dos mesmos.|
-|**R02**|Localizar Departamentos|A falta de sinalização e o grande número de departamentos nos vários prédios dificultam a sua localização.|
-|**R03**|Localizar Salas de Aula|Os alunos sentem a necessidade de saber onde ficam as suas salas de aula, assim não precisam ficar perdendo tempo procurando.|
-|**R04**|Localizar Salas de Professores|Os alunos sentem a necessidade de saber onde fica a sala de tal professor com mais facilidade, em vez de toda vez que precisarem, perguntar ao professor.|
-|**R05**|Localizar Laboratórios|Muitos alunos e professores contribuem para a universidade com pesquisa científica e por isso é fundamental saber a localização dos laboratórios.|
-|**R06**|Localizar locais de alimentação|Saber a localização do RU ou de alguma outra lanchonete é fundalmental para os alunos.|
-|**R07**|Localizar centros acadêmicos|Para fazer novas amizades e conhecer gente nova, é essencial saber onde ficam os centros acadêmicos.|
-|**R08**|Indicar trajetos entre locais|Além de saber onde fica, é importante saber como chegar.|
+|**R01**|Localizar Edifícios|O sistema deve apresentar ao usuário a localização dos vários edifícios dentro do campus.|
+|**R02**|Localizar Departamentos|O sistema deve apresentar ao usuário a localização dos vários departamentos dentro do campus.|
+|**R03**|Localizar Salas de Aula|O sistema deve apresentar ao usuário a localização das salas de aula dentro do campus.|
+|**R04**|Localizar Salas de Professores|O sistema deve apresentar ao usuário a localização das salas de professores dentro do campus.|
+|**R05**|Localizar Laboratórios|O sistema deve apresentar ao usuário a localização dos laboratórios de pesquisa dentro do campus.|
+|**R06**|Localizar locais de alimentação|O sistema deve apresentar ao usuário a localização dos locais de alimentação dentro do campus.|
+|**R07**|Localizar centros acadêmicos|O sistema deve apresentar ao usuário a localização dos centros acadêmicos dentro do campus.|
+|**R08**|Indicar trajetos entre locais|O sistema deve apresentar rotas, partindo da localização atual do usuário até o destino desejado.|
 
+#### 4.5 Casos de Uso
+
+| **ID**   | **Caso de Uso**     | **Descrição**|
+|----------|-----------------|---------------|
+|**UC01**|Manter Edifícios|Permite a criação, leitura, exclusão e alteração de edifícios.|
+|**UC02**|Manter Salas|Permite a criação, leitura, exclusão e alteração de salas.|
+|**UC03**|Manter Departamentos|Permite a criação, leitura, exclusão e alteração de departamentos.|
+|**UC04**|Manter Centros Acadêmicos|Permite a criação, leitura, exclusão e alteração de centros acadêmicos.|
+|**UC05**|Visualizar Informações Sobre Edifício|Apresenta para o usuário qual o nome do edifício e quais departamentos e salas estão ali dentro. |
+|**UC06**|Pesquisar Edifícios|Permite ao usuário a busca um edifício a fim de saber a sua localização.|
+|**UC07**|Pesquisar Sala|Permite ao usuário a busca uma sala a fim de saber a sua localização.|
+|**UC08**|Pesquisar Departamento|Permite ao usuário a busca um departamento a fim de saber a sua localização.|
+|**UC09**|Visualizar Centros Acadêmicos|Apresenta ao usuário a localização dos centros acadêmicos dentro do campus.|
+|**UC10**|Visualizar Locais de Alimentação|Apresenta ao usuário a localização dos locais de alimentação dentro do campus.|
+|**UC11**|Traçar rotas|Permite ao usuário, partindo da sua localização atual, traçar rotas para chegar a um destino desejado.|
