@@ -74,7 +74,7 @@ A rastreabilidade se dará pela seguinte classificação de níveis: Problema, N
 
 | **ID**   | **Necessidade**     | **Descrição**|
 |----------|-----------------|---------------|
-|**NE01**|Orientar o aluno dentro do campus|Atualmente, a localização dentro do campus conta apenas com marcações de teto que muitas vezes são de difícil visualização.|
+|**NE01**|Orienteção dentro do campus|Atualmente, a localização dentro do campus conta apenas com marcações de teto que muitas vezes são de difícil visualização.|
 
 #### 4.3 Características
 
