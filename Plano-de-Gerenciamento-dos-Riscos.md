@@ -10,7 +10,10 @@
 
 ## Sumário
 
-1.   [Análise de Riscos](#1-Analise-de-riscos)
+1.   [Análise de Riscos Negativos](#1-Analise-de-riscos-negativos)
+2.   [Análise de Riscos Positivos](#1-Analise-de-riscos-positivos)
+
+## 1. Análise de Riscos Negativos
 
 |                                  Risco                                  |                                                    Efeito                                                   | Probabilidade | Impacto |                                                                   Ação                                                                  | Estratégia | Responsável |
 |:-----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:-------------:|:-------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:-----------:|
@@ -30,3 +33,11 @@
 |              Incompatibilidade de horários durante a semana             | Baixa transferência de conhecimento entre a equipe  e baixa integração entre as funcionalidades do software |     Média     |  Médio  | Reuniões não presenciais, reuniões com menos integrantes, onde cada subgrupo informe o que aconteceu na reunião para o resto da equipe  |   Mitigar  |    Todos    |
 |               Utilização superior a capacidade do sistema               |                                Sobrecarregamento dos servidores da aplicação                                |     Média     |  Médio  |                                  Aumentar a capacidade de armazenamento e processamento dos servidores                                  |   Mitigar  |  Alexandre  |
 |        Arquitetura não estar sólida para a construção do sistema        |                     Possibilidade de a aplicação não conseguir ser construída e entregue                    |     Baixa     |   Alto  |                          Implementar as funcionalidades críticas primeiro para validar a arquitetura utilizada                          |   Evitar   |    Brasil   |
+
+## 2. Análise de Riscos Positivos
+
+|             Risco            |                               Efeito                              | Probabilidade | Impacto |                                     Ação                                    | Estratégia | Responsável |
+|:----------------------------:|:-----------------------------------------------------------------:|:-------------:|:-------:|:---------------------------------------------------------------------------:|:----------:|:-----------:|
+| Alta produtividade da equipe |               Termino do projeto antes do planejado               |     Média     |   Alto  | Revisar artefatos, refatoração do código, inclusão de novas funcionalidades |   Aceitar  |    Todos    |
+|  Alto utilização do sistema  | Elevada quantidade de usuários acessando o sistema ao mesmo tempo |     Média     |   Alto  |     Aumentar capacidade de servidores e acessos a API de mapas do Google    |   Aceitar  |   Matheus   |
+|     Satisfação do cliente    |        Continuidade do projeto e aumentos de investimentos        |     Média     |   Alto  |                Reunião da equipe quanto ao futuro do projeto                |   Aceitar  |    Todos    |
