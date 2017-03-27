@@ -113,3 +113,5 @@ A rastreabilidade se dará pela seguinte classificação de níveis: Problema, N
 #### 4.6 Matriz de rastreabilidade
 
 ![Imgur](http://i.imgur.com/CVCbacj.png)
+
+[Clique aqui para visualizar melhor](http://i.imgur.com/CVCbacj.png)
