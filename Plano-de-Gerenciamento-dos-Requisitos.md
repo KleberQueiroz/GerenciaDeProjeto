@@ -3,9 +3,9 @@
 |:----:|:------:|:---------:|:-----:|
 |22/03/2017|1.0|Criando estutura do documento|Rafael Rabetti|
 |23/03/2017|1.0|Introdução e gerenciamento |Rafael Rabetti|
-|26/03/2017|1.0|Processo e gerência |Rafael Rabetti|
+|26/03/2017|1.01|Processo e gerência |Rafael Rabetti|
 |26/03/2017|1.1|Rastreabilidade |Rafael Rabetti|
-|27/03/2017|1.1|Matriz de Rastreabilidade |Rafael Rabetti|
+|27/03/2017|1.2|Matriz de Rastreabilidade |Rafael Rabetti|
 
 
 ***
