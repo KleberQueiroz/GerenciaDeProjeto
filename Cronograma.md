@@ -5,14 +5,15 @@
 |:----:|:------:|:---------:|:-----:|
 |19/03/2017|1.0|Criação do Cronograma Preliminar|Eduardo Brasil|
 |25/03/2017|2.0|Cronograma versão 1|Eduardo Gomes|
+|27/03/2017|2.1|Edição Imagem Cronograma|Eduardo Gomes|
 
 ***
 
 ## Cronograma V1
 
-[![Cronograma GPP/MDS (1).png](https://s3.postimg.org/mqkgp7d3n/Cronograma_GPP_MDS_1.png)](https://postimg.org/image/k98phxt73/)
+[![Cronograma GPP/MDS (1).png](https://s18.postimg.org/7abkexxll/Cronograma_GPP_MDS_1.png)](https://postimg.org/image/9rnbm7hhx/)
 
-[Link para a imagem](https://s24.postimg.org/9vlxf8zcl/Captura_de_tela_de_2017-03-25_23-43-16.png)
+[Link para a imagem](https://s18.postimg.org/7abkexxll/Cronograma_GPP_MDS_1.png)
 
 ## Cronograma Preliminar
 
