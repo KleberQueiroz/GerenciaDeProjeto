@@ -25,15 +25,15 @@ Os requisitos são a base de todo e qualquer projeto. Este documento visa estabe
 
 * **Entrevista com Cliente**
 
- Considerando o fato de que o cliente está geograficamente distante das equipes de gerência e desenvolvimento, foi aplicada a técnica de entrevista com o objetivo de se ter uma noção inicial do projeto. Neste caso a entrevista teve um aspecto mais informal, com um tom de conversa, para entendimento do domínio da aplicação e do problema e assim identifição inicial dos requisitos.
+ Considerando o fato de que o cliente está geograficamente distante das equipes de gerência e desenvolvimento, será aplicada a técnica de entrevista com o objetivo de se ter uma noção inicial do projeto. Neste caso a entrevista terá um aspecto mais informal, com um tom de conversa, para entendimento do domínio da aplicação e do problema e assim identifição inicial dos requisitos.
 
 * **Brainstorming entre a equipe**
 
- Com as informações obtidas na entrevista com o cliente, foi apresentado para a equipe essa visão do problema e do domínio. Com essa visão foi feito um *brainstorming* a fim de levantar os requisitos. Depois de todos darem a sua opinião foi feita a análise e negociação desses requisitos.
+ Com as informações obtidas na entrevista com o cliente, será apresentado para a equipe essa visão do problema e do domínio. Com essa visão será feito um *brainstorming* a fim de levantar os requisitos. Depois de todos darem a sua opinião será feita a análise e negociação desses requisitos.
  
 * **Questionário**
 
- O questionário foi usado para validar com os futuros usuários da aplicação se a solução proposta está de acordo com as suas necessidades. Além disso, as técnicas vão de acordo com o processo de desenvolvimento adotado.
+ O questionário será usado para validar com os futuros usuários da aplicação se a solução proposta está de acordo com as suas necessidades.
 
 * **Prototipação**
 
@@ -41,7 +41,7 @@ Os requisitos são a base de todo e qualquer projeto. Este documento visa estabe
 
 ##### Justificativas:
 
-As técnicas selecionadas não necessitam de uma aproximação constante do cliente ao processo e não requerem grande disponibilidade das equipes para que a interação aconteça.
+As técnicas selecionadas não necessitam de uma aproximação constante do cliente ao processo e não requerem grande disponibilidade das equipes para que a interação aconteça.  Além disso, as técnicas vão de acordo com o processo de desenvolvimento adotado.
 
 ## 3. Gerenciamento da priorização e atributos de requisitos
 
@@ -55,14 +55,14 @@ A priorização dos requisitos se deu por meio da experiência da equipe de ger�
 
    * Risco
 
-   * Esforço
-
-Os índices iniciados com a letra 'P' são problemas, com as letras 'NE' são necessidades, com as letras 'CA' são características, com a letra 'R' são requisitos e com as letras 'UC' são casos de uso. 
+   * Esforço 
 
 ## 4. Gerência de Requisitos
 
 ###  Rastreabilidade
 
+A rastreabilidade se dará pela seguinte classificação de níveis: Problema, Necessidades, Características, Requisitos Funcionais e Não-Funcionais e Casos de uso. De acordo com esses níveis de rastreabilidade, o nível de impacto do projeto caso haja alguma mudança em algum, segue a mesma lógica. Sendo o maior impacto se houver mudança no Problema e o menor impacto se houver mudança no Caso de Uso. Os índices iniciados com a letra 'P' são problemas, com as letras 'NE' são necessidades, com as letras 'CA' são características, com a letra 'R' são requisitos e com as letras 'UC' são casos de uso.
+  
 #### 4.1 Problema
 
 | **ID**   | **Problema**     | **Descrição**|
@@ -80,3 +80,5 @@ Os índices iniciados com a letra 'P' são problemas, com as letras 'NE' são ne
 |**NE06**|Localização de locais de alimentação|Saber a localização do RU ou de alguma outra lanchonete é fundalmental para os alunos.|
 |**NE07**|Localização de centros acadêmicos|Para fazer novas amizades e conhecer gente nova, é essencial saber onde ficam os centros acadêmicos.|
 |**NE08**|Indicar trajetos entre locais|Além de saber onde fica, é importante saber como chegar.|
+
+#### 4.3 Características
