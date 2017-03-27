@@ -18,17 +18,17 @@
 
 4. [Gerência de requisitos](#4-gerência-de-requisitos)
 
-  4.1 [Problemas](#41-problemas)
+    4.1 [Problemas](#41-problemas)
 
-  4.2 [Necessidades](#42-necessidades)
+    4.2 [Necessidades](#42-necessidades)
 
-  4.3 [Características](#43-características)
+    4.3 [Características](#43-características)
 
-  4.4 [Requisitos](#44-requisitos)
+    4.4 [Requisitos](#44-requisitos)
 
-  4.5 [Casos de uso](#45-casos-de-uso)
+    4.5 [Casos de uso](#45-casos-de-uso)
 
-  4.6 [Matriz de rastreabilidade](#46-matriz-de-rastreabilidade)
+    4.6 [Matriz de rastreabilidade](#46-matriz-de-rastreabilidade)
 
 ## 1. Introdução
 
