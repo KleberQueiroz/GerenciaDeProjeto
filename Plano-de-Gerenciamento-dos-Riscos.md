@@ -11,50 +11,58 @@
 
 ## Sumário
 
-
 [1. Introdução](#1-introdução)  
 
-[2. Processo de gerenciamento dos riscos](#2-processo-de-gerenciamento-dos-riscos)
+[2. Metodologia](#3-metodologia)
 
-[3. Metodologia](#3-metodologia)
+[3. Papéis e responsabilidades](#4-papéis-e-responsabilidades)
 
-[4. Papéis e responsabilidades](#4-papéis-e-responsabilidades)
+[4. Frequência de avaliação](#5-frequência-de-avaliação)
 
-[5. Frequência de avaliação](#5-frequência-de-avaliação)
+[5. Categoria dos riscos](#6-categoria-dos-riscos)
 
-[6. Categoria dos riscos](#6-categoria-dos-riscos)
+[6. Definições de probabilidade e impacto dos riscos](#7-definições-de-probabilidade-e-impacto-dos-riscos)
 
-[7. Definições de probabilidade e impacto dos riscos](#7-definições-de-probabilidade-e-impacto-dos-riscos)
+[6.1 Probabilidade](#71-probabilidade)
 
-[7.1 Probabilidade](#71-probabilidade)
+[6.2 Impacto](#72-impacto)
 
-[7.2 Impacto](#72-impacto)
+[7. Matriz de probabilidade e impacto](#8-matriz-de-probabilidade-e-impacto)
 
-[8. Matriz de probabilidade e impacto](#8-matriz-de-probabilidade-e-impacto)
+[7.1 Prioridade](#81-prioridade)
 
-[8.1 Prioridade](#81-prioridade)
+[8. Análise e resposta dos riscos negativos](#9-análise-e-resposta-dos-riscos-negativos)
 
-[9. Análise e resposta dos riscos negativos](#9-análise-e-resposta-dos-riscos-negativos)
+[9. Análise e resposta dos riscos positivos](#10-análise-e-resposta-dos-riscos-positivos)
 
-[10. Análise e resposta dos riscos positivos](#10-análise-e-resposta-dos-riscos-positivos)
-
-[11. Referências Bibliográficas](#11-referências-bibliográficas)
+[10. Referências Bibliográficas](#11-referências-bibliográficas)
 
 ## 1. Introdução
 
 Um risco é caracterizado pela probabilidade de um evento resultar em um impacto negativo em um projeto. O gerenciamento de risco tem como característica identificar e analisar cada potencial impacto de cada risco e desenvolver estratégias para lidar com cada um e minimizar seus impactos negativos (PMBOK, 2013). Mas não somente existem os riscos negativos, por sua vez, os riscos positivos também podem afetar um projeto. O gerenciamento correto de riscos e aplicação de ações corretivas tem como resultado uma probabilidade maior do sucesso de um projeto.
 
-## 2. Processo de gerenciamento dos riscos
-## 3. Metodologia
-## 4. Papéis e responsabilidades
-## 5. Frequência de avaliação
-## 6. Categoria dos riscos
-## 7. Definições de probabilidade e impacto dos riscos
-### 7.1 Probabilidade
-### 7.2 Impacto
-## 8. Matriz de probabilidade e impacto
-### 8.1 Prioridade
-## 9. Análise e resposta dos riscos negativos
+## 2. Metodologia
+
+A metodologia adotada para gerenciar os riscos adotado foi a Análise Strengths (forças), Weaknesses (fraquezas), Opportunities (oportunidades) e Threats (ameaças) ou Análise SWOT. Ele é caracterizado como um instrumento para planejamento estrategico que recolhe dados importantes que caracterizam o ambiente interno (forças e fraquezas) e externo (oportunidades e ameaças).
+
+## 3. Papéis e responsabilidades
+
+Os responsáveis pela identificação e análise dos riscos no projeto são os integrantes Eduardo Gomes e Daniel Moura, porém o monitoramento dos riscos se dará pela equipe de GPP.
+
+## 4. Frequência de avaliação
+
+As avaliações de riscos se darão aos sábados que são as reuniões principais da equipe. Caso seja necessária em casos críticos, ela será feita o quanto antes.
+
+## 5. Categoria dos riscos
+
+Os riscos foram representados no EAR (Estrutura Analítica de Riscos). Essa Estrutura apresenta de forma hierarquica a natureza dos riscos e permite uma melhor visualização de causas.
+
+## 6. Definições de probabilidade e impacto dos riscos
+### 6.1 Probabilidade
+### 6.2 Impacto
+## 7. Matriz de probabilidade e impacto
+### 7.1 Prioridade
+## 8. Análise e resposta dos riscos negativos
 
 |                                  Risco                                  |                                                    Efeito                                                   | Probabilidade | Impacto |                                                                   Ação                                                                  | Estratégia | Responsável |
 |:-----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:-------------:|:-------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:-----------:|
