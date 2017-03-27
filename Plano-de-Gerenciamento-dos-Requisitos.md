@@ -29,7 +29,7 @@ Os requisitos são a base de todo e qualquer projeto. Este documento visa estabe
 
 * **Brainstorming entre a equipe**
 
- Com as informações obtidas na entrevista com o cliente, será apresentado para a equipe essa visão do problema e do domínio. Com essa visão será feito um *brainstorming* a fim de levantar os requisitos. Depois de todos darem a sua opinião será feita a análise e negociação desses requisitos.
+ Com as informações obtidas na entrevista com o cliente, será apresentado para a equipe essa visão do problema e do domínio. Com essa visão será feito um *brainstorming* a fim de levantar os requisitos. Depois de todos darem a sua opinião será feita a análise e negociação desses requisitos. 
  
 * **Questionário**
 
@@ -62,23 +62,36 @@ A priorização dos requisitos se deu por meio da experiência da equipe de ger�
 ###  Rastreabilidade
 
 A rastreabilidade se dará pela seguinte classificação de níveis: Problema, Necessidades, Características, Requisitos Funcionais e Não-Funcionais e Casos de uso. De acordo com esses níveis de rastreabilidade, o nível de impacto do projeto caso haja alguma mudança em algum, segue a mesma lógica. Sendo o maior impacto se houver mudança no Problema e o menor impacto se houver mudança no Caso de Uso. Os índices iniciados com a letra 'P' são problemas, com as letras 'NE' são necessidades, com as letras 'CA' são características, com a letra 'R' são requisitos e com as letras 'UC' são casos de uso.
+
   
-#### 4.1 Problema
+#### 4.1 Problemas
 
 | **ID**   | **Problema**     | **Descrição**|
 |----------|-----------------|---------------|
 | **P01** | Dificuldade de localização |A dificuldade das pessoas de se localizarem pelos edifícios e salas no campus Darcy Ribeiro afeta estudantes, servidores e visitantes da universidade, cujo impacto é a demora para encontrar e chegar à determinado lugar na universidade, causando atrasos.|
 
 #### 4.2 Necessidades
-| **ID**   | **Problema**     | **Descrição**|
+
+| **ID**   | **Necessidade**     | **Descrição**|
 |----------|-----------------|---------------|
-|**NE01**|Localização de Prédios|A falta de sinalização e o grande número e espaçamento dos prédios dificulta a localização dos mesmos.|
-|**NE02**|Localização de Departamentos|A falta de sinalização e o grande número de departamentos nos vários prédios dificultam a sua localização.|
-|**NE03**|Localização de Salas de Aula|Os alunos sentem a necessidade de saber onde ficam as suas salas de aula, assim não precisam ficar perdendo tempo procurando.|
-|**NE04**|Localização de Salas de Professores|Os alunos sentem a necessidade de saber onde fica a sala de tal professor com mais facilidade, em vez de toda vez que precisarem, perguntar ao professor.|
-|**NE05**|Localização de Laboratórios|Muitos alunos e professores contribuem para a universidade com pesquisa científica e por isso é fundamental saber a localização dos laboratórios.|
-|**NE06**|Localização de locais de alimentação|Saber a localização do RU ou de alguma outra lanchonete é fundalmental para os alunos.|
-|**NE07**|Localização de centros acadêmicos|Para fazer novas amizades e conhecer gente nova, é essencial saber onde ficam os centros acadêmicos.|
-|**NE08**|Indicar trajetos entre locais|Além de saber onde fica, é importante saber como chegar.|
+|**NE01**|Orientar o aluno dentro do campus|Atualmente, a localização dentro do campus conta apenas com marcações de teto que muitas vezes são de difícil visualização.|
 
 #### 4.3 Características
+
+| **ID**   | **Característica**     | **Descrição**|
+|----------|-----------------|---------------|
+|**CA01**|Mapa com as principais localidades.| Apresentação da localização de salas e edifícios.|
+|**CA02**|Orientação entre localidades| Apresentação de rotas e caminhos entre as principais localidades. |
+
+#### 4.4 Requisitos
+| **ID**   | **Requisito**     | **Descrição**|
+|----------|-----------------|---------------|
+|**R01**|Localizar Prédios|A falta de sinalização e o grande número e espaçamento dos prédios dificulta a localização dos mesmos.|
+|**R02**|Localizar Departamentos|A falta de sinalização e o grande número de departamentos nos vários prédios dificultam a sua localização.|
+|**R03**|Localizar Salas de Aula|Os alunos sentem a necessidade de saber onde ficam as suas salas de aula, assim não precisam ficar perdendo tempo procurando.|
+|**R04**|Localizar Salas de Professores|Os alunos sentem a necessidade de saber onde fica a sala de tal professor com mais facilidade, em vez de toda vez que precisarem, perguntar ao professor.|
+|**R05**|Localizar Laboratórios|Muitos alunos e professores contribuem para a universidade com pesquisa científica e por isso é fundamental saber a localização dos laboratórios.|
+|**R06**|Localizar locais de alimentação|Saber a localização do RU ou de alguma outra lanchonete é fundalmental para os alunos.|
+|**R07**|Localizar centros acadêmicos|Para fazer novas amizades e conhecer gente nova, é essencial saber onde ficam os centros acadêmicos.|
+|**R08**|Indicar trajetos entre locais|Além de saber onde fica, é importante saber como chegar.|
+
