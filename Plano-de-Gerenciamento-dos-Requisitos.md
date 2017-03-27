@@ -111,4 +111,4 @@ A rastreabilidade se dará pela seguinte classificação de níveis: Problema, N
 
 #### 4.6 Matriz de rastreabilidade
 
-![Imgur](http://i.imgur.com/pkYlpAD.png)
+![Imgur](http://i.imgur.com/vJBQX5q.png)
