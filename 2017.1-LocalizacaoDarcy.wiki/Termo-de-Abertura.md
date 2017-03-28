@@ -6,6 +6,8 @@
 |15/03/2017|1.1|Introdução, riscos, cronograma e interessados|Rafael Rabetti|
 |15/03/2017|1.2|Objetivo, Visão geral, Motivação|Eduardo Brasil|
 |22/03/2017|1.3|Objetivo, Visão geral, Motivação|Rafael Rabetti|
+|28/03/2017|1.4|Resumo do Orçamento|Rafael Rabetti|
+
 
 ***
 
@@ -22,11 +24,11 @@
 
 6.   [Resumo do Orçamento](#6-resumo-do-orçamento)
 
-   6.1 [Custos com Recursos Humanos](#61-custos-com-recursos-humanos)
+      6.1 [Custos com Recursos Humanos](#61-custos-com-recursos-humanos)
 
-   6.2 [Custos com Equipamentos e Serviços](#62-custos-com-equipamentos-e-serviços)
+      6.2 [Custos com Equipamentos e Serviços](#62-custos-com-equipamentos-e-serviços)
 
-   6.3 [Estimativa](#63-estimativa)
+      6.3 [Estimativa](#63-estimativa)
 
 7.   [Interessados](#7-interessados)
 
