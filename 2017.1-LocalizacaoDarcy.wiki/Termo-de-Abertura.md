@@ -32,6 +32,12 @@ O presente documento visa introduzir e mostrar as características do projeto Si
 
 Este projeto tem como proposta apresentar um software que auxilie na localização dos visitantes, novos frequentadores e calouros dentro do campus Darcy Ribeiro da Universidade de Brasília. Com isso, objetiva-se que os atrasos em compromissos diminuam e que não haja pessoas desorientadas dentro da universidade.
 
+#### Restrições do projeto
+
+* O Sistema deve ser implementado utilizando a linguagem Ruby com o framework para desenvolvimento web Rails.
+* O sistema deve ser um Web-Site, e deve oferecer suporte aos browsers Google Chrome, Mozilla Firefox, Safari, Internet Explorer e Microsoft Edge. Além disso, o Web-Site deverá ser responsivo, podendo assim ser visualizado nas plataformas mobile.
+* O projeto tem um prazo fixo para ser desenvolvido, pois será desenvolvido por alunos de uma disciplina com duração fixa.
+
 ## 3. Motivação 
 
 Todo início de semestre muitos calouros ficam perdidos no campus Darcy Ribeiro, perguntando onde ficaria tal prédio ou departamento. O novo aluno demora para se habituar com o novo local de estudos, devido à grande dimensão do campus Darcy Ribeiro. Até estar habituado, o aluno se atrasa para as suas aulas e acaba até recebendo falta.  
