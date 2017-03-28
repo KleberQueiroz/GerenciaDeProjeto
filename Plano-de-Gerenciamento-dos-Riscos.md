@@ -102,31 +102,49 @@ Segundo Hillson (2013):
 
 * Estimativa: Condiz com riscos relacionados a erros de estimativas de tempo, esforço, custo do projeto.
 
-
 ## 6. Definições de probabilidade e impacto dos riscos
 
 ### 6.1 Probabilidade
 
-| Probabilidade | Intervalo     | Peso |
-|---------------|---------------|------|
-| Muito Baixa   | Menor que 20% | 1    |
-| Baixa         | De 21% a 40%  | 2    |
-| Média         | De 41% a 60%  | 3    |
-| Alta          | De 61% a 80%  | 4    |
-| Muito Alta    | Acima de 80%  | 5    |
+| Probabilidade |   Intervalo   | Peso |
+|:-------------:|:-------------:|:----:|
+|  Muito Baixa  | Menor que 20% |   1  |
+|     Baixa     |  De 21% a 40% |   2  |
+|     Média     |  De 41% a 60% |   3  |
+|      Alta     |  De 61% a 80% |   4  |
+|   Muito Alta  |  Acima de 80% |   5  |
 
 ### 6.2 Impacto 
 
-| Impacto     | Descrição                                    | Peso |
-|-------------|----------------------------------------------|------|
-| Muito Baixo | Impacto muito pequeno ao projeto             | 1    |
-| Baixo       | Pouco impacto no projeto                     | 2    |
-| Médio       | Impacto considerável, de fácil recuperação   | 3    |
-| Alto        | Impacto grande no desenvolvimento do projeto | 4    |
-| Muito Alto  | O impacto torna o projeto inviável           | 5    |
+|   Impacto   |                   Descrição                  | Peso |
+|:-----------:|:--------------------------------------------:|:----:|
+| Muito Baixo |       Impacto muito pequeno ao projeto       |   1  |
+|    Baixo    |           Pouco impacto no projeto           |   2  |
+|    Médio    |  Impacto considerável, de fácil recuperação  |   3  |
+|     Alto    | Impacto grande no desenvolvimento do projeto |   4  |
+|  Muito Alto |      O impacto torna o projeto inviável      |   5  |
 
 ## 7. Matriz de probabilidade e impacto
+
+
+| Probabilidade X Impacto | Muito Baixo | Baixo | Moderado | Alto | Muito Alto |
+|:-----------------------:|:-----------:|:-----:|:--------:|:----:|:----------:|
+|       Muito Baixa       |      1      |   2   |     3    |   4  |      5     |
+|          Baixa          |      2      |   4   |     6    |   8  |     10     |
+|         Moderada        |      3      |   6   |     9    |  12  |     15     |
+|           Alta          |      4      |   8   |    12    |  16  |     20     |
+|        Muito Alta       |      5      |   10  |    15    |  20  |     25     |
+
 ### 7.1 Prioridade
+
+As prioridades de cada risco foram classificados nos níveis de prioridade Alto, Médio e Baixo de acordo com a matriz de Probabilidade X Risco.
+
+| Prioridade |  Intervalo |
+|:----------:|:----------:|
+|    Baixa   |  De 1 a 5  |
+|    Média   |  De 6 a 15 |
+|    Alta    | De 16 a 25 |
+
 ## 8. Análise e resposta dos riscos negativos
 
 |                                  Risco                                  |                                                    Efeito                                                   | Probabilidade | Impacto |                                                                   Ação                                                                  | Estratégia | Responsável |
