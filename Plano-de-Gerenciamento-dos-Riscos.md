@@ -48,6 +48,8 @@ Um risco é caracterizado pela probabilidade de um evento resultar em um impacto
 
 A metodologia adotada para gerenciar os riscos adotado foi a Análise Strengths (forças), Weaknesses (fraquezas), Opportunities (oportunidades) e Threats (ameaças) ou Análise SWOT. Ele é caracterizado como um instrumento para planejamento estrategico que recolhe dados importantes que caracterizam o ambiente interno (forças e fraquezas) e externo (oportunidades e ameaças).
 
+(imagem em desenvolvimento)
+
 ## 3. Papéis e responsabilidades
 
 Os responsáveis pela identificação e análise dos riscos no projeto são os integrantes Eduardo Gomes e Daniel Moura, porém o monitoramento dos riscos se dará pela equipe de GPP.
@@ -64,7 +66,7 @@ Segundo Hillson (2013):
 
 "Os riscos somente são gerenciáveis quando identificados e documentados de forma clara e precisa; entretanto, a identificação de riscos produz apenas uma grande lista de riscos que é difícil de entender ou gerenciar."
 
-[![Captura de tela de 2017-03-27 21-16-07.png](https://s1.postimg.org/rtsfa0rjz/Captura_de_tela_de_2017-03-27_21-16-07.png)](https://postimg.org/image/n7wb1o60r/)
+[![Captura de tela de 2017-03-27 22-11-50.png](https://s9.postimg.org/3o1wbpdbz/Captura_de_tela_de_2017-03-27_22-11-50.png)](https://postimg.org/image/s4k266e2j/)
 
 ## 5.1 Descrição dos Itens da EAR
 
