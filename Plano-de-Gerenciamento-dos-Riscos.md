@@ -13,29 +13,31 @@
 
 [1. Introdução](#1-introdução)  
 
-[2. Metodologia](#3-metodologia)
+[2. Metodologia](#2-metodologia)
 
-[3. Papéis e responsabilidades](#4-papéis-e-responsabilidades)
+[3. Papéis e responsabilidades](#3-papéis-e-responsabilidades)
 
-[4. Frequência de avaliação](#5-frequência-de-avaliação)
+[4. Frequência de avaliação](#4-frequência-de-avaliação)
 
-[5. Categoria dos riscos](#6-categoria-dos-riscos)
+[5. Categoria dos riscos](#5-categoria-dos-riscos)
 
-[6. Definições de probabilidade e impacto dos riscos](#7-definições-de-probabilidade-e-impacto-dos-riscos)
+[5.1 Categoria dos riscos](#51-descrição-dos-itens-da-ear)
 
-[6.1 Probabilidade](#71-probabilidade)
+[6. Definições de probabilidade e impacto dos riscos](#6-definições-de-probabilidade-e-impacto-dos-riscos)
 
-[6.2 Impacto](#72-impacto)
+[6.1 Probabilidade](#61-probabilidade)
 
-[7. Matriz de probabilidade e impacto](#8-matriz-de-probabilidade-e-impacto)
+[6.2 Impacto](#62-impacto)
 
-[7.1 Prioridade](#81-prioridade)
+[7. Matriz de probabilidade e impacto](#7-matriz-de-probabilidade-e-impacto)
 
-[8. Análise e resposta dos riscos negativos](#9-análise-e-resposta-dos-riscos-negativos)
+[7.1 Prioridade](#71-prioridade)
 
-[9. Análise e resposta dos riscos positivos](#10-análise-e-resposta-dos-riscos-positivos)
+[8. Análise e resposta dos riscos negativos](#8-análise-e-resposta-dos-riscos-negativos)
 
-[10. Referências Bibliográficas](#11-referências-bibliográficas)
+[9. Análise e resposta dos riscos positivos](#9-análise-e-resposta-dos-riscos-positivos)
+
+[10. Referências Bibliográficas](#10-referências-bibliográficas)
 
 ## 1. Introdução
 
@@ -61,6 +63,7 @@ Segundo Hillson (2013):
 
 "Os riscos somente são gerenciáveis quando identificados e documentados de forma clara e precisa; entretanto, a identificação de riscos produz apenas uma grande lista de riscos que é difícil de entender ou gerenciar."
 
+[![Captura de tela de 2017-03-27 21-16-07.png](https://s1.postimg.org/rtsfa0rjz/Captura_de_tela_de_2017-03-27_21-16-07.png)](https://postimg.org/image/n7wb1o60r/)
 
 ## 5.1 Descrição dos Itens da EAR
 
