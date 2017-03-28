@@ -20,17 +20,16 @@
 
 ## 1. Introdução
 
-O objetivo deste documento é apresentar o Plano de Gerenciamento de Custos do projeto LocalizaçãoDarcy e como eles serão planejados, estruturados e controlado(PMBOK, p. 198). Os tópicos abordados serão os processos de gerenciamento de custo, unidades de medida e precisão, procedimentos organizacionais associados, regras de medição de desempenho e formatos de relatório.
+O objetivo deste documento é apresentar o Plano de Gerenciamento de Custos do projeto LocalizaçãoDarcy e como eles serão planejados, estruturados e controlado (PMBOK, p. 198). Os tópicos abordados serão os processos de gerenciamento de custo, unidades de medida e precisão, regras de medição de desempenho e formatos de relatório.
 
 ## 2. Processos de Gerenciamento de Custo
 
 ### 2.1. Estimar Custos
+"É o processo de desenvolvimento de uma estimativa de custos dos recursos monetários necessários para terminar as atividades do projeto. O principal benefício deste processo é a definição dos custos exigidos para concluir os trabalhos do projeto." (2013). Guia PMBOK (5 ed., Vol., pág. 200). GlobalStandart.
 
 ### 2.2. Determinar Orçamento
 Determinar o orçamento agrega os custos estimados das atividades para estabelecer uma linha de base. Foi utilizada a técnica PERT (Program Evaluation and Review Techinique) para estabelecer a duração de todas as atividades, e com base na duração foi calculado o custo de uma atividade multiplicando o valor em horas da atividade pelo custo de trabalho de um estudante por hora.
 O orçamento do projeto será determinado tendo como base a estrutura analítica do projeto (EAP), as estimativas de custo e os recursos necessários ao projeto. Para determinar o orçamento, será utilizada a opinião especializada, sob a ótica da experiência geral da equipe em relação ao desenvolvimento, bem como os recursos mínimos para garantir um fluxo de trabalho constante. Tal atividade terá como saída um documento contendo a linha de base de desempenho dos custos.
-
-
 
 ### 2.3. Controlar Custos
 
@@ -43,11 +42,49 @@ O controle dos custos será feito tendo como base as estimativas explicadas no t
 
 ## 3. Unidades de Medida e Precisão
 
-## 4. Procedimentos Organizacionais Associados
+As unidades de medida dos recursos a serem utilizadas e suas respectivas precisões esperadas estão descritas na tabela abaixo:
+
+| Recurso | Unidade de Medida | Cálculo | Precisão |
+|:---:|:---:|:---:|:---:|
+| Integrante da Equipe de Desenvolvimento | Reais (R$) | (Tempo de Trabalho) x (Preço do Tempo de Trabalho) | Preço do tempo de trabalho em reais e tempo de trabalho em horas |
+| Integrante da Equipe de Gerência | Reais (R$) | (Tempo de Trabalho) x (Preço do Tempo de Trabalho) | Tempo de trabalho em horas e preço do tempo de trabalho em reais |
+| _Coaches_ | Reais (R$) | (Tempo de Trabalho) x (Preço do Tempo de Trabalho) | Tempo de trabalho em horas e preço do tempo de trabalho em reais |
 
 ## 5. Regras de Medição de Desempenho
 
-## 6. Referências Bibliográficas
+A medição de desempenho dos custos será dada pelo Gerenciamento do Valor Agregado (GVA). Esse gerenciamento será baseado na Variação do Custo e no Índice de Desempenho de Custo.
+
+A Variação do Custo (_Cost Variance_ ou CV) é calculada pela diferença entre o Valor Agregado (_Earned Value_ ou EV) e o Custo Real (_Actual Cost_ ou AC).
+<p align = "center" >CV = EV - AC
+
+O Índice de Desempenho de Custo (_Cost Performance Index_ ou CPI) é calculado pela razão entre o Valor Agregado (_Earned Value_ ou EV) e o Custo Real (_Actual Cost_ ou AC).
+<p align = "center" >CPI = EV / AC
+
+## 6 Custos com recursos humanos
+O cálculo hora/aluno foi feito com base no Relatório de Gestão do ano de 2015 da UnB, onde é indicado o custo anual de R$ 11.029,00 para cada aluno. Levando em conta que cada crédito corresponde a 15 horas mensais, e que o curso requer 240 créditos para ser concluído, chegamos ao total de 720 horas anuais.
+
+1. Custo médio por aluno/hora[CaH]:
+
+2. ((custo anual por aluno)))÷((Créditos da Engenharia de Software ÷ 5 anos) × 15 horas por crédito)
+** ((R$ 11.029,00) ÷ ((240 ÷ 5 ) × 15)) = R$ 15,30 /h
+
+Este valor serviu para estimarmos o custo da mão de obra, o cálculo foi feito utilizando a seguinte fórmula: 10hrs/semana × R$ 15,3/hr × 13 integrantes equipe.
+
+## 7	Custos com aquisições
+### 7.1	Notebooks
+Os notebooks utilizados no projeto foram adquiridos individualmente por cada membro da equipe, uma vez que o uso de cada um será pessoal. A escolha dos notebooks também foi pessoal, o que causou uma certa discrepância nos valores das máquinas. O custo total com o maquinário foi de R$ 39.000,00, o que gerou uma média de R$ 3.000,00 por máquina.
+### 7.2	Transporte
+O custo com transporte foi estimado com base no preço da passagem no DF, levando em conta que os membros da equipe teriam que pegar entre 2 e 4 linhas para ir a cada reunião. Logo, R$ 4,00 × 4 linhas/dia × 16 reuniões = R$256 x 13 membros R$ 3.328,00.
+### 7.3	Locação de espaço
+As reuniões ocorrerão nas salas da própria faculdade. Levando em conta o tamanho do espaço e a infra-estrutura que ele oferece, foi feita uma pesquisa e o preço médio de locação de uma sala de reuniões com o mesmo padrão é de em média R$ 650,00 X 16 reuniões dando um total de R$10.400,00.
+
+## 8	Orçamento
+Definidos os riscos que tem o maior impacto, e como isso pode influenciar direta ou indiretamente na execução do projeto, foi estipulada uma reserva para possíveis imprevistos/mudanças. Essa reserva corresponde a 5% do valor estimado do projeto.
+
+A escolha de 5% do valor total do projeto se deu após uma análise dos custos e dos riscos, como mudanças tardias no RUP são caras, a reserva se dá para tentar mitigar um possível aumento no custo do projeto. Caso não ocorra nenhuma mudança e o valor final seja correspondente ao valor estimado, 5% é um valor irrisório a ser pago, levando em consideração o benefício que isso pode trazer.
+
+
+## 9. Referências Bibliográficas
 
 * PMI (PROJECT MANAGEMENT INSTITUTE). Um Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK®) – Quinta Edição. Newtown Square: Project Management Institute, 2009.
 
