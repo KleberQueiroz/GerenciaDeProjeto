@@ -55,7 +55,49 @@ As avaliações de riscos se darão aos sábados que são as reuniões principai
 
 ## 5. Categoria dos riscos
 
-Os riscos foram representados no EAR (Estrutura Analítica de Riscos). Essa Estrutura apresenta de forma hierarquica a natureza dos riscos e permite uma melhor visualização de causas.
+Os riscos foram representados no Estrutura Analítica de Riscos (EAR). Essa Estrutura apresenta de forma hierarquica a natureza dos riscos e permite uma melhor visualização de causas. A EAR auxilia na compreensão, gerenciamento e comunicação de riscos em projeto.
+
+Segundo Hillson (2013):
+
+"Os riscos somente são gerenciáveis quando identificados e documentados de forma clara e precisa; entretanto, a identificação de riscos produz apenas uma grande lista de riscos que é difícil de entender ou gerenciar."
+
+
+## 5.1 Descrição dos Itens da EAR
+
+**Técnico**
+
+* Requisitos: Condiz com riscos de mudança de escopo que pode ser advinda da má elicitação de requisitos.
+
+* Tecnologia: Condiz com riscos derivados da utilização de tecnologias.
+
+* Complexidade: Condiz com riscos relacionados a por exemplo implementar o produto com bom desempenho, a complexidade por afetar isso.
+
+* Qualidade: Condiz com riscos a respeito da usabilidade e disponibilidade do produto.
+
+**Externo**
+
+* Cliente: Condiz com riscos a respeito de disponibilidade do cliente, ou a aprovação do produto.
+
+* Mercado: Condiz com riscos a respeito da aceitação do mercado em que o produto será inserido.
+
+* Ambiente Acadêmico: Condiz com riscos sobre greves, feriados e mudanças no calendário acadêmico.
+
+**Organizacional**
+
+* Recursos Humanos: Condiz com riscos sobre desmotivação ou desistência de membros.
+
+* Priorização: Condiz com riscos relacionados a priorizações do projeto como planejar atividades sem suas que suas dependências estejam finalizadas.
+
+**Gerência**
+
+* Controle: Condiz com riscos relacionados a tomar medidas em situações necessárias.
+
+* Planejamento: Condiz com riscos consequentes do planejamento, como por exemplo prazos de atividades muito curtos.
+
+* Comunicação: Condiz com riscos relacionados a falta ou má comunicação de membros.
+
+* Estimativa: Condiz com riscos relacionados a erros de estimativas de tempo, esforço, custo do projeto.
+
 
 ## 6. Definições de probabilidade e impacto dos riscos
 ### 6.1 Probabilidade
@@ -94,3 +136,5 @@ Os riscos foram representados no EAR (Estrutura Analítica de Riscos). Essa Estr
 ## 11. Referências
 
 PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
+
+HILLSON, D. The risk breakdown structure (RBS) as an aid to effective risk management. Fifth European Project Management Conference. Cannes. 2002;
