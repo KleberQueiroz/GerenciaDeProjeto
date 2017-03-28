@@ -19,7 +19,7 @@
 
 :ballot_box_with_check: [Plano de Gerenciamento do Escopo]()
 
-:white_check_mark: [Estrutura Analítica do Projeto (EAP)](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Estrutura-Analitica-do-Projeto)
+   :white_check_mark: [Estrutura Analítica do Projeto (EAP)](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Estrutura-Analitica-do-Projeto)
 
 :white_check_mark: [Plano de Gerenciamento de Comunicação](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Comunica%C3%A7%C3%A3o)
 
