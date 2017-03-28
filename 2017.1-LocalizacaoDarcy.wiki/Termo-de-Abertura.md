@@ -91,7 +91,7 @@ O cálculo hora/aluno foi feito com base no Relatório de Gestão do ano de 2015
 
 * ((custo anual por aluno)))÷((Créditos da Engenharia de Software ÷ 5 anos) × 15 horas por crédito) ** ((R$ 11.029,00) ÷ ((240 ÷ 5 ) × 15)) = R$ 15,30 /h
 
-Este valor serviu para estimarmos o custo da mão de obra, o cálculo foi feito utilizando a seguinte fórmula: 10hrs/semana × R$ 15,3/hr × 13 integrantes equipe.
+Este valor serviu para estimarmos o custo da mão de obra, o cálculo foi feito utilizando a seguinte fórmula: 10hrs/semana × R$ 15,3/hr × 13 integrantes equipe. Assim sabemos que o custo por semana com mão de obra é de R$ 1.989,00.
 
 ### 6.2 Custos com Equipamentos e Serviços
 
