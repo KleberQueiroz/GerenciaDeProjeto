@@ -1,12 +1,11 @@
 # Plano de Gerenciamento dos Riscos
 
-
 ## Histórico de Revisões
 
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
-|27/03/2017|1.0|Estrutura de Tópicos e Planilha de Riscos|Daniel Moura e Eduardo Gomes|
-|27/03/2017|1.1|Adição de Conteúdo aos Tópicos|Eduardo Gomes|
+|27/03/2017|0.1|Estrutura de Tópicos e Planilha de Riscos|Daniel Moura e Eduardo Gomes|
+|27/03/2017|1.0|Adição de Conteúdo aos Tópicos|Eduardo Gomes|
 
 ***
 
