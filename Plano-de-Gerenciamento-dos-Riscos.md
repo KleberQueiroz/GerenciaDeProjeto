@@ -48,7 +48,7 @@ Um risco é caracterizado pela probabilidade de um evento resultar em um impacto
 
 A metodologia adotada para gerenciar os riscos adotado foi a Análise Strengths (forças), Weaknesses (fraquezas), Opportunities (oportunidades) e Threats (ameaças) ou Análise SWOT. Ele é caracterizado como um instrumento para planejamento estrategico que recolhe dados importantes que caracterizam o ambiente interno (forças e fraquezas) e externo (oportunidades e ameaças).
 
-(imagem em desenvolvimento)
+[![SWOT (3).png](https://s24.postimg.org/unuscgl6t/SWOT_3.png)](https://postimg.org/image/a3pydz5fl/)
 
 ## 3. Papéis e responsabilidades
 
