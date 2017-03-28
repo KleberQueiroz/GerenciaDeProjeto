@@ -84,7 +84,7 @@ Este projeto possui dois marcos principais de entrega do produto: Release 1 e Re
 
 ## 6. Resumo do Orçamento
 
-### 6.1 Custos com Recursos Humanos
+     ### 6.1 Custos com Recursos Humanos
 O cálculo hora/aluno foi feito com base no Relatório de Gestão do ano de 2015 da UnB, onde é indicado o custo anual de R$ 11.029,00 para cada aluno. Levando em conta que cada crédito corresponde a 15 horas mensais, e que o curso requer 240 créditos para ser concluído, chegamos ao total de 720 horas anuais.
 
 * Custo médio por aluno/hora[CaH]:
@@ -93,11 +93,11 @@ O cálculo hora/aluno foi feito com base no Relatório de Gestão do ano de 2015
 
 Este valor serviu para estimarmos o custo da mão de obra, o cálculo foi feito utilizando a seguinte fórmula: 10hrs/semana × R$ 15,3/hr × 13 integrantes equipe. Assim sabemos que o custo por semana com mão de obra é de R$ 1.989,00.
 
-### 6.2 Custos com Equipamentos e Serviços
+     ### 6.2 Custos com Equipamentos e Serviços
 
 Somando os valores das aquisições cada integrante, transporte e locação de espaço, temos um custo total de R$ 52.728, 00. O cálculo de cada valor pode ser visto no [Plano de Gerenciamento de Custos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Custos).
 
-### 6.3 Estimativa
+     ### 6.3 Estimativa
 
 O custo total estimado consiste no somatório entre os custos de Recursos Humanos e Equipamentos e serviços, o resultado é expresso pela fórmula abaixo:
 
