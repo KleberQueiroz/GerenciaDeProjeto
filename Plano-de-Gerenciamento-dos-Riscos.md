@@ -1,5 +1,6 @@
 # Plano de Gerenciamento dos Riscos
 
+
 ## Histórico de Revisões
 
 | Data | Versão | Descrição | Autor |
@@ -103,8 +104,27 @@ Segundo Hillson (2013):
 
 
 ## 6. Definições de probabilidade e impacto dos riscos
+
 ### 6.1 Probabilidade
-### 6.2 Impacto
+
+| Probabilidade | Intervalo     | Peso |
+|---------------|---------------|------|
+| Muito Baixa   | Menor que 20% | 1    |
+| Baixa         | De 21% a 40%  | 2    |
+| Média         | De 41% a 60%  | 3    |
+| Alta          | De 61% a 80%  | 4    |
+| Muito Alta    | Acima de 80%  | 5    |
+
+### 6.2 Impacto 
+
+| Impacto     | Descrição                                    | Peso |
+|-------------|----------------------------------------------|------|
+| Muito Baixo | Impacto muito pequeno ao projeto             | 1    |
+| Baixo       | Pouco impacto no projeto                     | 2    |
+| Médio       | Impacto considerável, de fácil recuperação   | 3    |
+| Alto        | Impacto grande no desenvolvimento do projeto | 4    |
+| Muito Alto  | O impacto torna o projeto inviável           | 5    |
+
 ## 7. Matriz de probabilidade e impacto
 ### 7.1 Prioridade
 ## 8. Análise e resposta dos riscos negativos
