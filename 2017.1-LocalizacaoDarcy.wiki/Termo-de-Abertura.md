@@ -62,7 +62,7 @@ A tecnologia Ruby on Rails é nova para a maioria dos membros da equipe e isso p
 
 * **Recursos**
 
-
+Em relação a recursos externos, há o risco de os recursos necessários para a confecção da aplicação (tais como dados de geolocalização de edifícios e salas) não serem disponibilizados, impossibilitando, assim, a utilização da apicação.
 
 * **Desistência de Aluno**
 
