@@ -22,6 +22,12 @@
 
 6.   [Resumo do Orçamento](#6-resumo-do-orçamento)
 
+    6.1 [Custos com Recursos Humanos](#61-custos-com-recursos-humanos)
+
+    6.2 [Custos com Equipamentos e Serviços](#62-custos-com-equipamentos-e-serviços)
+
+    6.3 [Estimativa](#63-estimativa)
+
 7.   [Interessados](#7-interessados)
 
 ## 1. Introdução
@@ -79,13 +85,13 @@ Este projeto possui dois marcos principais de entrega do produto: Release 1 e Re
 ### 6.1 Custos com Recursos Humanos
 O cálculo hora/aluno foi feito com base no Relatório de Gestão do ano de 2015 da UnB, onde é indicado o custo anual de R$ 11.029,00 para cada aluno. Levando em conta que cada crédito corresponde a 15 horas mensais, e que o curso requer 240 créditos para ser concluído, chegamos ao total de 720 horas anuais.
 
-*Custo médio por aluno/hora[CaH]:
+* Custo médio por aluno/hora[CaH]:
 
-*((custo anual por aluno)))÷((Créditos da Engenharia de Software ÷ 5 anos) × 15 horas por crédito) ** ((R$ 11.029,00) ÷ ((240 ÷ 5 ) × 15)) = R$ 15,30 /h
+* ((custo anual por aluno)))÷((Créditos da Engenharia de Software ÷ 5 anos) × 15 horas por crédito) ** ((R$ 11.029,00) ÷ ((240 ÷ 5 ) × 15)) = R$ 15,30 /h
 
 Este valor serviu para estimarmos o custo da mão de obra, o cálculo foi feito utilizando a seguinte fórmula: 10hrs/semana × R$ 15,3/hr × 13 integrantes equipe.
 
-### 6.2 Custo com Equipamentos e Serviços
+### 6.2 Custos com Equipamentos e Serviços
 
 Somando os valores das aquisições cada integrante, transporte e locação de espaço, temos um custo total de R$ 52.728, 00. O cálculo de cada valor pode ser visto no [Plano de Gerenciamento de Custos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Custos).
 
