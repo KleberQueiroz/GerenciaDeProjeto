@@ -19,6 +19,16 @@
 
 ## 2. Descrição do Processo de Aquisição
 
+* **Planejamento**:
+
+* **Execução**
+
+* **Controle**:
+
+* **Encerramento**:
 
 ## 3. Produtos e Serviços
 
+|Bens/Serviço|Preço Unitário|Quantidade|Motivos para a compra|Fornecedores potenciais|Orçamento|
+|-----|-----|-----|-----|------|-------|
+|||||||
