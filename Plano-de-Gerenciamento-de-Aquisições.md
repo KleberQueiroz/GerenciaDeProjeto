@@ -16,16 +16,31 @@
 
 ## 1. Introdução
 
+Este documento visa estabelecer o planejamento do processo de aquisição de bens ou serviços para o projeto de Localização no Campus Darcy Ribeiro da UnB. Aqui será descrito o processo de aquisição, assim como, os bens e serviços adquiridos.
 
 ## 2. Descrição do Processo de Aquisição
 
-* **Planejamento**:
+| **Planejamento**                        | **Execução**           | **Monitoramento e Controle** | **Encerramento**       |
+|-----------------------------------------|------------------------|------------------------------|------------------------|
+| Gerenciar o planejamento das aquisições | Conduzir as aquisições | Controlar as aquisições      | Encerrar as aquisições |
 
-* **Execução**:
 
-* **Controle**:
+**Planejamento** 
 
-* **Encerramento**:
+É o processo de documentação das decisões de compra do projeto. 
+Basicamente trata de uma análise da equipe para verificar a viabilidade da compra ou se é melhor desenvolver internamente. No caso da compra, será necessário identificar fornecedores e realizar orçamento, estudar a viabilidade desse orçamento em relação ao projeto e planejar métricas de avaliação dos fornecedores.
+
+**Execução**
+
+Consiste em adquirir os itens planejados e disponibilizá-los para a equipe.
+
+**Controle**
+
+Analisar o desempenho dos produtos e/ou serviços adquiridos e avaliar os fornecedores. Monitorar as mudanças no contrato e gerenciar os possíveis cancelamentos de contrato.
+
+**Encerramento**
+
+Verificar se o fornecedor cumpriu as suas obrigações de acordo com o acordado com a equipe.
 
 ## 3. Produtos e Serviços
 
