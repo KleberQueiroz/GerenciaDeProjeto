@@ -45,11 +45,11 @@ Verificar se o fornecedor cumpriu as suas obrigações de acordo com o acordado 
 
 ## 3. Produtos e Serviços
 
-|Bem/Serviço|Preço Unitário|Quantidade|Motivos para a compra|Fornecedores potenciais|Orçamento|
-|-----|-----|-----|-----|------|-------|
-|Notebook|R$ 3.000,00|13|É necessário para o desenvolvimento do projeto.|Dell, HP, Apple, Asus|R$ 39.000,00|
-|Internet|R$ 100,00/mês|13 por 4 meses|Necessário para pesquisa e desenvolvimento do projeto|Vivo, NET, Claro|R$ 5.200,00|
-|Cartolinas|R$ 4,00|5|Necessário para criação do *kanban*|||
+|Bem/Serviço|Preço Unitário|Quantidade|Fornecedores potenciais|Orçamento|
+|-----|-----|-----|-----|------|
+|Notebook|R$ 3.000,00|13|Dell, HP, Apple, Asus|R$ 39.000,00|
+|Internet|R$ 100,00/mês|13 por 4 meses|Vivo, NET, Claro|R$ 5.200,00|
+|Cartolinas|R$ 4,00|5||
 |*Post-it*||||||
 |Fita adesiva||||||
 |Pincel||||||
