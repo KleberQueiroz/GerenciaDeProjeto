@@ -3,6 +3,7 @@
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
 |28/03/2017|1.0|Estrutura inicial do documento|Rafael Rabetti|
+|29/03/2017|1.0|Introdução, Processo e Produtos e Serviços|Rafael Rabetti|
 
 ***
 
@@ -46,4 +47,9 @@ Verificar se o fornecedor cumpriu as suas obrigações de acordo com o acordado 
 
 |Bem/Serviço|Preço Unitário|Quantidade|Motivos para a compra|Fornecedores potenciais|Orçamento|
 |-----|-----|-----|-----|------|-------|
-|||||||
+|Notebook|R$ 3.000,00|13|É necessário para o desenvolvimento do projeto.|Dell, HP, Apple, Asus|R$ 39.000,00|
+|Internet|R$ 100,00/mês|13 por 4 meses|Necessário para pesquisa e desenvolvimento do projeto|Vivo, NET, Claro|R$ 5.200,00|
+|Cartolinas|R$ 4,00|5|Necessário para criação do *kanban*|||
+|*Post-it*||||||
+|Fita adesiva||||||
+|Pincel||||||
