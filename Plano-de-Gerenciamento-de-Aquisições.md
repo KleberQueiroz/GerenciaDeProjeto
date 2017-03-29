@@ -21,7 +21,7 @@
 
 * **Planejamento**:
 
-* **Execução**
+* **Execução**:
 
 * **Controle**:
 
@@ -29,6 +29,6 @@
 
 ## 3. Produtos e Serviços
 
-|Bens/Serviço|Preço Unitário|Quantidade|Motivos para a compra|Fornecedores potenciais|Orçamento|
+|Bem/Serviço|Preço Unitário|Quantidade|Motivos para a compra|Fornecedores potenciais|Orçamento|
 |-----|-----|-----|-----|------|-------|
 |||||||
