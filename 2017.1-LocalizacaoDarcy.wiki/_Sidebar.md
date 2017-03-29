@@ -27,7 +27,7 @@
 
 :arrows_counterclockwise: [Plano de Gerenciamento de Recursos Humanos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos)
 
-:ballot_box_with_check: [Plano de Gerenciamento das Aquisições]()
+:arrows_counterclockwise: [Plano de Gerenciamento de Aquisições](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es)
 
 :white_check_mark: [Plano de Gerenciamento dos Riscos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-dos-Riscos)
 
