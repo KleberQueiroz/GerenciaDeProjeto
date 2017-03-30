@@ -17,7 +17,7 @@
 
 :ballot_box_with_check: [Plano de Gerenciamento do Cronograma]()
 
-:ballot_box_with_check: [Plano de Gerenciamento do Escopo](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-gerenciamento-do-escopo)
+:arrows_counterclockwise: [Plano de Gerenciamento do Escopo](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-gerenciamento-do-escopo)
 
    * :white_check_mark: [Estrutura Analítica do Projeto (EAP)](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Estrutura-Analitica-do-Projeto)
 
