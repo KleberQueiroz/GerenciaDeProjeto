@@ -57,19 +57,19 @@
 ------
 
 ## 1. Introdução
-Este documento tem o objetivo de apresentar uma visão completa sobre o software de mapeamento das instalações e de localização no Campus Darcy Ribeiro da Universidade de Brasília (UnB).
+<p align ="justify">Este documento tem o objetivo de apresentar uma visão completa sobre o software de mapeamento das instalações e de localização no Campus Darcy Ribeiro da Universidade de Brasília (UnB).
 
-Espera-se que o leitor deste documento consiga compreender a finalidade global da aplicação UnBMapa. 
+<p align ="justify">Espera-se que o leitor deste documento consiga compreender a finalidade global da aplicação UnBMapa. 
 
 ### 1.1. Propósito
 
-O Software tem como propósito facilitar a locomoção entre as instalações do Campus Darcy Ribeiro da UnB, bem como a fácil localização de salas e outras dependências.
+<p align ="justify">O Software tem como propósito facilitar a locomoção entre as instalações do Campus Darcy Ribeiro da UnB, bem como a fácil localização de salas e outras dependências.
 
 ### 1.2. Escopo
 
-O Centro de Processamento de Dados da Universidade de Brasília (CPD - UnB), é um órgão complementar da UnB que possui como intuito desenvolver as atividades de caráter permanente de apoio da pesquisa e da extensão ao desenvolvimento de ensino no que se refere ao processamento de dados, cujo os objetivos são promover e incentivar a informática na UnB, desenvolver, implantar e manter sistemas de mainframe e em microcomputadores e supervisionar, coordenar e controlar as atividades relacionadas com pesquisas referentes a hardware, software e rede de teleprocessamento.
+<p align ="justify">O Centro de Processamento de Dados da Universidade de Brasília (CPD - UnB), é um órgão complementar da UnB que possui como intuito desenvolver as atividades de caráter permanente de apoio da pesquisa e da extensão ao desenvolvimento de ensino no que se refere ao processamento de dados, cujo os objetivos são promover e incentivar a informática na UnB, desenvolver, implantar e manter sistemas de mainframe e em microcomputadores e supervisionar, coordenar e controlar as atividades relacionadas com pesquisas referentes a hardware, software e rede de teleprocessamento.
 
-O UnbMapa tem a finalidade de desenvolver o software de localização, via mapa, de algumas das instalações do Campus Darcy Ribeiro da UnB bem como de alguns de seus estabelecimentos.
+<p align ="justify">O UnbMapa tem a finalidade de desenvolver o software de localização, via mapa, de algumas das instalações do Campus Darcy Ribeiro da UnB bem como de alguns de seus estabelecimentos.
 
 ### 1.3. Definições, acrônimos e abreviações
 
@@ -88,7 +88,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 
 ### 2.1. Oportunidade de Negócios
 
-O Campus Darcy Ribeiro é o mais antigo da Universidade de Brasília. Com o seu crescimento e criação de novos cursos, o número de pessoas que o circulam ficou cada vez maior e com isso a localização interna se tornou um problema. Segundo dados da universidade, mais de 50 mil pessoas frequentam diariamente o campus tendo mais de 500 mil m² de área construída. A plataforma web de mapeamento das instalações do campus Darcy Ribeiro veio com o propósito de auxiliar estudantes, servidores e visitantes da universidade facilitando a sua locomoção traçando trajetos pelos prédios.
+<p align ="justify">O Campus Darcy Ribeiro é o mais antigo da Universidade de Brasília. Com o seu crescimento e criação de novos cursos, o número de pessoas que o circulam ficou cada vez maior e com isso a localização interna se tornou um problema. Segundo dados da universidade, mais de 50 mil pessoas frequentam diariamente o campus tendo mais de 500 mil m² de área construída. A plataforma web de mapeamento das instalações do campus Darcy Ribeiro veio com o propósito de auxiliar estudantes, servidores e visitantes da universidade facilitando a sua locomoção traçando trajetos pelos prédios.
 
 ### 2.2. Instrução do Problema 
 
@@ -131,7 +131,7 @@ O Campus Darcy Ribeiro é o mais antigo da Universidade de Brasília. Com o seu 
 
 ### 3.3. Ambiente do Usuário
 
-O ambiente em que o usuário utilizará o sistema deverá ser um navegador com acesso à internet. Este navegador pode estar presente tanto em um computador desktop quanto um dispositivo móvel.
+<p align ="justify">O ambiente em que o usuário utilizará o sistema deverá ser um navegador com acesso à internet. Este navegador pode estar presente tanto em um computador desktop quanto um dispositivo móvel.
 
 ### 3.4. Perfis das Partes Interessadas
 
@@ -231,11 +231,11 @@ O ambiente em que o usuário utilizará o sistema deverá ser um navegador com a
 
 ## 4. Visão Geral do Produto
 
-O sistema se propõe a oferecer uma forma alternativa para a localização entre o usuário e os prédios da UnB do Campus Darcy Ribeiro, além de fornecer uma maneira mais interativa para que os usuários possam mais intuitivamente achar os edifícios que procuram. Isto é feito utilizando-se uma interface baseada API do Google Maps, com ênfase nas mediações da UnB.  
+<p align ="justify">O sistema se propõe a oferecer uma forma alternativa para a localização entre o usuário e os prédios da UnB do Campus Darcy Ribeiro, além de fornecer uma maneira mais interativa para que os usuários possam mais intuitivamente achar os edifícios que procuram. Isto é feito utilizando-se uma interface baseada API do Google Maps, com ênfase nas mediações da UnB.  
 
 ### 4.1. Perspectiva do Produto
 
-Além de oferecer uma forma mais intuitiva para localização dos edifícios, o sistema também disponibiliza apenas as rotas viáveis para locomoção com base em dados fornecidos pelos usuários conformes eles usam o sistema e conta com o display de estabelecimentos perto do usuário.
+<p align ="justify">Além de oferecer uma forma mais intuitiva para localização dos edifícios, o sistema também disponibiliza apenas as rotas viáveis para locomoção com base em dados fornecidos pelos usuários conformes eles usam o sistema e conta com o display de estabelecimentos perto do usuário.
 
 ### 4.2 Resumo das Capacidades 
 
@@ -268,25 +268,25 @@ Além de oferecer uma forma mais intuitiva para localização dos edifícios, o 
 
 ### 6.1. Restrições Externas
 
-Os usuários deverão possuir acesso a internet para usufruir do UnBMapa, isso acontece porque as informações são exibidas ao usuário por demanda, não havendo, portanto, o armazenamento local dos dados exibidas, de modo que permitisse o funcionamento offline do UnBMapa.
+<p align ="justify">Os usuários deverão possuir acesso a internet para usufruir do UnBMapa, isso acontece porque as informações são exibidas ao usuário por demanda, não havendo, portanto, o armazenamento local dos dados exibidas, de modo que permitisse o funcionamento offline do UnBMapa.
 
-O Campus Darcy Ribeiro possui vários eventos que, por vezes, modificam o seu funcionamento. Dessa forma, as informações fornecidas através do UnBMapa podem ficar temporariamente desatualizadas.
+<p align ="justify">O Campus Darcy Ribeiro possui vários eventos que, por vezes, modificam o seu funcionamento. Dessa forma, as informações fornecidas através do UnBMapa podem ficar temporariamente desatualizadas.
 
 ### 6.2. Restrições de Implementação
 
-A experiência da equipe com o uso das tecnologias utilizadas para a implementação do UnBMapa e o tamanho da equipe são restrições. Tais restrições podem reduzir o escopo do projeto para que o mesmo seja entregue.
+<p align ="justify">A experiência da equipe com o uso das tecnologias utilizadas para a implementação do UnBMapa e o tamanho da equipe são restrições. Tais restrições podem reduzir o escopo do projeto para que o mesmo seja entregue.
 
 
 ## 7. Faixas de Qualidade
 
 ### 7.1. Requisitos do Sistema
 
-O serviço deverá funcionar ao menos nos seguintes navegadores: Firefox, Chrome, Chromium, Edge, Safari, Opera e Internet Explorer.
+<p align ="justify">O serviço deverá funcionar ao menos nos seguintes navegadores: Firefox, Chrome, Chromium, Edge, Safari, Opera e Internet Explorer.
 
 ### 7.2. Requisitos de Desempenho
 
-A aplicação deve responder de forma mais otimizada possível já que terá foco sobre a localização atual do usuário e seu caminho até uma outra localidade.
+<p align ="justify">A aplicação deve responder de forma mais otimizada possível já que terá foco sobre a localização atual do usuário e seu caminho até uma outra localidade.
 
 ### 7.3. Requisitos Ambientais
 
-A aplicação será dependente de conexão à internet pois todos os seus dados serão processados no servidor para somente após serem passados aos usuários.
+<p align ="justify">A aplicação será dependente de conexão à internet pois todos os seus dados serão processados no servidor para somente após serem passados aos usuários.
