@@ -28,9 +28,9 @@ Este caso de uso se inicia quando o administrador cria uma sala.
 #### 4.2 Fluxos Alternativos
 
 * [FA01] - Cancelar a ação  
-&nbsp;&nbsp;- O administrador clica para cancelar a criação, edição ou exclusão da sala.  
-&nbsp;&nbsp;- Redirecionamento para a lista de salas.  
-&nbsp;&nbsp;- O caso de uso é encerrado.  
+&nbsp;&nbsp;&bull; O administrador clica para cancelar a criação, edição ou exclusão da sala.  
+&nbsp;&nbsp;&bull; Redirecionamento para a lista de salas.  
+&nbsp;&nbsp;&bull; O caso de uso é encerrado.  
 
 
 #### 4.3 Fluxo de Exceção
