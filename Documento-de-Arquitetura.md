@@ -84,8 +84,8 @@
 
 ### 4.3 Descrição dos Casos de Uso
 
-####UC01 - Manter Administrador
-<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto *administrador* no sistema.
+###UC01 - Manter Administrador
+<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto *administrador* no sistema.  
 ####UC02 - Manter Edifícios
 <p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto *edifício* no sistema.
 ####UC03 - Manter Departamentos
