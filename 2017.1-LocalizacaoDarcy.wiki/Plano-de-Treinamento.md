@@ -6,6 +6,7 @@
 |15/03/2017|1.1|Definição inicial dos treinamentos|Rafael Rabetti|
 |16/03/2017|1.2|Refazendo treinamento de Git|Rafael Rabetti|
 |20/03/2017|1.3|Treinamento JS|Matheus Mello|
+|30/03/2017|1.4|Atualizando treinamento Ruby on Rails|Alexandre Torres|
 
 ***
 
@@ -87,11 +88,10 @@ Todos os treinamentos são divididos em duas etapas. A primeira etapa tem carát
 |-|-|
 |**Data**|21/03/2017|
 |**Objetivo**|Explicação técnica sobre a tecnologia Ruby on Rails para que a equipe esteja nivelada e com o conhecimento necessário para o desenvolvimento do projeto.|
-|**Teoria**|Slides expositivos.|
-|**Prática**|A equipe de desenvolvimento terá um tempo para praticar e ao final será feita uma competição.|
-|**Pontuação**|1º - 5 Pontos <br />2º - 3 Pontos <br />3º - 1 Pontos |
-|**Tempo**|01h30m|
-|**Responsável**|Rafael Rabetti|
+|**Teoria**|Explicação no quadro sobre o framework. Seguido de uma breve demonstração no computador sobre a estrutura de uma aplicação web Ruby on Rails. Foram abordados os tipos de request (get, posts), rotas, webserver, view (html, css, javascript), controllers.|
+|**Prática**|Não deu tempo para praticar, passamos para eles um curso online .|
+|**Tempo**|01h00m|
+|**Responsável**|Alexandre Torres|
 
 ### 3.5 Testes
 
