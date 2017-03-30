@@ -42,15 +42,15 @@
 
 ### 1.1 Finalidade
 
-<p align ="justify">A finalidade deste artefato é apresentar a arquitetura escolhida para a construção da aplicação web UnBMapa. Serão expostas as visões arquiteturais utilizadas, tendo como objetivo deixar de <p align ="justify">forma explícita as decisões estabelecidas.
+<p align ="justify">A finalidade deste artefato é apresentar a arquitetura escolhida para a construção da aplicação web UnBMapa. Serão expostas as visões arquiteturais utilizadas, tendo como objetivo deixar de forma explícita as decisões estabelecidas.
 
 ### 1.2 Escopo  
 
-Este documento foi construído sobre a visão arquitetural utilizada na implementação da UnBMapa. Serão expostas as visões arquiteturais utilizadas, tendo como objetivo deixar de forma explícita as decisões estabelecidas.
+<p align ="justify">Este documento foi construído sobre a visão arquitetural utilizada na implementação da UnBMapa. Serão expostas as visões arquiteturais utilizadas, tendo como objetivo deixar de forma explícita as decisões estabelecidas.
  
 ## 2) Representação da Arquitetura
 
-A arquitetura utilizada na UnBMapa será o padrão MVC. Tal padrão possui três layers de trabalho Model-View-Controller. Cada layer desempenha uma função nesta arquitetura. A View, primeira camada, é responsável por exibir as informações sobre as rotas a serem tomadas, bem como mapas e afins. Havendo, assim, uma interação com o usuário. A model, segunda camada, é encarregada de armazenar as informações coletadas na view e a Controller é a responsável por manipular as entradas recebidas e fazer a comunicação entre as duas camadas anteriores.
+<p align ="justify">A arquitetura utilizada na UnBMapa será o padrão MVC. Tal padrão possui três layers de trabalho Model-View-Controller. Cada layer desempenha uma função nesta arquitetura. A View, primeira camada, é responsável por exibir as informações sobre as rotas a serem tomadas, bem como mapas e afins. Havendo, assim, uma interação com o usuário. A model, segunda camada, é encarregada de armazenar as informações coletadas na view e a Controller é a responsável por manipular as entradas recebidas e fazer a comunicação entre as duas camadas anteriores.
 
 ## 3) Restrições e Metas Arquiteturais
 
