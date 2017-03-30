@@ -1,32 +1,42 @@
-# Sistema de Localização no campus Darcy Ribeiro
+# Plano de gerenciamento do escopo
+## Histórico de Revisões
 
-# Equipe
+| Data | Versão | Descrição | Autor |
+|:----:|:------:|:---------:|:-----:|
+|30/03/2017|1.0|Criação da estrutura do documento|Alexandre Torres|
+***
 
-## Gerência
+## Sumário
 
-|              **Nome**                |            **__Email__**              |      **GitHub** |
-|:-------------------------------:|:---------------------------:|:---------------------------:| 
-|Eduardo Brasil Martins   |<brasil.eduardo1@gmail.com>| [EduardoBrasil](https://github.com/EduardoBrasil)|
-|Daniel Moura da Silva        |<danmoura17@gmail.com>| [danmoura17](https://github.com/danmoura17) |
-|Rafael dos Santos Rabetti    |<rafael.rabetti@gmail.com> |[rafaelrabetti](https://github.com/rafaelrabetti) |
-|Eduardo Quintino Gomes       | <eduardoqgomes@gmail.com>| [eduqg](https://github.com/eduqg)|
-|Alexandre Torres Kryonidis     |<alexandrekry@gmail.com> |[alexandretk](https://github.com/alexandretk) |
-|Matheus Mello | <mat.mello93@gmail.com>    | [matmello](https://github.com/matmello)|
+1. [Introdução](#1-introdução)
 
-## Desenvolvimento
+2. [Definição e validação do Escopo](#2-definições)
 
-|              **Nome**                |            **__Email__**             |     **GitHub** |
-|:-------------------------------:|:---------------------------:|:---------------------------:| 
-|Lucas Soares Souza	|<lucas.soaresouza@gmail.com>|  [lucassoaresouza](https://github.com/lucassoaresouza)| 
-|Jordan de Oliveira Miranda   |	<jordan.oliveira.m@gmail.com>| [JordanMiranda](https://github.com/JordanMiranda) |
-|Stéfane Bogéa de Souza	   |<stefanesouza04@gmail.com>| [stefanesouza](https://github.com/stefanesouza)|
-|Mateus Vieira da Silva Roriz	 |<mateusvroriz6b@gmail.com>|[mateusvroriz](https://github.com/mateusvroriz) |
-|Sannya Santana de Arvelos	|<sannyasantana@gmail.com>| [SannyaArvelos](https://github.com/SannyaArvelos)|
-|Taynara de Jesus Carvalho	|<tayhcarvalho@gmail.com>| [tayh](https://github.com/tayh)|
-|Kairon	Velozo Brito		|  <kairon.vzb@gmail.com>  | [kairon-v](https://github.com/kairon-v) |
+3. [Desenvolvimento e Manutenção da Estrutura Analítica do Projeto - EAP](#3-desenvolvimento)
 
-## Coaches
-| **Nome**          | **__Email__**                 | **GitHub**                                              | **Equipe** |
-|-------------------|-------------------------------|---------------------------------------------------------|----------|
-| Vinicius Bandeira | <bandeiravinicius0@gmail.com> | [viniciusbandeira](https://github.com/viniciusbandeira) | MDS      |
-| Daniel Teles      | <danieelteles@gmail.com>      | [danielteles](https://github.com/danielteles)           | GPP      |
+4. [Gestão de Mudanças do Escopo](#4-gestao)
+
+
+
+
+## 1. Introdução
+
+### 1.1. Visão Geral do Documento
+
+Este documento tem como objetivo apresentar o Plano de Gerenciamento do Projeto de “Mapeamento das salas do minhocão do Darcy Ribeiro - Unb”. Nele são definidos o ciclo de vida do projeto, responsabilidades e organização da equipe. Também são referenciados os planos de diversas áreas de projetos, baseados no PMBOK, a serem utilizados a fim de gerenciar, monitorar e controlar a execução projeto. 
+
+### 1.2. Finalidade do Documento
+
+Para que um projeto de software seja bem sucedido, é necessário que haja uma organização prévia das atividades a serem desenvolvidas. É recomendável também a análise do escopo do software, dos riscos envolvidos, dos recursos necessários, dos indicadores a serem acompanhados, etc. Esse documento em conjunto com os planos específicos serão utilizados pela equipe de gerenciamento do projeto como guia para a execução, controle, monitoramento e finalização do processo e das atividades.
+
+## 2. Definição e validação do Escopo
+
+Abc
+
+## 3. Desenvolvimento e Manutenção da Estrutura Analítica do Projeto - EAP
+
+O projeto
+
+## 4. Gestão de Mudanças do Escopo
+
+O Ciclo
