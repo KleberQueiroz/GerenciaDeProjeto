@@ -42,7 +42,7 @@
 
 ### 1.1 Finalidade
 
-A finalidade deste artefato é apresentar a arquitetura escolhida para a construção da aplicação web UnBMapa. Serão expostas as visões arquiteturais utilizadas, tendo como objetivo deixar de forma explícita as decisões estabelecidas.
+<p align ="justify">A finalidade deste artefato é apresentar a arquitetura escolhida para a construção da <p align ="justify">aplicação web UnBMapa. Serão expostas as visões arquiteturais utilizadas, tendo como objetivo deixar de <p align ="justify">forma explícita as decisões estabelecidas.
 
 ### 1.2 Escopo  
 
