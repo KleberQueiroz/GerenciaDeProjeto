@@ -56,17 +56,17 @@ A arquitetura utilizada na UnBMapa será o padrão MVC. Tal padrão possui três
 
 ### 3.1 Metas Arquiteturais  
 	
-	❖ O sistema tem como objetivo facilitar a localização do usuário no Campus Darcy Ribeiro. Facilitando o acesso por suas instalações.
-	❖ O sistema contará com uma interface interativa com o usuário.
-	❖ O sistema contará com uma interface responsiva.
-	❖ O sistema contará com o recurso Bootstrap.
-	❖ Deverá garantir uma boa estrutura e qualidade de código.
+	* O sistema tem como objetivo facilitar a localização do usuário no Campus Darcy Ribeiro. Facilitando o acesso por suas instalações.
+	* O sistema contará com uma interface interativa com o usuário.
+	* O sistema contará com uma interface responsiva.
+	* O sistema contará com o recurso Bootstrap.
+	* Deverá garantir uma boa estrutura e qualidade de código.
 
 ### 3.2 Restrições  
 	
-	❖ Será necessário que haja conexão com a internet.
-	❖ O sistema dependerá dos dados físicos do Campus Darcy Ribeiro.
-	❖ O sistema deverá ser atualizado de acordo com modificações no Campus Darcy Ribeiro.
+	* Será necessário que haja conexão com a internet.
+	* O sistema dependerá dos dados físicos do Campus Darcy Ribeiro.
+	* O sistema deverá ser atualizado de acordo com modificações no Campus Darcy Ribeiro.
 
 ## 4) Visão de Casos de Uso  
 
@@ -100,7 +100,7 @@ Controller é o bloco responsável por fazer a comunicação entre a model e a v
 
 Model é o bloco que tem como responsabilidade a transferência, manutenção e definição dos dados das classes escritas em Ruby para o Banco de Dados. Exemplos destes dados são: os edifícios, departamentos, salas, pontos de alimentação que serão cadastrados no sistema. Cada um destes grupo será descrito como uma classe na aplicação que servirá como molde para as entidades físicas cadastradas.
 
-### 5.1 Diagrama de Classes
+### 5.4 Diagrama de Classes
 
 ### 5.2 Banco de Dados
 
