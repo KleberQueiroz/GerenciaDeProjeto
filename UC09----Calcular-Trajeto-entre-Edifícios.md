@@ -27,9 +27,9 @@ Este caso de uso se inicia quando o usuário determina pontos de partida e desti
 #### 4.2 Fluxos Alternativos
 
 * [FA01] - Cancelar o cálculo do trajeto.  
-&nbsp;&nbsp;&bull; O usuário opta por calcular um trajeto.
-&nbsp;&nbsp;&bull; Acaba por cancelar sua ação antes do cálculo do trajeto.
-&nbsp;&nbsp;- O caso de uso é encerrado.
+&nbsp;&nbsp;&bull; O usuário opta por calcular um trajeto.   
+&nbsp;&nbsp;&bull; Acaba por cancelar sua ação antes do cálculo do trajeto.  
+&nbsp;&nbsp;&bull; O caso de uso é encerrado.
 
 
 #### 4.3 Fluxo de Exceção
