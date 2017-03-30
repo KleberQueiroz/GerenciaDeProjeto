@@ -11,7 +11,7 @@
 
 ## Cronograma V1
 
-[![Cronograma GPP/MDS (1).png](https://s18.postimg.org/7abkexxll/Cronograma_GPP_MDS_1.png)](https://postimg.org/image/9rnbm7hhx/)
+[![Cronograma GPP/MDS.png](https://s28.postimg.org/51u4pkfwd/Cronograma_GPP_MDS.png)](https://postimg.org/image/lcu8lvse1/)
 
 [Link para a imagem](https://s18.postimg.org/7abkexxll/Cronograma_GPP_MDS_1.png)
 
