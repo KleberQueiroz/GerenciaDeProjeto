@@ -49,7 +49,9 @@ Um risco é caracterizado pela probabilidade de um evento resultar em um impacto
 
 ## 2. Processo de Gerenciamento dos Riscos
 
-O objetivo desse processo estabelecer uma visão do que acontecerá com um risco caso ele ocorra no projeto. Ele possui 5 etapas.
+O objetivo desse processo estabelecer uma visão do que acontecerá com um risco caso ele ocorra no projeto. Ele possui 5 etapas.A figura a seguir apresenta os passos do processo:
+
+[![processoDeGerenciamentoDeRiscos.png](https://s10.postimg.org/6stlmfgux/processo_De_Gerenciamento_De_Riscos.png)](https://postimg.org/image/meax6dst1/)
 
 * Identificar os riscos: é o processo para determinar riscos que podem afetar o projeto.
 
