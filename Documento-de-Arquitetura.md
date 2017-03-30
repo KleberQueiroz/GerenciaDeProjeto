@@ -54,20 +54,19 @@
 
 ## 3) Restrições e Metas Arquiteturais
 
-### 3.1 Metas Arquiteturais  
-	
-	* O sistema tem como objetivo facilitar a localização do usuário no Campus Darcy Ribeiro. Facilitando o acesso por suas instalações.
-	* O sistema contará com uma interface interativa com o usuário.
-	* O sistema contará com uma interface responsiva.
-	* O sistema contará com o recurso Bootstrap.
-	* Deverá garantir uma boa estrutura e qualidade de código.
+|    Metas Arquiteturais                                                                                                            |          
+|-----------------------------------------------------------------------------------------------------------------------------------|	
+|O sistema tem como objetivo facilitar a localização do usuário no Campus Darcy Ribeiro. Facilitando o acesso por suas instalações. | 
+|O sistema contará com uma interface interativa com o usuário.                                                                      |
+|O sistema contará com uma interface responsiva.                                                                                    |
+|O sistema contará com o recurso Bootstrap.                                                                                         |
+|Deverá garantir uma boa estrutura e qualidade de código.                                                                           | 
 
-### 3.2 Restrições  
-	
-	* Será necessário que haja conexão com a internet.
-	* O sistema dependerá dos dados físicos do Campus Darcy Ribeiro.
-	* O sistema deverá ser atualizado de acordo com modificações no Campus Darcy Ribeiro.
-
+|    Restrições                                                                       |
+|-------------------------------------------------------------------------------------|	
+|Será necessário que haja conexão com a internet.                                     |
+|O sistema dependerá dos dados físicos do Campus Darcy Ribeiro.                       |
+|O sistema deverá ser atualizado de acordo com modificações no Campus Darcy Ribeiro.  |
 ## 4) Visão de Casos de Uso  
 
 ### 4.1 Atores
