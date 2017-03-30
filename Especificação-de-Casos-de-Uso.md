@@ -13,9 +13,8 @@
 
 ***
 
-## Introdução
+## Casos de Uso
 
-***
 1. UC01 - [Manter Administrador](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC01---Manter-Administrador)
 2. UC02 - [Manter Edifícios](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC02---Manter-Edif%C3%ADcios)
 3. UC03 - [Manter Departamentos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC03-Manter-Departamentos)
