@@ -43,4 +43,4 @@ Este caso de uso se inicia quando o administrador cria um centro acadêmico.
 
 ### 6. Pós-condição
 
-* Após a criação da centro acadêmico será possível editá-lo ou excluí-lo.
+* Após a criação do centro acadêmico será possível editá-lo ou excluí-lo.
