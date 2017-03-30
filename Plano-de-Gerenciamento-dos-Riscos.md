@@ -6,6 +6,7 @@
 |:----:|:------:|:---------:|:-----:|
 |27/03/2017|0.1|Estrutura de Tópicos e Planilha de Riscos|Daniel Moura e Eduardo Gomes|
 |27/03/2017|1.0|Adição de Conteúdo aos Tópicos|Eduardo Gomes|
+|30/03/2017|1.1|Adição do tópico Processo de Gerenciamento dos Riscos|Eduardo Gomes|
 
 ***
 
@@ -13,7 +14,7 @@
 
 [1. Introdução](#1-introdução)  
 
-[2. Processo de Gerenciamento de Riscos](#2-processo-de-gerenciamento-de-riscos)
+[2. Processo de Gerenciamento dos Riscos](#2-processo-de-gerenciamento-dos-riscos)
 
 [3. Metodologia](#2-metodologia)
 
@@ -46,7 +47,19 @@
 Um risco é caracterizado pela probabilidade de um evento resultar em um impacto negativo em um projeto. O gerenciamento de risco tem como característica identificar e analisar cada potencial impacto de cada risco e desenvolver estratégias para lidar com cada um e minimizar seus impactos negativos (PMBOK, 2013). Mas não somente existem os riscos negativos, por sua vez, os riscos positivos também podem afetar um projeto. O gerenciamento correto de riscos e aplicação de ações corretivas tem como resultado uma probabilidade maior do sucesso de um projeto.
 
 
-## 2. Processo de gerênciamento de riscos
+## 2. Processo de Gerenciamento dos Riscos
+
+O objetivo desse processo estabelecer uma visão do que acontecerá com um risco caso ele ocorra no projeto. Ele possui 5 etapas.
+
+* Identificar os riscos: é o processo para determinar riscos que podem afetar o projeto.
+
+* Realizar a análise qualitativa de riscos: é o processo de priorização de riscos para serem analisados ou ter alguma ação adicional pela avaliação e combinação de sua possibilidade de impacto e probabilidade de ocorrência.
+
+* Realizar a análise quantitativa de riscos: trata-se do processo de analisar numericamente o efeito dos riscos.
+
+* Planejar as respostas aos riscos: é o processo de desenvolver opções para reduzir as ameaças aos objetivos de projeto e aumentar oportunidades.
+
+* Controlar os riscos: trata-se do processo de colocar os planos de respostas aos riscos em prática, com acompanhamento dos riscos identificados, monitoramento, identificação de novos riscos e avaliação da eficácia do processo de riscos.
 
 ## 3. Metodologia
 
