@@ -15,6 +15,7 @@
 |  23/03/2017   |  1.8   | Qualidade                                                                | Sannya Arvelos|
 |  25/03/2017   |  1.9   | Atualizações de Metas Arquiteturais                                      | Jordan        |
 |  30/03/2017   |  2.0   | Melhoria do Tópico de Qualidade                                          | Lucas S.      |
+|  30/03/2017   |  2.1   | Descrição dos Casos de Uso                                               | Lucas S.      |
 
 
 -------------------------------------------------------------------
@@ -82,6 +83,47 @@
 ### 4.2 Diagrama de Casos de Uso
 
 ### 4.3 Descrição dos Casos de Uso
+
+####UC01 - Manter Administrador
+<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto *administrador* no sistema.
+####UC02 - Manter Edifícios
+<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto *edifício* no sistema.
+####UC03 - Manter Departamentos
+<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto *edifício* no sistema.
+####UC04 - Manter Salas
+<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto *sala* no sistema.
+####UC05 - Manter Centros Acadêmicos
+<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto *centro* *acadêmico* no sistema.
+####UC06 - Manter Bicicletários
+<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto *bicicletário* no sistema.
+####UC07 - Manter Pontos de Acesso
+<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto *ponto* *de* *acesso* no sistema.
+####UC08 - Mostrar Informações do Edifícios
+<p align ="justify">Este caso de uso se refere ao momento quando o usuario clicar em um edifício no mapa do UnBMapa abrirá uma dela com uma breve descrição de tal edificio.
+####UC09 - Calcular Trajeto entre Edifícios
+<p align ="justify">Este caso de uso se refere ao momento quando o usuário desejar calcular a distancia de um edifício ao outro do Campus Darcy Ribeiro.
+####UC10 - Procurar Locais do Campus
+<p align ="justify">Este caso de uso se refere ao momento quando o usuário desejar encontrar um local específico do Campus.
+####UC11 - Mostrar Mapa
+<p align ="justify">Este caso de uso se refere ao momento quando o mapa é mostrado em tela para o usuário.
+####UC12 - Mostrar Departamentos
+<p align ="justify">Este caso de uso se refere ao momento quando o usuário deseja encontrar departamentos no campus.
+####UC13 - Mostrar Edifícios
+<p align ="justify">Este caso de uso se refere ao momento quando o usuário dejse encontrar um edifício no campus.
+####UC14 - Mostrar Salas
+<p align ="justify">Este caso de uso se refere ao momento quando o usuário decidir encontrar uma sala no campus.
+####UC15 - Mostrar Salas por Nível
+<p align ="justify">Como alguns edifícios no campus possuem mais de um pavimento este caso de uso será o que mostra os diversos niveis dessas construções.
+####UC16 - Mostrar Locais de Alimentação
+<p align ="justify">Este caso de uso se refere ao momento quando o usário deseja encontrar um ponto de alimentação no campus.
+####UC17 - Mostrar Bicicletários
+<p align ="justify">Este caso de uso se refere ao momento em que o usuário deseja encontrar um bicicletário no campus.
+####UC18 - Mostrar Pontos de Acesso
+<p align ="justify">Este caso de uso é responsável por mostrar os pontos de acessos dos prédios do campus.
+####UC19 - Mostrar Informações do Local de Alimentação
+<p align ="justify">Este caso de uso é responsável por mostrar ao usuário dados sobre os locais de alimentação.
+####UC20 - Mostrar Informações da Sala
+<p align ="justify">Este caso de uso é responsável por mostrar aos usuários dados sobre as salas que ele procura.
 
 ## 5) Visão Lógica
 
