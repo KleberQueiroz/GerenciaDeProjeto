@@ -13,51 +13,56 @@
 
 [1. Introdução](#1-introdução)  
 
-[2. Metodologia](#2-metodologia)
+[2. Processo de Gerenciamento de Riscos](#2-processo-de-gerenciamento-de-riscos)
 
-[3. Papéis e responsabilidades](#3-papéis-e-responsabilidades)
+[3. Metodologia](#2-metodologia)
 
-[4. Frequência de avaliação](#4-frequência-de-avaliação)
+[4. Papéis e responsabilidades](#3-papéis-e-responsabilidades)
 
-[5. Categoria dos riscos](#5-categoria-dos-riscos)
+[5. Frequência de avaliação](#4-frequência-de-avaliação)
 
-[5.1 Categoria dos riscos](#51-descrição-dos-itens-da-ear)
+[6. Categoria dos riscos](#5-categoria-dos-riscos)
 
-[6. Definições de probabilidade e impacto dos riscos](#6-definições-de-probabilidade-e-impacto-dos-riscos)
+[6.1 Descrição dos Itens da EAR](#51-descrição-dos-itens-da-ear)
 
-[6.1 Probabilidade](#61-probabilidade)
+[7. Definições de probabilidade e impacto dos riscos](#6-definições-de-probabilidade-e-impacto-dos-riscos)
 
-[6.2 Impacto](#62-impacto)
+[7.1 Probabilidade](#61-probabilidade)
 
-[7. Matriz de probabilidade e impacto](#7-matriz-de-probabilidade-e-impacto)
+[7.2 Impacto](#62-impacto)
 
-[7.1 Prioridade](#71-prioridade)
+[8. Matriz de probabilidade e impacto](#7-matriz-de-probabilidade-e-impacto)
 
-[8. Análise e resposta dos riscos negativos](#8-análise-e-resposta-dos-riscos-negativos)
+[8.1 Prioridade](#71-prioridade)
 
-[9. Análise e resposta dos riscos positivos](#9-análise-e-resposta-dos-riscos-positivos)
+[9. Análise e resposta dos riscos negativos](#8-análise-e-resposta-dos-riscos-negativos)
 
-[10. Referências Bibliográficas](#10-referências-bibliográficas)
+[10. Análise e resposta dos riscos positivos](#9-análise-e-resposta-dos-riscos-positivos)
+
+[11. Referências Bibliográficas](#10-referências-bibliográficas)
 
 ## 1. Introdução
 
 Um risco é caracterizado pela probabilidade de um evento resultar em um impacto negativo em um projeto. O gerenciamento de risco tem como característica identificar e analisar cada potencial impacto de cada risco e desenvolver estratégias para lidar com cada um e minimizar seus impactos negativos (PMBOK, 2013). Mas não somente existem os riscos negativos, por sua vez, os riscos positivos também podem afetar um projeto. O gerenciamento correto de riscos e aplicação de ações corretivas tem como resultado uma probabilidade maior do sucesso de um projeto.
 
-## 2. Metodologia
+
+## 2. Processo de gerênciamento de riscos
+
+## 3. Metodologia
 
 A metodologia adotada para gerenciar os riscos adotado foi a Análise Strengths (forças), Weaknesses (fraquezas), Opportunities (oportunidades) e Threats (ameaças) ou Análise SWOT. Ele é caracterizado como um instrumento para planejamento estrategico que recolhe dados importantes que caracterizam o ambiente interno (forças e fraquezas) e externo (oportunidades e ameaças).
 
 [![SWOT (3).png](https://s24.postimg.org/unuscgl6t/SWOT_3.png)](https://postimg.org/image/a3pydz5fl/)
 
-## 3. Papéis e responsabilidades
+## 4. Papéis e responsabilidades
 
 Os responsáveis pela identificação e análise dos riscos no projeto são os integrantes Eduardo Gomes e Daniel Moura, porém o monitoramento dos riscos se dará pela equipe de GPP.
 
-## 4. Frequência de avaliação
+## 5. Frequência de avaliação
 
 As avaliações de riscos se darão aos sábados que são as reuniões principais da equipe. Caso seja necessária em casos críticos, ela será feita o quanto antes.
 
-## 5. Categoria dos riscos
+## 6. Categoria dos riscos
 
 Os riscos foram representados no Estrutura Analítica de Riscos (EAR). Essa Estrutura apresenta de forma hierarquica a natureza dos riscos e permite uma melhor visualização de causas. A EAR auxilia na compreensão, gerenciamento e comunicação de riscos em projeto.
 
@@ -67,7 +72,7 @@ Segundo Hillson (2013):
 
 [![Captura de tela de 2017-03-27 22-11-50.png](https://s9.postimg.org/3o1wbpdbz/Captura_de_tela_de_2017-03-27_22-11-50.png)](https://postimg.org/image/s4k266e2j/)
 
-## 5.1 Descrição dos Itens da EAR
+## 6.1 Descrição dos Itens da EAR
 
 **Técnico**
 
@@ -103,9 +108,9 @@ Segundo Hillson (2013):
 
 * Estimativa: Condiz com riscos relacionados a erros de estimativas de tempo, esforço, custo do projeto.
 
-## 6. Definições de probabilidade e impacto dos riscos
+## 7. Definições de probabilidade e impacto dos riscos
 
-### 6.1 Probabilidade
+### 7.1 Probabilidade
 
 | Probabilidade |   Intervalo   | Peso |
 |:-------------:|:-------------:|:----:|
@@ -115,7 +120,7 @@ Segundo Hillson (2013):
 |      Alta     |  De 61% a 80% |   4  |
 |   Muito Alta  |  Acima de 80% |   5  |
 
-### 6.2 Impacto 
+### 7.2 Impacto 
 
 |   Impacto   |                   Descrição                  | Peso |
 |:-----------:|:--------------------------------------------:|:----:|
@@ -125,7 +130,7 @@ Segundo Hillson (2013):
 |     Alto    | Impacto grande no desenvolvimento do projeto |   4  |
 |  Muito Alto |      O impacto torna o projeto inviável      |   5  |
 
-## 7. Matriz de probabilidade e impacto
+## 8. Matriz de probabilidade e impacto
 
 
 | Probabilidade X Impacto | Muito Baixo | Baixo | Moderado | Alto | Muito Alto |
@@ -136,7 +141,7 @@ Segundo Hillson (2013):
 |           Alta          |      4      |   8   |    12    |  16  |     20     |
 |        Muito Alta       |      5      |   10  |    15    |  20  |     25     |
 
-### 7.1 Prioridade
+### 8.1 Prioridade
 
 As prioridades de cada risco foram classificados nos níveis de prioridade Alto, Médio e Baixo de acordo com a matriz de Probabilidade X Risco.
 
@@ -146,7 +151,7 @@ As prioridades de cada risco foram classificados nos níveis de prioridade Alto,
 |    Média   |  De 6 a 15 |
 |    Alta    | De 16 a 25 |
 
-## 8. Análise e resposta dos riscos negativos
+## 9. Análise e resposta dos riscos negativos
 
 |                                  Risco                                  |                                                    Efeito                                                   | Probabilidade | Impacto |                                                                   Ação                                                                  | Estratégia | Responsável |
 |:-----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:-------------:|:-------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:-----------:|
@@ -175,7 +180,7 @@ As prioridades de cada risco foram classificados nos níveis de prioridade Alto,
 |  Alto utilização do sistema  | Elevada quantidade de usuários acessando o sistema ao mesmo tempo |     Média     |   Alto  |     Aumentar capacidade de servidores e acessos a API de mapas do Google    |   Aceitar  |   Matheus   |
 |     Satisfação do cliente    |        Continuidade do projeto e aumentos de investimentos        |     Média     |   Alto  |                Reunião da equipe quanto ao futuro do projeto                |   Aceitar  |    Todos    |
 
-## 11. Referências
+## 11. Referências Bibliográficas
 
 PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
 
