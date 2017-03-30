@@ -1,43 +1,40 @@
 ### 1. Descrição
 
-Este caso de uso é destinado ao usuário administrador através deste é possível acessar a área restrita da aplicação web o que permite que este crie, edite ou exclua algo no site.
+Este caso de uso é destinado ao usuário da aplicação web. Através dele é possível visualizar as informações sobre os edifícios do Campus Darcy Ribeiro da Universidade de Brasília.
 
 ### 2. Atores
 
-* Administrador
+* Usuário
 
 ### 3. Pré-condições
 
 * Ter acessado a aplicação.
-* O administrador deve possuir registro na aplicação.
 
 ### 4. Fluxo de Eventos
 
 #### 4.1 Fluxo Principal
 
-Este caso de uso é iniciado quando o usuário realiza o login como administrador na aplicação.
+Este caso de uso se inicia quando o usuário clica em um edifício.
 
-* [FP01] - O usuário acessa a aplicação.
-* [FP02] - Realiza login como administrador e é redirecionado para o painel administrativo.
-* [FP03] - Após a autenticação do seu registro, será possível criar, editar ou excluir qualquer tipo de dado do mapa do campus da universidade.
-* [FP04] - O usuário atualiza as informações e realiza a saída da conta como administrador.
-* [FP05] - O caso de uso é encerrado.
+* [FP01] - O usuário clica em um edifício.
+* [FP02] - O sistema apresenta um painel lateral com informações gerais do edifício.
+* [FP03] - O caso de uso é encerrado. 
+
 
 #### 4.2 Fluxos Alternativos
 
-* Não se aplica.
+* [FA01] - Fechar o painel lateral de informações
+&nbsp;&nbsp;&bull; O usuário clica no mapa para fechar o painel lateral de informações
+&nbsp;&nbsp;&bull; O caso de uso é encerrado.  
 
 #### 4.3 Fluxo de Exceção
 
-* [FE01] - Dados inválidos: No momento do login, se a entrada de algum dado incorreto for detectado pelo sistema, será exibida uma mensagem notificando o erro.
+* Não se aplica.
 
 ### 5. Regra de Negócio
 
-| Campo    | Formato                           | Obrigatoriedade | Valor                    |
-|----------|-----------------------------------|-----------------|--------------------------|
-| email    | String de até 255 caracteres      | Sim             | Exemplo: email@email.com |
-| password | String com no mínimo 6 caracteres | Sim             |                          |
+* Não se aplica.
 
 ### 6. Pós-condição
 
-* Não se aplica.
+* Após visualizar as informações o usuário poderá traçar uma rota até o edifício desejado.
