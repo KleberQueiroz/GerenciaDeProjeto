@@ -54,7 +54,7 @@
 
 :ballot_box_with_check: [Folha de Estilo]()
 
-:ballot_box_with_check: [Especificação de Casos de Uso]()
+:ballot_box_with_check: [Especificação de Casos de Uso](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Uso)
 
 :ballot_box_with_check: [Diagrama de Caso de Uso]()
 
