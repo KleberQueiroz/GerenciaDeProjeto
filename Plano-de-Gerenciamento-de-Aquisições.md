@@ -52,4 +52,5 @@ Verificar se o fornecedor cumpriu as suas obrigações de acordo com o acordado 
 |Cartolinas|R$ 5,80|1 pacote com 10|Kalunga|R$ 5,80|
 |*Post-it*|R$ 10,70|1 pacote 400 folhas|Kalunga|R$ 10,70|
 |Fita adesiva dupla face|R$ 16,90|1 unidade|Kalunga|R$ 16,90|
-|Kit pincel quadro bracon|R$ 20,30|1 unidade 4 pincéis|Kalunga|R$ 20,30|
+|Kit pincel quadro braco|R$ 20,30|1 unidade 4 pincéis|Kalunga|R$ 20,30|
+|Kit pincel permanente|R$ 10,90|1 unidade 4 pincéis|Kalunga|R$ 10,90|
