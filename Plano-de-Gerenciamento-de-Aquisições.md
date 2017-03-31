@@ -13,7 +13,9 @@
 
 2. [Descrição do Processo de Aquisição](#2-descrição-do-processo-de-aquisição)
 
-3. [Produtos e Serviços](#3-produtos-e-serviços)
+3. [Gerência de Mudanças](#3-gerência-de-mudanças)
+
+4. [Produtos e Serviços](#4-produtos-e-serviços)
 
 ## 1. Introdução
 
@@ -43,7 +45,12 @@ Analisar o desempenho dos produtos e/ou serviços adquiridos e avaliar os fornec
 
 Verificar se o fornecedor cumpriu as suas obrigações de acordo com o acordado com a equipe.
 
-## 3. Produtos e Serviços
+
+## 3. Gerência de Mudanças
+
+Para gerenciar as mudanças é necessário saber se a o pedido de mudança é uma requisição que vem da equipe de gerência ou do cliente. Caso parta da própria equipe, é marcada uma reunião para discutir a necessidade e viabilidade, em nível de projeto e orçamento, dessa mudança. Caso parta do cliente, a mudança é acatada e isso é repassado para os responsáveis dentro da equipe.
+
+## 4. Produtos e Serviços
 
 |Bem/Serviço|Preço Unitário|Quantidade|Fornecedores potenciais|Orçamento|
 |-----|-----|-----|-----|------|
