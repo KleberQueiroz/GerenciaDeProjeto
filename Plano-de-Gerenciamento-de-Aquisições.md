@@ -49,7 +49,7 @@ Verificar se o fornecedor cumpriu as suas obrigações de acordo com o acordado 
 |-----|-----|-----|-----|------|
 |Notebook|R$ 3.000,00|13|Dell, HP, Apple, Asus|R$ 39.000,00|
 |Internet|R$ 100,00/mês|13 por 4 meses|Vivo, NET, Claro|R$ 5.200,00|
-|Cartolinas|R$ 4,00|5||
-|*Post-it*||||||
-|Fita adesiva||||||
-|Pincel||||||
+|Cartolinas|R$ 5,80|1 pacote com 10|Kalunga|R$ 5,80|
+|*Post-it*|R$ 10,70|1 pacote 400 folhas|Kalunga|R$ 10,70|
+|Fita adesiva dupla face|R$ 16,90|1 unidade|Kalunga|R$ 16,90|
+|Kit pincel quadro bracon|R$ 20,30|1 unidade 4 pincéis|Kalunga|R$ 20,30|
