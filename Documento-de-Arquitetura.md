@@ -85,25 +85,25 @@
 ### 4.3 Descrição dos Casos de Uso
 
 **UC01 - Manter Administrador** 
-<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto **administrador** no sistema.  
+<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto administrador no sistema.  
 
 **UC02 - Manter Edifícios**  
-<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto **edifício** no sistema.  
+<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto edifício no sistema.  
 
 **UC03 - Manter Departamentos**  
-<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto **edifício** no sistema.  
+<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto edifício no sistema.  
 
 **UC04 - Manter Salas**  
-<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto **sala** no sistema.  
+<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto sala no sistema.  
 
 **UC05 - Manter Centros Acadêmicos** 
-<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto **centro acadêmico** no sistema.  
+<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto centro acadêmico no sistema.  
 
 **UC06 - Manter Bicicletários**  
-<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto **bicicletário** no sistema.  
+<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto bicicletário no sistema.  
 
 **UC07 - Manter Pontos de Acesso**  
-<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto **ponto de acesso** no sistema. 
+<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto ponto de acesso no sistema. 
 
 **UC08 - Mostrar informações**  
 <p align ="justify">Este caso de uso se refere ao momento em que o usuário clica em um dos itens expostos no mapa e o sistema retorna as informações deste item.
