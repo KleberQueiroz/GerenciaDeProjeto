@@ -16,6 +16,7 @@
 |  25/03/2017   |  1.9   | Atualizações de Metas Arquiteturais                                      | Jordan        |
 |  30/03/2017   |  2.0   | Melhoria do Tópico de Qualidade                                          | Lucas S.      |
 |  30/03/2017   |  2.1   | Descrição dos Casos de Uso                                               | Lucas S.      |
+|  30/03/2017   |  2.2   | Correção das Descrições dos Casos de Uso                                 | Lucas S.      |
 
 
 -------------------------------------------------------------------
