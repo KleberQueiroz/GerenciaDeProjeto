@@ -23,7 +23,7 @@
 
 :white_check_mark: [Plano de Gerenciamento de Comunicação](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Comunica%C3%A7%C3%A3o)
 
-:arrows_counterclockwise: [Plano de Gerenciamento de Configuração de *Software*](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-gerenciamento-e-configura%C3%A7%C3%A3o)
+:arrows_counterclockwise: [Plano de Gerenciamento de Configuração de *Software*](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o-de-Software)
 
 :arrows_counterclockwise: [Plano de Gerenciamento de Recursos Humanos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos)
 
