@@ -41,8 +41,6 @@ Este caso de uso é iniciado quando o usuário abre a aplicação.
 | Bicicletários         | Locais destinados para estacionamento de bicicletas.                                    | Não se aplica.                 |
 | Pontos de Acesso      | Pontos de entrada e saída de determinado local.                                         | Não se aplica.                 |
 
-* Não se aplica.
-
 ### 6. Pós-condição
 
 * Não se aplica.
