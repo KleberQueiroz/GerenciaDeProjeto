@@ -9,7 +9,8 @@
 | 27/03/2017 | 1.4    | Criação do Manter Edifícios, Manter Pontos de Acesso e Manter Bicicletário.                                                                                                | Stéfane Souza    |
 | 29/03/2017 | 1.5    | Edição do Manter Administrador, Manter Bicicletário, Manter Pontos de Acesso, Calcular Trajeto entre Edifícios, Procurar Localidades de Campus e organização do documento. | Stéfane Souza    |
 | 29/03/2017 | 1.6    | Inclusão de novos casos de uso.                                                                                                                                            | Kairon Velozo    |
-
+| 29/03/2017 | 1.7    | Refatorando os casos de uso, UC08 - Exibir Informações, UC11 - Mostrar Mapa.                                                                                                                                            | Taynara Carvalho    | 
+| 29/03/2017 | 1.8    | Refatoração do documento.                                                                                                                                             | Kairon Velozo    | 
 
 ***
 
@@ -22,16 +23,7 @@
 5. UC05 - [Manter Centros Acadêmicos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC05-Manter-Centros-Acad%C3%AAmicos)
 6. UC06 - [Manter Bicicletários](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC06-Manter-Biciclet%C3%A1rios)
 7. UC07 - [Manter Pontos de Acesso](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC07-Manter-Pontos-de-Acesso)
-8. UC08 - [Mostrar Informações do Edifícios](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC08-Mostrar-Informa%C3%A7%C3%B5es-Sobre-Edif%C3%ADcios)
+8. UC08 - [Mostrar Informações](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC08-Mostrar-Informa%C3%A7%C3%B5es)
 9. UC09 - [Calcular Trajeto entre Edifícios](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC09----Calcular-Trajeto-entre-Edif%C3%ADcios)
-10. UC10 - [Procurar Locais do Campus](#)
-11. UC11 - [Mostrar Mapa](#)
-12. UC12 - [Mostrar Departamentos](#)
-13. UC13 - [Mostrar Edifícios](#)
-14. UC14 - [Mostrar Salas](#)
-15. UC15 - [Mostrar Salas por Nível](#)
-16. UC16 - [Mostrar Locais de Alimentação](#)
-17. UC17 - [Mostrar Bicicletários](#)
-18. UC18 - [Mostrar Pontos de Acesso](#)
-19. UC19 - [Mostrar Informações do Local de Alimentação](#)
-20. UC20 - [Mostrar Informações da Sala](#)
+10. UC10 - [Procurar Locais do Campus](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC10---Procurar-Locais-do-Campus)
+11. UC11 - [Mostrar Mapa do Campus](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC11---Mostrar-Mapa-do-Campus)
