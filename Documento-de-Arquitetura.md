@@ -17,7 +17,7 @@
 |  30/03/2017   |  2.00   | Melhoria do Tópico de Qualidade                                          | Lucas S.      |
 |  30/03/2017   |  2.10   | Descrição dos Casos de Uso                                               | Lucas S.      |
 |  30/03/2017   |  2.15   | Correção das Descrições dos Casos de Uso                                 | Lucas S.      |
-|  01/04/2017   |  2.20   |
+|  01/04/2017   |  2.20   | Atualização de Representação da Arquitetura                              | Jordan       |
 
 
 -------------------------------------------------------------------
