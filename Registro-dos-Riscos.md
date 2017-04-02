@@ -1,7 +1,10 @@
 ### Histórico de Revisões
 
+
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
+|02/04/2017|1.0|Criação do documento com riscos|Eduardo Gomes|
+
 
 ## 1. Análise e resposta dos riscos negativos
 
