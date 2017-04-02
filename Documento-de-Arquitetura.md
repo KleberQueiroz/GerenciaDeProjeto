@@ -4,19 +4,20 @@
 
 |      Data     | Versão | Descrição                                                                | Autor         |
 |---------------|--------|--------------------------------------------------------------------------|---------------|
-|  23/03/2017   |  1.0   | Iniciando documento de arquitetura do projeto.                           | Lucas S.      |
-|  23/03/2017   |  1.1   | Introdução(Finalidade, Escopo)                                           | Lucas S.      |
-|  23/03/2017   |  1.2   | Representação da Arquitetura                                             | Jordan        |
-|  23/03/2017   |  1.3   | Tamanho e desempenho                                                     | Sannya Arvelos|
-|  23/03/2017   |  1.4   | Visão de Casos de Uso(Atores)                                            | Lucas S.      |
-|  23/03/2017   |  1.5   | Restrições e Metas Arquiteturais                                         | Sannya Arvelos|
-|  23/03/2017   |  1.6   | Melhorias Representação da Arquitetura                                   | Sannya Arvelos|
-|  23/03/2017   |  1.7   | Visão lógica                                                             | Lucas S.      |
-|  23/03/2017   |  1.8   | Qualidade                                                                | Sannya Arvelos|
-|  25/03/2017   |  1.9   | Atualizações de Metas Arquiteturais                                      | Jordan        |
-|  30/03/2017   |  2.0   | Melhoria do Tópico de Qualidade                                          | Lucas S.      |
-|  30/03/2017   |  2.1   | Descrição dos Casos de Uso                                               | Lucas S.      |
-|  30/03/2017   |  2.2   | Correção das Descrições dos Casos de Uso                                 | Lucas S.      |
+|  23/03/2017   |  1.00   | Iniciando documento de arquitetura do projeto.                           | Lucas S.      |
+|  23/03/2017   |  1.10   | Introdução(Finalidade, Escopo)                                           | Lucas S.      |
+|  23/03/2017   |  1.20   | Representação da Arquitetura                                             | Jordan        |
+|  23/03/2017   |  1.30   | Tamanho e desempenho                                                     | Sannya Arvelos|
+|  23/03/2017   |  1.40   | Visão de Casos de Uso(Atores)                                            | Lucas S.      |
+|  23/03/2017   |  1.50   | Restrições e Metas Arquiteturais                                         | Sannya Arvelos|
+|  23/03/2017   |  1.60   | Melhorias Representação da Arquitetura                                   | Sannya Arvelos|
+|  23/03/2017   |  1.70   | Visão lógica                                                             | Lucas S.      |
+|  23/03/2017   |  1.80   | Qualidade                                                                | Sannya Arvelos|
+|  25/03/2017   |  1.90   | Atualizações de Metas Arquiteturais                                      | Jordan        |
+|  30/03/2017   |  2.00   | Melhoria do Tópico de Qualidade                                          | Lucas S.      |
+|  30/03/2017   |  2.10   | Descrição dos Casos de Uso                                               | Lucas S.      |
+|  30/03/2017   |  2.15   | Correção das Descrições dos Casos de Uso                                 | Lucas S.      |
+|  01/04/2017   |  2.20   |
 
 
 -------------------------------------------------------------------
@@ -52,7 +53,7 @@
  
 ## 2) Representação da Arquitetura
 
-<p align ="justify">A arquitetura utilizada na UnBMapa será o padrão MVC. Tal padrão possui três layers de trabalho Model-View-Controller. Cada layer desempenha uma função nesta arquitetura. A View, primeira camada, é responsável por exibir as informações sobre as rotas a serem tomadas, bem como mapas e afins. Havendo, assim, uma interação com o usuário. A model, segunda camada, é encarregada de armazenar as informações coletadas na view e a Controller é a responsável por manipular as entradas recebidas e fazer a comunicação entre as duas camadas anteriores.
+<p align ="justify">A arquitetura utilizada na UnBMapa será o padrão MVC. Tal padrão possui três layers de trabalho Model-View-Controller. Cada layer desempenha uma função nesta arquitetura. A View é responsável por exibir as informações sobre as rotas a serem tomadas, bem como mapas e afins. Havendo, assim, uma interação com o usuário. A Model é encarregada de armazenar as informações coletadas na view e a Controller é a responsável por manipular as entradas recebidas e fazer a comunicação entre as duas camadas anteriores.
 
 ## 3) Restrições e Metas Arquiteturais
 
