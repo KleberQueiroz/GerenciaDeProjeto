@@ -126,7 +126,7 @@ São unidades funcionais do sistema. Representam a interação entre o usuário 
 
 * **Índice**: Iniciado com as letras 'UC' seguido de um número crescente de acordo com a quantidade de casos de uso.
 
-* **Nome**: Nome do caso de uso identificad.
+* **Nome**: Nome do caso de uso identificado.
 
 * **Descrição**: Detalhamento do caso de uso.
 
