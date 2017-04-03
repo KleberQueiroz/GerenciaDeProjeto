@@ -19,14 +19,33 @@
 
     2.4 [Controlar o Nível de Engajamento das Partes Interessadas](#24-controlar-o-nível-de-engajamento-das-partes-interessadas)
 
+3. [Registro das Partes Interessadas](#3-registro-das-partes-interessadas)
+
+4. [Análise e Avaliação das Partes Interessadas](#4-análise-e-avaliação-das-partes-interessadas)
+
 ### 1. Introdução
 
+Neste documento inclui os processos necessários para identificar as pessoas, grupos ou organizações que, indiretamente e diretamente, possam afetar ou ser afetados pelo projeto, para analisar as expectativas das partes interessadas e seu impacto sobre o projeto e para desenvolver estratégias de gerência para engajar as partes interessadas nas decisões e atividades relacionadas ao projeto.
 
 ### 2. Processo de Gerenciamento das Partes Interessadas
 
 #### 2.1 Identificar as Partes Interessadas
 
 Identificar pessoas, grupos ou organizações que, diretamente ou indiretamente, afetam ou são afetados por uma decisão, atividade ou resultado do projeto e analisar e documentar informações relevantes relativas aos seus interesses, nível de engajamento, interdependência, influência e seu impacto potencial no sucesso do projeto.
+
+#### 2.2 Planejar o Gerenciamento das Partes Interessadas
+
+Visando o engajamento das partes interessadas durante todo o ciclo de vida do projeto, desenvolve-se estratégias de gerenciamento apropriadas com base na necessidade, interesse e impacto potencial no êxito do projeto de cada parte interessada.
+
+#### 2.3 Gerenciar o Engajamento das Partes Interessadas
+
+Descreve como se dará o processo de comunicação e trabalho com as partes interessadas para atender às suas necessidades/expectativas e o engajamento das partes interessadas nas atividades do projeto.
+
+#### 2.4 Controlar o Nível de Engajamento das Partes Interessadas
+
+Monitoramento e controle do relacionamento das partes interessadas e ajustes de estratégias e planejamentos para o engajar as partes interessadas.
+
+### 3. Registro das Partes Interessadas
 
 O Registro das Partes Interessadas é o resultado do processo de identificação destas, ele contém todos os detalhes a respeito das partes identificadas
 
@@ -38,13 +57,7 @@ O Registro das Partes Interessadas é o resultado do processo de identificação
 | 4  | Interna | Equipe de Gerência        | UnB         | Aluno                  | Equipe de Gerência        | Gerenciar o projeto e a equipe de desenvolvimento |
 | 5  | Interna | Equipe de Desenvolvimento | UnB         | Aluno                  | Equipe de Desenvolvimento | Desenvolver o projeto                             |
 
-#### 2.2 Planejar o Gerenciamento das Partes Interessadas
-
-Visando o engajamento das partes interessadas durante todo o ciclo de vida do projeto, desenvolve-se estratégias de gerenciamento apropriadas com base na necessidade, interesse e impacto potencial no êxito do projeto de cada parte interessada.
-
-#### 2.3 Gerenciar o Engajamento das Partes Interessadas
-
-Descreve como se dará o processo de comunicação e trabalho com as partes interessadas para atender às suas necessidades/expectativas e o engajamento das partes interessadas nas atividades do projeto.
+### 4. Análise e Avaliação das Partes Interessadas
 
 A análise e avaliação das partes interessadas é obtida pela média da importância do membro para o projeto.
 
@@ -55,8 +68,3 @@ A análise e avaliação das partes interessadas é obtida pela média da import
 | 3  | 10         | 6     | 6          | 8       | 7                     | Desenvolvimento           |
 | 4  | 10         | 8     | 8          | 10      | 9                     | Desenvolvimento/Conclusão |
 | 5  | 10         | 7     | 8          | 10      | 8.75                  | Desenvolvimento/Conclusão |
-
-#### 2.4 Controlar o Nível de Engajamento das Partes Interessadas
-
-Monitoramento e controle do relacionamento das partes interessadas e ajustes de estratégias e planejamentos para o engajar as partes interessadas.
-
