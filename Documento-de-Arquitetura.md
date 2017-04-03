@@ -17,7 +17,8 @@
 |  30/03/2017   |  2.00   | Melhoria do Tópico de Qualidade                                          | Lucas S.      |
 |  30/03/2017   |  2.10   | Descrição dos Casos de Uso                                               | Lucas S.      |
 |  30/03/2017   |  2.15   | Correção das Descrições dos Casos de Uso                                 | Lucas S.      |
-|  01/04/2017   |  2.20   | Atualização de Representação da Arquitetura                              | Jordan       |
+|  01/04/2017   |  2.20   | Atualização de Representação da Arquitetura                              | Jordan        |
+|  03/04/2017   |  2.30   | Correção da Visão Lógica                                                 | Lucas S.      |
 
 
 -------------------------------------------------------------------
@@ -34,8 +35,10 @@
 &nbsp;&nbsp;[4.2. Diagrama de Casos de Uso](#42-diagrama-de-casos-de-uso)  
 &nbsp;&nbsp;[4.3. Descrição dos Casos de Uso](#43-descrição-dos-casos-de-uso)    
 [5. Visão Lógica](#5-visão-lógica)  
-&nbsp;&nbsp;[5.1. Propósito](#51-diagrama-de-classes)  
-&nbsp;&nbsp;[5.2. Propósito](#52-banco-de-dados)    
+&nbsp;&nbsp;[5.1. Visão Geral](#51-visão-geral)  
+&nbsp;&nbsp;[5.2. Diagrama de Classes](#52-diagrama-de-classes)  
+&nbsp;&nbsp;[5.3. Diagrama de Pacotes](#53-diagrama-de-pacotes)  
+&nbsp;&nbsp;[5.4. Banco de Dados](#54-banco-de-dados)    
 [6. Desempenho](#6desempenho)  
 [7. Qualidade](#7-qualidade)  
 
@@ -57,19 +60,10 @@
 
 ## 3) Restrições e Metas Arquiteturais
 
-|    Metas Arquiteturais                                                                                                            |          
-|-----------------------------------------------------------------------------------------------------------------------------------|	
-|O sistema tem como objetivo facilitar a localização do usuário no Campus Darcy Ribeiro. Facilitando o acesso por suas instalações. | 
-|O sistema contará com uma interface interativa com o usuário.                                                                      |
-|O sistema contará com uma interface responsiva.                                                                                    |
-|O sistema contará com o recurso Bootstrap.                                                                                         |
-|Deverá garantir uma boa estrutura e qualidade de código.                                                                           | 
+<p align ="justify"> * A aplicação web 'Onde É a UnB?' será desenvolvida utilizando o framework Ruby on Rails. Tal framework é escrito utilizando a linguagem Ruby e é baseado no padrão de arquitetura MVC (Model-View-Controller).
 
-|    Restrições                                                                       |
-|-------------------------------------------------------------------------------------|	
-|Será necessário que haja conexão com a internet.                                     |
-|O sistema dependerá dos dados físicos do Campus Darcy Ribeiro.                       |
-|O sistema deverá ser atualizado de acordo com modificações no Campus Darcy Ribeiro.  |
+<p align ="justify"> * O banco de dados padrão do Ruby on Rails é o SQLite3, entretanto, decidiu-se que o banco utilizado será o Postegree, pois tal banco possui a possibilidade de se utilizar dados de geolocalização.
+
 ## 4) Visão de Casos de Uso  
 
 ### 4.1 Atores
@@ -123,25 +117,32 @@
 
 ## 5) Visão Lógica
 
-<p align ="justify">A aplicação é construída sobre o framework Rails utilizando a linguagem de alto nível Ruby. Estre framework utiliza a lógica MVC(Model-View-Controller), tal lógica permite a divisão da estrutura da ferramenta web em 3 blocos sólidos que comunicam-se entre si: View, controller, model.
+<p align ="justify">A aplicação 'Onde É a UnB' é construída sobre o framework Rails utilizando a linguagem de alto nível Ruby. Estre framework utiliza a lógica MVC(Model-View-Controller), tal lógica permite a divisão da estrutura da ferramenta web em 3 blocos sólidos que comunicam-se entre si: View, controller, model.  
 
-### 5.1 View
+### 5.1 Visão Geral
 
-<p align ="justify">View é o bloco responsável por tudo aquilo que o usuário pode ver em seu navegador. Responsável, também, por receber os estímulos fornecidos pelos usuários na aplicação. Como por exemplo, as telas, menus, botões, caixas de pesquisas, entre outros encontrados na aplicação.
+<p align ="justify">A lógica MVC trabalha da seguinte maneira: No momento em que o usuário faz uma requisição no seu navegador a View manda este pedido à Controller. A Controller, por sua vez, interpreta tal evento e procura os dados necessários na Model para que estes sejam validados. Após os dados serem validados a Controller seleciona os necessários e responde a requisição da View que os transfere ao navegador do usuário.  
 
-### 5.2 Controller
+5.1.1 View
 
-<p align ="justify">Controller é o bloco responsável por fazer a comunicação entre a model e a view. Literalmente controlando os dados de camada à camada.
 
-### 5.3 Model
+<p align ="justify">A View é responsável por tudo aquilo que o usuário pode ver em seu navegador. Responsável, também, por receber os estímulos fornecidos pelos usuários na aplicação. Como por exemplo, as telas, menus, botões, caixas de pesquisas, entre outros encontrados no sistema.
 
-<p align ="justify">Model é o bloco que tem como responsabilidade a transferência, manutenção e definição dos dados das classes escritas em Ruby para o Banco de Dados. Exemplos destes dados são: os edifícios, departamentos, salas, pontos de alimentação que serão cadastrados no sistema. Cada um destes grupo será descrito como uma classe na aplicação que servirá como molde para as entidades físicas cadastradas.
+5.1.2 Controller
 
-### 5.4 Diagrama de Classes
+<p align ="justify">A Controller é responsável por fazer a comunicação entre as requisições recebidas pela View e os dados tratados pela Model, servido assim, de ponte entre elas. Por exemplo, no momento em que o view faz uma requisição, a controller processa este evento e opera os dados estão que contidos na Model validando-os para então responder a requisição à View.  
 
-### 5.2 Banco de Dados
+5.1.3 Model
 
-<p align ="justify">O framework Rails, antes citado deste documento, possui uma base de dados padrão em MySQL, entretanto, visando a quantidade de acessos simultâneos que os dados da aplicação podem possuir, decidiu-se que a base de dados seria trocada para uma descrita em PostgreSQL pois esta possui maior suporte a uma grande transferência de dados simultâneos.
+<p align ="justify">A Model é responsável por conter os dados da aplicação. Trata a escrita, a validação e a leitura de tais dados. Sendo responsável, também, por conter, quando necessário, os dados no database. Quando requisitada pela Controller, fornece os dados contidos para que a Controller decida exibi-los ou não na View.
+
+### 5.2 Diagrama de Classes
+
+### 5.3 Diagrama de Pacotes
+
+### 5.4 Banco de Dados
+
+<p align ="justify">O framework Rails, antes citado neste documento, possui uma base de dados padrão em MySQL, entretanto, foi acordado que o banco de dados seria descrito em Postegree pois esta linguagem possui suporte a dados de geolocalização. Facilitando, assim, o processo de construção das funções de localização na aplicação.
 
 ## 6) Desempenho
 
