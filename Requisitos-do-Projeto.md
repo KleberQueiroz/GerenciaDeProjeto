@@ -48,6 +48,7 @@
 |**R04**|Localizar locais de alimentação|O sistema deve apresentar ao usuário a localização dos locais de alimentação dentro do campus.|
 |**R05**|Localizar centros acadêmicos|O sistema deve apresentar ao usuário a localização dos centros acadêmicos dentro do campus.|
 |**R06**|Indicar trajetos entre locais|O sistema deve apresentar rotas, partindo da localização atual do usuário até o destino desejado.|
+|**R07**|Informar sobre uma localidade|O sistema deve aprensentar informações sobre um determinado edifício, sala, departamento ou local de comida. Como, horário de funcionamento, nome e outras informações.|
 
 ### 5. Casos de Uso
 
