@@ -137,6 +137,10 @@
 <p align ="justify">A Model é responsável por conter os dados da aplicação. Trata a escrita, a validação e a leitura de tais dados. Sendo responsável, também, por conter, quando necessário, os dados no database. Quando requisitada pela Controller, fornece os dados contidos para que a Controller decida exibi-los ou não na View.
 
 ### 5.2 Diagrama de Classes
+<p align ="justify">Abaixo encontra-se o diagrama de classes do sistema:
+
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-classe.jpg)
+[Diagrama de Classes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-classe.jpg)
 
 ### 5.3 Diagrama de Pacotes
 
