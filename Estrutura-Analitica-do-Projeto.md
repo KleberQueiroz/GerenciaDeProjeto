@@ -1,8 +1,14 @@
 # Estrutura Analítica do Projeto (EAP)
 
-## v2.0
+| Data | Versão | Descrição | Autor |
+|:----:|:------:|:---------:|:-----:|
+|23/03/2017|1.0|Primeira Versão da EAP|Eduardo Gomes|
+|25/03/2017|2.0|Segunda Versão da EAP|Eduardo Gomes|
+|03/04/2017|2.1|Edição da Segunda Versão da EAP|Eduardo Gomes|
 
-[![Captura de tela de 2017-03-25 23-43-16.png](https://s24.postimg.org/9vlxf8zcl/Captura_de_tela_de_2017-03-25_23-43-16.png)](https://postimg.org/image/r8w7u3unl/)
+## v2.1
+[![Captura de tela de 2017-04-03 11-09-11.png](https://s23.postimg.org/u9jwd3hij/Captura_de_tela_de_2017-04-03_11-09-11.png)](https://postimg.org/image/oy4zsdvfr/)
+
 
 ## v1.0
 
