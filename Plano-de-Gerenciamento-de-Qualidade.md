@@ -26,9 +26,12 @@
 
 ## 1. Introdução
 
-Este documento tem como finalidade descrever questões de planejamento, controle e garantia da qualidade do sistema Onde é UnB. 
+O gerenciamento de qualidade é uma coleção de processos que garantem a qualidade em relação ao ciclo de vida, produto de software e serviços também de acordo com as necessidades dos stakeholders (SWEBOK, 2014).
+Este documento tem como finalidade descrever questões de planejamento e gerencia de qualidade do Onde é UnB.
 
-## 2. Processo de Qualidade
+## 2. Gerenciamento e Processo de Qualidade
+
+O gerenciamento de qualidade é definido no PMBOK
 
 ## 3. Frequência da análise
 
