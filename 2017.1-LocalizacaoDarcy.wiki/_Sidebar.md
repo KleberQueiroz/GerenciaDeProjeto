@@ -35,6 +35,8 @@
 
 :white_check_mark: [Plano de Gerenciamento dos Requisitos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-dos-Requisitos)
 
+   * :white_check_mark: [Requisitos do Projeto](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Requisitos-do-Projeto)
+
 :arrows_counterclockwise: [Plano de Gerenciamento da Qualidade](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Qualidade)
 
 :ballot_box_with_check: [Plano de Gerenciamento das Partes Interessadas]()
