@@ -23,3 +23,12 @@
 * **Gerenciar o Engajamento das Partes Interessadas:** 
 
 * **Controlar o Nível de Engajamento das Partes Interessadas:** 
+
+
+| ID | Tipo    | Nome                      | Organização | Posição na organização | Papel no projeto          | Responsabilidade no projeto                       |
+|----|---------|---------------------------|-------------|------------------------|---------------------------|---------------------------------------------------|
+| 1  | Externa | CPD                       | UnB/CPD     | Funcionário            | Cliente                   | Validar                                           |
+| 2  | Interna | Carla Rocha               | UnB         | Professor              | Professora                | Supervisionar                                     |
+| 3  | Interna | Coaches                   | UnB         | Aluno                  | Orientador                | Orientar                                          |
+| 4  | Interna | Equipe de Gerência        | UnB         | Aluno                  | Equipe de Gerência        | Gerenciar o projeto e a equipe de desenvolvimento |
+| 5  | Interna | Equipe de Desenvolvimento | UnB         | Aluno                  | Equipe de Desenvolvimento | Desenvolver o projeto                             |
