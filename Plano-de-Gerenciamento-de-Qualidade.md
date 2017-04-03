@@ -12,9 +12,6 @@
 
 [1. Introdução](#1-introducao)  
 
-Este documento tem como finalidade descrever questões de gerenciamento de qualidade do sistema Onde é UnB. 
-
-
 [2. Gerencia e Processo de Qualidade](#2-Processo-de-Qualidade)
 
 [3. Frequência da análise](#3-Frequencia-da-analise)
@@ -28,6 +25,8 @@ Este documento tem como finalidade descrever questões de gerenciamento de quali
 [7. Referências Bibliográficas](#7-Referências-Bibliograficas)
 
 ## 1. Introdução
+
+Este documento tem como finalidade descrever questões de planejamento, controle e garantia da qualidade do sistema Onde é UnB. 
 
 ## 2. Processo de Qualidade
 
