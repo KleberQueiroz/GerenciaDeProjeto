@@ -10,11 +10,14 @@
 
 ## Sumário
 
-[1. Introdução](#1-introdução)  
+[1. Introdução](#1-introducao)  
 
-[2. Processo de Qualidade](#2-Processo-de-Qualidade)
+Este documento tem como finalidade descrever questões de gerenciamento de qualidade do sistema Onde é UnB. 
 
-[3. Frequência da análise](#3-Frequência da análise)
+
+[2. Gerencia e Processo de Qualidade](#2-Processo-de-Qualidade)
+
+[3. Frequência da análise](#3-Frequencia-da-analise)
 
 [4. Ferramentas da análise de qualidade](#4-Ferramentas-da-análise-de-qualidade)
 
