@@ -16,10 +16,10 @@
 
 ### 2. Processo de Gerenciamento das Partes Interessadas
 
-* ** Identificar as Partes Interessadas:** Identificar pessoas, grupos ou organizações que, diretamente ou indiretamente, afetam ou são afetados por uma decisão, atividade ou resultado do projeto e analisar e documentar informações relevantes relativas aos seus interesses, nível de engajamento, interdependência, influência e seu impacto potencial no sucesso do projeto.
+* **Identificar as Partes Interessadas:** Identificar pessoas, grupos ou organizações que, diretamente ou indiretamente, afetam ou são afetados por uma decisão, atividade ou resultado do projeto e analisar e documentar informações relevantes relativas aos seus interesses, nível de engajamento, interdependência, influência e seu impacto potencial no sucesso do projeto.
 
-* ** Planejar o Gerenciamento das Partes Interessadas:** Visando o engajamento das partes interessadas durante todo o ciclo de vida do projeto, desenvolve-se estratégias de gerenciamento apropriadas com base na necessidade, interesse e impacto potencial no êxito do projeto de cada parte interessada.
+* **Planejar o Gerenciamento das Partes Interessadas:** Visando o engajamento das partes interessadas durante todo o ciclo de vida do projeto, desenvolve-se estratégias de gerenciamento apropriadas com base na necessidade, interesse e impacto potencial no êxito do projeto de cada parte interessada.
 
-* ** Gerenciar o Engajamento das Partes Interessadas:** 
+* **Gerenciar o Engajamento das Partes Interessadas:** 
 
-* ** Controlar o Nível de Engajamento das Partes Interessadas:** 
+* **Controlar o Nível de Engajamento das Partes Interessadas:** 
