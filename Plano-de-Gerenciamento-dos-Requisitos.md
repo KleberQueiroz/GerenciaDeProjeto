@@ -6,6 +6,8 @@
 |26/03/2017|1.01|Processo e gerência |Rafael Rabetti|
 |26/03/2017|1.1|Rastreabilidade |Rafael Rabetti|
 |27/03/2017|1.2|Matriz de Rastreabilidade |Rafael Rabetti|
+|03/04/2017|2.0|Refatorando documento, criação de um outro documento para as tabelas de rastreabilidade |Rafael Rabetti|
+
 
 
 ***
@@ -128,4 +130,3 @@ São unidades funcionais do sistema. Representam a interação entre o usuário 
 
 * **Descrição**: Detalhamento do caso de uso.
 
-#### 4.6 Matriz de rastreabilidade
