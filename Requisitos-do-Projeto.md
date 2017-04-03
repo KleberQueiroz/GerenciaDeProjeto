@@ -1,7 +1,8 @@
 ## Histórico de Revisões
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
-|22/03/2017|1.0|Criando estutura do documento|Rafael Rabetti|
+|03/04/2017|0.1|Criando estutura do documento|Rafael Rabetti|
+|03/04/2017|1.0|Problemas, Necessidades,Características, Requisitos, Casos de uso e Rastreabilidade|Rafael Rabetti|
 
 ***
 ## Sumário
