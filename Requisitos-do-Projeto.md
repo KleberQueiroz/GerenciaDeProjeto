@@ -57,13 +57,12 @@
 |**UC02**|Manter Salas|Permite a criação, leitura, exclusão e alteração de salas.|
 |**UC03**|Manter Departamentos|Permite a criação, leitura, exclusão e alteração de departamentos.|
 |**UC04**|Manter Centros Acadêmicos|Permite a criação, leitura, exclusão e alteração de centros acadêmicos.|
-|**UC05**|Visualizar Informações Sobre Edifício|Apresenta para o usuário qual o nome do edifício e quais departamentos e salas estão ali dentro. |
-|**UC06**|Pesquisar Edifícios|Permite ao usuário a busca um edifício a fim de saber a sua localização.|
-|**UC07**|Pesquisar Sala|Permite ao usuário a busca uma sala a fim de saber a sua localização.|
-|**UC08**|Pesquisar Departamento|Permite ao usuário a busca um departamento a fim de saber a sua localização.|
-|**UC09**|Visualizar Centros Acadêmicos|Apresenta ao usuário a localização dos centros acadêmicos dentro do campus.|
-|**UC10**|Visualizar Locais de Alimentação|Apresenta ao usuário a localização dos locais de alimentação dentro do campus.|
-|**UC11**|Traçar rotas|Permite ao usuário, partindo da sua localização atual, traçar rotas para chegar a um destino desejado.|
+|**UC05**|Manter Bicicletários|Permite a criação, leitura, exclusão e alteração de bicicletários.|
+|**UC06**|Manter Pontos de Acesso|Permite a criação, leitura, exclusão e alteração dos pontos de acesso de um edifício.|
+|**UC07**|Mostrar Informações|Apresenta para o usuário informações sobre o local desejado. |
+|**UC08**|Calcular Trajeto|Permite ao usuário, partindo da sua localização atual, traçar rotas para chegar a um destino desejado.|
+|**UC09**|Pesquisar Locais do Campus|Permite ao usuário pesquisar locais dentro da universidade.|
+|**UC10**|Mostrar Mapa do Campus|Destinado a mostrar ao usuário o mapa do campus.|
 
 ### 6. Rastreabilidade
 
