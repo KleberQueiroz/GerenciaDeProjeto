@@ -56,7 +56,7 @@
  
 ## 2) Representação da Arquitetura
 
-<p align ="justify">A arquitetura utilizada na UnBMapa será o padrão MVC. Tal padrão possui três layers de trabalho Model-View-Controller. Cada layer desempenha uma função nesta arquitetura. A View é responsável por exibir as informações sobre as rotas a serem tomadas, bem como mapas e afins. Havendo, assim, uma interação com o usuário. A Model é encarregada de armazenar as informações coletadas na view e a Controller é a responsável por manipular as entradas recebidas e fazer a comunicação entre as duas camadas anteriores.
+<p align ="justify">A arquitetura utilizada na ‘Onde É a UnB?’ será o padrão MVC. Tal padrão possui três grupos de trabalho Model-View-Controller. Cada grupo desempenha uma função nesta arquitetura. A View é responsável por exibir as informações sobre as rotas a serem tomadas, bem como mapas e afins. Havendo, assim, uma interação com o usuário. A Model é encarregada de armazenar as informações coletadas na view e a Controller é a responsável por manipular as entradas recebidas e fazer a comunicação entre as duas camadas anteriores.
 
 ## 3) Restrições e Metas Arquiteturais
 
