@@ -9,6 +9,7 @@
 
 
 ***
+## Sumário
 
 1. [Introdução](#1-introdução)
 
@@ -74,56 +75,57 @@ A priorização dos requisitos se deu por meio da experiência da equipe de ger�
 
 ###  Rastreabilidade
 
-A rastreabilidade se dará pela seguinte classificação de níveis: Problema, Necessidades, Características, Requisitos Funcionais e Não-Funcionais e Casos de uso. De acordo com esses níveis de rastreabilidade, o nível de impacto do projeto caso haja alguma mudança em algum, segue a mesma lógica. Sendo o maior impacto se houver mudança no Problema e o menor impacto se houver mudança no Caso de Uso. Os índices iniciados com a letra 'P' são problemas, com as letras 'NE' são necessidades, com as letras 'CA' são características, com a letra 'R' são requisitos e com as letras 'UC' são casos de uso.
+A rastreabilidade se dará pela seguinte classificação de níveis: Problema, Necessidades, Características, Requisitos Funcionais e Não-Funcionais e Casos de uso. De acordo com esses níveis de rastreabilidade, o nível de impacto do projeto caso haja alguma mudança em algum, segue a mesma lógica. Sendo o maior impacto se houver mudança no Problema e o menor impacto se houver mudança no Caso de Uso.
 
   
 #### 4.1 Problemas
 
-| **ID**   | **Problema**     | **Descrição**|
-|----------|-----------------|---------------|
-| **P01** | Dificuldade de localização |A dificuldade das pessoas de se localizarem pelos edifícios e salas no campus Darcy Ribeiro afeta estudantes, servidores e visitantes da universidade, cujo impacto é a demora para encontrar e chegar à determinado lugar na universidade, causando atrasos.|
+Os problemas são o nível mais altos de requisitos, desses problemas são demandadas soluções de *software*. Todo problema deve conter:
+
+* **Índice**: Iniciado com a letra 'P' seguido de um número crescente de acordo com a quantidade de problemas.
+
+* **Nome**: Nome do problema identificado.
+
+* **Descrição**: Detalhamento do problema a ser solucionado.
 
 #### 4.2 Necessidades
 
-| **ID**   | **Necessidade**     | **Descrição**|
-|----------|-----------------|---------------|
-|**NE01**|Orienteção dentro do campus|Atualmente, a localização dentro do campus conta apenas com marcações de teto que muitas vezes são de difícil visualização.|
+As necessidades são uma abstração dos problemas e a resolução dessas necessidades impactam na resolução do problema associado.
+
+* **Índice**: Iniciado com as letras 'NE' seguido de um número crescente de acordo com a quantidade de necessidades.
+
+* **Nome**: Nome da necessidade identificada.
+
+* **Descrição**: Detalhamento da necessidade.
 
 #### 4.3 Características
 
-| **ID**   | **Característica**     | **Descrição**|
-|----------|-----------------|---------------|
-|**CA01**|Mapa com as principais localidades.| Apresentação da localização de salas e edifícios.|
-|**CA02**|Orientação entre localidades| Apresentação de rotas e caminhos entre as principais localidades. |
+São características do sistema que buscam atender a uma necessidade específica.
+
+* **Índice**: Iniciado com as letras 'CA' seguido de um número crescente de acordo com a quantidade de características.
+
+* **Nome**: Nome da característica identificada.
+
+* **Descrição**: Detalhamento da característica.
 
 #### 4.4 Requisitos
-| **ID**   | **Requisito**     | **Descrição**|
-|----------|-----------------|---------------|
-|**R01**|Localizar Edifícios|O sistema deve apresentar ao usuário a localização dos vários edifícios dentro do campus.|
-|**R02**|Localizar Departamentos|O sistema deve apresentar ao usuário a localização dos vários departamentos dentro do campus.|
-|**R03**|Localizar Salas|O sistema deve apresentar ao usuário a localização das salas dentro do campus.|
-|**R04**|Localizar locais de alimentação|O sistema deve apresentar ao usuário a localização dos locais de alimentação dentro do campus.|
-|**R05**|Localizar centros acadêmicos|O sistema deve apresentar ao usuário a localização dos centros acadêmicos dentro do campus.|
-|**R06**|Indicar trajetos entre locais|O sistema deve apresentar rotas, partindo da localização atual do usuário até o destino desejado.|
+
+São propriedades e comportamentos que o produto de *software* deve atender.
+
+* **Índice**: Iniciado com a letra 'R' seguido de um número crescente de acordo com a quantidade de requisitos.
+
+* **Nome**: Nome do requisito identificado.
+
+* **Descrição**: Detalhamento do requisito.
 
 #### 4.5 Casos de Uso
 
-| **ID**   | **Caso de Uso**     | **Descrição**|
-|----------|-----------------|---------------|
-|**UC01**|Manter Edifícios|Permite a criação, leitura, exclusão e alteração de edifícios.|
-|**UC02**|Manter Salas|Permite a criação, leitura, exclusão e alteração de salas.|
-|**UC03**|Manter Departamentos|Permite a criação, leitura, exclusão e alteração de departamentos.|
-|**UC04**|Manter Centros Acadêmicos|Permite a criação, leitura, exclusão e alteração de centros acadêmicos.|
-|**UC05**|Visualizar Informações Sobre Edifício|Apresenta para o usuário qual o nome do edifício e quais departamentos e salas estão ali dentro. |
-|**UC06**|Pesquisar Edifícios|Permite ao usuário a busca um edifício a fim de saber a sua localização.|
-|**UC07**|Pesquisar Sala|Permite ao usuário a busca uma sala a fim de saber a sua localização.|
-|**UC08**|Pesquisar Departamento|Permite ao usuário a busca um departamento a fim de saber a sua localização.|
-|**UC09**|Visualizar Centros Acadêmicos|Apresenta ao usuário a localização dos centros acadêmicos dentro do campus.|
-|**UC10**|Visualizar Locais de Alimentação|Apresenta ao usuário a localização dos locais de alimentação dentro do campus.|
-|**UC11**|Traçar rotas|Permite ao usuário, partindo da sua localização atual, traçar rotas para chegar a um destino desejado.|
+São unidades funcionais do sistema. Representam a interação entre o usuário e o sistema.
+
+* **Índice**: Iniciado com as letras 'UC' seguido de um número crescente de acordo com a quantidade de casos de uso.
+
+* **Nome**: Nome do caso de uso identificad.
+
+* **Descrição**: Detalhamento do caso de uso.
 
 #### 4.6 Matriz de rastreabilidade
-
-![Imgur](http://i.imgur.com/CVCbacj.png)
-
-[Clique aqui para visualizar melhor](http://i.imgur.com/CVCbacj.png)
