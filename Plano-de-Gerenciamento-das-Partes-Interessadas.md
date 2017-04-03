@@ -32,3 +32,11 @@
 | 3  | Interna | Coaches                   | UnB         | Aluno                  | Orientador                | Orientar                                          |
 | 4  | Interna | Equipe de Gerência        | UnB         | Aluno                  | Equipe de Gerência        | Gerenciar o projeto e a equipe de desenvolvimento |
 | 5  | Interna | Equipe de Desenvolvimento | UnB         | Aluno                  | Equipe de Desenvolvimento | Desenvolver o projeto                             |
+
+| ID | Interesse  | Poder | Influência | Impacto | Importância ponderada | Fase de maior interesse   |
+|----|------------|-------|------------|---------|-----------------------|---------------------------|
+| 1  | 10         | 10    | 8          | 10      | 9.5                   | Conclusão                 |
+| 2  | 10         | 10    | 8          | 10      | 9.5                   | Desenvolvimento           |
+| 3  | 10         | 6     | 6          | 8       | 7                     | Desenvolvimento           |
+| 4  | 10         | 8     | 8          | 10      | 9                     | Desenvolvimento/Conclusão |
+| 5  | 10         | 7     | 8          | 10      | 8.75                  | Desenvolvimento/Conclusão |
