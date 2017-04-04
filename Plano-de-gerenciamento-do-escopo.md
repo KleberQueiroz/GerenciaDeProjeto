@@ -16,9 +16,9 @@
 
 4. [Gestão de Mudanças do Escopo](#4-gestao)
 
-4. [Gestão de Mudanças do Escopo](#4-gestao)
+5. [Processos de Aceitação das Entregas](#5-aceitacao_entregas)
 
-7. [Referências Bibliográficas](#4-referencias_bibliograficas)
+6. [Referências Bibliográficas](#6-referencias_bibliograficas)
 
 
 
