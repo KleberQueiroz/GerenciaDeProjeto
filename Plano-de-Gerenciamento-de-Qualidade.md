@@ -6,6 +6,7 @@
 |:----:|:------:|:---------:|:-----:|
 |02/04/2017|0.1|Criação do documento|Eduardo Gomes|
 |04/04/2017|0.2|Adição de Introdução e Processo de Qualidade|Eduardo Gomes|
+|04/04/2017|0.3|Métricas e Ferramentas|Matheus Mello|
 
 ***
 
@@ -42,7 +43,23 @@ O processo de qualidade será dado a partir de uma sequência de passos definido
 
 ### Flay
 
-É uma ferramentar que procura por duplicações de código.
+É uma ferramenta que procura por duplicações de código.
+
+### Saikuro
+
+Saikuro é um analisados de complexidade ciclomática para Ryby, gera um relatório com a complexidade ciclomática de cada método encontrado, Sakuro ainda conta o número de linhas por método e ainda pode gerar uma lista com o número de caracteres pot linha de código.
+
+### Churn
+
+Com Churn é possível ter o controle da quantidade de vezes que um arquivo, classe ou método é alterado durante o ciclo de vida de um projeto
+
+### Rails Best Practices
+
+Rails Best Practices é uma ferramenta de métricas que checa a qualidade de código em Rails.
+
+### MetricFu
+
+MetricFu é um compilado de diversas ferramentas que ajudam a encontrar partes do código que podem ser melhoradas. No projeto será utilizado o MetricFu para a análise, utilizando todas as ferramentas mencionadas neste documento.
 
 ## 4. Métricas
 
