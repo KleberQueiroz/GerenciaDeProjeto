@@ -14,9 +14,10 @@ O protótipo foi construído utilizando HTML, CSS e JavaScript.
 ![Busca](http://i.imgur.com/rzXdK23.png)
 
 ## Salas por Pavimento
-
 ![classrooms](http://i.imgur.com/R13P12U.png)
 
-## Label de Informações
+## Destaque de Instalações
+![building](http://i.imgur.com/kpOWNvN.png)
 
+## Label de Informações
 ![label](http://i.imgur.com/l69awN9.png)
