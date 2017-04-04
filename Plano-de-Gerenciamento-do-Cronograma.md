@@ -11,7 +11,7 @@
 
 2. [Precisão e Unidades de Medidas Utilizadas](#2-unidade_medida_precisao)
 
-3. [Processo para a definição do Cronograma do Projeto](#3-definicao_cronograma)
+3. [Processo para a Definição do Cronograma do Projeto](#3-definicao_cronograma)
 
 4. [Processo para o Gerenciamento do Cronograma do Projeto](#4-gerenciamento_cronograma)
 
@@ -34,10 +34,26 @@
 ## 1. Introdução
 
 
-## 2. Definição e validação do Escopo
+## 2. Precisão e Unidades de Medidas Utilizadas
 
 
-## 3. Desenvolvimento e Manutenção da Estrutura Analítica do Projeto - EAP
+## 3. Processo para a Definição do Cronograma do Projeto
 
 
-## 4. Gestão de Mudanças do Escopo
+## 4. Processo para o Gerenciamento do Cronograma do Projeto
+
+
+## 5. Processo para a Manutenção do Cronograma do Projeto
+
+
+## 6. Procedimentos Organizacionais Associados
+
+
+## 7. Regras para a Medição de Desempenho
+
+
+## 8. Cronograma
+
+
+## 9. Referências
+
