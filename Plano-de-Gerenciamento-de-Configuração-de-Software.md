@@ -59,11 +59,27 @@ O Github é um Forge para a ferramenta de controle de versão git, e também pod
 
 ##### 3.2.1 Repositórios do projeto
 
+O repositório do projeto se encontra no link [Onde é UnB](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB)
+
 ##### 3.2.2 Política de _branches_
+
+O repositório possuira duas branches principais: Master e a devel. A branch master deverá conter a última versão estável do projeto e a branch devel será utilizada para integração das funcionalidades desenvolvidas e teste antes de ser incorporada à master.
+No repositório de desenvolvimento, as branches serão criadas e nomeadas de acordo com os casos de uso.
+
+O nome da branch, deverá seguir o seguinte padrão:
+UC< número do caso de uso conforme foram priorizados > e a descrição breve do mesmo, composta pelo nome do caso de uso iniciado com letra maiúscula e em inglês >.
+Exemplo : "UC01-MaintainUser".
 
 ##### 3.2.4 _Commits_
 
+Os desenvolvedores irão commitar logo após construirem um componente da funcionalidade com o nome da branch que esteja funcionando de forma completa, ou seja já testada
+As mensagens dos commits deverão seguinte este padrão: < Descrição do escopo do commit na em inglês sempre iniciado de letra maiúscula e com um verbo no gerúndio >. Exemplo: "Registering user".
+
 ##### 3.2.5 Política de aprovação do código
+
+Após todas as funcionalidades terem sido desenvolvidas nas branches e finalizadas elas deverão ser integradas à branch devel, após a funcionalidade ser integrada a dével deverá ser realizado um pull request para o repositório remoto. O label do pull request deve ser ser nomeado igual o nome do caso de uso desenvolvido.
+A equipe será responsável por revisar os pull request e fazer a integração com a branch devel do repositório remoto, quando as funcionalidades da iteração forem todas concluidas e testadas, elas deverão ser integradas a branch master do repositório oficial.
+
 
 #### 3.3 _Circle CI_  
 
