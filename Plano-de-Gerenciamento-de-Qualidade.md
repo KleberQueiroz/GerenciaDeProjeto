@@ -5,6 +5,7 @@
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
 |02/04/2017|0.1|Criação do documento|Eduardo Gomes|
+|04/04/2017|0.2|Adição de Introdução e Processo de Qualidade|Eduardo Gomes|
 
 ***
 
@@ -39,8 +40,12 @@ O processo de qualidade será dado a partir de uma sequência de passos definido
 
 ## 3. Ferramentas da análise de qualidade
 
+### Flay
+
+É uma ferramentar que procura por duplicações de código.
+
 ## 4. Métricas
 
 ## 5. Referências Bibliográficas
 
-Monitorar e controlar a qualidade do projeto
+PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
