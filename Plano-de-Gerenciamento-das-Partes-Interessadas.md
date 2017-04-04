@@ -35,7 +35,7 @@ Identificar pessoas, grupos ou organizações que, diretamente ou indiretamente,
 
 #### 2.2 Planejar o Gerenciamento das Partes Interessadas
 
-Visando o engajamento das partes interessadas durante todo o ciclo de vida do projeto, desenvolve-se estratégias de gerenciamento apropriadas com base na necessidade, interesse e impacto potencial no êxito do projeto de cada parte interessada.
+Visando o engajamento das partes interessadas durante todo o ciclo de vida do projeto, desenvolve-se estratégias de gerenciamento apropriadas com base na necessidade, interesse e impacto potencial no êxito do projeto de cada parte interessada. A comunicação entre as partes interessadas está descrita no [Plano de Gerenciamento de Comunicação](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Comunica%C3%A7%C3%A3o)
 
 #### 2.3 Gerenciar o Engajamento das Partes Interessadas
 
