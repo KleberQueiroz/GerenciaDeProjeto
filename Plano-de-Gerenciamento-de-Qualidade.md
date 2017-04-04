@@ -14,15 +14,11 @@
 
 [2. Processo de Qualidade](#2-Processo-de-Qualidade)
 
-[3. Frequência da análise](#3-Frequencia-da-analise)
+[3. Ferramentas da análise de qualidade](#3-Ferramentas-da-análise-de-qualidade)
 
-[4. Ferramentas da análise de qualidade](#4-Ferramentas-da-análise-de-qualidade)
+[4. Métricas](#4-Metricas)
 
-[5. Ferramentas](#5-Ferramentas)
-
-[6. Métricas](#6-Metricas)
-
-[7. Referências Bibliográficas](#7-Referências-Bibliograficas)
+[5. Referências Bibliográficas](#5-Referências-Bibliograficas)
 
 ## 1. Introdução
 
@@ -37,19 +33,14 @@ O processo de qualidade será dado a partir de uma sequência de passos definido
 
 * Criar o planejamento da gerencia de qualidade: consiste na elaboração de um plano que contem a identificação dos requisitos ou padrões de qualidade do projeto. Realizar esse processo auxilia no fornecimento de orientações e instruções sobre como será validada e gerenciada a qualidade do projeto. 
 
-* Garantir a qualidade:
+* Garantir a qualidade: é o processo para garantir o uso de padrões de qualidade, de auditoria dos requisitos de qualidade e resultados de medição.
 
-* Monitorar e controlar a qualidade do projeto:
+* Monitorar e controlar a qualidade do projeto: é dado ao monitorar, registrar para então avaliar o desempenho e recomendar mudanças no projeto. É benéfico ao projeto pois identifica causas da baixa qualidade e pode fazer recomendações para elimina-la e valida a conformidade do projeto para com as partes interessadas.
 
+## 3. Ferramentas da análise de qualidade
 
+## 4. Métricas
 
+## 5. Referências Bibliográficas
 
-## 3. Frequência da análise
-
-## 4. Ferramentas da análise de qualidade
-
-## 5. Ferramentas
-
-## 6. Métricas
-
-## 7. Referências Bibliográficas
+Monitorar e controlar a qualidade do projeto
