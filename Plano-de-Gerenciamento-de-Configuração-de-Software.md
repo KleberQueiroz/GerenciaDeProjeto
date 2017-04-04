@@ -6,6 +6,7 @@
 |19/03/2017| 1.1 | Introdução, Objetivo e Ferramentas | Eduardo Brasil |
 |19/03/2017| 1.2 | Git/Github | Eduardo Brasil |
 |20/03/2017| 1.3 | Circle CI | Matheus Mello |
+|04/04/2017| 1.4 | Repositório do projeto, Politica de branch, Commits e Politica de aprovação| Eduardo Brasil |
 
 ***
 
@@ -70,7 +71,7 @@ O nome da branch, deverá seguir o seguinte padrão:
 UC< número do caso de uso conforme foram priorizados > e a descrição breve do mesmo, composta pelo nome do caso de uso iniciado com letra maiúscula e em inglês >.
 Exemplo : "UC01-MaintainUser".
 
-##### 3.2.4 _Commits_
+##### 3.2.4 Commits
 
 Os desenvolvedores irão commitar logo após construirem um componente da funcionalidade com o nome da branch que esteja funcionando de forma completa, ou seja já testada
 As mensagens dos commits deverão seguinte este padrão: < Descrição do escopo do commit na em inglês sempre iniciado de letra maiúscula e com um verbo no gerúndio >. Exemplo: "Registering user".
