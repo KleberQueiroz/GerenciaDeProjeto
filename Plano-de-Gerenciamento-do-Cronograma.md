@@ -9,19 +9,7 @@
 
 1. [Introdução](#1-introdução)
 
- Planejar o gerenciamento do cronograma é estabelecer as políticas, procedimentos e documentação para planejar, desenvolver, gerenciar, executar e controlar o cronograma do projeto. O plano de Gerenciamento do Cronograma, segundo o PMBOK, estabelece os critérios e as atividades para o desenvolvimento e o controle do cronograma do projeto, que por sua vez tem como finalidade não só ser um guia para o desenvolvimento do projeto, mas também um mecanismo para auxiliar na pontualidade das entregas.
-
 2. [Precisão e Unidades de Medidas Utilizadas](#2-unidade_medida_precisao)
-
-A unidade de medida básica utilizado nesse projeto para realizar a análise do tempo gasto com cada atividade será baseada em horas ou dias. Ambas as unidades de medida são proporcionais, dessa forma, o resultado de uma medição ao utilizar qualquer uma delas será equivalente. A decisão de escolher uma em favor da outra, será associada a facilitar a compreensão e manipulação dos dados.
-
-
-A medida de dias define o prazo no qual as atividades deverão ser desenvolvidas, ou seja, a sua duração. Dessa forma, será definido uma data de início e uma de término para cada tarefa.
-A medida de hora tem como finalidade, monitorar o tempo gasto por cada indivíduo do grupo nas tarefas especificadas. Por ser uma unidade de medida mais , ela é mais indicada para análises mais "precisas".
-Esse resultado desse monitoramento será um insumo para a análise dos gastos do projeto e índices de produtividade da equipe.
-
-É interessante notar, que caso a coleta de dados relacionados a tempo seja feita de forma extremamente precisa, levando em conta cada segundo, a produtividade dos indivíduos será impactada negativamente, visto que haverá preocupações adicionais. Dessa forma, haverá o controle de horas, mas esse será feito de maneira moderada, de tal forma que o restante do projeto não seja impactado. Um bom threshold para isso, seria 90% de precisão.
-
 
 3. [Processo para a Definição do Cronograma do Projeto](#3-definicao_cronograma)
 
@@ -45,8 +33,17 @@ Esse resultado desse monitoramento será um insumo para a análise dos gastos do
 
 ## 1. Introdução
 
+ Planejar o gerenciamento do cronograma é estabelecer as políticas, procedimentos e documentação para planejar, desenvolver, gerenciar, executar e controlar o cronograma do projeto. O plano de Gerenciamento do Cronograma, segundo o PMBOK, estabelece os critérios e as atividades para o desenvolvimento e o controle do cronograma do projeto, que por sua vez tem como finalidade não só ser um guia para o desenvolvimento do projeto, mas também um mecanismo para auxiliar na pontualidade das entregas.
 
 ## 2. Precisão e Unidades de Medidas Utilizadas
+
+A unidade de medida básica utilizado nesse projeto para realizar a análise do tempo gasto com cada atividade será baseada em horas ou dias. Ambas as unidades de medida são proporcionais, dessa forma, o resultado de uma medição ao utilizar qualquer uma delas será equivalente. A decisão de escolher uma em favor da outra, será associada a facilitar a compreensão e manipulação dos dados.
+
+A medida de dias define o prazo no qual as atividades deverão ser desenvolvidas, ou seja, a sua duração. Dessa forma, será definido uma data de início e uma de término para cada tarefa.
+A medida de hora tem como finalidade, monitorar o tempo gasto por cada indivíduo do grupo nas tarefas especificadas. Por ser uma unidade de medida mais , ela é mais indicada para análises mais "precisas".
+Esse resultado desse monitoramento será um insumo para a análise dos gastos do projeto e índices de produtividade da equipe.
+
+É interessante notar, que caso a coleta de dados relacionados a tempo seja feita de forma extremamente precisa, levando em conta cada segundo, a produtividade dos indivíduos será impactada negativamente, visto que haverá preocupações adicionais. Dessa forma, haverá o controle de horas, mas esse será feito de maneira moderada, de tal forma que o restante do projeto não seja impactado. Um bom threshold para isso, seria 90% de precisão.
 
 
 ## 3. Processo para a Definição do Cronograma do Projeto
