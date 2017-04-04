@@ -48,6 +48,21 @@ Esse resultado desse monitoramento será um insumo para a análise dos gastos do
 
 ## 3. Processo para a Definição do Cronograma do Projeto
 
+O processo de definição do Cronograma é feito de de forma iterativa, visto que o cronograma não é um documento imutável ao longo do projeto. Porém, nesse tópico será discutido o processo a ser seguido a fim de elaborar a versão inicial do cronograma. 
+
+É recomendado definir o Escopo do projeto e criar a EAP do projeto antes de iniciar a definição do Cronograma do projeto. Dessa forma, será possível identificar atividades das quais será possível estimar as durações.
+
+**1) Definir as atividades:** Consiste em definir as atividades que serão realizadas ao longo do projeto e listá-las. As atividades podem ser relacionadas ao desenvolvimento ou a gerência do projeto.
+
+**2) Sequenciar as atividades:** Identificar as dependências entre as atividade de tal forma que seja possível identificar a ordem de execução recomendada para esse grupo de atividades.
+
+**3) Estimar os recursos das atividades:** Deve-se estimar a duração das atividades a serem desenvolvidas. Para isso, é possível consultar um especialista, basear-se em projetos semelhantes anteriores, ou até mesmo utilizar técnicas como a PERT, que aproxima a estimativa da duração da atividade como sendo uma média ponderada das estimativas de duração otimista, pessimista e esperada.
+
+**4) Identificar o caminho crítico:** Essa etapa pode ser pulada, caso seja utilizada uma ferramenta voltada a construção de cronogramas, visto que essa análise normalmente é feita pela ferramenta. Nesse projeto será utilizada uma ferramenta. Porém, é interessante ressaltar a importância de identificar o caminho crítico. O caminho crítico está associado ao menor tempo possível necessário para a finalização do projeto. Dessa forma, se ele não for seguido, não estaremos otimizando o tempo necessário para a entrega do projeto.
+
+**5) Desenvolver o cronograma:** A partir das informações obtidas previamente e da identificação do caminho crítico, deve-se construir o cronograma.
+
+Nesse projeto utilizaremos o _Gantter_ como ferrementa para a criação do cronograma. Alguns dos motivos para a escolha foram a experiência prévia dos membros do grupo com a ferramenta, e a possibilidade de edição do cronograma online por todos os membros do grupo.
 
 ## 4. Processo para o Gerenciamento do Cronograma do Projeto
 
