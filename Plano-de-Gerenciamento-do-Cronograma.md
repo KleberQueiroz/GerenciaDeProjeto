@@ -9,6 +9,8 @@
 
 1. [Introdução](#1-introdução)
 
+ Planejar o gerenciamento do cronograma é estabelecer as políticas, procedimentos e documentação para planejar, desenvolver, gerenciar, executar e controlar o cronograma do projeto. O plano de Gerenciamento do Cronograma, segundo o PMBOK, estabelece os critérios e as atividades para o desenvolvimento e o controle do cronograma do projeto, que por sua vez tem como finalidade não só ser um guia para o desenvolvimento do projeto, mas também um mecanismo para auxiliar na pontualidade das entregas.
+
 2. [Precisão e Unidades de Medidas Utilizadas](#2-unidade_medida_precisao)
 
 A unidade de medida básica utilizado nesse projeto para realizar a análise do tempo gasto com cada atividade será baseada em horas ou dias. Ambas as unidades de medida são proporcionais, dessa forma, o resultado de uma medição ao utilizar qualquer uma delas será equivalente. A decisão de escolher uma em favor da outra, será associada a facilitar a compreensão e manipulação dos dados.
