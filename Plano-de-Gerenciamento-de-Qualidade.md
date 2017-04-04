@@ -82,7 +82,7 @@ Como indicador de complexidade ciclomática, adotou-se que serão aceitados apen
 |              **Indicador**                |            **Legenda**              |
 |:-------------------------------:|:---------------------------:|
 |acima de 90%   |Excelente|
-|50% - 89%   |Razoável|
+|50% - 89%   |Bom|
 |30% - 49%   |Razoável|
 |abaixo de 30%   |Ruim|
 
