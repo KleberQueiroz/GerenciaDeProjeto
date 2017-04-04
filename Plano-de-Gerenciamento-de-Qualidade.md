@@ -71,6 +71,8 @@ MetricFu é um compilado de diversas ferramentas que ajudam a encontrar partes d
 
 Como indicador de complexidade ciclomática, adotou-se que serão aceitados apenas valores abaixo de 12, a parte do código que tiver este indicador acima de 12 deverá ser simplificada e até quebrada
 
+|              **Indicador**                |            **Legenda**              |
+|:-------------------------------:|:---------------------------:|
 |0 - 5   |Excelente|
 |6 - 12   |Razoável|
 |acima de 12   |Ruim|
