@@ -15,7 +15,7 @@
 
 :white_check_mark: [Plano de Gerenciamento de Projeto](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Gerenciamento-de-Projeto)
 
-:ballot_box_with_check: [Plano de Gerenciamento do Cronograma]()
+:ballot_box_with_check: [Plano de Gerenciamento do Cronograma](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-gerenciamento-do-cronograma)
 
 :arrows_counterclockwise: [Plano de Gerenciamento do Escopo](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-gerenciamento-do-escopo)
 
