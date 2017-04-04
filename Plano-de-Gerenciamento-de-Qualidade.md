@@ -57,11 +57,25 @@ Com Churn é possível ter o controle da quantidade de vezes que um arquivo, cla
 
 Rails Best Practices é uma ferramenta de métricas que checa a qualidade de código em Rails.
 
+### SimpleCov
+
+SimpleCov é uma ferramenta de análise de cobertura de teste para código em Ruby.
+
 ### MetricFu
 
 MetricFu é um compilado de diversas ferramentas que ajudam a encontrar partes do código que podem ser melhoradas. No projeto será utilizado o MetricFu para a análise, utilizando todas as ferramentas mencionadas neste documento.
 
 ## 4. Métricas
+
+### Complexidade Ciclomática
+
+Como indicador de complexidade ciclomática, adotou-se que serão aceitados apenas valores abaixo de 12, a parte do código que tiver este indicador acima de 12 deverá ser simplificada e até quebrada
+
+|0 - 5   |Excelente|
+|6 - 12   |Razoável|
+|acima de 12   |Ruim|
+
+
 
 ## 5. Referências Bibliográficas
 
