@@ -47,7 +47,7 @@ O processo de qualidade será dado a partir de uma sequência de passos definido
 
 ### Saikuro
 
-Saikuro é um analisados de complexidade ciclomática para Ryby, gera um relatório com a complexidade ciclomática de cada método encontrado, Sakuro ainda conta o número de linhas por método e ainda pode gerar uma lista com o número de caracteres pot linha de código.
+Saikuro é um analisados de complexidade ciclomática para Ryby, gera um relatório com a complexidade ciclomática de cada método encontrado, Sakuro ainda conta o número de linhas por método e ainda pode gerar uma lista com o número de caracteres por linha de código.
 
 ### Churn
 
@@ -77,7 +77,22 @@ Como indicador de complexidade ciclomática, adotou-se que serão aceitados apen
 |6 - 12   |Razoável|
 |acima de 12   |Ruim|
 
+### Cobertura de Teste
 
+|              **Indicador**                |            **Legenda**              |
+|:-------------------------------:|:---------------------------:|
+|acima de 90%   |Excelente|
+|50% - 89%   |Razoável|
+|30% - 49%   |Razoável|
+|abaixo de 30%   |Ruim|
+
+### Número de Caracteres por Linha
+
+De acordo com o guia de estilo, cada linha deverá ter no máximo 80 caracteres.
+
+### Número de Linhas por Método
+
+Devido a alta distinção entre métodos, cada um tendo sua função específica. Esta métrica será utilizado apenas para fins informativos, para a averiguação dos resultados será utilizada a Complexidade Ciclomática, tendo como foco um bom design de operações.
 
 ## 5. Referências Bibliográficas
 
