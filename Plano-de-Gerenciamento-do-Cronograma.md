@@ -33,7 +33,7 @@
 
 ## 1. Introdução
 
- Planejar o gerenciamento do cronograma é estabelecer as políticas, procedimentos e documentação para planejar, desenvolver, gerenciar, executar e controlar o cronograma do projeto. O plano de Gerenciamento do Cronograma, segundo o PMBOK, estabelece os critérios e as atividades para o desenvolvimento e o controle do cronograma do projeto, que por sua vez tem como finalidade não só ser um guia para o desenvolvimento do projeto, mas também um mecanismo para auxiliar na pontualidade das entregas.
+ Planejar o gerenciamento do cronograma é estabelecer as políticas, procedimentos e documentação para planejar, desenvolver, gerenciar, executar e controlar o cronograma do projeto. O plano de Gerenciamento do Cronograma, segundo o _PMBOK_, estabelece os critérios e as atividades para o desenvolvimento e o controle do cronograma do projeto, que por sua vez tem como finalidade não só ser um guia para o desenvolvimento do projeto, mas também um mecanismo para auxiliar na pontualidade das entregas.
 
 ## 2. Precisão e Unidades de Medidas Utilizadas
 
@@ -78,5 +78,8 @@ Nesse projeto utilizaremos o _Gantter_ como ferrementa para a criação do crono
 
 ## 8. Cronograma
 
+[Cronograma do Projeto](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Cronograma)
 
 ## 9. Referências
+
+* PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
