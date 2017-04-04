@@ -3,6 +3,7 @@
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
 |03/04/2017|1.0|Criação da estrutura do documento|Alexandre Torres|
+|03/04/2017|1.0|Finalizados tópicos 1, 2, 3, 8, 9|Alexandre Torres|
 ***
 
 ## Sumário
