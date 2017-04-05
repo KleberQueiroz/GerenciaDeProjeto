@@ -52,18 +52,19 @@
 
 ### 5. Casos de Uso
 
+O diagrama de casos de uso pode ser visto [aqui](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Diagrama-de-Casos-de-Uso).
+
 | **ID**   | **Caso de Uso**     | **Descrição**|
 |----------|-----------------|---------------|
 |**UC01**|Manter Edifícios|Permite a criação, leitura, exclusão e alteração de edifícios.|
 |**UC02**|Manter Salas|Permite a criação, leitura, exclusão e alteração de salas.|
 |**UC03**|Manter Departamentos|Permite a criação, leitura, exclusão e alteração de departamentos.|
-|**UC04**|Manter Centros Acadêmicos|Permite a criação, leitura, exclusão e alteração de centros acadêmicos.|
-|**UC05**|Manter Bicicletários|Permite a criação, leitura, exclusão e alteração de bicicletários.|
-|**UC06**|Manter Pontos de Acesso|Permite a criação, leitura, exclusão e alteração dos pontos de acesso de um edifício.|
-|**UC07**|Mostrar Informações|Apresenta para o usuário informações sobre o local desejado. |
-|**UC08**|Calcular Trajeto|Permite ao usuário, partindo da sua localização atual, traçar rotas para chegar a um destino desejado.|
-|**UC09**|Pesquisar Locais do Campus|Permite ao usuário pesquisar locais dentro da universidade.|
-|**UC10**|Mostrar Mapa do Campus|Destinado a mostrar ao usuário o mapa do campus.|
+|**UC04**|Manter Bicicletários|Permite a criação, leitura, exclusão e alteração de bicicletários.|
+|**UC05**|Manter Pontos de Acesso|Permite a criação, leitura, exclusão e alteração dos pontos de acesso de um edifício.|
+|**UC06**|Mostrar Informações|Apresenta para o usuário informações sobre o local desejado. |
+|**UC07**|Calcular Trajeto|Permite ao usuário, partindo da sua localização atual, traçar rotas para chegar a um destino desejado.|
+|**UC08**|Pesquisar Locais do Campus|Permite ao usuário pesquisar locais dentro da universidade.|
+|**UC09**|Mostrar Mapa|Destinado a mostrar ao usuário o mapa do campus.|
 
 ### 6. Rastreabilidade
 
