@@ -56,7 +56,7 @@
 
 :arrows_counterclockwise: [Especificação de Casos de Uso](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Uso)
 
-:ballot_box_with_check: [Diagrama de Caso de Uso](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Diagrama-de-Caso-de-Uso)
+:arrows_counterclockwise: [Diagrama de Casos de Uso](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Diagrama-de-Casos-de-Uso)
 
 :ballot_box_with_check: [Protótipos]()
 
