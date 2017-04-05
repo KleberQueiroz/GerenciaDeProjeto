@@ -79,7 +79,7 @@ Os notebooks utilizados no projeto foram adquiridos individualmente por cada mem
 ### 6.2.	Transporte
 O custo com transporte foi estimado com base no preço da passagem no DF, levando em conta que os membros da equipe teriam que pegar entre 2 e 4 linhas para ir a cada reunião. Logo, R$ 4,00 × 4 linhas/dia × 16 reuniões = R$256 x 13 membros R$ 3.328,00.
 ### 6.3.	Locação de espaço
-As reuniões ocorrerão nas salas da própria faculdade. Levando em conta o tamanho do espaço e a infra-estrutura que ele oferece, foi feita uma pesquisa e o preço médio de locação de uma sala de reuniões com o mesmo padrão é de em média R$ 650,00 X 16 reuniões dando um total de R$10.400,00.
+As reuniões ocorrerão nas salas da própria faculdade. Levando em conta o tamanho do espaço e a infra-estrutura que ele oferece, foi feita uma pesquisa e o preço médio de locação de uma sala de reuniões com o mesmo padrão é de em média R$ 650,00 X 4 meses dando um total de R$ 2.600,00.
 
 ## 7. Orçamento
 Definidos os riscos que tem o maior impacto, e como isso pode influenciar direta ou indiretamente na execução do projeto, foi estipulada uma reserva para possíveis imprevistos/mudanças. Essa reserva corresponde a 5% do valor estimado do projeto.
