@@ -2,9 +2,9 @@
 
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
-|28/03/2017|1.0|Estrutura inicial do documento|Rafael Rabetti|
+|28/03/2017|0.1|Estrutura inicial do documento|Rafael Rabetti|
 |29/03/2017|1.0|Introdução, Processo e Produtos e Serviços|Rafael Rabetti|
-
+|05/04/2017|1.1|Correção de tópicos|Daniel Moura|
 ***
 
 ## Sumário
@@ -55,11 +55,10 @@ Para gerenciar as mudanças é necessário saber se a o pedido de mudança é um
 |Bem/Serviço|Preço Unitário|Quantidade|Fornecedores potenciais|Orçamento|
 |-----|-----|-----|-----|------|
 |Notebook|R$ 3.000,00|13|Dell, HP, Apple, Asus|R$ 39.000,00|
-|Internet|R$ 100,00/mês|13 por 4 meses|Vivo, NET, Claro|R$ 5.200,00|
 |Cartolinas|R$ 5,80|1 pacote com 10|Kalunga|R$ 5,80|
 |*Post-it*|R$ 10,70|1 pacote 400 folhas|Kalunga|R$ 10,70|
 |Fita adesiva dupla face|R$ 16,90|1 unidade|Kalunga|R$ 16,90|
 |Kit pincel quadro braco|R$ 20,30|1 unidade 4 pincéis|Kalunga|R$ 20,30|
 |Kit pincel permanente|R$ 10,90|1 unidade 4 pincéis|Kalunga|R$ 10,90|
-|Vale transporte|R$ 16,00|13 por 4 meses|DFTrans|R$ 3.328,00|
+|Vale transporte|R$ 16,00|13 por 16 dias(reuniões)|-|R$ 3.328,00|
 |Locação de espaço|R$ 650,00|1 unidade x 4 meses|FGA|R$ 2.600,00|
