@@ -16,6 +16,20 @@
 
 ## Iteração 1
 
+A primeira iteração está dentro da fase de iniciação e deu-se pelas seguintes atividades:
+
+* **Definição da equipe**
+   * Reunião para apresentação da equipe
+
+* **Estudo de viabilidade do projeto**
+   * Definição do projeto
+   * Definição da tecnologia
+
+* **Definição do escopo**
+   * Elaborar documento de visão
+   * Elaborar termo de abertura do projeto
+
+
 ## Iteração 2
 
 ## Iteração 3
