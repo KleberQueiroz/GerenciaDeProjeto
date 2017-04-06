@@ -42,23 +42,6 @@ A primeira iteração está dentro da fase de iniciação e é descrita pelas se
 
 Especialmente nessa iteração não foram planejados casos de uso devido ao esforço inicial de elicitação de requisitos.
 
-### Recursos Humanos
-| Nome | Função |
-|:----:|:------:|
-|Eduardo Brasil Martins|Gerente de Projeto|
-|Daniel Moura da Silva|Gerente de Projeto|
-|Rafael dos Santos Rabetti|Gerente de Projeto|
-|Eduardo Quintino Gomes|Gerente de Projeto|
-|Alexandre Torres Kryonidis|Gerente de Projeto|
-|Matheus Mello|Gerente de Projeto|
-|Lucas Soares Souza|Desenvolvedor|
-|Jordan de Oliveira Miranda|Desenvolvedor|
-|Stéfane Bogéa de Souza|Desenvolvedor|
-|Mateus Vieira da Silva Roriz|Desenvolvedor|
-|Sannya Santana de Arvelos|Desenvolvedor|
-|Taynara de Jesus Carvalho|Desenvolvedor|
-|Kairon	Velozo Brito|Desenvolvedor|
-
 ## Iteração 2 (17/03 a 03/04)
 
 A segunda iteração, agora já na fase de elaboração, terá como foco principal a definição da arquitetura do projeto se da pelas seguintes atividades:
@@ -83,23 +66,6 @@ A segunda iteração, agora já na fase de elaboração, terá como foco princip
 
 Para essa iteração foi priorizado o caso de uso **UC0X Manter Edifícios** porque o mesmo se mostrou implementar a arquitetura e de grande importância para o cliente.
 
-### Recursos Humanos
-| Nome | Função |
-|:----:|:------:|
-|Eduardo Brasil Martins|Gerente de Projeto|
-|Daniel Moura da Silva|Gerente de Projeto|
-|Rafael dos Santos Rabetti|Gerente de Projeto|
-|Eduardo Quintino Gomes|Gerente de Projeto|
-|Alexandre Torres Kryonidis|Gerente de Projeto|
-|Matheus Mello|Gerente de Projeto|
-|Lucas Soares Souza|Desenvolvedor|
-|Jordan de Oliveira Miranda|Desenvolvedor|
-|Stéfane Bogéa de Souza|Desenvolvedor|
-|Mateus Vieira da Silva Roriz|Desenvolvedor|
-|Sannya Santana de Arvelos|Desenvolvedor|
-|Taynara de Jesus Carvalho|Desenvolvedor|
-|Kairon	Velozo Brito|Desenvolvedor|
-
 ## Iteração 3 (03/04 a 20/04)
 
 Terceira iteração, ainda dentro da fase de elaboração, com foco de evoluir a arquitetura do software. Serão desenvolvidos alguns casos de uso que foram considerados importantes em relação a arquitetura e o cliente.
@@ -123,7 +89,10 @@ Terceira iteração, ainda dentro da fase de elaboração, com foco de evoluir a
 
 Para esta iteração foram designados os casos de uso **UC0X Mostrar Mapa** e **UC0X Calcular Trajeto**.
 
-### Recursos Humanos
+## Recursos Humanos
+
+Em todas as iterações foram utilizados os mesmos recursos humanos.
+
 | Nome | Função |
 |:----:|:------:|
 |Eduardo Brasil Martins|Gerente de Projeto|
