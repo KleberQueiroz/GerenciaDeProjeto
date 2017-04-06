@@ -16,9 +16,24 @@
 
 ## Iteração 1
 
-**09/03 -> 17/03** Com foco na definição dos requisitos e do escopo, nessa iteração deu-se as seguintes atividades.
+**09/03 -> 17/03** 
 
-### Atividades
+Com foco na definição dos requisitos e do escopo, nessa iteração deu-se as seguintes atividades.
+
+* **Especificação do Escopo**
+   * Elaborar EAP
+   * Definir Escopo do Projeto
+   * Definição da Arquitetura
+   * Questionário com alunos para validação dos requisitos
+   * Identificar casos de uso
+
+* **Planos de gerência inical do projeto**
+   * Elaborar plano de treinamento
+   * Configuração do ambiente
+   * Plano de gerenciamento do projeto
+   * Plano de gerenciamento da comunicação
+
+#### Atividades
 
 A primeira iteração está dentro da fase de iniciação e deu-se pelas seguintes atividades:
 
@@ -33,11 +48,13 @@ A primeira iteração está dentro da fase de iniciação e deu-se pelas seguint
    * Elaborar documento de visão
    * Elaborar termo de abertura do projeto
 
-### Casos de uso
+* **Desenvolver cronograma preliminar**
+
+#### Casos de uso
 
 Especialmente nessa iteração não foram planejados casos de uso devido ao esforço inicial de elicitação de requisitos.
 
-### Recursos Humanos
+#### Recursos Humanos
 | Nome | Função |
 |:----:|:------:|
 |Eduardo Brasil Martins|Gerente de Projeto|
@@ -56,9 +73,11 @@ Especialmente nessa iteração não foram planejados casos de uso devido ao esfo
 
 ## Iteração 2
 
-### Casos de Uso
+#### Atividades
 
-### Recursos Humanos
+#### Casos de Uso
+
+#### Recursos Humanos
 | Nome | Função |
 |:----:|:------:|
 |Eduardo Brasil Martins|Gerente de Projeto|
@@ -77,11 +96,11 @@ Especialmente nessa iteração não foram planejados casos de uso devido ao esfo
 
 ## Iteração 3
 
-### Atividades
+#### Atividades
 
-### Casos de Uso
+#### Casos de Uso
 
-### Recursos Humanos
+#### Recursos Humanos
 | Nome | Função |
 |:----:|:------:|
 |Eduardo Brasil Martins|Gerente de Projeto|
