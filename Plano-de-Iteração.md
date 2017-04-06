@@ -32,6 +32,8 @@ A primeira iteração está dentro da fase de iniciação e é descrita pelas se
    * Definição da tecnologia
 
 * **Definição do escopo**
+   * Levantar requisitos
+   * Definir Escopo do Projeto
    * Elaborar documento de visão
    * Elaborar termo de abertura do projeto
 
@@ -68,18 +70,19 @@ A segunda iteração, agora já na fase de elaboração, terá como foco princip
 
 * **Especificação do Escopo**
    * Elaborar EAP
-   * Definir Escopo do Projeto
    * Definição da Arquitetura
    * Questionário com alunos para validação dos requisitos
    * Identificar casos de uso
 
 * **Planos de gerência inical do projeto**
-   * Elaborar plano de treinamento
+   * Treinamentos
    * Configuração do ambiente
    * Plano de gerenciamento do projeto
    * Plano de gerenciamento da comunicação
 
 #### Casos de Uso
+
+Para essa iteração foi priorizado o caso de uso **UC0X Manter Edifícios** porque o mesmo se mostrou implementar a arquitetura e de grande importância para o cliente.
 
 #### Recursos Humanos
 | Nome | Função |
