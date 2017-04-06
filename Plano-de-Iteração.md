@@ -20,22 +20,9 @@
 
 Com foco na definição dos requisitos e do escopo, nessa iteração deu-se as seguintes atividades.
 
-* **Especificação do Escopo**
-   * Elaborar EAP
-   * Definir Escopo do Projeto
-   * Definição da Arquitetura
-   * Questionário com alunos para validação dos requisitos
-   * Identificar casos de uso
-
-* **Planos de gerência inical do projeto**
-   * Elaborar plano de treinamento
-   * Configuração do ambiente
-   * Plano de gerenciamento do projeto
-   * Plano de gerenciamento da comunicação
-
 #### Atividades
 
-A primeira iteração está dentro da fase de iniciação e deu-se pelas seguintes atividades:
+A primeira iteração está dentro da fase de iniciação e é descrita pelas seguintes atividades:
 
 * **Definição da equipe**
    * Reunião para apresentação da equipe
@@ -73,7 +60,24 @@ Especialmente nessa iteração não foram planejados casos de uso devido ao esfo
 
 ## Iteração 2
 
+**17/03 -> 03/04**
+
+A segunda iteração, agora já na fase de elaboração, terá como foco principal a definição da arquitetura do projeto se da pelas seguintes atividades:
+
 #### Atividades
+
+* **Especificação do Escopo**
+   * Elaborar EAP
+   * Definir Escopo do Projeto
+   * Definição da Arquitetura
+   * Questionário com alunos para validação dos requisitos
+   * Identificar casos de uso
+
+* **Planos de gerência inical do projeto**
+   * Elaborar plano de treinamento
+   * Configuração do ambiente
+   * Plano de gerenciamento do projeto
+   * Plano de gerenciamento da comunicação
 
 #### Casos de Uso
 
