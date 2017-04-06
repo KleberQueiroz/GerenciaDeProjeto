@@ -11,18 +11,20 @@
 | 25/03/2017 | Reunião 2 - Dojô Javascript | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :ok_hand:     | :white_check_mark: | :white_check_mark: |
 | 25/03/2017 | Reunião 2 - Dojô API Google | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :ok_hand:     | :white_check_mark: | :white_check_mark: |
 | 01/04/2017 | Reunião 3                   | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 06/04/2017 | 2 de Dojô Ruby on Rails     | :white_check_mark: |         :x:        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
 # GPP
 
-| Data       | Tema               |       Daniel       |       Eduardo      |      Alexandre     |       Rafael       |       Brasil       |       Matheus      |
-|------------|--------------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
-| 16/03/2017 | Dojô Git           | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |         :x:        | :white_check_mark: |
-| 17/03/2017 | Reunião Cliente    | :white_check_mark: | :white_check_mark: |                    |                    |                    |                    |
-| 18/03/2017 | Reunião 1          | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :ok_hand:     |
-| 22/03/2017 | Dojô Casos de Uso  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |         :x:        |         :x:        |
-| 23/03/2017 | Dojô Ruby on Rails | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |         :x:        | :white_check_mark: |
-| 25/03/2017 | Reunião 2          | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :ok_hand:     | :white_check_mark: |
-| 01/04/2017 | Reunião 3          | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :ok_hand:     | :white_check_mark: |
+| Data       | Tema                    |       Daniel       |       Eduardo      |      Alexandre     |       Rafael       |       Brasil       |       Matheus      |
+|------------|-------------------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
+| 16/03/2017 | Dojô Git                | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |         :x:        | :white_check_mark: |
+| 17/03/2017 | Reunião Cliente         | :white_check_mark: | :white_check_mark: |                    |                    |                    |                    |
+| 18/03/2017 | Reunião 1               | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :ok_hand:     |
+| 22/03/2017 | Dojô Casos de Uso       | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |         :x:        |         :x:        |
+| 23/03/2017 | Dojô Ruby on Rails      | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |         :x:        | :white_check_mark: |
+| 25/03/2017 | Reunião 2               | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :ok_hand:     | :white_check_mark: |
+| 01/04/2017 | Reunião 3               | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :ok_hand:     | :white_check_mark: |
+| 06/06/2017 | 2 Dojô de Ruby on Rails | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |         :x:        |         :x:        |
 ### Legenda
 
 :white_check_mark: = Presente
@@ -98,3 +100,9 @@ Foram apresentados conceitos básicos como variáveis, estruturas, declaração,
 ### Relato da Reunião:
 
 Neste dojô foi mostrado a utilização da API do Google Maps v3 para MDS. Contando com funções de marcações de pontos no mapa, imagens no mapa, rotas e bons comentários para código.
+
+# Relato 06/04/2017 - Segundo Dojô de Ruby on Rails
+
+### Relato da Reunião:
+
+Neste dojô foi realizado o tutorial do Rails Girls onde houve a implementação de conceitos como CRUD, relacionamento de classes e tabelas de banco de dados, autenticação e deploy no servidor. 
