@@ -80,6 +80,8 @@ A segunda iteração, agora já na fase de elaboração, terá como foco princip
    * Plano de gerenciamento do projeto
    * Plano de gerenciamento da comunicação
 
+* **Construir protótipo de alta fidelidade**
+
 #### Casos de Uso
 
 Para essa iteração foi priorizado o caso de uso **UC0X Manter Edifícios** porque o mesmo se mostrou implementar a arquitetura e de grande importância para o cliente.
@@ -103,9 +105,25 @@ Para essa iteração foi priorizado o caso de uso **UC0X Manter Edifícios** por
 
 ## Iteração 3
 
+
 #### Atividades
 
+* **Finalizar planos de gerenciamento**
+
+* **Integração contínua**
+
+* **Arquitetura**
+   * Melhorar especificação da arquitetura
+   * Finalizar documento de arquitetura
+
+* **Casos de uso**
+   * Especificar casos de uso
+   * Elaborar diagrama de classes
+   
+
 #### Casos de Uso
+
+Para esta iteração foram designados os casos de uso **UC0X Mostrar Mapa** e **UC0X Calcular Trajeto**.
 
 #### Recursos Humanos
 | Nome | Função |
