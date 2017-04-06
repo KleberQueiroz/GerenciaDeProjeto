@@ -19,7 +19,7 @@
 
 Com foco na definição dos requisitos e do escopo, nessa iteração deu-se as seguintes atividades.
 
-#### ->Atividades
+### Atividades
 
 A primeira iteração está dentro da fase de iniciação e é descrita pelas seguintes atividades:
 
@@ -38,11 +38,11 @@ A primeira iteração está dentro da fase de iniciação e é descrita pelas se
 
 * **Desenvolver cronograma preliminar**
 
-#### ->Casos de uso
+### Casos de uso
 
 Especialmente nessa iteração não foram planejados casos de uso devido ao esforço inicial de elicitação de requisitos.
 
-#### ->Recursos Humanos
+### Recursos Humanos
 | Nome | Função |
 |:----:|:------:|
 |Eduardo Brasil Martins|Gerente de Projeto|
@@ -63,7 +63,7 @@ Especialmente nessa iteração não foram planejados casos de uso devido ao esfo
 
 A segunda iteração, agora já na fase de elaboração, terá como foco principal a definição da arquitetura do projeto se da pelas seguintes atividades:
 
-#### ->Atividades
+### Atividades
 
 * **Especificação do Escopo**
    * Elaborar EAP
@@ -79,11 +79,11 @@ A segunda iteração, agora já na fase de elaboração, terá como foco princip
 
 * **Construir protótipo de alta fidelidade**
 
-#### ->Casos de Uso
+### Casos de Uso
 
 Para essa iteração foi priorizado o caso de uso **UC0X Manter Edifícios** porque o mesmo se mostrou implementar a arquitetura e de grande importância para o cliente.
 
-#### ->Recursos Humanos
+### Recursos Humanos
 | Nome | Função |
 |:----:|:------:|
 |Eduardo Brasil Martins|Gerente de Projeto|
@@ -104,7 +104,7 @@ Para essa iteração foi priorizado o caso de uso **UC0X Manter Edifícios** por
 
 Terceira iteração, ainda dentro da fase de elaboração, com foco de evoluir a arquitetura do software. Serão desenvolvidos alguns casos de uso que foram considerados importantes em relação a arquitetura e o cliente.
 
-#### ->Atividades
+### Atividades
 
 * **Finalizar planos de gerenciamento**
 
@@ -119,11 +119,11 @@ Terceira iteração, ainda dentro da fase de elaboração, com foco de evoluir a
    * Elaborar diagrama de classes
    
 
-#### ->Casos de Uso
+### Casos de Uso
 
 Para esta iteração foram designados os casos de uso **UC0X Mostrar Mapa** e **UC0X Calcular Trajeto**.
 
-#### ->Recursos Humanos
+### Recursos Humanos
 | Nome | Função |
 |:----:|:------:|
 |Eduardo Brasil Martins|Gerente de Projeto|
