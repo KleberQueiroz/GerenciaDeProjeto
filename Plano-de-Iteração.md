@@ -105,6 +105,9 @@ Para essa iteração foi priorizado o caso de uso **UC0X Manter Edifícios** por
 
 ## Iteração 3
 
+**03/04 -> 20/04**
+
+Terceira iteração, ainda dentro da fase de elaboração, com foco de evoluir a arquitetura do software. Serão desenvolvidos alguns casos de uso que foram considerados importantes em relação a arquitetura e o cliente.
 
 #### Atividades
 
