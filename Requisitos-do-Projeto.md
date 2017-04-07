@@ -3,7 +3,7 @@
 |:----:|:------:|:---------:|:-----:|
 |03/04/2017|0.1|Criando estutura do documento|Rafael Rabetti|
 |03/04/2017|1.0|Problemas, Necessidades,Características, Requisitos, Casos de uso e Rastreabilidade|Rafael Rabetti|
-
+|07/04/2017|1.0|Refatorando casos de uso e rastreabilidade|Rafael Rabetti|
 ***
 ## Sumário
 
