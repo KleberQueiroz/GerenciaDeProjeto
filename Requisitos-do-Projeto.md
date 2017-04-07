@@ -45,10 +45,9 @@
 |**R01**|Localizar Edifícios|O sistema deve apresentar ao usuário a localização dos vários edifícios dentro do campus.|
 |**R02**|Localizar Departamentos|O sistema deve apresentar ao usuário a localização dos vários departamentos dentro do campus.|
 |**R03**|Localizar Salas|O sistema deve apresentar ao usuário a localização das salas dentro do campus.|
-|**R04**|Localizar locais de alimentação|O sistema deve apresentar ao usuário a localização dos locais de alimentação dentro do campus.|
-|**R05**|Localizar centros acadêmicos|O sistema deve apresentar ao usuário a localização dos centros acadêmicos dentro do campus.|
-|**R06**|Indicar trajetos entre locais|O sistema deve apresentar rotas, partindo da localização atual do usuário até o destino desejado.|
-|**R07**|Informar sobre uma localidade|O sistema deve aprensentar informações sobre um determinado edifício, sala, departamento ou local de comida. Como, horário de funcionamento, nome e outras informações.|
+|**R04**|Localizar Bicicletários|O sistema deve apresentar ao usuário a localização dos bicicletários dentro do campus.|
+|**R05**|Indicar trajetos entre locais|O sistema deve apresentar rotas, partindo da localização atual do usuário até o destino desejado.|
+|**R06**|Informar sobre uma localidade|O sistema deve aprensentar informações sobre um determinado edifício, sala, departamento ou local de comida. Como, horário de funcionamento, nome e outras informações.|
 
 ### 5. Casos de Uso
 
