@@ -28,6 +28,8 @@ A primeira iteração está dentro da fase de iniciação e é descrita pelas se
 
 * **Estudo de viabilidade do projeto**
    * Definição do projeto
+   * Elaborar cronograma
+   * Planejar treinamentos da equipe
    * Definição da tecnologia
 
 * **Definição do escopo**
@@ -35,6 +37,7 @@ A primeira iteração está dentro da fase de iniciação e é descrita pelas se
    * Definir Escopo do Projeto
    * Elaborar documento de visão
    * Elaborar termo de abertura do projeto
+   * Elaborar EAP
 
 * **Desenvolver cronograma preliminar**
 
@@ -49,18 +52,17 @@ A segunda iteração, agora já na fase de elaboração, terá como foco princip
 ### Atividades
 
 * **Especificação do Escopo**
-   * Elaborar EAP
    * Definição da Arquitetura
    * Questionário com alunos para validação dos requisitos
    * Identificar casos de uso
+   * Diagrama de casos de uso
+   * Construir protótipo de alta fidelidade
 
 * **Planos de gerência inical do projeto**
    * Treinamentos
    * Configuração do ambiente
    * Plano de gerenciamento do projeto
    * Plano de gerenciamento da comunicação
-
-* **Construir protótipo de alta fidelidade**
 
 ### Casos de Uso
 
@@ -83,6 +85,7 @@ Terceira iteração, ainda dentro da fase de elaboração, com foco de evoluir a
 * **Casos de uso**
    * Especificar casos de uso
    * Elaborar diagrama de classes
+   * Especificação suplementar
    
 
 ### Casos de Uso
