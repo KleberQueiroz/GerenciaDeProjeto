@@ -7,7 +7,7 @@
 |19/03/2017| 1.2 | Git/Github | Eduardo Brasil |
 |20/03/2017| 1.3 | Circle CI | Matheus Mello |
 |04/04/2017| 1.4 | Repositório do projeto, Politica de branch, Commits e Politica de aprovação| Eduardo Brasil |
-|07/04/2017| 1.0 | Deploy | Rafael Rabetti |
+|07/04/2017| 2.0 | Deploy | Rafael Rabetti |
 
 ***
 
@@ -89,4 +89,4 @@ Circle CI é uma ferramenta de integração contínua e deploy para projetos hos
 
 ### 4. _Deployment_  
 
-Ao longo do desenvolvimento a aplicação ficará hospedada no heroku. Depois de concluído o projeto o sistema deverá ser hospedado em algum servidor da UnB
+Ao longo do desenvolvimento a aplicação ficará hospedada no heroku. Depois de concluído o projeto, o sistema deverá ser hospedado em algum servidor da UnB.
