@@ -66,7 +66,7 @@ A segunda iteração, agora já na fase de elaboração, terá como foco princip
 
 ### Casos de Uso
 
-Para essa iteração foi priorizado o caso de uso **UC0X Manter Edifícios** porque o mesmo se mostrou implementar a arquitetura e de grande importância para o cliente.
+Para essa iteração foi priorizado o caso de uso **UC01 Manter Edifícios** porque o mesmo se mostrou implementar a arquitetura e de grande importância para o cliente.
 
 ## Iteração 3 (09/04 a 21/04)
 
@@ -90,7 +90,7 @@ Terceira iteração, ainda dentro da fase de elaboração, com foco de evoluir a
 
 ### Casos de Uso
 
-Para esta iteração foram designados os casos de uso **UC0X Mostrar Mapa** e **UC0X Calcular Trajeto**.
+Para esta iteração foram designados os casos de uso **UC09 Mostrar Mapa** e **UC07 Calcular Trajeto**.
 
 ## Recursos Humanos
 
