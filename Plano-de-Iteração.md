@@ -15,7 +15,7 @@
 
 3. [Iteração 3](#3-iteração-3)
 
-## Iteração 1 (09/03 a 17/03)
+## Iteração 1 (09/03 a 18/03)
 
 Com foco na definição dos requisitos e do escopo, nessa iteração deu-se as seguintes atividades.
 
@@ -42,7 +42,7 @@ A primeira iteração está dentro da fase de iniciação e é descrita pelas se
 
 Especialmente nessa iteração não foram planejados casos de uso devido ao esforço inicial de elicitação de requisitos.
 
-## Iteração 2 (17/03 a 03/04)
+## Iteração 2 (19/03 a 08/04)
 
 A segunda iteração, agora já na fase de elaboração, terá como foco principal a definição da arquitetura do projeto se da pelas seguintes atividades:
 
@@ -66,7 +66,7 @@ A segunda iteração, agora já na fase de elaboração, terá como foco princip
 
 Para essa iteração foi priorizado o caso de uso **UC0X Manter Edifícios** porque o mesmo se mostrou implementar a arquitetura e de grande importância para o cliente.
 
-## Iteração 3 (03/04 a 20/04)
+## Iteração 3 (09/04 a 21/04)
 
 Terceira iteração, ainda dentro da fase de elaboração, com foco de evoluir a arquitetura do software. Serão desenvolvidos alguns casos de uso que foram considerados importantes em relação a arquitetura e o cliente.
 
