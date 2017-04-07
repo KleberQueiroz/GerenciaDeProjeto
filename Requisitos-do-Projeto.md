@@ -67,3 +67,6 @@ O diagrama de casos de uso pode ser visto [aqui](https://github.com/fga-gpp-mds/
 
 ### 6. Rastreabilidade
 
+![Imgur](http://i.imgur.com/izZNReP.png)
+
+[Clique aqui para visualizar melhor.](http://i.imgur.com/izZNReP.png)
