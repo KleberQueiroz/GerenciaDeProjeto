@@ -90,7 +90,7 @@ Terceira iteração, ainda dentro da fase de elaboração, com foco de evoluir a
 
 ### Casos de Uso
 
-Para esta iteração foram designados os casos de uso **UC09 Mostrar Mapa** e **UC07 Calcular Trajeto**.
+Para esta iteração foram designados os casos de uso **UC09 Mostrar Mapa do Campus** e **UC07 Calcular Trajeto**.
 
 ## Recursos Humanos
 
