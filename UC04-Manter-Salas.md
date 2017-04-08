@@ -1,6 +1,6 @@
 ### 1. Descrição
 
-Este caso de uso é destinado ao administrador que vai manter atualizado os dados da aplicação web. Através desse caso de uso é permitido criar, alterar e excluir as salas do Campus Darcy Ribeiro da Universidade de Brasília.
+Este caso de uso é destinado ao administrador e através deste é permitido criar, editar e excluir salas do mapa do campus.
 
 ### 2. Atores
 
@@ -8,29 +8,39 @@ Este caso de uso é destinado ao administrador que vai manter atualizado os dado
 
 ### 3. Pré-condições
 
-* Ter acessado a aplicação.
-* O usuário deve ter logado como administrador na aplicação.
+* O administrador deve estar devidamente autenticado no sistema. 
 
 ### 4. Fluxo de Eventos
 
 #### 4.1 Fluxo Principal
 
-Este caso de uso se inicia quando o administrador cria uma sala.
+* Este caso de uso se inicia quando o administrador seleciona Manter Salas.
 
-* [FP01] - O administrador clica em criar uma nova sala.  
-* [FP02] - Após clicar, o administrador é direcionado para a página de criação.  
-* [FP03] - O administrador preenche as informações da sala e clica em Salvar.
-* [FP04] - A sala é criada e pode ser visualizada. 
-* [FP05] - Agora estará disponível o modo para editar e excluir a sala.
-* [FP06] - O caso de uso é encerrado. 
-
+1. O sistema exibe a tela de Manter Salas.
+2. O administrador seleciona a opção desejada. **[FA01, FA02, FA03]**
+3. O caso de uso é encerrado. 
 
 #### 4.2 Fluxos Alternativos
 
-* [FA01] - Cancelar a ação  
-&nbsp;&nbsp;&bull; O administrador clica para cancelar a criação, edição ou exclusão da sala.  
-&nbsp;&nbsp;&bull; Redirecionamento para a lista de salas.  
-&nbsp;&nbsp;&bull; O caso de uso é encerrado.  
+**[FA01] - Criar**
+* No passo 2 do fluxo principal, o administrador seleciona Criar.
+1. O sistema apresenta um formulário de criação. **[RN01]**
+2. O administrador preenche as informações.
+3. O administrador confirma os dados.
+4. O sistema salva as novas informações.
+
+**[FA02] - Editar**
+* No passo 2 do fluxo principal, o administrador seleciona Editar.
+1. O sistema exibe uma tela com as salas cadastrados. 
+2. É apresentada a tela para alteração dos dados da salas. **[RN01]**
+3. O administrador realiza as alterações.
+4. O administrador confirma os novos dados.
+5. O sistema salva as novas informações.
+
+**[FA03] - Excluir**
+* No passo 2 do fluxo principal, o administrador seleciona Excluir.
+1. O sistema exibe uma tela com as salas cadastrados.
+2. O administrador opta por excluir uma sala do mapa.
 
 
 #### 4.3 Fluxo de Exceção
@@ -39,8 +49,16 @@ Este caso de uso se inicia quando o administrador cria uma sala.
 
 ### 5. Regra de Negócio
 
-* Não se aplica.
+[RN01] - Dados de preenchimento
+
+| Campo        | Formato                      | Obrigatoriedade | Valor                               |
+|--------------|------------------------------|-----------------|-------------------------------------|
+| Departamento | String de até 150 caracteres | Não             | Exemplo: Departamento de Matemática |
+| Descrição    | String de até 150 caracteres | Sim             | -                                   |
+| Sala         | String de até 150 caracteres | Sim             | Exemplo: Sala A                     |
+| Nome         | String de até 150 caracteres | Sim             | Exemplo: Faculdade de Tecnologia    |
+| Local        | Coordenadas locais           | Sim             | -                                   |
 
 ### 6. Pós-condição
 
-* Após a criação da sala será possível editar ou excluir a sala.
+* Não se aplica.
