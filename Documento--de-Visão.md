@@ -1,23 +1,16 @@
 ## Histórico de Revisões
 
-| Data       | Versão | Descrição                                                                                                                                                                                                                         | Autor            |
-|------------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
-| 16/03/2017 | 1.0    | Criação do documento.                                                                                                                                                                                                             | Lucas S.         |
-| 17/03/2017 | 1.1    | Introdução.                                                                                                                                                                                                                       | Kairon Velozo    |
-| 17/03/2017 | 1.2    | Escopo.                                                                                                                                                                                                                           | Mateus Roriz     |
-| 19/03/2017 | 1.3    | Instrução do Problema; Definições, abreviações e acrônimos; Instrução de Posição do Produto; Principais Necessidades da Parte Interessada ou Usuário; Suposições e Dependências; Licenciamento e Instalação; Recursos do Produto. | Kairon Velozo    |
-| 19/03/2017 | 1.4    | Propósito; Oportunidade de Negócios.                                                                                                                                                                                              | Jordan Miranda   |
-| 19/03/2017 | 1.5    | Visão Geral do Produto e Perspectiva do Produto.                                                                                                                                                                                  | Mateus Roriz     |
-| 19/03/2017 | 1.6    | Revisão da Instrução do Problema; Revisão da Instrução do Produto.                                                                                                                                                                | Taynara Carvalho |
-| 19/03/2017 | 1.7    | Revisão da Introdução; Revisão do Escopo.                                                                                                                                                                                         | Sannya Arvelos   |
-| 19/03/2017 | 1.8    | Resumo do Usuário; Ambiente do Usuário.                                                                                                                                                                                           | Lucas S.         |
-| 20/03/2017 | 1.9    | Perfil do Usuário.                                                                                                                                                                                                                | Taynara Carvalho |
-| 20/03/2017 | 2.0    | Oportunidade de Negócios; Referências.                                                                                                                                                                                              | Sannya Arvelos   |
-| 20/03/2017 | 2.1    | Resumo dos Envolvidos; Perfis das Partes Interessadas; Resumo das Capacidades; Restrições; Faixas de Qualidades; Revisão de Principais Necessidades da Parte Interessada ou do Usuário.                                           | Lucas S.         |
-| 21/03/2017 | 2.2    | Revisão das Oportunidades de Negócios; Instrução do Problema; Instrução de Posição do Produto; Resumo de Capacidade.                                                                                                              | Stéfane Souza    | S.  |
-| 23/03/2017 |2.3     | Perfis de usuarios: Novos Alunos, palestrantes            | Lucas S.         |
-| 23/03/2017 |2.4     | Perfis de usuarios: Visitantes            | Sannya Arvelos   |
-| 23/03/2017 |2.5     | Perfis de usuarios: Candidatos         | Mateus Roriz     |
+|      Data     | Versão | Descrição                                                                | Autor         |
+|---------------|--------|--------------------------------------------------------------------------|---------------|
+|  16/03/2017   |  1.00  | Criação do documento                                                     | Lucas S.      |
+|  17/03/2017   |  1.1   | Introdução e Escopo                | Kairon Velozo, Mateus Roriz|
+|  19/03/2017   |  1.2   | Introdução do Problema; Definições, Abreviações e acrônimos; Instrução de Posição do Produto; Principais Necessidades da Parte Interessada; Suposições e Dependências; Licenciamento e Instalação; Recursos do Produto; Propósito; Oportunidade de Ńegócio; Visão Geral do Produto e Perspectiva do Produto  | Karion Velozo, Jordan Miranda, Mateus Roriz |
+|  19/03/2017   |  1.3   | Instrução do produto (Criação de tabelas); Melhoria na Introdução e no escopo; Resumo do Usuário e Ambiente do Usuário | Taynara Carvalho, Sannya Arvelos, Lucas S. |
+| 20/03/2017    |  1.4   | Perfil do Usuário; Oportunidade de Negócio/Referências; Resumo dos Envolvidos; Perfis das Partes Interessadas; Resumo das Capacidades; Restrições; Faixas de Qualidade; Completando a tabela de Principais Necessidades da Parte Interessada | Taynara Carvalho, Sannya Arvelos, Lucas S. |
+| 21/03/2017    |  1.5   | Alterações em Oportunidades de Negócios, Instrução do Problema; Instrução de Posição do Produto; Resumo de Capacidade | Stéfane Souza |
+| 23/03/2017    |  2.0   | Perfis de Usuário: Novos Alunos, Palestrantes | Lucas S., Sannya Arvelos |
+| 06/04/2017    |  2.1   | Refatoração do documento, adição de requisitos funcionais e não funcionais, legendas das prioridades. | Taynara, Sannya Arvelos, Lucas S., Kairon Velozo|
+
 ------
 
 ## Sumário
