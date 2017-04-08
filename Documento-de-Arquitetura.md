@@ -104,8 +104,8 @@ BOTAR DIAGRAMA MVC
 
 ### 4.2 Diagrama de Casos de Uso   
 
-
-BOTAR DIAGRAMA DE CLASSE DE USO    
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-classe.jpg)
+[Diagrama de Classes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-casos-de-uso.png)   
 
 ### 4.3 Descrição dos Casos de Uso  
 
@@ -166,7 +166,8 @@ BOTAR DIAGRAMA DE CLASSE DE USO
 
 ### 5.3 Diagrama de Pacotes
 
-BOTAR DIAGRAMA DE PACOTES   
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-classe.jpg)
+[Diagrama de Classes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-pacotes.png)   
 
 ### 5.4 Banco de Dados
 
