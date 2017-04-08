@@ -8,20 +8,19 @@ Este caso de uso é destinado a mostrar ao usuário o mapa do campus.
 
 ### 3. Pré-condições
 
-* Ter acessado a aplicação.
+* Não se aplica.
 
 ### 4. Fluxo de Eventos
 
 #### 4.1 Fluxo Principal
-Este caso de uso é iniciado quando o usuário abre a aplicação.
-
-* [FP01] - O usuário acessa a página principal.
-* [FP02] - O mapa do campus é exibido.
-* [FP03] - O caso de uso é encerrado. 
+* Este caso de uso é iniciado quando o usuário abre a aplicação web.
+1. O mapa do campus é exibido para o usuário. **[FA01] [RN01]**
+2. O caso de uso é encerrado. 
 
 #### 4.2 Fluxos Alternativos
 
-* Não se aplica.
+**[FA01]** - O caso de uso se inicia quando o usuário amplia a imagem do mapa.
+1. O usuário verá as especificações do mapa de acordo com o zoom.
 
 #### 4.3 Fluxo de Exceção
 
