@@ -31,7 +31,7 @@
 
 :white_check_mark: [Plano de Gerenciamento dos Riscos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-dos-Riscos)
 
-   * :arrows_counterclockwise: [Registro dos Riscos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Registro-dos-Riscos)
+   * :white_check_mark: [Registro dos Riscos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Registro-dos-Riscos)
 
 :white_check_mark: [Plano de Gerenciamento dos Requisitos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-dos-Requisitos)
 
