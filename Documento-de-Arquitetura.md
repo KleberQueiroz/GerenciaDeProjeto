@@ -48,110 +48,138 @@
 
 ### 1.1 Finalidade
 
-<p align ="justify">A finalidade deste artefato é apresentar a arquitetura escolhida para a construção da aplicação web UnBMapa. Serão expostas as visões arquiteturais utilizadas, tendo como objetivo deixar de forma explícita as decisões estabelecidas.
+<p align ="justify">A finalidade deste artefato é apresentar a arquitetura escolhida para a construção da aplicação Onde É? UnB. Serão expostas as visões arquiteturais utilizadas, tendo como objetivo deixar de forma explícita as decisões estabelecidas.    
 
 ### 1.2 Escopo  
 
-<p align ="justify">Este documento foi construído sobre a visão arquitetural utilizada na implementação da UnBMapa. Serão expostas as visões arquiteturais utilizadas, tendo como objetivo deixar de forma explícita as decisões estabelecidas.
+<p align ="justify">Este documento foi construído sobre a visão arquitetural utilizada na implementação da Onde É? UnB. Serão expostas as visões arquiteturais utilizadas, tendo como objetivo deixar de forma explícita as decisões estabelecidas.   
  
-## 2) Representação da Arquitetura
+## 2) Representação da Arquitetura   
 
-<p align ="justify">A arquitetura utilizada na ‘Onde É a UnB?’ será o padrão MVC. Tal padrão possui três grupos de trabalho Model-View-Controller. Cada grupo desempenha uma função nesta arquitetura. A View é responsável por exibir as informações sobre as rotas a serem tomadas, bem como mapas e afins. Havendo, assim, uma interação com o usuário. A Model é encarregada de armazenar as informações coletadas na view e a Controller é a responsável por manipular as entradas recebidas e fazer a comunicação entre as duas camadas anteriores.
+<p align ="justify">A arquitetura utilizada na aplicação é o padrão arquitetural Model-View-Controller (MVC), que é adotada framework Ruby on Rails.   
 
-## 3) Restrições e Metas Arquiteturais
+<p align ="justify">Model - A camada model é responsável pela regras de negócio da aplicação e a as regras para manipulação de dados. Esta representa as informações abstraídas do mundo real definindo como tais informações são armazenadas no banco de dados e suas relações desempenhadas.    
 
-<p align ="justify"> * A aplicação web 'Onde É a UnB?' será desenvolvida utilizando o framework Ruby on Rails. Tal framework é escrito utilizando a linguagem Ruby e é baseado no padrão de arquitetura MVC (Model-View-Controller).
+<p align ="justify">View - A camada view é a responsável por formatar as informações e apresentá-las ao usuário de forma organizada.   
 
-<p align ="justify"> * O banco de dados padrão do Ruby on Rails é o SQLite3, entretanto, decidiu-se que o banco utilizado será o Postegree, pois tal banco possui a possibilidade de se utilizar dados de geolocalização.
+<p align ="justify">Controller - A camada controller é responsável pelo fluxo do usuário na aplicação. Esta é usada para comunicação com a Model e renderização das Views, com informações procedentes da Model.   
 
-## 4) Visão de Casos de Uso  
 
-### 4.1 Atores
+BOTAR DIAGRAMA MVC
 
-#### 4.1.1 Usuários
 
-<p align ="justify">O ator usuário se refere a todas às pessoas que desejam se localizar dentro do Campus Darcy Ribeiro. Este tipo de ator poderá utilizar da maioria dos recursos do UnBMapa, exceto os de cunho administrativo. Como exemplo de funcionalidas que ele terá à sua disposição: Calcular distância entre edifícios, localizar edifícios, localizar pontos de alimentação, entre outras.
+<p align ="justify">1 - O usuário deseja acessar acessar uma página da aplicação através do browser. O browser envia a solicitação ao servidor e, através do gerenciador de rotas do Rails, a solicitação é enviada à uma Controller.   
+
+<p align ="justify">2 - Caso a página que o usuário deseja observar tenha alguma informação que necessite ser puxada da base de dados, a Controller irá solicitar a uma Model.   
+
+<p align ="justify">3 - A Model solicitará as informações a base de dados.    
+
+<p align ="justify">4 - As informações são retornadas a Model. Nesse momento os dados são tratados de forma a seguir as regras de negócio da aplicação.    
+
+<p align ="justify">5 - A Model retorna as informações a Controller.   
+
+<p align ="justify">6 - A Controller envia as informações solicitadas para a View, para que estas sejam formatadas.   
+
+<p align ="justify">7 - A View formata as informações recebidas e retorna ao usuário.   
+
+## 3) Restrições e Metas Arquiteturais  
+
+<p align ="justify">O Ruby on Rails possui uma série de princípios e convenções que auxiliarão na tomada de decisões no que se refere ao desenvolvimento. Tais recursos do framework poderão auxiliar no rápido desenvolvimento e na manutenibilidade da aplicação.    
+<p align ="justify">A aplicação adotará as práticas de segurança sugeridas nos guias do framework Ruby on Rails. Dados sensitivos tais como senhas dos administradores são guardados criptografados. O gerenciamento das informações que o usuário terá acesso publicamente é feito apenas por administradores.   
+<p align ="justify">A aplicação oferecerá boa usabilidade, podendo ser utilizada em dispositivos móveis tais como smartphones e tablets pela utilização de uma interface responsiva.   
+<p align ="justify">Além disso, a arquitetura adotada permitirá que a equipe de desenvolvimento possa trabalhar nas camadas separadamente. Isso tem como consequência desacoplamento e a melhora para desenvolvimento de testes.  
+<p align ="justify">Uma restrição identificada é que o funcionamento da aplicação dependerá de o usuário estar conectado à internet. Não sendo possível, de forma alguma, o seu funcionamento offline.   
+
+## 4) Visão de Casos de Uso   
+
+### 4.1 Atores   
+
+#### 4.1.1 Usuários   
+
+<p align ="justify">O ator usuário se refere a todas às pessoas que desejam utilizar a aplicação, tendo acesso, unicamente, às funcionalidades disponibilizadas de forma pública.    
 
 #### 4.1.2 Administradores
 
-<p align ="justify">O ator administrador se refere às pessoas que manterão o sistema. Este tipo de ator poderá utilizar de todos os recursos do UnBMapa. Como por exemplo de funcionalidades exclusivas de administrador: Cadastrar edifício, cadastrar departamentos, entre outras.  
+<p align ="justify">O ator administrador se refere às pessoas que serão responsáveis pela manutenibilidade das informações de interesse público da aplicação. Este ator também é considerado um usuário, pois pode também usufruir de todos os recursos oferecidos.   
 
-### 4.2 Diagrama de Casos de Uso
+### 4.2 Diagrama de Casos de Uso   
 
-### 4.3 Descrição dos Casos de Uso
 
-**UC01 - Manter Administrador** 
-<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto administrador no sistema.  
+BOTAR DIAGRAMA DE CLASSE DE USO    
 
-**UC02 - Manter Edifícios**  
+### 4.3 Descrição dos Casos de Uso  
+
+**UC01 - Manter Edifícios** 
+<p align ="justify">Este caso de uso se refere ao cadastro, atualização e destruição do objeto edifício no sistema.  
+
+**UC02 - Manter Departamentos**  
+<p align ="justify">Este caso de uso se refere ao cadastro,  atualização e destruição do objeto departamento no sistema.  
+
+**UC03 - Manter Salas**  
 <p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto edifício no sistema.  
 
-**UC03 - Manter Departamentos**  
-<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto edifício no sistema.  
+**UC04 - Manter Bicicletários**  
+<p align ="justify">Este caso de uso se refere ao cadastro,  atualização e destruição do objeto bicicletário no sistema.  
 
-**UC04 - Manter Salas**  
-<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto sala no sistema.  
+**UC05 - Manter Pontos de Acesso**  
+<p align ="justify">Este caso de uso se refere ao cadastro, atualização e destruição do objeto ponto de acesso no sistema.  
 
-**UC05 - Manter Centros Acadêmicos** 
-<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto centro acadêmico no sistema.  
+**UC06 - Mostrar Informações**  
+<p align ="justify">Este caso de uso se refere a visualização das informações sobre os pontos cadastrados no mapa, pelo usuário quando este clica em um dos itens expostos no mapa.   
 
-**UC06 - Manter Bicicletários**  
-<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto bicicletário no sistema.  
+**UC07 - Calcular Trajeto entre Edifícios**  
+<p align ="justify">Este caso de uso se refere ao cálculo do trajeto entre edifícios no mapa do campus  após escolhidos pelo usuário.   
 
-**UC07 - Manter Pontos de Acesso**  
-<p align ="justify">Este caso de uso se refere ao cadastro, leitura, atualização e destruição do objeto ponto de acesso no sistema. 
+**UC08 - Procurar Locais no Campus**  
+<p align ="justify">Este caso de uso se refere a pesquisa por um local no mapa da universidade após escolhido pelo usuário.  
 
-**UC08 - Mostrar informações**  
-<p align ="justify">Este caso de uso se refere ao momento em que o usuário clica em um dos itens expostos no mapa e o sistema retorna as informações deste item.
-
-**UC09 - Calcular Trajeto entre Edifícios**  
-<p align ="justify">Este caso de uso se refere a ação de após escolhidos dois pontos no mapa o sistema calcular a distancia entre eles.
-
-**UC10 - Procurar Locais no Campus**  
-<p align ="justify">Este caso de uso se refere a ação de procura de um local desejado que já foi cadastrado no sistema.
-
-**UC11 - Mostrar Mapa do Campus**  
-<p align ="justify">Este caso de uso se refere ao ato de mostrar o mapa do Campus junto com os itens nele cadastrados.
+**UC09 - Mostrar Mapa do Campus**  
+<p align ="justify">Este caso de uso se refere ao ato de mostrar o mapa do Campus junto com os itens nele cadastrados ao usuário.  
 
 
+## 5) Visão Lógica  
 
-## 5) Visão Lógica
-
-<p align ="justify">A aplicação 'Onde É a UnB' é construída sobre o framework Rails utilizando a linguagem de alto nível Ruby. Estre framework utiliza a lógica MVC(Model-View-Controller), tal lógica permite a divisão da estrutura da ferramenta web em 3 blocos sólidos que comunicam-se entre si: View, controller, model.  
+<p align ="justify">A aplicação Onde É? UnB é construída sobre o framework Rails utilizando a linguagem de alto nível Ruby. Este framework utiliza a lógica MVC(Model-View-Controller), tal lógica permite a divisão da estrutura da ferramenta web em 3 blocos sólidos que comunicam-se entre si: View, controller, model.     
 
 ### 5.1 Visão Geral
 
-<p align ="justify">A lógica MVC trabalha da seguinte maneira: No momento em que o usuário faz uma requisição no seu navegador a View manda este pedido à Controller. A Controller, por sua vez, interpreta tal evento e procura os dados necessários na Model para que estes sejam validados. Após os dados serem validados a Controller seleciona os necessários e responde a requisição da View que os transfere ao navegador do usuário.  
+<p align ="justify">A lógica MVC trabalha da seguinte maneira: No momento em que o usuário faz uma requisição no seu navegador a View manda este pedido para a Controller. A Controller, por sua vez, interpreta tal evento e procura os dados necessários na Model para que estes sejam validados. Após os dados serem validados a Controller seleciona os necessários e responde a requisição da View que os transfere ao navegador do usuário.      
 
 5.1.1 View
 
 
-<p align ="justify">A View é responsável por tudo aquilo que o usuário pode ver em seu navegador. Responsável, também, por receber os estímulos fornecidos pelos usuários na aplicação. Como por exemplo, as telas, menus, botões, caixas de pesquisas, entre outros encontrados no sistema.
+<p align ="justify">A View é responsável por tudo aquilo que o usuário pode ver em seu navegador. Responsável, também, por receber os estímulos fornecidos pelos usuários na aplicação. Como por exemplo, as telas, menus, botões, caixas de pesquisas, entre outros encontrados no sistema.    
 
-5.1.2 Controller
+5.1.2 Controller  
 
-<p align ="justify">A Controller é responsável por fazer a comunicação entre as requisições recebidas pela View e os dados tratados pela Model, servido assim, de ponte entre elas. Por exemplo, no momento em que o view faz uma requisição, a controller processa este evento e opera os dados estão que contidos na Model validando-os para então responder a requisição à View.  
+<p align ="justify">A Controller é responsável por fazer a comunicação entre as requisições recebidas pela View e os dados tratados pela Model, servido assim, de ponte entre elas. Por exemplo, no momento em que o view faz uma requisição, a controller processa este evento e opera os dados estão que contidos na Model validando-os para então responder a requisição à View.   
 
-5.1.3 Model
+5.1.3 Model  
 
-<p align ="justify">A Model é responsável por conter os dados da aplicação. Trata a escrita, a validação e a leitura de tais dados. Sendo responsável, também, por conter, quando necessário, os dados no database. Quando requisitada pela Controller, fornece os dados contidos para que a Controller decida exibi-los ou não na View.
+<p align ="justify">A Model é responsável por conter os dados da aplicação e quando necessário, os dados do database. Trata a escrita, a validação e a leitura de tais dados. Quando requisitada pela Controller, fornece os dados contidos para que a Controller decida exibi-los ou não na View.  
 
-### 5.2 Diagrama de Classes
-<p align ="justify">Abaixo encontra-se o diagrama de classes do sistema:
+### 5.2 Diagrama de Classes  
+<p align ="justify">Abaixo encontra-se o diagrama de classes do sistema:  
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-classe.jpg)
 [Diagrama de Classes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-classe.jpg)
 
 ### 5.3 Diagrama de Pacotes
 
+BOTAR DIAGRAMA DE PACOTES   
+
 ### 5.4 Banco de Dados
 
-<p align ="justify">O framework Rails, antes citado neste documento, possui uma base de dados padrão em MySQL, entretanto, foi acordado que o banco de dados seria descrito em Postegree pois esta linguagem possui suporte a dados de geolocalização. Facilitando, assim, o processo de construção das funções de localização na aplicação.
+<p align ="justify">O projeto utiliza o sistema gerenciamento de banco de dados SQLite3 para o ambiente de desenvolvimento. No ambiente de produção é utilizado outro sistema de banco de dados, o PostgreSQL.  
+<p align ="justify">O PostgreSQL foi adotado em ambiente de produção devido a possibilidade para trabalhar de maneira eficiente com dados geolocalizados.  
 
 ## 6) Desempenho
 
-<p align ="justify">O desempenho do site irá depender diretamente da conexão a internet do usuário. O sistema deverá garantir o ajuste de tela (bootstrap) para todos os dispositivos móveis, o que implicaria em um bom funcionamento da aplicação quando utilizada via smartphone.
+<p align ="justify">Serão adotadas práticas para que a aplicação tenha bom desempenho no navegador do usuário.   
+<p align ="justify">Os dados do mapa serão mostrados por demanda, de acordo com a interação do usuário. Estes dados virão em formato JSON (JavaScript Object Notation) e serão carregados apenas quando necessários. A necessidade do carregamento dos dados será definida por uma série de lógicas que serão implementadas.   
+<p align ="justify">Arquivos do tipo CSS e JavaScript passarão por processos de compressão e minificação para que possam ser carregados rapidamente.   
+<p align ="justify">Além disso, o sistema de cache disponíveis nos navegadores auxiliarão no desempenho da aplicação.    
 
-## 7) Qualidade
+## 7) Qualidade  
 
-<p align ="justify">De posse da explicação do funcionamento da arquitetura utilizada para a construção do sistema pode-se chegar a conclusão que o sistema ficará mais sólido dividido entre os três blocos, Model, View, Controller. A arquitetura permite, também, um significativo aumento na facilidade de manutenção do código pois existe um lugar para cada função. A linguagem utilizada no framework, Ruby, por ser de alto nível permite uma leitura mais fluida de todo o código o que também facilita no momento de manutenção deste sistema.
+<p align ="justify">Os padrões adotados no projeto seguirão convenções do framework Ruby on Rails, e são amplamente utilizadas por projetos de diversos tamanhos. Além disso, os desenvolvedores farão uso das folhas de estilo das linguagens utilizadas no projeto, auxiliando dessa forma, que o projeto seja desenvolvido com qualidade satisfatória, adotando boas práticas de desenvolvimento.  
