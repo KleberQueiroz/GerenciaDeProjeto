@@ -10,6 +10,7 @@
 | 21/03/2017    |  1.5   | Alterações em Oportunidades de Negócios, Instrução do Problema; Instrução de Posição do Produto; Resumo de Capacidade | Stéfane Souza |
 | 23/03/2017    |  2.0   | Perfis de Usuário: Novos Alunos, Palestrantes | Lucas S., Sannya Arvelos |
 | 06/04/2017    |  2.1   | Refatoração do documento, adição de requisitos funcionais e não funcionais, legendas das prioridades. | Taynara, Sannya Arvelos, Lucas S., Kairon Velozo|
+| 07/04/2017    |  2.2   | Migração de documento do Google Drive para a Wiki. Pequenas alterações feitas em texto. | Lucas S. |
 
 ------
 
@@ -50,31 +51,31 @@
 ------
 
 ## 1. Introdução
-<p align ="justify">A finalidade deste documento é coletar, analisar e definir as necessidades e recursos de nível superior do sistema de mapeamento das instalações e de localização do Campus Darcy Ribeiro da Universidade de Brasília (UnB). O documento se concentra nos recursos necessários aos envolvidos, usuários e nas razões que levam as necessidades, e também estabelece uma visão geral e clara do projeto para todos os envolvidos.
-<p align ="justify">Espera-se que o leitor deste documento consiga compreender a finalidade global da aplicação "Onde é UnB?"
+<p align ="justify">A finalidade deste documento é coletar, analisar e definir as necessidades e recursos de nível superior do sistema de mapeamento das instalações e de localização do Campus Darcy Ribeiro da Universidade de Brasília (UnB). O documento se concentra nos recursos necessários aos envolvidos, usuários e nas razões que levam as necessidades, e também estabelece uma visão geral e clara do projeto para todos os envolvidos.  
+<p align ="justify">Espera-se que o leitor deste documento consiga compreender a finalidade global da aplicação "Onde é UnB?"   
 
-### 1.1. Propósito
+### 1.1. Propósito  
 
-<p align ="justify">O "Onde é UnB?" tem a finalidade de facilitar a localização, via mapa interativo, de algumas das instalações e estabelecimentos do Campus Darcy Ribeiro da UnB.
-
-### 1.2. Definições, acrônimos e abreviações
+<p align ="justify">O "Onde é UnB?" tem a finalidade de facilitar a localização, via mapa interativo, de algumas das instalações e estabelecimentos do Campus Darcy Ribeiro da UnB.  
+  
+### 1.2. Definições, acrônimos e abreviações  
 
 | Abreviação | Definição                                                     |
 |------------|---------------------------------------------------------------|
 | UnB        | Universidade de Brasília                                      |
 | CPD - UnB  | Centro de Processamento de Dados da Universidade de Brasília. |
 
-### 1.4. Referências 
+### 1.4. Referências   
 
-UNIVERSIDADE DE BRASÍLIA. Institucional. Disponível em: <[http://www.unb.br/a-unb?menu=423](http://www.unb.br/a-unb?menu=423)>. Acesso em 20 março de 2017.
+UNIVERSIDADE DE BRASÍLIA. Institucional. Disponível em: <[http://www.unb.br/a-unb?menu=423](http://www.unb.br/a-unb?menu=423)>. Acesso em 20 março de 2017.   
 
-CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disponível em: <[http://www.cpd.unb.br/sobre-o-cpd](http://www.cpd.unb.br/sobre-o-cpd)>. Acesso em 20 março de 2017.
+CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disponível em: <[http://www.cpd.unb.br/sobre-o-cpd](http://www.cpd.unb.br/sobre-o-cpd)>. Acesso em 20 março de 2017.  
 
-## 2. Posicionamento
+## 2. Posicionamento  
 
-### 2.1. Oportunidade de Negócios
+### 2.1. Oportunidade de Negócios  
 
-<p align ="justify">O Campus Darcy Ribeiro é o mais antigo da Universidade de Brasília. Com o seu crescimento e criação de novos cursos, o número de pessoas que o circulam ficou cada vez maior e com isso a localização interna se tornou um problema. Segundo dados da universidade, mais de 50 mil pessoas frequentam diariamente o campus tendo mais de 500 mil m² de área construída. A plataforma web de mampeamento das instalações do campus Darcy Ribeiro veio com o propósito de auxiliar estudantes, servidores e visitantes da universidade facilitando a sua locomoção traçando trajetos pelos prédios.  
+<p align ="justify">O Campus Darcy Ribeiro é o mais antigo da Universidade de Brasília. Com o seu crescimento e criação de novos cursos, o número de pessoas que o circulam ficou cada vez maior e com isso a localização interna se tornou um problema. Segundo dados da universidade, mais de 50 mil pessoas frequentam diariamente o campus tendo mais de 500 mil m² de área construída. A plataforma web de mampeamento das instalações do campus Darcy Ribeiro veio com o propósito de auxiliar estudantes, servidores e visitantes da universidade facilitando a sua locomoção traçando trajetos pelos prédios.    
 
 ### 2.2. Instrução do Problema 
 
@@ -86,7 +87,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 
 ### 2.3. Instrução de Posição do Produto  
 
-<p align ="justify">o "Onde é UnB?" é um serviço de localização dentro do campus que pretende auxiliar os diversos frequentadores da UnB a encontrar edifícios, departamentos, salas. Atualmente os usuários contam com opções como o Google Maps, esta, porém, se limita a localização de prédios maiores, não sendo possível receber maiores detalhes destes.
+<p align ="justify">o "Onde é UnB?" é um serviço de localização dentro do campus que pretende auxiliar os diversos frequentadores da UnB a encontrar edifícios, departamentos, salas. Atualmente os usuários contam com opções como o Google Maps, esta, porém, se limita a localização de prédios maiores, não sendo possível receber maiores detalhes destes.  
 
 | Para          | Estudantes, servidores e visitantes da universidade                                                                    |
 |---------------|------------------------------------------------------------------------------------------------------------------------|
@@ -96,9 +97,9 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Diferente de  | Google Maps e mapas avulsos                                                                                            |
 | Nosso produto | Possibilita a localização de edifícios, departamentos, salas do Campus Darcy Ribeiro pertencente a Universidade de Brasília |
 
-## 3. Envolvidos e Usuários
+## 3. Envolvidos e Usuários  
 
-### 3.1. Resumo dos Envolvidos 
+### 3.1. Resumo dos Envolvidos   
 
 | Nome                        | Representa                                                                                                               | Função                                                                                                                                               |
 |-----------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -106,7 +107,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Equipe de Gestão do Projeto | Grupo de discentes da UnB que estão matriculados na matéria Gestão de Portfólio de Projeto.                              | Desenvolver a aplicação web apresentada visando a detecção de possíveis riscos futuros, problemas e soluções viáveis para a conclusão deste projeto. |
 | Diretoria do CPD - UnB               | Diretores do CPD        | Fornecer os dados necessários para o desenvolvimento e implementação da aplicação aqui apresentada.|
 | Coaches               | Orientadores do projeto        | Orientar a equipe de desenvolvimento e a equipe de gestão no que refere a execução do projeto.|
-| Professor               | Avaliador e orientador do projeto.   | Avaliar o produto e o cumprimento dos métodos de desenvolvimento utilizados e orientar as equipes quanto a execução do projeto.|
+| Professor               | Avaliador e orientador do projeto.   | Avaliar o produto e o cumprimento dos métodos de desenvolvimento utilizados e orientar as equipes quanto a execução do projeto.|  
 
 ### 3.2. Resumo do Usuário  
 
@@ -117,9 +118,9 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Candidatos   | O Campus Darcy Ribeiro constantemente é local de provas de concursos, vestibulares e afins. Alguns destes também não possuem conhecimento sobre as localidades do campus. |
 | Visitantes   | Pessoas que desejam conhecer as instalações do Campus Darcy Ribeiro e nunca estiveram em suas instalações.                                                                |
 
-### 3.4. Perfis das Partes Interessadas
+### 3.4. Perfis das Partes Interessadas  
 
-#### 3.4.1. Equipe de Gestão de Projeto
+#### 3.4.1. Equipe de Gestão de Projeto   
 
 | Representantes        | Alexandre Torres Kryonidis, Daniel Moura da Silva, Eduardo Brasil Martins, Eduardo Quintino Gomes e Rafael dos Santos Rabetti.                                                                                                                     |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -129,7 +130,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Fazer com que o grupo de desenvolvedores possua um conhecimento uniforme, trabalhe bem em equipe. Seguir de forma correta um projeto de desenvolvimento de software visando a entrega, no prazo, de uma aplicação com um ótimo nível de qualidade. |
 | Envolvimento          | Alto.                                                                                                                                                                                                                                              |
 | Comentários/Problemas | Uma equipe de alunos que tem o objetivo de gerir uma equipe de outros alunos com a finalidade de entregar o produto. |
-*Alto: A equipe poderá acessar todas as informações administrativas e de desenvolvimento do sistema.
+*Alto: A equipe poderá acessar todas as informações administrativas e de desenvolvimento do sistema.  
 
 #### 3.4.2. Equipe de Desenvolvedores
 | Representantes        | Jordan de Oliveira Miranda, Kairon Velozo, Lucas Soares Souza, Mateus Vieira da Silva Roriz, Sannya Santana de Arvelos, Stéfane Bogéa de Souza e Taynara de Jesus Carvalho. |
@@ -140,7 +141,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Fornecerem o software de acordo com o que foi estipulado pelo cliente e pela equipe da Gestão de Projeto.                                                                   |
 | Envolvimento          | Alto.                                                                                                                                                                       |
 | Comentários/Problemas | Trabalhar com ferramentas nunca, ou pouco, utilizadas pela a equipe para a implementação do projeto.                                                                        |
-*Alto: Esta equipe poderá acessar todas as informações de desenvolvimento e administrativas do sistema.
+*Alto: Esta equipe poderá acessar todas as informações de desenvolvimento e administrativas do sistema.  
 
 
 #### 3.4.3. Diretoria do CPD UnB
@@ -153,11 +154,11 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Receber um software que seja capaz de orientar as pessoas que precisem se localizar no Campus Darcy Ribeiro. |
 | Envolvimento          | Médio                                                                                                        |
 | Comentários/Problemas | Conseguir fornecer um grande número de dados para a conclusão do projeto.                                    |
-*Médio: Esta parte interessada terá, somente, que transferir dados aos desenvolvedores.
+*Médio: Esta parte interessada terá, somente, que transferir dados aos desenvolvedores.   
+ 
+### 3.5 Perfis do Usuário  
 
-### 3.5 Perfis do Usuário
-
-#### 3.5.1 Novos Alunos
+#### 3.5.1 Novos Alunos  
 
 | Representantes        | Novos Alunos                                                                     |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -167,7 +168,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
 | Envolvimento          | Baixo.                                                                                                                    |
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
-*Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.
+*Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.  
 
 #### 3.5.2 Palestrantes
 
@@ -179,7 +180,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
 | Envolvimento          | Baixo.                                                                                                                    |
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
-*Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.
+*Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.  
 
 #### 3.5.3 Candidatos
 
@@ -191,7 +192,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
 | Envolvimento          | Baixo.                                                                                                                    |
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
-*Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.
+*Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.  
 
 #### 3.5.4 Visitantes
 
@@ -203,10 +204,10 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
 | Envolvimento          | Baixo.                                                                                                                    |
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
-*Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.
+*Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.   
 
 
-### 3.6 Principais Necessidades da Parte Interessada ou do Usuário 
+### 3.6 Principais Necessidades da Parte Interessada ou do Usuário   
 
 | Necessidade                          | Prioridade | Interesses                               | Solução Atual | Solução Proposta                                                     |
 |--------------------------------------|------------|------------------------------------------|---------------|----------------------------------------------------------------------|
@@ -219,7 +220,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Localização de centros acadêmicos    | Baixa      | Acesso aos centros acadêmicos            | Não possui    | Mapeamento dos centros acadêmicos                                    |
 | Trajetos entre edifícios             | Alta       | Transição entre edifícios.               | Google Maps   | Apresentação de rotas mais utilizadas                                |
 
-As prioridades são classificadas da seguinte forma:  
+As prioridades são classificadas da seguinte forma:    
 Alta - essencial para o usuário;  
 Média - de média importância para o usuário;  
 Baixa - de baixa importância para o usuário;  
@@ -227,13 +228,13 @@ Baixa - de baixa importância para o usuário;
 
 ## 4. Visão Geral do Produto
 
-<p align ="justify">O sistema se propõe a oferecer uma plataforma alternativa para a localização entre o usuário e os edifícios do Campus Darcy Ribeiro, alem de forcener uma maneira mais interativa para que os usuários possam, intuitivamente, achar os edifícios que procuram. Isto é feito utilizando uma interface baseada na API do Google Maps, com ênfase nas mediações da UnB.    
+<p align ="justify">O sistema se propõe a oferecer uma plataforma alternativa para a localização entre o usuário e os edifícios do Campus Darcy Ribeiro, alem de forcener uma maneira mais interativa para que os usuários possam, intuitivamente, achar os edifícios que procuram. Isto é feito utilizando uma interface baseada na API do Google Maps, com ênfase nas mediações da UnB.     
 
-### 4.1. Perspectiva do Produto  
+### 4.1. Perspectiva do Produto    
 
-<p align ="justify">Além de oferecer uma forma mais intuitiva para a localização dos edifícios, o sistema também oferece ao usuário as rotas viáveis para sua locomoção dentro do campus. A aplicação web não mostrará somente os locais onde ocorrem aulas mas também pontos de alimentação, centros academicos e bicicletários, permitindo, assim, que o usuário possua uma visão ampla de todo o Campus Darcy Ribeiro.  
+<p align ="justify">Além de oferecer uma forma mais intuitiva para a localização dos edifícios, o sistema também oferece ao usuário as rotas viáveis para sua locomoção dentro do campus. A aplicação web não mostrará somente os locais onde ocorrem aulas mas também pontos de alimentação, centros academicos e bicicletários, permitindo, assim, que o usuário possua uma visão ampla de todo o Campus Darcy Ribeiro.    
 
-### 4.2 Resumo das Capacidades   
+### 4.2 Resumo das Capacidades     
 
 | Benefício para o Cliente                   | Recursos do Suporte                                                                                |
 |--------------------------------------------|----------------------------------------------------------------------------------------------------|
@@ -241,13 +242,13 @@ Baixa - de baixa importância para o usuário;
 | Linguagem Simples | As formas de uso da aplicação seguirão um padrão que dará maior fluidez à sua utilização. |
 | Acesso a todas as àresas do programa a partir da página inicial.  | A página inicial do siste possuirá um menu com todos os recursos, não administrativos, do sistema, assim, facilitando o acesso à tais ferramentas. |
 
-### 4.3. Licenciamento
+### 4.3. Licenciamento  
+ 
+<p align ="justify"> O serviço será de livre acesso e as informações serão públicas. Não haverá necessidade de instalação de aplicativos.  
 
-<p align ="justify"> O serviço será de livre acesso e as informações serão públicas. Não haverá necessidade de instalação de aplicativos.
+## 5. Requisitos  
 
-## 5. Requisitos
-
-5.1 Requisitos Funcionais
+5.1 Requisitos Funcionais  
 
 | Identificação | Requisito | Descrição | Prioridade |
 |---------------|-----------|-----------|------------|
