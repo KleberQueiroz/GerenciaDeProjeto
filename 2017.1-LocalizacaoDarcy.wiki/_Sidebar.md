@@ -58,7 +58,7 @@
 
 :arrows_counterclockwise: [Diagrama de Casos de Uso](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Diagrama-de-Casos-de-Uso)
 
-:ballot_box_with_check: [Protótipos]()
+:ballot_box_with_check: [Protótipos](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Protótipos)
 
 :ballot_box_with_check: [Especificação de Casos de Teste]()
 
