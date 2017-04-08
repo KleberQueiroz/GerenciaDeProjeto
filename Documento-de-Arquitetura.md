@@ -58,7 +58,7 @@
 
 <p align ="justify">Controller - A camada controller é responsável pelo fluxo do usuário na aplicação. Esta é usada para comunicação com a Model e renderização das Views, com informações procedentes da Model.   
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-mvc.png)
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-mvc.png)  
 [Diagrama de Casos de Uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-mvc.png)   
 
 <p align ="justify">1 - O usuário deseja acessar acessar uma página da aplicação através do browser. O browser envia a solicitação ao servidor e, através do gerenciador de rotas do Rails, a solicitação é enviada à uma Controller.   
@@ -97,8 +97,8 @@
 
 ### 4.2 Diagrama de Casos de Uso   
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-casos-de-uso.png)
-[Diagrama de Casos de Uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-casos-de-uso.png)   
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-casos-de-uso.png)  
+[Diagrama de Casos de Uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-casos-de-uso.png)    
 
 ### 4.3 Descrição dos Casos de Uso  
 
@@ -129,7 +129,6 @@
 **UC09 - Mostrar Mapa do Campus**  
 <p align ="justify">Este caso de uso se refere ao ato de mostrar o mapa do Campus junto com os itens nele cadastrados ao usuário.  
 
-
 ## 5) Visão Lógica  
 
 <p align ="justify">A aplicação Onde É? UnB é construída sobre o framework Rails utilizando a linguagem de alto nível Ruby. Este framework utiliza a lógica MVC(Model-View-Controller), tal lógica permite a divisão da estrutura da ferramenta web em 3 blocos sólidos que comunicam-se entre si: View, controller, model.     
@@ -154,13 +153,13 @@
 ### 5.2 Diagrama de Classes  
 <p align ="justify">Abaixo encontra-se o diagrama de classes do sistema:  
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-classe.jpg)
-[Diagrama de Classes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-classe.jpg)
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-classe.jpg)  
+[Diagrama de Classes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-classe.jpg)  
 
 ### 5.3 Diagrama de Pacotes
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-pacotes.png)
-[Diagrama de Pacotes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-pacotes.png)   
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-pacotes.png)  
+[Diagrama de Pacotes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-pacotes.png)    
 
 ### 5.4 Banco de Dados
 
