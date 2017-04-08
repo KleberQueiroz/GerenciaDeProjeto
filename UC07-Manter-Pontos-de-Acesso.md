@@ -1,46 +1,34 @@
-### 1. Descrição
+### TC01 - Criar Ponto de Acesso com dados válidos
 
-Este caso de uso é destinado ao administrador que vai manter atualizado os dados da aplicação web. Através desse caso de uso é permitido criar, alterar e excluir os pontos de acesso dos edifícios do Campus Darcy Ribeiro da Universidade de Brasília.
+1. Descrição: O caso de teste verifica se os dados do registro estão válidos.
+2. Pré-Condições: Estar autenticado como administrador na aplicação e ter todos os dados preenchidos corretamente.
+3. Pós-Condições: Um novo ponto de acesso é cadastrado no banco de dados.
+4. Dados Necessários: Nome e Local.
 
-### 2. Atores
+### TC02 - Criar ponto de acesso com dados inválidos ou em branco
 
-* Administrador
+1. Descrição: O caso de teste verifica se algum dado de registro está preenchido de forma incorreta ou em branco.
+2. Pré-Condições: Estar autenticado como administrador na aplicação e ter algum dado preenchido de forma incorreta ou em branco.
+3. Pós-Condições: O sistema apresenta mensagem de erro e retorna para cadastro.
+4. Dados Necessários: Nome e Local.
 
-### 3. Pré-condições
+### TC03 - Editar Ponto de Acesso com dados válidos
 
-* Ter acessado a aplicação.
-* O usuário deve ter logado como administrador na aplicação.
+1. Descrição: O caso de teste verifica se os dados alterados estão válidos.
+2. Pré-Condições: Estar autenticado como administrador na aplicação e ter todos os dados preenchidos corretamente.
+3. Pós-Condições: As informações deverão ter sido editadas no banco de dados. 
+4. Dados Necessários: Nome e Local.
 
-### 4. Fluxo de Eventos
+### TC04 - Editar ponto de acesso com dados inválidos ou em branco
 
-#### 4.1 Fluxo Principal
+1. Descrição: O caso de teste verifica se os dados alterados estão preenchidos de forma incorreta ou em branco.
+2. Pré-Condições: Estar autenticado como administrador na aplicação e ter algum dado preenchido de forma incorreta ou em branco.
+3. Pós-Condições: O sistema apresenta mensagem de erro e retorna para o cadastro.
+4. Dados Necessários: Nome e Local.
 
-Este caso de uso se inicia quando o administrador cria uma marcação para o ponto de acesso.
+#### TC05 - Excluir Ponto de Acesso
 
-* [FP01] - O administrador clica em criar um novo ponto de acesso.  
-* [FP02] - Após clicar, o administrador é direcionado para a página de criação.  
-* [FP03] - O administrador preenche as informações do ponto de acesso e clica em Salvar.
-* [FP04] - O ponto de acesso é criado e pode ser visualizado. 
-* [FP05] - Agora estará disponível o modo para editar e excluir ponto de acesso.
-* [FP06] - O caso de uso é encerrado. 
-
-
-#### 4.2 Fluxos Alternativos
-
-* [FA01] - Cancelar a ação  
-&nbsp;&nbsp;&bull; O administrador clica para cancelar a criação, edição ou exclusão do ponto de acesso.  
-&nbsp;&nbsp;&bull; Redirecionamento para a página do edifício.
-&nbsp;&nbsp;&bull; O caso de uso é encerrado.  
-
-
-#### 4.3 Fluxo de Exceção
-
-* Não se aplica.
-
-### 5. Regra de Negócio
-
-* Não se aplica.
-
-### 6. Pós-condição
-
-* Após a criação do ponto de acesso será possível editá-lo ou excluí-lo.
+1. Descrição: O caso de teste verifica se o ponto de acesso foi excluído do mapa.
+2. Pré-Condições: Estar autenticado como administrador na aplicação.
+3. Pós-Condições: O ponto de acesso deverá ter sido excluído do mapa.
+4. Dados Necessários: Nenhum. 
