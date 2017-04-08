@@ -2,7 +2,7 @@
 
 |      Data     | Versão | Descrição                                                                | Autor         |
 |---------------|--------|--------------------------------------------------------------------------|---------------|
-|  16/03/2017   |  1.00  | Criação do documento                                                     | Lucas S.      |
+|  16/03/2017   |  1.0  | Criação do documento                                                     | Lucas S.      |
 |  17/03/2017   |  1.1   | Introdução e Escopo                | Kairon Velozo, Mateus Roriz|
 |  19/03/2017   |  1.2   | Introdução do Problema; Definições, Abreviações e acrônimos; Instrução de Posição do Produto; Principais Necessidades da Parte Interessada; Suposições e Dependências; Licenciamento e Instalação; Recursos do Produto; Propósito; Oportunidade de Ńegócio; Visão Geral do Produto e Perspectiva do Produto  | Karion Velozo, Jordan Miranda, Mateus Roriz |
 |  19/03/2017   |  1.3   | Instrução do produto (Criação de tabelas); Melhoria na Introdução e no escopo; Resumo do Usuário e Ambiente do Usuário | Taynara Carvalho, Sannya Arvelos, Lucas S. |
@@ -50,21 +50,14 @@
 ------
 
 ## 1. Introdução
-<p align ="justify">Este documento tem o objetivo de apresentar uma visão completa sobre o software de mapeamento das instalações e de localização no Campus Darcy Ribeiro da Universidade de Brasília (UnB).
-
-<p align ="justify">Espera-se que o leitor deste documento consiga compreender a finalidade global da aplicação UnBMapa. 
+<p align ="justify">A finalidade deste documento é coletar, analisar e definir as necessidades e recursos de nível superior do sistema de mapeamento das instalações e de localização do Campus Darcy Ribeiro da Universidade de Brasília (UnB). O documento se concentra nos recursos necessários aos envolvidos, usuários e nas razões que levam as necessidades, e também estabelece uma visão geral e clara do projeto para todos os envolvidos.
+<p align ="justify">Espera-se que o leitor deste documento consiga compreender a finalidade global da aplicação "Onde é UnB?"
 
 ### 1.1. Propósito
 
-<p align ="justify">O Software tem como propósito facilitar a locomoção entre as instalações do Campus Darcy Ribeiro da UnB, bem como a fácil localização de salas e outras dependências.
+<p align ="justify">O "Onde é UnB?" tem a finalidade de facilitar a localização, via mapa interativo, de algumas das instalações e estabelecimentos do Campus Darcy Ribeiro da UnB.
 
-### 1.2. Escopo
-
-<p align ="justify">O Centro de Processamento de Dados da Universidade de Brasília (CPD - UnB), é um órgão complementar da UnB que possui como intuito desenvolver as atividades de caráter permanente de apoio da pesquisa e da extensão ao desenvolvimento de ensino no que se refere ao processamento de dados, cujo os objetivos são promover e incentivar a informática na UnB, desenvolver, implantar e manter sistemas de mainframe e em microcomputadores e supervisionar, coordenar e controlar as atividades relacionadas com pesquisas referentes a hardware, software e rede de teleprocessamento.
-
-<p align ="justify">O UnbMapa tem a finalidade de desenvolver o software de localização, via mapa, de algumas das instalações do Campus Darcy Ribeiro da UnB bem como de alguns de seus estabelecimentos.
-
-### 1.3. Definições, acrônimos e abreviações
+### 1.2. Definições, acrônimos e abreviações
 
 | Abreviação | Definição                                                     |
 |------------|---------------------------------------------------------------|
@@ -81,7 +74,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 
 ### 2.1. Oportunidade de Negócios
 
-<p align ="justify">O Campus Darcy Ribeiro é o mais antigo da Universidade de Brasília. Com o seu crescimento e criação de novos cursos, o número de pessoas que o circulam ficou cada vez maior e com isso a localização interna se tornou um problema. Segundo dados da universidade, mais de 50 mil pessoas frequentam diariamente o campus tendo mais de 500 mil m² de área construída. A plataforma web de mapeamento das instalações do campus Darcy Ribeiro veio com o propósito de auxiliar estudantes, servidores e visitantes da universidade facilitando a sua locomoção traçando trajetos pelos prédios.
+<p align ="justify">O Campus Darcy Ribeiro é o mais antigo da Universidade de Brasília. Com o seu crescimento e criação de novos cursos, o número de pessoas que o circulam ficou cada vez maior e com isso a localização interna se tornou um problema. Segundo dados da universidade, mais de 50 mil pessoas frequentam diariamente o campus tendo mais de 500 mil m² de área construída. A plataforma web de mampeamento das instalações do campus Darcy Ribeiro veio com o propósito de auxiliar estudantes, servidores e visitantes da universidade facilitando a sua locomoção traçando trajetos pelos prédios.  
 
 ### 2.2. Instrução do Problema 
 
@@ -93,13 +86,15 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 
 ### 2.3. Instrução de Posição do Produto  
 
+<p align ="justify">o "Onde é UnB?" é um serviço de localização dentro do campus que pretende auxiliar os diversos frequentadores da UnB a encontrar edifícios, departamentos, salas. Atualmente os usuários contam com opções como o Google Maps, esta, porém, se limita a localização de prédios maiores, não sendo possível receber maiores detalhes destes.
+
 | Para          | Estudantes, servidores e visitantes da universidade                                                                    |
 |---------------|------------------------------------------------------------------------------------------------------------------------|
 | Que           | desejam facilitar sua locomoção entre instalações do Campus Darcy Ribeiro                                              |
-| O             | UnBMapa                                                                                                                |
+| O             | "Onde É UnB?"                                                                                                                |
 | Que           | é uma plataforma web                                                                                                   |
 | Diferente de  | Google Maps e mapas avulsos                                                                                            |
-| Nosso produto | Possibilita a localização de edifícios, departamentos, salas e laboratórios do Campus Darcy Ribeiro pertencente a UnB. |
+| Nosso produto | Possibilita a localização de edifícios, departamentos, salas do Campus Darcy Ribeiro pertencente a Universidade de Brasília |
 
 ## 3. Envolvidos e Usuários
 
@@ -109,9 +104,9 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 |-----------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Equipe de Desenvolvedores   | Grupo de discentes da Universidade de Brasília que estão matriculados na matéria Métodos de Desenvolvimento de Software. | Desenvolver e implementar a ferramenta web apresentada neste documento.                                                                              |
 | Equipe de Gestão do Projeto | Grupo de discentes da UnB que estão matriculados na matéria Gestão de Portfólio de Projeto.                              | Desenvolver a aplicação web apresentada visando a detecção de possíveis riscos futuros, problemas e soluções viáveis para a conclusão deste projeto. |
-| Stakeholders                | Diretoria do CPD - UnB        | Fornecer os dados necessários para o desenvolvimento e implementação da aplicação aqui apresentada.|
+| Diretoria do CPD - UnB               | Diretores do CPD        | Fornecer os dados necessários para o desenvolvimento e implementação da aplicação aqui apresentada.|
 | Coaches               | Orientadores do projeto        | Orientar a equipe de desenvolvimento e a equipe de gestão no que refere a execução do projeto.|
-| Professores               | Avaliador e orientador do projeto.   | Avaliar o produto e o cumprimento dos métodos de desenvolvimento utilizados e orientar as equipes quanto a execução do projeto.|
+| Professor               | Avaliador e orientador do projeto.   | Avaliar o produto e o cumprimento dos métodos de desenvolvimento utilizados e orientar as equipes quanto a execução do projeto.|
 
 ### 3.2. Resumo do Usuário  
 
@@ -121,10 +116,6 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Palestrantes | Pessoas de fora do Campus Darcy Ribeiro convidadas a ministrar algum tipo de palestra dentro do próprio e que não possuem conhecimento sobre suas localidades.            |
 | Candidatos   | O Campus Darcy Ribeiro constantemente é local de provas de concursos, vestibulares e afins. Alguns destes também não possuem conhecimento sobre as localidades do campus. |
 | Visitantes   | Pessoas que desejam conhecer as instalações do Campus Darcy Ribeiro e nunca estiveram em suas instalações.                                                                |
-
-### 3.3. Ambiente do Usuário
-
-<p align ="justify">O ambiente em que o usuário utilizará o sistema deverá ser um navegador com acesso à internet. Este navegador pode estar presente tanto em um computador desktop quanto um dispositivo móvel.
 
 ### 3.4. Perfis das Partes Interessadas
 
@@ -137,7 +128,8 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Responsabilidades     | Gerir a equipe visando a entrega da ferramenta web aqui proposta de acordo com as metas e propostas entregues por eles.                                                                                                                            |
 | Critérios de Sucesso  | Fazer com que o grupo de desenvolvedores possua um conhecimento uniforme, trabalhe bem em equipe. Seguir de forma correta um projeto de desenvolvimento de software visando a entrega, no prazo, de uma aplicação com um ótimo nível de qualidade. |
 | Envolvimento          | Alto.                                                                                                                                                                                                                                              |
-| Comentários/Problemas | Mesmo sendo uma equipe de alunos conseguir gerir uma equipe de outros alunos com objetivo de entregar um produto à um cliente real.                                                                                                                |
+| Comentários/Problemas | Uma equipe de alunos que tem o objetivo de gerir uma equipe de outros alunos com a finalidade de entregar o produto. |
+*Alto: A equipe poderá acessar todas as informações administrativas e de desenvolvimento do sistema.
 
 #### 3.4.2. Equipe de Desenvolvedores
 | Representantes        | Jordan de Oliveira Miranda, Kairon Velozo, Lucas Soares Souza, Mateus Vieira da Silva Roriz, Sannya Santana de Arvelos, Stéfane Bogéa de Souza e Taynara de Jesus Carvalho. |
@@ -148,6 +140,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Fornecerem o software de acordo com o que foi estipulado pelo cliente e pela equipe da Gestão de Projeto.                                                                   |
 | Envolvimento          | Alto.                                                                                                                                                                       |
 | Comentários/Problemas | Trabalhar com ferramentas nunca, ou pouco, utilizadas pela a equipe para a implementação do projeto.                                                                        |
+*Alto: Esta equipe poderá acessar todas as informações de desenvolvimento e administrativas do sistema.
 
 
 #### 3.4.3. Diretoria do CPD UnB
@@ -158,8 +151,9 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Tipo                  | Cliente do projeto.                                                                                          |
 | Responsabilidades     | Fornecer os dados necessários para a conclusão da aplicação.                                                 |
 | Critérios de Sucesso  | Receber um software que seja capaz de orientar as pessoas que precisem se localizar no Campus Darcy Ribeiro. |
-| Envolvimento          | Alto.                                                                                                        |
+| Envolvimento          | Médio                                                                                                        |
 | Comentários/Problemas | Conseguir fornecer um grande número de dados para a conclusão do projeto.                                    |
+*Médio: Esta parte interessada terá, somente, que transferir dados aos desenvolvedores.
 
 ### 3.5 Perfis do Usuário
 
@@ -173,17 +167,19 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
 | Envolvimento          | Baixo.                                                                                                                    |
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
+*Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.
 
 #### 3.5.2 Palestrantes
 
 | Representantes        | Palestrantes                                                                   |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------|
-| Descrição             | Pessoas de fora do Campus Darcy Ribeiro convidadas a ministrar algum tipo de palestra dentro do próprio e que não possuem conhecimento sobre suas localidades. Ribeiro                               |
+| Descrição             | Pessoas de fora do Campus Darcy Ribeiro convidadas a ministrar algum tipo de palestra dentro do próprio e que não possuem conhecimento sobre suas localidades.                              |
 | Tipo                  | Usuário Informal.                                                                                                         |
 | Responsabilidades     | Acessar a aplicação e utilizar os recursos para usuários comuns.                                                                    |
 | Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
 | Envolvimento          | Baixo.                                                                                                                    |
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
+*Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.
 
 #### 3.5.3 Candidatos
 
@@ -195,6 +191,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
 | Envolvimento          | Baixo.                                                                                                                    |
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
+*Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.
 
 #### 3.5.4 Visitantes
 
@@ -206,6 +203,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
 | Envolvimento          | Baixo.                                                                                                                    |
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
+*Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.
 
 
 ### 3.6 Principais Necessidades da Parte Interessada ou do Usuário 
@@ -221,65 +219,59 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Localização de centros acadêmicos    | Baixa      | Acesso aos centros acadêmicos            | Não possui    | Mapeamento dos centros acadêmicos                                    |
 | Trajetos entre edifícios             | Alta       | Transição entre edifícios.               | Google Maps   | Apresentação de rotas mais utilizadas                                |
 
+As prioridades são classificadas da seguinte forma:  
+Alta - essencial para o usuário;  
+Média - de média importância para o usuário;  
+Baixa - de baixa importância para o usuário;  
+
 
 ## 4. Visão Geral do Produto
 
-<p align ="justify">O sistema se propõe a oferecer uma forma alternativa para a localização entre o usuário e os prédios da UnB do Campus Darcy Ribeiro, além de fornecer uma maneira mais interativa para que os usuários possam mais intuitivamente achar os edifícios que procuram. Isto é feito utilizando-se uma interface baseada API do Google Maps, com ênfase nas mediações da UnB.  
+<p align ="justify">O sistema se propõe a oferecer uma plataforma alternativa para a localização entre o usuário e os edifícios do Campus Darcy Ribeiro, alem de forcener uma maneira mais interativa para que os usuários possam, intuitivamente, achar os edifícios que procuram. Isto é feito utilizando uma interface baseada na API do Google Maps, com ênfase nas mediações da UnB.    
 
-### 4.1. Perspectiva do Produto
+### 4.1. Perspectiva do Produto  
 
-<p align ="justify">Além de oferecer uma forma mais intuitiva para localização dos edifícios, o sistema também disponibiliza apenas as rotas viáveis para locomoção com base em dados fornecidos pelos usuários conformes eles usam o sistema e conta com o display de estabelecimentos perto do usuário.
+<p align ="justify">Além de oferecer uma forma mais intuitiva para a localização dos edifícios, o sistema também oferece ao usuário as rotas viáveis para sua locomoção dentro do campus. A aplicação web não mostrará somente os locais onde ocorrem aulas mas também pontos de alimentação, centros academicos e bicicletários, permitindo, assim, que o usuário possua uma visão ampla de todo o Campus Darcy Ribeiro.  
 
-### 4.2 Resumo das Capacidades 
+### 4.2 Resumo das Capacidades   
 
 | Benefício para o Cliente                   | Recursos do Suporte                                                                                |
 |--------------------------------------------|----------------------------------------------------------------------------------------------------|
-| Informar a localização do usuário          | Permite o usuário saber de sua localização atual onde esteja dentro do campus.                     |
-| Traçar rotas de locomoção dentro do campus | Permite que o usuário tenha uma rota para chegar até o seu destino.                                |
-| Pesquisa por departamento, sala, edifício  | Área de acesso à informações sobre os locais.                                                      |
-| Calcular trajeto                           | Permite que o usuário tenha uma estimativa de tempo até o destino desejado                         |
-| Mostrar informações do edifício            | Área para o acesso à informações do edifício.                                                      |
-| Disponibilizar matérias por edifício       | Usuários poderão visualizar as matérias ministradas nas salas de acordo com dia, hora e professor. |
+| Interface gráfica        | O sistema contará com uma interface gráfica que facilitará a utilização do sistema. |
+| Linguagem Simples | As formas de uso da aplicação seguirão um padrão que dará maior fluidez à sua utilização. |
+| Acesso a todas as àresas do programa a partir da página inicial.  | A página inicial do siste possuirá um menu com todos os recursos, não administrativos, do sistema, assim, facilitando o acesso à tais ferramentas. |
 
-### 4.3. Suposições e Dependências
+### 4.3. Licenciamento
 
-| Suposição                                                   | Recurso Afetado                                                                                            |
-|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| O usuário terá conexão de internet durante o uso do sistema | Toda a aplicação é afetada pois o usuário necessidade de conexão com de internet durante o uso do serviço. |
+<p align ="justify"> O serviço será de livre acesso e as informações serão públicas. Não haverá necessidade de instalação de aplicativos.
 
-## 5. Recursos do Produto
+## 5. Requisitos
 
-| Recurso                                   | Descrição                                                                                                                                         |
-|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| Interface Responsiva                      | A interface do usuário é adaptável aos diversos tamanhos e resoluções de tela, podendo ser utilizado em Desktops, Laptops, Tablets e Smartphones. |
-| Pesquisa de Departamentos                 | Possibilita o usuário encontrar a localização de um departamento através do nome ou sigla.                                                        |
-| Trajeto entre edifícios                   | Permite que o usuário consulte o trajeto entre edifícios do campus.                                                                               |
-| Pesquisa de Salas de Aulas e Laboratórios | Permite que o usuário localizar salas e/ou laboratórios onde uma determinada aula é ministrada de acordo com a disciplina e turma.                |
-| Pesquisa de Sala de Professores           | Permite que o usuário localize a sala de um professor através do seu nome.                                                                        |
-| Painel Administrativo                     | Possibilita o cliente, alterar e incluir informações que serão disponibilizadas publicamente.                                                     |
-## 6. Restrições
+5.1 Requisitos Funcionais
 
-### 6.1. Restrições Externas
+| Identificação | Requisito | Descrição | Prioridade |
+|---------------|-----------|-----------|------------|
+| RF01          | Pesquisa de pontos | O sistema deverá permitir a busca de locais do campus, como por exemplo: edifícios, departamentos e salas | Alta |
+| RF02          | Traçar Rotas | O sistema deverá traçar rotas de locomoção entre dois pontos do campus | Alta |
+| RF03          | Mostrar Informações de Pontos | O sistema deverá mostrar as informações do ponto selecionado pelo usuário. | Alta |
+| RF04          | Disponibilizar as Matérias por Sala | Quando o usuário selecionar uma sala o sistema deverá mostrar as matérias contidas nesta sala. | Média |
 
-<p align ="justify">Os usuários deverão possuir acesso a internet para usufruir do UnBMapa, isso acontece porque as informações são exibidas ao usuário por demanda, não havendo, portanto, o armazenamento local dos dados exibidas, de modo que permitisse o funcionamento offline do UnBMapa.
+As prioridades dos requisitos funcionais são definidas como:  
+Alta - Recurso necessário da aplicação;  
+Média - Recurso opcional da aplicação;  
+Baixa - Seria bom que houvesse na aplicação;  
 
-<p align ="justify">O Campus Darcy Ribeiro possui vários eventos que, por vezes, modificam o seu funcionamento. Dessa forma, as informações fornecidas através do UnBMapa podem ficar temporariamente desatualizadas.
+5.2 Requisitos Não Funcionais
 
-### 6.2. Restrições de Implementação
+| Identificação | Descrição | Prioridade |
+|---------------|-----------|------------|
+| RNF01         | O sistema deve funcionar ao menos nos seguintes navegadores: Firefox, Chrome, Chromium, Safari, Opera e Internet Explorer. | Alta |
+| RNF02         | O sistema deve responder de forma mais automatizada possível a interação do usuário com a aplicação | Alta |
+| RNF03         | O sistema deverá ter interface responsiva, para que o usuário consiga utiliza-lo em qualquer plataforma (celular ou computadores) | Alta |
+| RNF04         | O sistema deverá estar em português | Média |
+| RNF05         | O sistema utilizará banco de dados Postgree | Alta |
+| RNF06         | O sistema deverá ser construído utilizando a arquitetura MVC (Model, View, Controller) | Alta |  
 
-<p align ="justify">A experiência da equipe com o uso das tecnologias utilizadas para a implementação do UnBMapa e o tamanho da equipe são restrições. Tais restrições podem reduzir o escopo do projeto para que o mesmo seja entregue.
-
-
-## 7. Faixas de Qualidade
-
-### 7.1. Requisitos do Sistema
-
-<p align ="justify">O serviço deverá funcionar ao menos nos seguintes navegadores: Firefox, Chrome, Chromium, Edge, Safari, Opera e Internet Explorer.
-
-### 7.2. Requisitos de Desempenho
-
-<p align ="justify">A aplicação deve responder de forma mais otimizada possível já que terá foco sobre a localização atual do usuário e seu caminho até uma outra localidade.
-
-### 7.3. Requisitos Ambientais
-
-<p align ="justify">A aplicação será dependente de conexão à internet pois todos os seus dados serão processados no servidor para somente após serem passados aos usuários.
+As prioridades dos recursos não funcionais são definidos como:  
+Alta - Essencial para o correto funcionamento da apliação;  
+Média - Auxilia na melhora da experiência do usuário da aplicação;    
