@@ -2,15 +2,15 @@
 
 |      Data     | Versão | Descrição                                                                | Autor         |
 |---------------|--------|--------------------------------------------------------------------------|---------------|
-|  16/03/2017   |  1.0  | Criação do documento                                                     | Lucas S.      |
-|  17/03/2017   |  1.1   | Introdução e Escopo                | Kairon Velozo, Mateus Roriz|
-|  19/03/2017   |  1.2   | Introdução do Problema; Definições, Abreviações e acrônimos; Instrução de Posição do Produto; Principais Necessidades da Parte Interessada; Suposições e Dependências; Licenciamento e Instalação; Recursos do Produto; Propósito; Oportunidade de Ńegócio; Visão Geral do Produto e Perspectiva do Produto  | Karion Velozo, Jordan Miranda, Mateus Roriz |
-|  19/03/2017   |  1.3   | Instrução do produto (Criação de tabelas); Melhoria na Introdução e no escopo; Resumo do Usuário e Ambiente do Usuário | Taynara Carvalho, Sannya Arvelos, Lucas S. |
-| 20/03/2017    |  1.4   | Perfil do Usuário; Oportunidade de Negócio/Referências; Resumo dos Envolvidos; Perfis das Partes Interessadas; Resumo das Capacidades; Restrições; Faixas de Qualidade; Completando a tabela de Principais Necessidades da Parte Interessada | Taynara Carvalho, Sannya Arvelos, Lucas S. |
-| 21/03/2017    |  1.5   | Alterações em Oportunidades de Negócios, Instrução do Problema; Instrução de Posição do Produto; Resumo de Capacidade | Stéfane Souza |
-| 23/03/2017    |  2.0   | Perfis de Usuário: Novos Alunos, Palestrantes | Lucas S., Sannya Arvelos |
-| 06/04/2017    |  2.1   | Refatoração do documento, adição de requisitos funcionais e não funcionais, legendas das prioridades. | Taynara, Sannya Arvelos, Lucas S., Kairon Velozo|
-| 07/04/2017    |  2.2   | Migração de documento do Google Drive para a Wiki. Pequenas alterações feitas em texto. | Lucas S. |
+|  16/03/2017   |  0.1  | Criação do documento                                                     | Lucas S.      |
+|  17/03/2017   |  0.2   | Introdução e Escopo                | Kairon Velozo, Mateus Roriz|
+|  19/03/2017   |  0.3   | Introdução do Problema; Definições, Abreviações e acrônimos; Instrução de Posição do Produto; Principais Necessidades da Parte Interessada; Suposições e Dependências; Licenciamento e Instalação; Recursos do Produto; Propósito; Oportunidade de Ńegócio; Visão Geral do Produto e Perspectiva do Produto  | Karion Velozo, Jordan Miranda, Mateus Roriz |
+|  19/03/2017   |  0.4   | Instrução do produto (Criação de tabelas); Melhoria na Introdução e no escopo; Resumo do Usuário e Ambiente do Usuário | Taynara Carvalho, Sannya Arvelos, Lucas S. |
+| 20/03/2017    |  0.5   | Perfil do Usuário; Oportunidade de Negócio/Referências; Resumo dos Envolvidos; Perfis das Partes Interessadas; Resumo das Capacidades; Restrições; Faixas de Qualidade; Completando a tabela de Principais Necessidades da Parte Interessada | Taynara Carvalho, Sannya Arvelos, Lucas S. |
+| 21/03/2017    |  0.6   | Alterações em Oportunidades de Negócios, Instrução do Problema; Instrução de Posição do Produto; Resumo de Capacidade | Stéfane Souza |
+| 23/03/2017    |  0.7   | Perfis de Usuário: Novos Alunos, Palestrantes | Lucas S., Sannya Arvelos |
+| 06/04/2017    |  0.8   | Refatoração do documento, adição de requisitos funcionais e não funcionais, legendas das prioridades. | Taynara, Sannya Arvelos, Lucas S., Kairon Velozo|
+| 07/04/2017    |  0.9   | Migração de documento do Google Drive para a Wiki. Pequenas alterações feitas em texto. | Lucas S. |
 
 ------
 
