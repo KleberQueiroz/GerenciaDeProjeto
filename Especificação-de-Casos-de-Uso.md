@@ -11,8 +11,8 @@
 | 29/03/2017 | 0.7    | Inclusão de novos casos de uso.                                                                                                                                            | Kairon Velozo    |
 | 29/03/2017 | 0.8    | Refatorando os casos de uso, UC08 - Exibir Informações, UC11 - Mostrar Mapa.                                                                                                                                            | Taynara Carvalho    | 
 | 29/03/2017 | 0.9    | Refatoração do documento.                                                                                                                                             | Kairon Velozo    | 
-| 03/04/2017 | 1.0    | Casos de Teste de UC01, UC07, UC08.                                                                                                                                             | Stéfane Souza    | 
-| 06/04/2017 | 1.1    | Casos de Teste de UC02, UC03, UC04, UC05, UC06.                                                                                                                                             | Stéfane Souza    | 
+| 03/04/2017 | 1.0    |Remoção do Manter Administrador, refatoração de casos de uso e organização do documento.                                                                                                                                             | Stéfane Souza    | 
+
 
 ***
 
