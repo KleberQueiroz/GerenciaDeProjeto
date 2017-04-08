@@ -1,4 +1,4 @@
-### UC0 - Calcular Trajeto
+### UC07 - Calcular Trajeto
 **1. Descrição:** 
 * Este caso de uso é destinado ao usuário, através deste é possível calcular o trajeto entre edifícios no mapa do campus.
 
