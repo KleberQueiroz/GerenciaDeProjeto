@@ -50,7 +50,7 @@
 ### Desenvolvimento
 :white_check_mark: [Documento de Visão](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento--de-Visão)
 
-:arrows_counterclockwise: [Documento de Arquitetura](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento-de-Arquitetura)
+:white_check_mark: [Documento de Arquitetura](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento-de-Arquitetura)
 
 :ballot_box_with_check: [Folha de Estilo]()
 
