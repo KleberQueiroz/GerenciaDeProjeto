@@ -18,9 +18,8 @@
 
 [1. Introdução](#1-introdução)  
 &nbsp;&nbsp;[1.1. Propósito](#11-propósito)  
-&nbsp;&nbsp;[1.2. Escopo](#12-escopo)  
-&nbsp;&nbsp;[1.3. Definições, acrônimos e abreviações](#13-definições-acrônimos-e-abreviações)  
-&nbsp;&nbsp;[1.4. Referências](#14-referências)  
+&nbsp;&nbsp;[1.2. Definições, acrônimos e abreviações](#12-definições-acrônimos-e-abreviações)  
+&nbsp;&nbsp;[1.3. Referências](#13-referências)  
 [2. Posicionamento](#2-posicionamento)  
 &nbsp;&nbsp;[2.1. Oportunidade de Negócios](#21-oportunidade-de-negócios)  
 &nbsp;&nbsp;[2.2. Instrução do Problema ](#21-instrução-do-problema)  
@@ -28,25 +27,16 @@
 [3. Envolvidos e Usuários](#03-envolvidos-e-usuários)  
 &nbsp;&nbsp;[3.1. Resumo dos Envolvidos](#31-resumo-dos-envolvidos)  
 &nbsp;&nbsp;[3.2. Resumo do Usuário](#32-resumo-do-usuário)  
-&nbsp;&nbsp;[3.3. Ambiente do Usuário](#33-ambiente-do-usuário)  
-&nbsp;&nbsp;[3.4. Perfis das Partes Interessadas](#34-perfis-das-partes-interessadas)  
-&nbsp;&nbsp;&nbsp;&nbsp;[3.4.1. Equipe de Gestão de Projeto](#341-equipe-de-gestão-de-projeto)  
-&nbsp;&nbsp;&nbsp;&nbsp;[3.4.2. Equipe de Desenvolvedores](#342-equipe-de-desenvolvedores)  
-&nbsp;&nbsp;&nbsp;&nbsp;[3.4.3. Diretoria do CPD UnB](#343-diretoria-do-cpd-unb)  
-&nbsp;&nbsp;[3.5. Perfis do Usuário](#35-perfis-do-usuário)  
-&nbsp;&nbsp;[3.6. Principais Necessidades da Parte Interessada ou do Usuário](#36-principais-necessidades-da-parte-interessada-ou-do-usuário)  
+&nbsp;&nbsp;[3.3. Perfis das Partes Interessadas](#33-perfis-das-partes-interessadas)    
+&nbsp;&nbsp;[3.4. Perfis do Usuário](#34-perfis-do-usuário)  
+&nbsp;&nbsp;[3.5. Principais Necessidades da Parte Interessada ou do Usuário](#35-principais-necessidades-da-parte-interessada-ou-do-usuário)  
 [4. Visão Geral do Produto](#4-visão-geral-do-produto)  
 &nbsp;&nbsp;[4.1. Perspectiva do Produto](#41-perspectiva-do-produto)  
 &nbsp;&nbsp;[4.2. Resumo das Capacidades](#42-resumo-das-capacidades)  
 &nbsp;&nbsp;[4.3. Suposições de Dependências](#43-suposições-e-dependências)  
-[5. Recursos do Produto](#5-recursos-do-produto)  
-[6. Restrições](#6-restrições)  
-&nbsp;&nbsp;[6.1. Restrições Externas](#61-restrições-externas)  
-&nbsp;&nbsp;[6.2. Restrições de Implementação](#61-restrições-de-implementação)  
-[7. Faixas de Qualidade](#7-faixas-de-qualidade)  
-&nbsp;&nbsp;[7.1. Requisitos do Sistema](#71-requisitos-do-sistema)  
-&nbsp;&nbsp;[7.2. Requisitos de Desempenho](#72-requisitos-de-desempenho)  
-&nbsp;&nbsp;[7.3. Requisitos Ambientais](#73-requisitos-ambientais)  
+[5. Requisitos](#5-requisitos)  
+&nbsp;&nbsp;[5.1 Requisitos Funcionais](#51-requisitos-funcionais)      
+&nbsp;&nbsp;[5.2 Requisitos Não Funcionais](#52-requisitos-não-funcionais)     
 
 ------
 
@@ -65,7 +55,7 @@
 | UnB        | Universidade de Brasília                                      |
 | CPD - UnB  | Centro de Processamento de Dados da Universidade de Brasília. |
 
-### 1.4. Referências   
+### 1.3. Referências   
 
 UNIVERSIDADE DE BRASÍLIA. Institucional. Disponível em: <[http://www.unb.br/a-unb?menu=423](http://www.unb.br/a-unb?menu=423)>. Acesso em 20 março de 2017.   
 
@@ -118,9 +108,9 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Candidatos   | O Campus Darcy Ribeiro constantemente é local de provas de concursos, vestibulares e afins. Alguns destes também não possuem conhecimento sobre as localidades do campus. |
 | Visitantes   | Pessoas que desejam conhecer as instalações do Campus Darcy Ribeiro e nunca estiveram em suas instalações.                                                                |
 
-### 3.4. Perfis das Partes Interessadas  
+### 3.3. Perfis das Partes Interessadas  
 
-#### 3.4.1. Equipe de Gestão de Projeto   
+#### 3.3.1. Equipe de Gestão de Projeto   
 
 | Representantes        | Alexandre Torres Kryonidis, Daniel Moura da Silva, Eduardo Brasil Martins, Eduardo Quintino Gomes e Rafael dos Santos Rabetti.                                                                                                                     |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -132,7 +122,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Comentários/Problemas | Uma equipe de alunos que tem o objetivo de gerir uma equipe de outros alunos com a finalidade de entregar o produto. |
 *Alto: A equipe poderá acessar todas as informações administrativas e de desenvolvimento do sistema.  
 
-#### 3.4.2. Equipe de Desenvolvedores
+#### 3.3.2. Equipe de Desenvolvedores
 | Representantes        | Jordan de Oliveira Miranda, Kairon Velozo, Lucas Soares Souza, Mateus Vieira da Silva Roriz, Sannya Santana de Arvelos, Stéfane Bogéa de Souza e Taynara de Jesus Carvalho. |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Descrição             | Desenvolvedores do projeto.                                                                                                                                                 |
@@ -144,7 +134,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 *Alto: Esta equipe poderá acessar todas as informações de desenvolvimento e administrativas do sistema.  
 
 
-#### 3.4.3. Diretoria do CPD UnB
+#### 3.3.3. Diretoria do CPD UnB
 
 | Representante         | Felipe Santos.                                                                                               |
 |-----------------------|--------------------------------------------------------------------------------------------------------------|
@@ -156,9 +146,9 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Comentários/Problemas | Conseguir fornecer um grande número de dados para a conclusão do projeto.                                    |
 *Médio: Esta parte interessada terá, somente, que transferir dados aos desenvolvedores.   
  
-### 3.5 Perfis do Usuário  
+### 3.4 Perfis do Usuário  
 
-#### 3.5.1 Novos Alunos  
+#### 3.4.1 Novos Alunos  
 
 | Representantes        | Novos Alunos                                                                     |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -170,7 +160,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
 *Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.  
 
-#### 3.5.2 Palestrantes
+#### 3.4.2 Palestrantes
 
 | Representantes        | Palestrantes                                                                   |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -182,7 +172,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
 *Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.  
 
-#### 3.5.3 Candidatos
+#### 3.4.3 Candidatos
 
 | Representantes        | Candidatos                                                                   |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -194,7 +184,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
 *Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.  
 
-#### 3.5.4 Visitantes
+#### 3.4.4 Visitantes
 
 | Representantes        | Visitantes                                                                   |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -207,7 +197,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 *Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.   
 
 
-### 3.6 Principais Necessidades da Parte Interessada ou do Usuário   
+### 3.5 Principais Necessidades da Parte Interessada ou do Usuário   
 
 | Necessidade                          | Prioridade | Interesses                               | Solução Atual | Solução Proposta                                                     |
 |--------------------------------------|------------|------------------------------------------|---------------|----------------------------------------------------------------------|
