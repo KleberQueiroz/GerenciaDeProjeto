@@ -238,7 +238,7 @@ Baixa - de baixa importância para o usuário;
 
 ## 5. Requisitos  
 
-5.1 Requisitos Funcionais  
+### 5.1 Requisitos Funcionais  
 
 | Identificação | Requisito | Descrição | Prioridade |
 |---------------|-----------|-----------|------------|
@@ -252,7 +252,7 @@ Alta - Recurso necessário da aplicação;
 Média - Recurso opcional da aplicação;  
 Baixa - Seria bom que houvesse na aplicação;  
 
-5.2 Requisitos Não Funcionais
+### 5.2 Requisitos Não Funcionais
 
 | Identificação | Descrição | Prioridade |
 |---------------|-----------|------------|
