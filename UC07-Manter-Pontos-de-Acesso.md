@@ -26,7 +26,7 @@
 3. Pós-Condições: O sistema apresenta mensagem de erro e retorna para o cadastro.
 4. Dados Necessários: Nome e Local.
 
-#### TC05 - Excluir Ponto de Acesso
+### TC05 - Excluir Ponto de Acesso
 
 1. Descrição: O caso de teste verifica se o ponto de acesso foi excluído do mapa.
 2. Pré-Condições: Estar autenticado como administrador na aplicação.
