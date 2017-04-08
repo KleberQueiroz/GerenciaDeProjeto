@@ -1,6 +1,9 @@
-### TC01 - Pesquisar informações no mapa
+### UC06 - Mostrar Informações 
+**1. Descrição:** Este caso de uso é destinado ao usuário da aplicação web. Através deste é possível visualizar as informações sobre os pontos cadastrados no mapa do campus. 
+**2. Atores:** Usuário.
+**3. Pré-Condições:** Não se aplica.
+####4. Fluxo de Eventos 
 
-1. Descrição: O caso de teste verifica se as informações aparecem no mapa.
-2. Pré-Condições: Clicar em um local do campus.
-3. Pós-Condições: O sistema irá exibir um painel lateral com informações.
-4. Dados Necessários: Nenhum.
+**4.1 Fluxo Principal (FP):** Este caso de uso se inicia quando o usuário clica sobre um local cadastrado no mapa.
+1. O usuário clica em um local cadastrado no mapa. **[FA01], [FA02], [FA03], [FA04], [FA05]**.
+2. 
