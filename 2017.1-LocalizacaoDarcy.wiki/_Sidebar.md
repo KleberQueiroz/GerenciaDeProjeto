@@ -54,7 +54,7 @@
 
 :ballot_box_with_check: [Folha de Estilo]()
 
-:arrows_counterclockwise: [Especificação de Casos de Uso](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Uso)
+:white_check_mark: [Especificação de Casos de Uso](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Uso)
 
 :arrows_counterclockwise: [Diagrama de Casos de Uso](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Diagrama-de-Casos-de-Uso)
 
