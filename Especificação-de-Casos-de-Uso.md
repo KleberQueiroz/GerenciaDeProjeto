@@ -24,6 +24,6 @@
 4. UC04 - [Manter Bicicletário](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC06-Manter-Biciclet%C3%A1rios)
 5. UC05 - [Manter Pontos de Acesso](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC07-Manter-Pontos-de-Acesso)
 6. UC06 - [Mostrar Informações](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC08-Mostrar-Informa%C3%A7%C3%B5es)
-7. UC07 - [Calcular Trajeto](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC09----Calcular-Trajeto-entre-Edif%C3%ADcios)
+7. UC07 - [Calcular Trajeto](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC07----Calcular-Trajeto-entre-Edif%C3%ADcios)
 8. UC08 - [Pesquisar Locais do Campus](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC10---Procurar-Locais-do-Campus)
 9. UC09 - [Mostrar Mapa do Campus](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC11---Mostrar-Mapa-do-Campus)
