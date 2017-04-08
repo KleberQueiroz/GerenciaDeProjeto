@@ -2,23 +2,17 @@
 
 ## Histórico de Revisões
 
-|      Data     | Versão | Descrição                                                                | Autor         |
-|---------------|--------|--------------------------------------------------------------------------|---------------|
-|  23/03/2017   |  1.00   | Iniciando documento de arquitetura do projeto.                           | Lucas S.      |
-|  23/03/2017   |  1.10   | Introdução(Finalidade, Escopo)                                           | Lucas S.      |
-|  23/03/2017   |  1.20   | Representação da Arquitetura                                             | Jordan        |
-|  23/03/2017   |  1.30   | Tamanho e desempenho                                                     | Sannya Arvelos|
-|  23/03/2017   |  1.40   | Visão de Casos de Uso(Atores)                                            | Lucas S.      |
-|  23/03/2017   |  1.50   | Restrições e Metas Arquiteturais                                         | Sannya Arvelos|
-|  23/03/2017   |  1.60   | Melhorias Representação da Arquitetura                                   | Sannya Arvelos|
-|  23/03/2017   |  1.70   | Visão lógica                                                             | Lucas S.      |
-|  23/03/2017   |  1.80   | Qualidade                                                                | Sannya Arvelos|
-|  25/03/2017   |  1.90   | Atualizações de Metas Arquiteturais                                      | Jordan        |
-|  30/03/2017   |  2.00   | Melhoria do Tópico de Qualidade                                          | Lucas S.      |
-|  30/03/2017   |  2.10   | Descrição dos Casos de Uso                                               | Lucas S.      |
-|  30/03/2017   |  2.15   | Correção das Descrições dos Casos de Uso                                 | Lucas S.      |
-|  01/04/2017   |  2.20   | Atualização de Representação da Arquitetura                              | Jordan        |
-|  03/04/2017   |  2.30   | Correção da Visão Lógica                                                 | Lucas S.      |
+| Data       | Versão | Descrição                                                                                                                                                                                                            | Autor                            |
+|------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 23/03/201  | 0.1    | Iniciando documento de arquitetura do projeto.                                                                                                                                                                       | Lucas S.                         |
+| 23/03/201  | 0.2    | Introdução(Finalidade, Escopo);  Representação da Arquitetura;Tamanho e desempenho; Visão de Casos de Uso(Atores); Restrições e Metas Arquiteturais; Revisão da Representação da Arquitetura; Visão LógicaQualidade; | Jordan, Lucas S., Sannya Arvelos |
+| 25/03/2017 | 1.0    | Atualização de Metas Arquiteturais                                                                                                                                                                                   | Jordan                           |
+| 30/03/2017 | 1.1    | Melhoria do tópico de qualidade; Descrição dos casos de uso; Correção das Descrições de Casos de Uso;                                                                                                                | Lucas S.                         |
+| 01/04/2017 | 1.2    | Atualização de Representação da Arquitetura                                                                                                                                                                          | Jordan                           |
+| 03/04/2017 | 1.3    | Correção da Visão Lógica                                                                                                                                                                                             | Lucas S.                         |
+| 04/04/2017 | 1.4    | Refatoração Representação da Arquitetura; Refatoração Metas e Restrições Arquitetura; Refatoração Banco de Dados; Refatoração Desempenho; Refatoração Qualidade;                                                     | Kairon Velozo                    |
+| 06/04/2017 | 1.5    | Atualização dos casos de uso e do seu diagramas                                                                                                                                                                      | Mateus Roriz                     |
+| 07/04/2017 | 1.6    | Atualização do diagrama de pacotes e diagrama de classe                                                                                                                                                              | Mateus Roriz                     |
 
 
 -------------------------------------------------------------------
