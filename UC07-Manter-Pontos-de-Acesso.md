@@ -1,34 +1,41 @@
-### TC01 - Criar Ponto de Acesso com dados válidos
+### UC05 - Manter Pontos de Acesso
 
-1. Descrição: O caso de teste verifica se os dados do registro estão válidos.
-2. Pré-Condições: Estar autenticado como administrador na aplicação e ter todos os dados preenchidos corretamente.
-3. Pós-Condições: Um novo ponto de acesso é cadastrado no banco de dados.
-4. Dados Necessários: Nome e Local.
+**1. Descrição:** Este caso de uso é destinado ao administrador e através deste é permitido criar, editar e excluir os pontos de acesso dos prédios do mapa do campus.
 
-### TC02 - Criar ponto de acesso com dados inválidos ou em branco
+**2. Atores:** Administrador.
 
-1. Descrição: O caso de teste verifica se algum dado de registro está preenchido de forma incorreta ou em branco.
-2. Pré-Condições: Estar autenticado como administrador na aplicação e ter algum dado preenchido de forma incorreta ou em branco.
-3. Pós-Condições: O sistema apresenta mensagem de erro e retorna para cadastro.
-4. Dados Necessários: Nome e Local.
+**3. Pré-Condições:** O administrador deve estar devidamente autenticado no sistema. 
 
-### TC03 - Editar Ponto de Acesso com dados válidos
+#### 4. Fluxo de Eventos 
 
-1. Descrição: O caso de teste verifica se os dados alterados estão válidos.
-2. Pré-Condições: Estar autenticado como administrador na aplicação e ter todos os dados preenchidos corretamente.
-3. Pós-Condições: As informações deverão ter sido editadas no banco de dados. 
-4. Dados Necessários: Nome e Local.
+**4.1. Fluxo Principal:** Este caso de uso se inicia quando o administrador seleciona Manter Pontos de Acesso.
+1. O sistema exibe a tela de Manter Pontos de Acesso.
+2. O administrador seleciona a opção desejada. **[FA01, FA02, FA03]**
+3. O caso de uso é encerrado. 
 
-### TC04 - Editar ponto de acesso com dados inválidos ou em branco
+**4.2. Fluxos Alternativos**
+**[FA01] - Criar**
+1. No passo 2 do fluxo principal, o administrador seleciona Criar.
+2. O sistema apresenta um formulário de criação.
+3. O administrador preenche as informações.**[RN01]**
+4. O administrador confirma os dados.
+5. O sistema salva as novas informações.
 
-1. Descrição: O caso de teste verifica se os dados alterados estão preenchidos de forma incorreta ou em branco.
-2. Pré-Condições: Estar autenticado como administrador na aplicação e ter algum dado preenchido de forma incorreta ou em branco.
-3. Pós-Condições: O sistema apresenta mensagem de erro e retorna para o cadastro.
-4. Dados Necessários: Nome e Local.
+**[FA02] - Editar**
+1. No passo 2 do fluxo principal, o administrador seleciona Editar.
+2. O sistema exibe uma tela com os pontos de acesso cadastrados. 
+3. É apresentada a tela para alteração dos dados do ponto de acesso.**[RN01]**
+4. O administrador realiza as alterações.
+5. O administrador confirma os novos dados.
+6. O sistema salva as novas informações.
 
-### TC05 - Excluir Ponto de Acesso
+**[FA03] - Excluir**
+1. No passo 2 do fluxo principal, o administrador seleciona Excluir.
+2. O sistema exibe uma tela com os pontos de acesso cadastrados.
+3. O administrador opta por excluir um ponto de acesso do mapa.
 
-1. Descrição: O caso de teste verifica se o ponto de acesso foi excluído do mapa.
-2. Pré-Condições: Estar autenticado como administrador na aplicação.
-3. Pós-Condições: O ponto de acesso deverá ter sido excluído do mapa.
-4. Dados Necessários: Nenhum. 
+**4.3. Fluxo de Exceção:** Não se aplica.
+#### 5. Regra de Negócio: 
+[RN01] - Dados de preenchimento
+
+**6. Pós-condição:** Não se aplica.
