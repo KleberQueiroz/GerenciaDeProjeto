@@ -18,12 +18,12 @@
 
 ## Casos de Uso
 
-1. UC01 - [Manter Edifícios](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC02---Manter-Edif%C3%ADcios)
-2. UC02 - [Manter Departamentos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC03-Manter-Departamentos)
-3. UC03 - [Manter Salas](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC04-Manter-Salas)
-4. UC04 - [Manter Bicicletário](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC06-Manter-Biciclet%C3%A1rios)
-5. UC05 - [Manter Pontos de Acesso](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC07-Manter-Pontos-de-Acesso)
-6. UC06 - [Mostrar Informações](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/UC08-Mostrar-Informa%C3%A7%C3%B5es)
+1. UC01 - [Manter Edifícios](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC01---Manter-Edif%C3%ADcios)
+2. UC02 - [Manter Departamentos](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC02-Manter-Departamentos)
+3. UC03 - [Manter Salas](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC03-Manter-Salas)
+4. UC04 - [Manter Bicicletário](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC04-Manter-Biciclet%C3%A1rios)
+5. UC05 - [Manter Pontos de Acesso](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC05-Manter-Pontos-de-Acesso)
+6. UC06 - [Mostrar Informações](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC06-Mostrar-Informa%C3%A7%C3%B5es)
 7. UC07 - [Calcular Trajeto](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC07----Calcular-Trajeto-entre-Edif%C3%ADcios)
 8. UC08 - [Pesquisar Locais do Campus](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC08---Procurar-Locais-do-Campus)
 9. UC09 - [Mostrar Mapa do Campus](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC09--Mostrar-Mapa-do-Campus)
