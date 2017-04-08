@@ -60,7 +60,7 @@
 
 :white_check_mark: [Protótipos](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Protótipos)
 
-:ballot_box_with_check: [Especificação de Casos de Teste]()
+:ballot_box_with_check: [Especificação de Casos de Teste](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste)
 
 :ballot_box_with_check: [Relatório de Teste]()
 
