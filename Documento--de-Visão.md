@@ -120,6 +120,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Fazer com que o grupo de desenvolvedores possua um conhecimento uniforme, trabalhe bem em equipe. Seguir de forma correta um projeto de desenvolvimento de software visando a entrega, no prazo, de uma aplicação com um ótimo nível de qualidade. |
 | Envolvimento          | Alto.                                                                                                                                                                                                                                              |
 | Comentários/Problemas | Uma equipe de alunos que tem o objetivo de gerir uma equipe de outros alunos com a finalidade de entregar o produto. |
+
 *Alto: A equipe poderá acessar todas as informações administrativas e de desenvolvimento do sistema.  
 
 #### 3.3.2. Equipe de Desenvolvedores
@@ -131,6 +132,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Fornecerem o software de acordo com o que foi estipulado pelo cliente e pela equipe da Gestão de Projeto.                                                                   |
 | Envolvimento          | Alto.                                                                                                                                                                       |
 | Comentários/Problemas | Trabalhar com ferramentas nunca, ou pouco, utilizadas pela a equipe para a implementação do projeto.                                                                        |
+
 *Alto: Esta equipe poderá acessar todas as informações de desenvolvimento e administrativas do sistema.  
 
 
@@ -144,6 +146,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Receber um software que seja capaz de orientar as pessoas que precisem se localizar no Campus Darcy Ribeiro. |
 | Envolvimento          | Médio                                                                                                        |
 | Comentários/Problemas | Conseguir fornecer um grande número de dados para a conclusão do projeto.                                    |
+
 *Médio: Esta parte interessada terá, somente, que transferir dados aos desenvolvedores.   
  
 ### 3.4 Perfis do Usuário  
@@ -158,6 +161,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
 | Envolvimento          | Baixo.                                                                                                                    |
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
+
 *Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.  
 
 #### 3.4.2 Palestrantes
@@ -170,6 +174,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
 | Envolvimento          | Baixo.                                                                                                                    |
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
+
 *Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.  
 
 #### 3.4.3 Candidatos
@@ -182,6 +187,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
 | Envolvimento          | Baixo.                                                                                                                    |
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
+
 *Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.  
 
 #### 3.4.4 Visitantes
@@ -194,6 +200,7 @@ CENTRO DE PROCESSAMENTO DE DADOS DA UNIVERSIDADE DE BRASÍLIA. Sobre o CPD. Disp
 | Critérios de Sucesso  | Conseguir, intuitivamente, acessar todos os recursos da aplicação web.                                                                                |
 | Envolvimento          | Baixo.                                                                                                                    |
 | Comentários/Problemas | Pelo Campus Darcy Ribeiro ser muito extenso por muitas vezes se torna complicado se localizar dentro de suas instalações. |
+
 *Baixo: O usuário poderá acessar somente as informações não administrativas do sistema, não podendo fazer algum tipo de alteração.   
 
 
