@@ -14,10 +14,10 @@
 
 #### 4.1 Fluxo Principal
 
-Este caso de uso se inicia quando o administrador seleciona Manter Edifício.
-1 - O sistema exibe a tela de Manter Edifício.
-2 - O administrador seleciona a opção desejada. **[FA01, FA02, FA03]**
-3 - O caso de uso é encerrado. 
+* Este caso de uso se inicia quando o administrador seleciona Manter Edifício.
+1. O sistema exibe a tela de Manter Edifício.
+2. O administrador seleciona a opção desejada. **[FA01, FA02, FA03]**
+3. O caso de uso é encerrado. 
 
 #### 4.2 Fluxos Alternativos
 
