@@ -72,13 +72,12 @@ O cronograma é um artefato essencial para guiar e monitorar o progresso do proj
 
 O processo para manutenção do cronograma ocorre sempre que houver uma solicitação de mudança relacionada a alguma das atividades presentes no cronograma. Na necessidade de alterar o cronograma do projeto, o seguinte processo será seguido:
 
-1. **Análise da necessidade da mudança:** Inicialmente, será confirmada a real necessidade de se alterar o cronograma. 
-2. **Análise do impacto da mudança:** Serão identificados os impactos das mudanças ao longo do resto do projeto.
-3. **Análise e registro do motivo da mudança:** Nessa etapa, será feita uma análise a fim de identificar o motivo da necessidade de mudança do cronograma. Essa análise deverá ser registrada para que erros similares sejam evitados no futuro.
-4. **Análise da viabilidade da mudança:** Será nessa atividade em que a equipe de gerencia decidirá se a mudança no cronograma será feita. A viabilidade dependerá da necessidade e do impacto causados pela mudança.
-5. **Replanejamento das atividades:** O processo de replanejamento das atividades segue o processo definido pelo tópico 3 (Processo para a Definição do Cronograma do Projeto).
-6. **Atualização do cronograma:** A atualização do será baseada no que foi definido nos tópicos anteriores.
-
+**1. Análise da necessidade da mudança:** Inicialmente, será confirmada a real necessidade de se alterar o cronograma. 
+**2. Análise do impacto da mudança:** Serão identificados os impactos das mudanças ao longo do resto do projeto.
+**3. Análise e registro do motivo da mudança:** Nessa etapa, será feita uma análise a fim de identificar o motivo da necessidade de mudança do cronograma. Essa análise deverá ser registrada para que erros similares sejam evitados no futuro.
+**4. Análise da viabilidade da mudança:** Será nessa atividade em que a equipe de gerencia decidirá se a mudança no cronograma será feita. A viabilidade dependerá da necessidade e do impacto causados pela mudança.
+**5. Replanejamento das atividades:** O processo de replanejamento das atividades segue o processo definido pelo tópico 3 (Processo para a Definição do Cronograma do Projeto).
+**6. Atualização do cronograma:** A atualização do será baseada no que foi definido nos tópicos anteriores.
 
 OBS: As decisões referentes ao processo serão tomadas pela equipe de gerenciamento do projeto.
 
@@ -104,6 +103,7 @@ Existem diversos métodos para análise de desempenho. Nesse projeto utilizaremo
 O Índice de Desempenho de Prazos (Schedule Performance Index ou SPI) é calculado pela razão entre o Valor Agregado (Earned Value ou EV) e o Valor Planejado (Planned Value ou PV).
 
 `SPI = EV / PV`
+
 O resultado obtido indica a eficácia do planejamento, e pode ser interpretada como:
 * IDP < 1 - Sinal de atraso no projeto.
 * IDP = 1 - Eficácia plena no planejamento
@@ -112,6 +112,7 @@ O resultado obtido indica a eficácia do planejamento, e pode ser interpretada c
 Já a Variação do cronograma ( Schedule Variance ou SV) é calculada pela diferença entre o Valor Agregado (Earned Value ou EV) e o Valor Planejado (Planned Value ou PV). Ou seja, representa quantitativamente o atraso ou adiantamento do projeto com relação as entregas planejadas para uma data específica.
 
 `SV = EV - PV`
+
 Caso o resultado se iguale a zero, exatamente o que foi planejado foi entregue.
 
 
