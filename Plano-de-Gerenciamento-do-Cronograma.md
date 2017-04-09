@@ -14,17 +14,15 @@
 
 3. [Processo para a Definição do Cronograma do Projeto](#3-definicao_cronograma)
 
-4. [Processo para o Gerenciamento do Cronograma do Projeto](#4-gerenciamento_cronograma)
+4. [Processo para a Manutenção do Cronograma do Projeto](#4-manutencao_cronograma)
 
-5. [Processo para a Manutenção do Cronograma do Projeto](#5-manutencao_cronograma)
+5. [Procedimentos Organizacionais Associados](#5-procedimentos_organizacionais)
 
-6. [Procedimentos Organizacionais Associados](#6-procedimentos_organizacionais)
+6. [Regras para a medição de desempenho](#6-medicao_desempenho)
 
-7. [Regras para a medição de desempenho](#7-medicao_desempenho)
+7. [Cronograma](#7-cronograma)
 
-8. [Cronograma](#8-cronograma)
-
-9. [Referências](#9-referencias)
+8. [Referências](#8-referencias)
 
 ***
 
@@ -65,22 +63,58 @@ O processo de definição do Cronograma é feito de de forma iterativa, visto qu
 
 Nesse projeto utilizaremos o _Gantter_ como ferrementa para a criação do cronograma. Alguns dos motivos para a escolha foram a experiência prévia dos membros do grupo com a ferramenta, e a possibilidade de edição do cronograma online por todos os membros do grupo.
 
-## 4. Processo para o Gerenciamento do Cronograma do Projeto
+
+## 4. Processo para a Manutenção do Cronograma do Projeto
+
+Para que haja a manutenção do cronograma é necessário monitorar e gerenciar as atividades de tal forma que seu progresso seja acompanhado. Dessa forma, será possível identificar a necessidade da realização de mudanças no cronograma.
+	O cronograma é um artefato essencial para guiar e monitorar o progresso do projeto, segundo o PMBOK. Com o correto acompanhamento do projeto, é possível minimizar riscos causados por atrasos e possíveis desvios das atividades essenciais para o bom andamento do projeto. 
+	O processo para manutenção do cronograma ocorre sempre que houver uma solicitação de mudança relacionada a alguma das atividades presentes no cronograma. Na necessidade de alterar o cronograma do projeto, o seguinte processo será seguido:
+
+Análise da necessidade da mudança: Inicialmente, será confirmada a real necessidade de se alterar o cronograma. 
+Análise do impacto da mudança: Serão identificados os impactos das mudanças ao longo do resto do projeto.
+ Análise e registro do motivo da mudança: Nessa etapa, será feita uma análise a fim de identificar o motivo da necessidade de mudança do cronograma. Essa análise deverá ser registrada para que erros similares sejam evitados no futuro.
+Análise da viabilidade da mudança: Será nessa atividade em que a equipe de gerencia decidirá se a mudança no cronograma será feita. A viabilidade dependerá da necessidade e do impacto causados pela mudança.
+Replanejamento das atividades: O processo de replanejamento das atividades segue o processo definido pelo tópico 3 (Processo para a Definição do Cronograma do Projeto).
+Atualização do cronograma: A atualização do será baseada no que foi definido nos tópicos anteriores.
 
 
-## 5. Processo para a Manutenção do Cronograma do Projeto
+OBS: As decisões referentes ao processo serão tomadas pela equipe de gerenciamento do projeto.
 
 
-## 6. Procedimentos Organizacionais Associados
+## 5. Procedimentos Organizacionais Associados
+
+O processo de definição e manutenção do cronograma está relacionado a diversas outras áreas de gerenciamento do projeto. Serão utilizados, portanto, alguns documentos do Plano de Gerenciamento do Projeto como base.
+
+Os principais documentos associados são o Plano de gerenciamento do Escopo (incluindo EAP), o próprio cronograma, e dados baseados na produtividade da equipe de desenvolvimento. É importante notar que todos planos estão relacionados e são necessários para a correta definição, replanejamento do cronograma do projeto. Por exemplo, a duração e cronograma do projeto, depende do número e qualificação dos trabalhadores envolvidos, sendo importante o plano de gerenciamento de Recursos Humanos. A qualidade do projeto, também influencia a sua duração e cronograma, ou seja, é necessário utilizar como base plano de gerenciamento de qualidade. A limitação de custos do projeto também é um fator relevante, entre outros.
+
+A EAP, contida no plano de gerenciamento de Escopo, contém informações sobre o que será entregue pelo projeto. O plano de gerenciamento do escopo, está associado ao gerenciamento dessas entregas. Já o cronograma é uma extensão, um detalhamento da EAP, contendo as atividades a serem executadas, as datas de início e finalização e os recursos necessários. Dessa forma, ao atualizar o escopo, é necessários atualizar também o cronograma. Somado a isso, o cronograma comumente é alterado para se adequar ao desempenho dos desenvolvedores, caso não estejam disponíveis dados históricos.
 
 
-## 7. Regras para a Medição de Desempenho
+## 6. Regras para a Medição de Desempenho
+
+É fundamental o acompanhamento do desempenho do projeto. Ao acompanhar o desempenho do projeto, pode-se:
+	- Utilizar dados a fim de definir o quão atrasado ou adiantado o projeto está
+	- Analisar o grau de eficácia do planejamento do projeto
+	- Aperfeiçoar o replanejamento do cronograma, baseando-se em dados históricos.
+	- Melhorar o controle para atingir o desempenho previamente definido.
+
+Existem diversos métodos para análise de desempenho. Nesse projeto utilizaremos o Gerenciamento de Valor Agregado (GVA). Ele baseia-se na Variação do Cronograma e no Índice de Desempenho de Prazos.
+O Índice de Desempenho de Prazos (Schedule Performance Index ou SPI) é calculado pela razão entre o Valor Agregado (Earned Value ou EV) e o Valor Planejado (Planned Value ou PV).
+	SPI = EV / PV
+O resultado obtido indica a eficácia do planejamento, e pode ser interpretada como:
+	* IDP < 1 - Sinal de atraso no projeto.
+ 	* IDP = 1 - Eficácia plena no planejamento
+	* IDP < 1 - Sinal de adiantamento no projeto.
+
+	Já a Variação do cronograma ( Schedule Variance ou SV) é calculada pela diferença entre o Valor Agregado (Earned Value ou EV) e o Valor Planejado (Planned Value ou PV). Ou seja, representa quantitativamente o atraso ou adiantamento do projeto com relação as entregas planejadas para uma data específica.
+	SV = EV - PV
+	Caso o resultado se iguale a zero, exatamente o que foi planejado foi entregue.
 
 
-## 8. Cronograma
+## 7. Cronograma
 
 [Cronograma do Projeto](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Cronograma)
 
-## 9. Referências
+## 8. Referências
 
 * PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
