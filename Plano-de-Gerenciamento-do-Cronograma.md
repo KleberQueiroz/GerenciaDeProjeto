@@ -102,14 +102,16 @@ A EAP, contida no plano de gerenciamento de Escopo, contém informações sobre 
 
 Existem diversos métodos para análise de desempenho. Nesse projeto utilizaremos o Gerenciamento de Valor Agregado (GVA). Ele baseia-se na Variação do Cronograma e no Índice de Desempenho de Prazos.
 O Índice de Desempenho de Prazos (Schedule Performance Index ou SPI) é calculado pela razão entre o Valor Agregado (Earned Value ou EV) e o Valor Planejado (Planned Value ou PV).
-	SPI = EV / PV
+
+`SPI = EV / PV`
 O resultado obtido indica a eficácia do planejamento, e pode ser interpretada como:
 * IDP < 1 - Sinal de atraso no projeto.
 * IDP = 1 - Eficácia plena no planejamento
 * IDP < 1 - Sinal de adiantamento no projeto.
 
 Já a Variação do cronograma ( Schedule Variance ou SV) é calculada pela diferença entre o Valor Agregado (Earned Value ou EV) e o Valor Planejado (Planned Value ou PV). Ou seja, representa quantitativamente o atraso ou adiantamento do projeto com relação as entregas planejadas para uma data específica.
-	SV = EV - PV
+
+`SV = EV - PV`
 Caso o resultado se iguale a zero, exatamente o que foi planejado foi entregue.
 
 
