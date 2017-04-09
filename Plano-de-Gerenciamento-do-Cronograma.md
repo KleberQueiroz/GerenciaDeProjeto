@@ -2,8 +2,9 @@
 
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
-|03/04/2017|1.0|Criação da estrutura do documento|Alexandre Torres|
-|03/04/2017|1.0|Finalizados tópicos 1, 2, 3, 8, 9|Alexandre Torres|
+|03/04/2017|0.1|Criação da estrutura do documento|Alexandre Torres|
+|03/04/2017|0.2|Finalizados tópicos 1, 2, 3, 8, 9|Alexandre Torres|
+|08/04/2017|1.0|Finalização do Documento|Alexandre Torres|
 ***
 
 ## Sumário
@@ -73,10 +74,15 @@ O cronograma é um artefato essencial para guiar e monitorar o progresso do proj
 O processo para manutenção do cronograma ocorre sempre que houver uma solicitação de mudança relacionada a alguma das atividades presentes no cronograma. Na necessidade de alterar o cronograma do projeto, o seguinte processo será seguido:
 
 **1. Análise da necessidade da mudança:** Inicialmente, será confirmada a real necessidade de se alterar o cronograma. 
+
 **2. Análise do impacto da mudança:** Serão identificados os impactos das mudanças ao longo do resto do projeto.
+
 **3. Análise e registro do motivo da mudança:** Nessa etapa, será feita uma análise a fim de identificar o motivo da necessidade de mudança do cronograma. Essa análise deverá ser registrada para que erros similares sejam evitados no futuro.
+
 **4. Análise da viabilidade da mudança:** Será nessa atividade em que a equipe de gerencia decidirá se a mudança no cronograma será feita. A viabilidade dependerá da necessidade e do impacto causados pela mudança.
+
 **5. Replanejamento das atividades:** O processo de replanejamento das atividades segue o processo definido pelo tópico 3 (Processo para a Definição do Cronograma do Projeto).
+
 **6. Atualização do cronograma:** A atualização do será baseada no que foi definido nos tópicos anteriores.
 
 OBS: As decisões referentes ao processo serão tomadas pela equipe de gerenciamento do projeto.
