@@ -10,7 +10,7 @@
 
 ## Casos de Uso
 
-1. UC01 - [Manter Edifícios]()
+1. UC01 - [Manter Edifícios](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Manter-Edif%C3%ADcios)
 2. UC02 - [Manter Departamentos](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Manter-Departamentos)
 3. UC03 - [Manter Salas](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Manter-Salas)
 4. UC04 - [Manter Bicicletário](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Manter-Biciclet%C3%A1rio)
