@@ -82,6 +82,7 @@ O desenvolvimento da EAP será baseado nos requisitos necessários para o escopo
 
 O processo de Desenvolvimento da EAP pode ser observado pela figura abaixo:
 
+![](https://lh5.googleusercontent.com/F-JpVmnzVPfoCV33njPGVKb5N1YXuJ_Ma2ontlhNIordq_SGkGUz7daiRpWe8bxZci3Fupj38lyKVSM=w2154-h1620)
 
 Percebe-se que esse processo consiste das seguintes atividades:
 
@@ -100,8 +101,9 @@ A manutenção da EAP, será tratada no tópico 5, porém é interessante ressal
 
 Conforme o que foi dito anteriormente nesse documento, nota-se que diversos fatores internos ou externos ao projeto podem impactar o escopo. Normalmente, ele é alterado para acomodar novas funcionalidades sugeridas pelo cliente. O fato de o escopo ser bastante volátil em diversos projeto, torna interessante a definição de um processo a ser seguido a cada mudança.
 
-O processo de gestão de Mudanças de Escopo definido pode ser compreendido pela seguinte imagem. 
+O processo de gestão de Mudanças de Escopo definido pode ser compreendido pela seguinte imagem:
 
+![](https://lh6.googleusercontent.com/d62zFk0E8gsfsUIEY3vD1GKqHCR42CuYS6hzH59e7t3q_YNQSRqeOZWEpO6ILidhS7vQNrl-JLbdrhI=w2154-h1620)
 
 Esse processo é composto pelas seguintes atividades:
 
