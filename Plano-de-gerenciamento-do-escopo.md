@@ -16,6 +16,7 @@
 2.1. [Planejar o gerenciamento do Escopo](#2.1-planejar_gerenciamento_escopo)
 
 3. [Definição e validação do Escopo](#3-definições)
+
 3.1. [Processo de definição do Escopo](#3.1-processo_definicao_escopo)
 
 4. [Desenvolvimento e Manutenção da Estrutura Analítica do Projeto - EAP](#4-desenvolvimento_eap)
