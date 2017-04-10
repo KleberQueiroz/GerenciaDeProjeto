@@ -2,8 +2,9 @@
 
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
-|30/03/2017|1.0|Criação da estrutura do documento|Alexandre Torres|
-|30/03/2017|1.0|Adicionados tópicos 1, 2, 3|Alexandre Torres|
+|30/03/2017|0.1|Criação da estrutura do documento|Alexandre Torres|
+|30/03/2017|0.2|Adicionados tópicos 1, 2, 3|Alexandre Torres|
+|09/04/2017|0.3|Finalização e Refinamento do documento|Alexandre Torres|
 ***
 
 ## Sumário
