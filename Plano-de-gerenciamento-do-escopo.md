@@ -33,7 +33,9 @@ O objetivo desse documento é documentar como o escopo do projeto OndeEUnb será
 
 ## 2. Processo de Gerenciamento do Escopo
 
-A fim de melhorar a compreensão de como será o processo de gerenciamento do escopo, foi desenhado o seguinte processo.
+A fim de melhorar a compreensão de como será o processo de gerenciamento do escopo, foi desenhado o seguinte processo:
+
+![](https://drive.google.com/open?id=0B8jEDVP6IcfKQkV4SVh3ODl0OHc)
 
 As atividades desse processo serão detalhadas ao longo desse documento.
 
