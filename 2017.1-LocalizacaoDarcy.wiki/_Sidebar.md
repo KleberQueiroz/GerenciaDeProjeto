@@ -43,6 +43,8 @@
 
 :arrows_counterclockwise: [Plano de Gerenciamento dos Custos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Custos)
 
+    * :white_check_mark: [Relatório de Custos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Estrutura-Analitica-do-Projeto)
+
 :white_check_mark: [Plano de Iteração](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Plano-de-Itera%C3%A7%C3%A3o)
 
 :ballot_box_with_check: [Plano de Integração]()
