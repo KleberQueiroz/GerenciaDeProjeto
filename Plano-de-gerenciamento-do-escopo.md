@@ -52,10 +52,12 @@ O tema do projeto surgiu como uma demanda da Universidade de Brasilia. Ao conver
 
 A fim de validar o escopo com cliente, será construída a EAP em conjunto com outros artefatos, como o protótipo, documento de visão. Após a finalização desses documentos, a equipe de gerência validará esses documentos, e caso não estejam consistentes com a definição do projeto, serão refeitos. Após essa primeira validação, será marcada uma reunião com o cliente a fim de apresentar e validar o projeto. Caso o cliente demande funcionalidades adicionais, e haja uma alteração no escopo, a EAP será replanejada.
 
+O processo de definição do escopo consistirá de 4 atividades básicas:
+Concepção de ideias para o projeto pelos envolvido
+Especificar o escopo, ou seja, refinar as ideias anteriores, definindo quais pertencerão e quais não pertencerão ao escopo do projeto. Dessa forma, todos terão uma visão mais clara acerca do escopo do projeto.
+Limitar o escopo baseando-se no tempo e recursos disponíveis e na qualidade desejada.
+Aprovação do escopo pelos integrantes da gerência e pelo cliente
 
-## 3. Desenvolvimento e Manutenção da Estrutura Analítica do Projeto - EAP
-
-O desenvolvimento da EAP será baseado nos requisitos necessários para o escopo do projeto. O projeto como um todo será dividido entre pacotes de atividades. Decidiu-se organizar esses pacotes seguindo uma ordem cronológica, dessa forma, o projeto será divido em duas Releases, sendo que a primeira será composta por três iterações do RUP (duas fases).
 
 #### 3.1. Processo de definição do Escopo
 
