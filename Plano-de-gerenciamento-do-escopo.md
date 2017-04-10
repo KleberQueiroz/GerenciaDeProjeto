@@ -35,7 +35,7 @@ O objetivo desse documento é documentar como o escopo do projeto OndeEUnb será
 
 A fim de melhorar a compreensão de como será o processo de gerenciamento do escopo, foi desenhado o seguinte processo:
 
-![](https://drive.google.com/open?id=0B8jEDVP6IcfKQkV4SVh3ODl0OHc)
+![](https://lh4.googleusercontent.com/OxVunTY_ER--oOh9E1TgqpLTXzCsBjtmXEg25oPWE5SvbrrZ_tMq6RE5e_J7yRBbJghNLmlXwQN4aLA=w2154-h1620)
 
 As atividades desse processo serão detalhadas ao longo desse documento.
 
