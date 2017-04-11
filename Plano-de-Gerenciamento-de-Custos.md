@@ -42,6 +42,15 @@ As principais dimensões analisadas serão o valor planejado (VP), estimado, em 
 
 O controle dos custos será feito tendo como base as estimativas explicadas no tópico anterior. Cada uma das estimativas obtidas deverá ser interpretada pela equipe de gerência. A partir dessa interpretação, a equipe deverá identificar o problema (se houver) e apontar as medidas mitigadoras/preventivas para o problema identificado. Todos esses dados poderão ser visualizados no relatório de desempenho das iterações.
 
+| Indicador | Descrição | Fórmula | Parâmetros |
+|-----------|-------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| BCWP | Custo Orçado do Trabalho Executado. | Percentagem do Projeto Realizado x Custo Total Planejado | Sem parâmetros |
+| ACWP | Custo Real do Trabalho Realizado. | Horas Reais Gastas x Valor de Trabalho por hora | Sem parâmetros |
+| BCWS | Valor Planejado | Horas Planejadas x Valor de Trabalho por hora | Sem parâmetros |
+| CV | Variação do Custo do Projeto | BCWP - ACWP | CV > 0; Valor agregado abaixo do planejado / CV< 0; Valor agregado inferior ao que se gastou. |
+| SV | Variação do Cronograma | BCWP - BCWS | SV > 0; Projeto Adiantado / SV < 0; Projeto Atrasado |
+| SPI | Índice de Desempenho de Prazos | BCWP / BCWS | SPI > 1; Adiantado / SPI = 1; Custo conforme planejado / SPI < 1; Atrasado |
+| CPI | Índice de Desempenho dos Custos | BCWP / ACWP | CPI > 1; Mais baixo que o planejado / CPI = 1; Custo conforme o planejado / CPI < 1; Custo mais alto que o planejado |
 
 ## 3. Unidades de Medida e Precisão
 
