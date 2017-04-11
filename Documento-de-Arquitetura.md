@@ -161,6 +161,16 @@
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-pacotes.png)  
 [Diagrama de Pacotes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-pacotes.png)    
 
+<p align ="justify"> 1.A camada de View é responsável pelo front-end do projeto, onde o usuário interage com a aplicação . A comunicação acontece através da Controller conforme for requisitado.
+
+<p align ="justify"> 2.A camada Controller trata do processamento de cada ação do sistema. Ela pode ser entendida como a camada que faz a comunicação entre a Model e a View, ela compreende os eventos que estão acontecendo na View, e atua sobre os dados da Model, estabelecendo assim a comunicação com a database que armazena esses dados no banco.
+
+<p align ="justify"> 3.A camada  Model armazena os dados da aplicação se necessário e trata da leitura e validação dos dado  se comunica com a Controller quando existir a necessidade de exibição, e a Controller vai decidir em qual das view exibir os dados da Model.
+
+<p align ="justify"> 4.A camada de Tests serve como uma ambiente para validação da aplicação antes que as alterações feitas neles sejam implementadas nas outras branchs.
+
+
+
 ### 5.4 Banco de Dados
 
 <p align ="justify">O projeto utiliza o sistema gerenciamento de banco de dados SQLite3 para o ambiente de desenvolvimento. No ambiente de produção é utilizado outro sistema de banco de dados, o PostgreSQL.  
