@@ -61,7 +61,7 @@
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-mvc.png)  
 [Lógica MVC](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-mvc.png)   
 
-<p align ="justify">1 - O usuário deseja acessar acessar uma página da aplicação através do browser. O browser envia a solicitação ao servidor e, através do gerenciador de rotas do Rails, a solicitação é enviada à uma Controller.   
+<p align ="justify">1 - O usuário deseja acessar uma página da aplicação através do browser. O browser envia a solicitação ao servidor e, através do gerenciador de rotas do Rails, a solicitação é enviada à uma Controller.   
 
 <p align ="justify">2 - Caso a página que o usuário deseja observar tenha alguma informação que necessite ser puxada da base de dados, a Controller irá solicitar a uma Model.   
 
