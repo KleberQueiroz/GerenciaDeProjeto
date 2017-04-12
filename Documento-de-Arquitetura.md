@@ -79,7 +79,6 @@
 
 <p align ="justify">O Ruby on Rails possui uma série de princípios e convenções que auxiliarão na tomada de decisões no que se refere ao desenvolvimento. Tais recursos do framework poderão auxiliar no rápido desenvolvimento e na manutenibilidade da aplicação.    
 <p align ="justify">A aplicação adotará as práticas de segurança sugeridas nos guias do framework Ruby on Rails. Dados sensitivos tais como senhas dos administradores são guardados criptografados. O gerenciamento das informações que o usuário terá acesso publicamente é feito apenas por administradores.   
-<p align ="justify">A aplicação oferecerá boa usabilidade, podendo ser utilizada em dispositivos móveis tais como smartphones e tablets pela utilização de uma interface responsiva.   
 <p align ="justify">Além disso, a arquitetura adotada permitirá que a equipe de desenvolvimento possa trabalhar nas camadas separadamente. Isso tem como consequência desacoplamento e a melhora para desenvolvimento de testes.  
 <p align ="justify">Uma restrição identificada é que o funcionamento da aplicação dependerá de o usuário estar conectado à internet. Não sendo possível, de forma alguma, o seu funcionamento offline.   
 
