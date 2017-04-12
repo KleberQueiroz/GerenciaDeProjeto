@@ -47,7 +47,7 @@
 
 :white_check_mark: [Plano de Iteração](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Plano-de-Itera%C3%A7%C3%A3o)
 
-:ballot_box_with_check: [Plano de Integração]()
+:arrows_counterclockwise: [Plano de Integração](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Plano-de-Integracao)
 
 ### Desenvolvimento
 :white_check_mark: [Documento de Visão](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento--de-Visão)
