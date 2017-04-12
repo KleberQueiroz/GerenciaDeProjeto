@@ -59,7 +59,9 @@
 <p align ="justify">Controller - A camada controller é responsável pelo fluxo do usuário na aplicação. Esta é usada para comunicação com a Model e renderização das Views, com informações procedentes da Model.   
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-mvc.png)  
-[Lógica MVC](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-mvc.png)   
+[Diagrama da Lógica MVC](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-mvc.png)   
+
+<p align ="justify">O diagrama pode ser descrito da seguinte maneira:
 
 <p align ="justify">1 - O usuário deseja acessar uma página da aplicação através do browser. O browser envia a solicitação ao servidor e, através do gerenciador de rotas do Rails, a solicitação é enviada à uma Controller.   
 
