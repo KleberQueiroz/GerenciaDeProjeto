@@ -1,4 +1,4 @@
-### UC02 - Departamentos
+### UC02 - Manter Departamentos
 ### 1. Descrição
 
 Este caso de uso é destinado ao administrador e através deste é permitido criar, editar e excluir departamentos do mapa do campus.
