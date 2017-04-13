@@ -5,7 +5,7 @@
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
 |12/04/2017|0.1|Estrutura de Tópicos|Eduardo Gomes|
-
+|12/04/2017|1.0|Elaboração de Tópicos|Eduardo Gomes|
 
 ***
 
@@ -38,6 +38,15 @@ No Plano de Gerenciamento do Projeto é apresentado uma visão acerca do monitor
 O Plano de Gerenciamento do Projeto pode ser encontrado nesse [link](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Plano-de-Gerenciamento-de-Projeto).
 
 ## 4. Orientar e Gerenciar o trabalho do projeto
+
+Este subprocesso está relacionado com a execução do trabalho definido no Plano de Gerenciamento do Projeto e por consequência tem relação com muitas áreas do projeto. 
+
+* As entregas do projeto serão definidas na [Estrutura Analítica do Projeto - EAP](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Estrutura-Analitica-do-Projeto).
+
+* Serão estabelecidos e executados [treinamentos](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Plano-de-Treinamento).
+
+* A equipe será gerenciada
+
 
 ## 5. Monitorar e controlar o trabalho do projeto
 
