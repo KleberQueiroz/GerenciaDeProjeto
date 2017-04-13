@@ -118,16 +118,16 @@
 **UC05 - Manter Pontos de Acesso**  
 <p align ="justify">Este caso de uso se refere ao cadastro, atualização e destruição do objeto ponto de acesso no sistema.  
 
-**UC06 - Mostrar Informações**  
+**UC06 - Visualizar Informações**  
 <p align ="justify">Este caso de uso se refere a visualização das informações sobre os pontos cadastrados no mapa, pelo usuário quando este clica em um dos itens expostos no mapa.   
 
-**UC07 - Calcular Trajeto entre Edifícios**  
+**UC07 - Visualizar Trajeto**  
 <p align ="justify">Este caso de uso se refere ao cálculo do trajeto entre edifícios no mapa do campus  após escolhidos pelo usuário.   
 
 **UC08 - Procurar Locais no Campus**  
 <p align ="justify">Este caso de uso se refere a pesquisa por um local no mapa da universidade após escolhido pelo usuário.  
 
-**UC09 - Mostrar Mapa do Campus**  
+**UC09 - Visualizar Mapa do Campus**  
 <p align ="justify">Este caso de uso se refere ao ato de mostrar o mapa do Campus junto com os itens nele cadastrados ao usuário.  
 
 ## 5) Visão Lógica  
