@@ -1,4 +1,4 @@
-### UC06 - Mostrar Informações 
+### UC06 - Visualizar Informações 
 **1. Descrição:** 
 * Este caso de uso é destinado ao usuário da aplicação web. Através deste é possível visualizar as informações sobre os pontos cadastrados no mapa do campus. 
 
