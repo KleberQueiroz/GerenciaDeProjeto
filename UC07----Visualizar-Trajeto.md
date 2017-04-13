@@ -1,6 +1,6 @@
-### UC07 - Calcular Trajeto
+### UC07 - Visualizar Trajeto
 **1. Descrição:** 
-* Este caso de uso é destinado ao usuário, através deste é possível calcular o trajeto entre edifícios no mapa do campus.
+* Este caso de uso é destinado ao usuário, através deste é possível visualizar o trajeto entre edifícios no mapa do campus.
 
 **2. Atores:** 
 * Usuário.
@@ -12,7 +12,7 @@
 
 **4.1 Fluxo Principal (FP):** 
 * Este caso de uso se inicia quando o usuário determina pontos de partida e destino dentro do mapa.
-1. O usuário clica em Calcular Trajeto. **[FA01]**
+1. O usuário clica em Visualizar Trajeto. **[FA01]**
 2. É apresentada uma tela para colocar os pontos de partida e destino. **[FE01] [RN01]**
 3. O sistema irá apresentar uma rota até o local.
 4. O caso de uso é encerrado. 
