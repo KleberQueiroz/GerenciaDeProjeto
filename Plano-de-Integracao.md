@@ -5,7 +5,7 @@
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
 |12/04/2017|0.1|Estrutura de Tópicos|Eduardo Gomes|
-|12/04/2017|1.0|Elaboração de Tópicos|Eduardo Gomes|
+|12/04/2017|0.2|Elaboração de Tópicos 1, 2 e 3|Eduardo Gomes|
 
 ***
 
