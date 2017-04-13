@@ -1,4 +1,4 @@
-### UC04 - Manter Biciletários
+### UC04 - Manter Bicicletários
 
 Este caso de uso é destinado ao administrador e através deste é permitido criar, editar e excluir bicicletários do mapa do campus.
 
