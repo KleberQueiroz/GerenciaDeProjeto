@@ -24,16 +24,23 @@
 &nbsp;&nbsp;[2.1. Oportunidade de Negócios](#21-oportunidade-de-negócios)  
 &nbsp;&nbsp;[2.2. Instrução do Problema ](#21-instrução-do-problema)  
 &nbsp;&nbsp;[2.3. Instrução de Posição do Produto ](#23-instrução-de-posição-do-produto)  
-[3. Envolvidos e Usuários](#03-envolvidos-e-usuários)  
+[3. Envolvidos e Usuários](#3-envolvidos-e-usu%C3%A1rios)  
 &nbsp;&nbsp;[3.1. Resumo dos Envolvidos](#31-resumo-dos-envolvidos)  
-&nbsp;&nbsp;[3.2. Resumo do Usuário](#32-resumo-do-usuário)  
+&nbsp;&nbsp;[3.2. Resumo do Usuário](#32-resumo-do-usu%C3%A1rio)  
 &nbsp;&nbsp;[3.3. Perfis das Partes Interessadas](#33-perfis-das-partes-interessadas)    
-&nbsp;&nbsp;[3.4. Perfis do Usuário](#34-perfis-do-usuário)  
+&nbsp;&nbsp;&nbsp;[3.3.1 Equipe de Gestão de Projeto](#331-equipe-de-gest%C3%A3o-de-projeto)    
+&nbsp;&nbsp;&nbsp;[3.3.2 Equipe de Desenvolvedores](#331-equipe-de-desenvolvedores)    
+&nbsp;&nbsp;&nbsp;[3.3.2 Diretoria do CPD UnB](#333-diretoria-do-cpd-unb)   
+&nbsp;&nbsp;[3.4. Perfil dos Usuários](#34-perfil-dos-usuários)  
+&nbsp;&nbsp;&nbsp;[3.4.1 Novos Alunos](#341-novos-alunos)   
+&nbsp;&nbsp;&nbsp;[3.4.2 Palestrantes](#342-palestrantes)   
+&nbsp;&nbsp;&nbsp;[3.4.3 Visitantes](#343-visitantes)   
+&nbsp;&nbsp;&nbsp;[3.4.2 Candidatos](#344-candidatos)     
 &nbsp;&nbsp;[3.5. Principais Necessidades da Parte Interessada ou do Usuário](#35-principais-necessidades-da-parte-interessada-ou-do-usuário)  
 [4. Visão Geral do Produto](#4-visão-geral-do-produto)  
-&nbsp;&nbsp;[4.1. Perspectiva do Produto](#41-perspectiva-do-produto)  
-&nbsp;&nbsp;[4.2. Resumo das Capacidades](#42-resumo-das-capacidades)  
-&nbsp;&nbsp;[4.3. Suposições de Dependências](#43-suposições-e-dependências)  
+&nbsp;&nbsp;[4.1. Perspectiva](#41-perspectiva)  
+&nbsp;&nbsp;[4.2. Benefícios](#42-benefícios)  
+&nbsp;&nbsp;[4.3. Licenciamento](#43-licenciamento)  
 [5. Requisitos](#5-requisitos)  
 &nbsp;&nbsp;[5.1 Requisitos Funcionais](#51-requisitos-funcionais)      
 &nbsp;&nbsp;[5.2 Requisitos Não Funcionais](#52-requisitos-não-funcionais)     
@@ -42,7 +49,7 @@
 
 ## 1. Introdução
 <p align ="justify">A finalidade deste documento é coletar, analisar e definir as necessidades e recursos de nível superior do sistema de mapeamento das instalações e de localização do Campus Darcy Ribeiro da Universidade de Brasília (UnB). O documento se concentra nos recursos necessários aos envolvidos, usuários e nas razões que levam as necessidades, e também estabelece uma visão geral e clara do projeto para todos os envolvidos.  
-<p align ="justify">Espera-se que o leitor deste documento consiga compreender a finalidade global da aplicação "Onde É? UnB?"   
+<p align ="justify">Espera-se que o leitor deste documento consiga compreender a finalidade global da aplicação "Onde É? UnB"   
 
 ### 1.1. Propósito  
 
