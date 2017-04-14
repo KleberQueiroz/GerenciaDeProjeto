@@ -11,7 +11,7 @@
 | 23/03/2017    |  0.7   | Perfis de Usuário: Novos Alunos, Palestrantes | Lucas S., Sannya Arvelos |
 | 06/04/2017    |  0.8   | Refatoração do documento, adição de requisitos funcionais e não funcionais, legendas das prioridades. | Taynara, Sannya Arvelos, Lucas S., Kairon Velozo|
 | 07/04/2017    |  0.9   | Migração de documento do Google Drive para a Wiki. Pequenas alterações feitas em texto. | Lucas S. |
-| 13/04/2017    |  0.9   | Refatoração de seções do documento. | Lucas S., Kairon Velozo |
+| 13/04/2017    |  0.9.1   | Refatoração de seções do documento. | Lucas S., Kairon Velozo |
 ------
 
 ## Sumário
