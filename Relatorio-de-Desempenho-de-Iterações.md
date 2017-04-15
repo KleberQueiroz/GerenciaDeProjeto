@@ -39,11 +39,13 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 
 #### 2.1.2 Riscos Ocorridos
 
-*
+* Um membro saiu da equipe.
 
 #### 2.1.3 Considerações
 
-*
+* A primeira iteração do projeto foi a mais curta, a definição de equipe e a elaboração do documento de visão foram os focos dessa iteração.
+
+* Um membro saiu da equipe de MDS, porém foi rapidamente substituído por ainda ser no início do semestre.
 
 ### 2.2 Iteração 2
 
@@ -67,7 +69,9 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 
 #### 2.2.3 Considerações
 
-*
+* A iteração 2 teve como foco desenvolver planos, finalizar o documento de visão, treinamentos e o protótipo do projeto.
+
+* 
 
 ### 2.3 Iteração 3
 
