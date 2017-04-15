@@ -6,6 +6,7 @@
 |:----:|:------:|:---------:|:-----:|
 |12/04/2017|0.1|Estrutura de Tópicos|Eduardo Gomes|
 |12/04/2017|0.2|Elaboração de Tópicos 1, 2 e 3|Eduardo Gomes|
+|15/04/2017|1.0|Finalização do Documento|Eduardo Gomes|
 
 ***
 
@@ -45,7 +46,7 @@ Este subprocesso está relacionado com a execução do trabalho definido no Plan
 
 * Serão estabelecidos e executados [treinamentos](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Plano-de-Treinamento).
 
-* A equipe será gerenciada
+* Serão utilizadas 
 
 
 ## 5. Monitorar e controlar o trabalho do projeto
@@ -54,6 +55,8 @@ Alguns aspectos para o acompanhamento serão monitorados, como por exemplo, hora
 
 ## 6. Realizar o controle integrado de mudanças
 
+Para realizar o controle integrado de mudanças, para cada solicitação de mudança será organizada uma reunião. Nessa reunião será definido o que deve ser feito diante da situação, para melhor exemplificar, podem ser tomadas as ações de resposta quando ocorrer algum risco que foi registrado.
+
 ## 7. Encerrar o projeto ou fase
 
-## Referências
+O encerramento do projeto corresponde a segunda entrega do projeto, que será na Release 2 (dia 19/06). Porém, o projeto será desenvolvido em duas etapas, sendo a primeira, relativa a Release 1 do dia 21/04/2017 e a Release 2 no dia 19/06/2017.
