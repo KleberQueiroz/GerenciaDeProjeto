@@ -264,8 +264,8 @@ Baixa: Seria bom que houvesse na aplicação.
 | Identificação | Descrição | Prioridade |
 |---------------|-----------|------------|
 | RNF01         | O sistema deve funcionar nos navegadores mais utilizados do mercado, tais como Firefox e Chrome. | Alta |
-| RNF03         | O sistema deverá ter interface responsiva, para que o usuário consiga usá-lo dispositivos móveis. | Alta |
-| RNF04         | O sistema deverá estar em português. | Média |
+| RNF02         | O sistema deverá ter interface responsiva, para que o usuário consiga usá-lo dispositivos móveis. | Alta |
+| RNF03         | O sistema deverá estar em português. | Média |
 
 As prioridades dos requisitos não funcionais são definidos como:  
 Alta - Essencial para o correto funcionamento da apliação;  
