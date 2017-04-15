@@ -37,6 +37,7 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 | Valor Planejado | Valor Real | Valor Agregado |
 |-----------------|------------|----------------|
 |  |  |  |
+
 #### 2.1.2 Riscos Ocorridos
 #### 2.1.3 Considerações
 
