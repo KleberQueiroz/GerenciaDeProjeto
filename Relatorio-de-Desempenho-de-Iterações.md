@@ -91,8 +91,8 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 
 #### 2.3.2 Riscos Ocorridos
 
-*
+* 
 
 #### 2.3.3 Considerações
 
-*
+* Nesta iteração foi identificado pelo time que a API do Google Maps não forneceria uma precisão satisfatória em relação a rotas dentro do Campus Darcy Ribeiro. Isso foi identificado como um ponto crítico do trabalho, a API do Google Maps foi substituída pela API Leaflet.
