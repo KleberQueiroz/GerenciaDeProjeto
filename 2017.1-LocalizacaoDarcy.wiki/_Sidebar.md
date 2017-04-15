@@ -49,6 +49,8 @@
 
 :arrows_counterclockwise: [Plano de Integração](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Plano-de-Integracao)
 
+:arrows_counterclockwise: [Relatório de Desempenho de Iterações](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Relatorio-de-Desempenho-de-Iterações)
+
 ### Desenvolvimento
 :white_check_mark: [Documento de Visão](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento--de-Visão)
 
