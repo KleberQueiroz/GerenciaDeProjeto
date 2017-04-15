@@ -12,12 +12,18 @@
 
 ## Sumário
 
-[1. Introdução](#1-introdução) 
+[1. Introdução](#1-introdução)
+ 
 [2. Termo de Abertura](#2-Termo-de-Abertura) 
+
 [3. Orientar e Gerenciar o trabalho do projeto](#3-Plano-de-Gerenciamento-do-Projeto) 
+
 [4. Introdução](#4-Orientar-e-Gerenciar-o-trabalho-do-projeto) 
+
 [5. Monitorar e controlar o trabalho do projeto](#5-Monitorar-e-controlar-o-trabalho-do-projeto) 
+
 [6. Realizar o controle integrado de mudanças](#6-Realizar-o-controle-integrado-de-mudanças) 
+
 [7. Encerrar o projeto ou fase](#7-Encerrar-o-projeto-ou-fase) 
 
 ## 1. Introdução
