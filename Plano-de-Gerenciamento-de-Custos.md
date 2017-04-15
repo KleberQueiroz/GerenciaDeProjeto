@@ -87,14 +87,14 @@ Este valor serviu para estimarmos o custo da mão de obra, o cálculo foi feito 
 Os notebooks utilizados no projeto foram adquiridos individualmente por cada membro da equipe, uma vez que o uso de cada um será pessoal. A escolha dos notebooks também foi pessoal, o que causou uma certa discrepância nos valores das máquinas.
 Dessa forma, foi feito um estudo para identificar os custos com computadores, baseando-se no número de projetos que poderiam ser desempenhados com essas máquinas e o tempo de vida de cada computador.
 
-### 6.1.1.	Vida útil dos Notebooks
+#### 6.1.1.	Vida útil dos Notebooks
 Segundo um relatório da microsoft na Worldwide Developer Conference de 2010, a idade média dos PC's da época eram de 4.4 anos. Há diversas recomendações para que a troca de computadores seja feita a cada 4 anos. Para empresas, a recomendação mais comum é que a troca seja feita a cada 3 anos.
 Baseado nessas informações, a equipe estimou que nossos computadores serão úteis por 3 anos.
 
-### 6.1.2.	Média de projetos por notebook
+#### 6.1.2.	Média de projetos por notebook
 Considerando que o tempo gasto por integrante foi de 10 horas semanais, e que uma equipe de desenvolvimento em uma companhia trabalha durante 40 horas, seria possível realizar 4 projetos similares em 1 semestre. Logo, durante 3 anos, 24 projetos similares poderiam ser executados.
 
-### 6.1.2.	Preço individual dos notebook
+#### 6.1.3.	Preço individual dos notebook
 
 | Marca ou modelo | Preço |
 |:----:|:------:|
@@ -114,7 +114,7 @@ Considerando que o tempo gasto por integrante foi de 10 horas semanais, e que um
 
 Total: R$ 49.800,00
 
-### 6.1.2.	Impacto médio no custo do projeto
+#### 6.1.4.	Impacto médio no custo do projeto
 
  O custo total com o maquinário foi de R$ 49.800,00. Idealmente, esse custo seria dividido entre 24 projetos e o impacto desses gastos nesse projeto seria de: R$ 2075,00.
 
