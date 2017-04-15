@@ -23,26 +23,72 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 
 #### 2.1.1 Custo e esforço
 
+#### 2.1.1 Custo e esforço
+
 | Valor Planejado | Valor Real | Valor Agregado |
 |-----------------|------------|----------------|
 |  |  |  |
 
+| Variância de Prazo (VP) | Variância de Custo (VC) | Índice de Desempenho de Custo (IDC) | Índice de Desempenho de Prazo (IDP) |
+|-------------------------|-------------------------|-------------------------------------|-------------------------------------|
+|  |  |  |  |
+
+| Horas totais planejadas | Horas totais cumpridas |
+|-------------------------|------------------------|
+|  |  |
+
 #### 2.1.2 Riscos Ocorridos
+
+*
+
 #### 2.1.3 Considerações
+
+*
 
 ### 2.2 Iteração 2
 
-#### 2.1.1 Custo e esforço
+#### 2.2.1 Custo e esforço
 
 | Valor Planejado | Valor Real | Valor Agregado |
 |-----------------|------------|----------------|
 |  |  |  |
 
-#### 2.1.2 Riscos Ocorridos
-#### 2.1.3 Considerações
+| Variância de Prazo (VP) | Variância de Custo (VC) | Índice de Desempenho de Custo (IDC) | Índice de Desempenho de Prazo (IDP) |
+|-------------------------|-------------------------|-------------------------------------|-------------------------------------|
+|  |  |  |  |
+
+| Horas totais planejadas | Horas totais cumpridas |
+|-------------------------|------------------------|
+|  |  |
+
+#### 2.2.2 Riscos Ocorridos
+
+*
+
+#### 2.2.3 Considerações
+
+*
 
 ### 2.3 Iteração 3
 
-#### 2.1.1 Custo e esforço
-#### 2.1.2 Riscos Ocorridos
-#### 2.1.3 Considerações
+#### 2.3.1 Custo e esforço
+
+| Valor Planejado | Valor Real | Valor Agregado |
+|-----------------|------------|----------------|
+|  |  |  |
+
+| Variância de Prazo (VP) | Variância de Custo (VC) | Índice de Desempenho de Custo (IDC) | Índice de Desempenho de Prazo (IDP) |
+|-------------------------|-------------------------|-------------------------------------|-------------------------------------|
+|  |  |  |  |
+
+| Horas totais planejadas | Horas totais cumpridas |
+|-------------------------|------------------------|
+|  |  |
+
+#### 2.3.2 Riscos Ocorridos
+
+*
+
+#### 2.3.3 Considerações
+
+*
