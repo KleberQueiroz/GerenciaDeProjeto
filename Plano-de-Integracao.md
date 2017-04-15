@@ -50,6 +50,8 @@ Este subprocesso está relacionado com a execução do trabalho definido no Plan
 
 ## 5. Monitorar e controlar o trabalho do projeto
 
+Alguns aspectos para o acompanhamento serão monitorados, como por exemplo, horas de trabalho, comunicação de equipe, riscos do projeto.
+
 ## 6. Realizar o controle integrado de mudanças
 
 ## 7. Encerrar o projeto ou fase
