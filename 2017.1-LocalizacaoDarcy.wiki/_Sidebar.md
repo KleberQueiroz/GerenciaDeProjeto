@@ -77,7 +77,7 @@
 ***
 ### Encerramento
  
-:ballot_box_with_check: [_Postmortem_]()
+:ballot_box_with_check: [_Postmortem_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Postmortem)
 
 :ballot_box_with_check: [_Release Notes_]()
 
