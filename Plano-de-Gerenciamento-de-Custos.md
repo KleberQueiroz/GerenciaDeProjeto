@@ -114,6 +114,8 @@ Considerando que o tempo gasto por integrante foi de 10 horas semanais, e que um
 
 Total: R$ 49.800,00
 
+### 6.1.2.	Impacto médio no custo do projeto
+
  O custo total com o maquinário foi de R$ 49.800,00. Idealmente, esse custo seria dividido entre 24 projetos e o impacto desses gastos nesse projeto seria de: R$ 2075,00.
 
 
