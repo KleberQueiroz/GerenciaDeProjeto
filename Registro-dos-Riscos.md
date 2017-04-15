@@ -26,6 +26,7 @@
 | Utilização superior a capacidade do sistema | Sobrecarregamento dos servidores da aplicação | Muito Baixo | Alto | Baixa | Aumentar a capacidade de armazenamento e processamento dos servidores | Mitigar | Alexandre |
 | Arquitetura não estar sólida para a construção do sistema | Possibilidade de a aplicação não conseguir ser construída e entregue | Muito Baixo | Muito alto | Baixa | Implementar as funcionalidades críticas primeiro para validar a arquitetura utilizada | Evitar | Brasil |
 | Concorrência | Publico alvo dividido | Alto | Alto | Alta | Continuar com o projeto | Aceitar | Eduardo |
+| Tecnologia com funções que trazem resultados imprecisos|Aplicação que não cumpre seus objetivos e desmotivação da equipe|Muito baixo|Muito alto|Alta|Trocar a tecnologia|Mitigar|Rafael|
 
 ## 2. Análise e resposta dos riscos positivos
 | Risco | Efeito | Probabilidade | Impacto | Prioridade | Ação | Estratégia | Responsável |
