@@ -7,6 +7,7 @@
 | 22/03/2017 | 0.1 | Estrutura de Tópicos | Daniel Moura |
 | 25/03/2017 | 0.2 | Introdução e Estimação dos Custos | Daniel Moura |
 | 28/03/2017 | 1.0 | Adicionando tópicos restantes  | Daniel Moura |
+| 15/04/2017 | 1.1 | Atualização do plano - análise de custos dos notebooks  | Alexandre Torres |
 
 -----
 
