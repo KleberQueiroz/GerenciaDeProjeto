@@ -84,7 +84,39 @@ Este valor serviu para estimarmos o custo da mão de obra, o cálculo foi feito 
 
 ## 6. Custos com Aquisições
 ### 6.1.	Notebooks
-Os notebooks utilizados no projeto foram adquiridos individualmente por cada membro da equipe, uma vez que o uso de cada um será pessoal. A escolha dos notebooks também foi pessoal, o que causou uma certa discrepância nos valores das máquinas. O custo total com o maquinário foi de R$ 39.000,00, o que gerou uma média de R$ 3.000,00 por máquina.
+Os notebooks utilizados no projeto foram adquiridos individualmente por cada membro da equipe, uma vez que o uso de cada um será pessoal. A escolha dos notebooks também foi pessoal, o que causou uma certa discrepância nos valores das máquinas.
+Dessa forma, foi feito um estudo para identificar os custos com computadores, baseando-se no número de projetos que poderiam ser desempenhados com essas máquinas e o tempo de vida de cada computador.
+
+### 6.1.1.	Vida útil dos Notebooks
+Segundo um relatório da microsoft na Worldwide Developer Conference de 2010, a idade média dos PC's da época eram de 4.4 anos. Há diversas recomendações para que a troca de computadores seja feita a cada 4 anos. Para empresas, a recomendação mais comum é que a troca seja feita a cada 3 anos.
+Baseado nessas informações, a equipe estimou que nossos computadores serão úteis por 3 anos.
+
+### 6.1.2.	Média de projetos por notebook
+Considerando que o tempo gasto por integrante foi de 10 horas semanais, e que uma equipe de desenvolvimento em uma companhia trabalha durante 40 horas, seria possível realizar 4 projetos similares em 1 semestre. Logo, durante 3 anos, 24 projetos similares poderiam ser executados.
+
+### 6.1.2.	Preço individual dos notebook
+
+| Marca ou modelo | Preço |
+|:----:|:------:|
+| Dell | 2300 |
+| Asus | 8000 |
+| Macbook 13 | 10000 |
+| Macbook 15 | 15000 |
+| Acer | 1200 |
+| Dell | 2000 |
+| Dell | 2500 |
+| Dell | 2300 |
+| Itautec | 1000 |
+| Samsung | 1500 |
+| Samsung | 2000 |
+| Asus | 2500 |
+| Asus | 2000 |
+
+Total: R$ 49.800,00
+
+ O custo total com o maquinário foi de R$ 49.800,00. Idealmente, esse custo seria dividido entre 24 projetos e o impacto desses gastos nesse projeto seria de: R$ 2075,00.
+
+
 ### 6.2.	Transporte
 O custo com transporte foi estimado com base no preço da passagem no DF, levando em conta que os membros da equipe teriam que pegar entre 2 e 4 linhas para ir a cada reunião. Logo, R$ 4,00 × 4 linhas/dia × 16 reuniões = R$256 x 13 membros R$ 3.328,00.
 ### 6.3.	Locação de espaço
