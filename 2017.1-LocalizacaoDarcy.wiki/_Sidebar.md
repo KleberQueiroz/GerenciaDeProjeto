@@ -51,6 +51,9 @@
 
 :arrows_counterclockwise: [Relatório de Desempenho de Iterações](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Relatorio-de-Desempenho-de-Iterações)
 
+:arrows_counterclockwise: [_Postmortem R1_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/PostmortemR1)
+
+
 ### Desenvolvimento
 :white_check_mark: [Documento de Visão](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento--de-Visão)
 
@@ -77,7 +80,7 @@
 ***
 ### Encerramento
  
-:ballot_box_with_check: [_Postmortem_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Postmortem)
+:ballot_box_with_check: [_PostmortemR2_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Postmortem)
 
 :ballot_box_with_check: [_Release Notes_]()
 
