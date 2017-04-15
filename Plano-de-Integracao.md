@@ -58,6 +58,16 @@ Este subprocesso está relacionado com a execução do trabalho definido no Plan
 
 * Serão estabelecidos e executados [treinamentos](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Plano-de-Treinamento).
 
+* A obtenção e uso dos recursos foi definida no [Plano de Gerenciamento de Recursos Humanos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos), [Plano de Gerenciamento de Custos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Custos) e [Plano de Gerenciamento de Aquisições](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es)
+
+* As comunicações serão gerenciadas no [Plano de Gerenciamento de Comunicação](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Comunica%C3%A7%C3%A3o)
+
+* A gerencia de riscos será definida no [Plano de Gerenciamento de Riscos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-dos-Riscos)
+
+* O gerenciamento de fornecedores será representada no [Plano de Gerenciamento de Aquisições](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es)
+
+* Será criado um [Postmorten](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Postmortem) do projeto, nele será levado em consideração o que foi aprendido para futuros projetos dos integrantes do grupo, com pontos positivos e negativos.
+
 ## 5. Monitorar e controlar o trabalho do projeto
 
 Alguns aspectos para o acompanhamento serão monitorados, como por exemplo, horas de trabalho, comunicação de equipe, riscos do projeto.
