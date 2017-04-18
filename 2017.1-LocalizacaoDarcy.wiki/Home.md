@@ -1,6 +1,6 @@
 # Onde É? UnB
 
-[[https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Home/http://imgur.com/a/ijUId.png|alt=logo]]
+[Imgur](http://i.imgur.com/zhSAGA9.jpg)
 ![Imgur](http://i.imgur.com/MXSzQCq.jpg) 
 
 # Equipe
