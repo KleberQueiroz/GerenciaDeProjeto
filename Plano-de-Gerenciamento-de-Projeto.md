@@ -2,11 +2,12 @@
 
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
-|20/03/2017|1.0|Criação da estrutura do documento|Matheus Mello|
-|22/03/2017|1.0.1|Atualização da estrutura do documento|Alexandre|
-|22/03/2017|1.0.2|Adicionados Tópicos 1, 2, 3, 4, 5, 8|Alexandre|
-|23/03/2017|1.0.3|Atualização Tópicos 1, 6, 7, 9|Matheus Mello|
-|23/03/2017|1.0.4|Atualização Tópicos 5, 11|Matheus Mello|
+|20/03/2017|0.1|Criação da estrutura do documento|Matheus Mello|
+|22/03/2017|0.2|Atualização da estrutura do documento|Alexandre|
+|22/03/2017|0.3|Adicionados Tópicos 1, 2, 3, 4, 5, 8|Alexandre|
+|23/03/2017|0.4|Atualização Tópicos 1, 6, 7, 9|Matheus Mello|
+|23/03/2017|1.0|Atualização Tópicos 5, 11|Matheus Mello|
+|18/04/2017|1.1|Edição de Links|Eduardo Gomes|
 ***
 
 ## Sumário
@@ -83,7 +84,7 @@ Para melhor visualização, o arquivo pode ser acessado [aqui](https://ibb.co/di
 
 ## 6. Comunicação entre as Partes Interessadas
 
-Toda a informação referente à comunicação entre as partes interessadas pode ser encontrada no [Plano de Gerenciamento das Partes Interessadas]().
+Toda a informação referente à comunicação entre as partes interessadas pode ser encontrada no [Plano de Gerenciamento das Partes Interessadas](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-das-Partes-Interessadas).
 
 ## 7. Linha de Base do Escopo
 
@@ -93,7 +94,7 @@ A fim de alcançar o sucesso do projeto, foram definidos claramente os produtos 
 
 Com a necessidade de organizar o desenvolvimento e controle do projeto de uma forma linear e cronológica a fim de facilitar o acompanhamento do andamento do projeto e evitar que haja atraso nas entregas, será utilizado um cronograma. Este documento será criado, avaliado, monitorado e adaptado, caso necessário, pela equipe de gerencia do projeto.
 O documento leva em conta o ciclo de vida do projeto, considerando a metodologia e processo de desenvolvimento a serem utilizados. Ele apoiará no controle de atividades a serem elaboradas ao longo do projeto.
-Uma explicação com um maior grau de detalhamento sobre esse tópico pode ser encontrada no [Plano de Gerenciamento do Cronograma]().
+Uma explicação com um maior grau de detalhamento sobre esse tópico pode ser encontrada no [Plano de Gerenciamento do Cronograma](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-gerenciamento-do-cronograma).
 
 ## 9. Linha de Base de Custo
 
@@ -103,9 +104,9 @@ A linha de base de custos é uma versão aprovada do orçamento do projeto, divi
 
 * [Plano de Gerenciamento de Projeto](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Plano-de-Gerenciamento-de-Projeto)
 
-* [Plano de Gerenciamento do Cronograma]()
+* [Plano de Gerenciamento do Cronograma](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-gerenciamento-do-cronograma)
 
-* [Plano de Gerenciamento do Escopo]()
+* [Plano de Gerenciamento do Escopo](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-gerenciamento-do-escopo)
 
 * [Plano de Gerenciamento de Comunicação](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Comunica%C3%A7%C3%A3o)
 
@@ -113,17 +114,15 @@ A linha de base de custos é uma versão aprovada do orçamento do projeto, divi
 
 * [Plano de Gerenciamento de Recursos Humanos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos)
 
-* [Plano de Gerenciamento das Aquisições]()
+* [Plano de Gerenciamento das Aquisições](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es)
 
-* [Plano de Gerenciamento dos Riscos]()
+* [Plano de Gerenciamento dos Riscos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-dos-Riscos)
 
-* [Plano de Gerenciamento dos Requisitos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-dos-Requisitos#1-introdu%C3%A7%C3%A3o)
+* [Plano de Gerenciamento dos Requisitos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-dos-Requisitos)
 
-* [Plano de Gerenciamento de Configuração e Mudanças]()
+* [Plano de Gerenciamento da Qualidade](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Qualidade)
 
-* [Plano de Gerenciamento da Qualidade]()
-
-* [Plano de Gerenciamento das Partes Interessadas]()
+* [Plano de Gerenciamento das Partes Interessadas](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-das-Partes-Interessadas)
 
 * [Plano de Gerenciamento dos Custos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Custos)
 
