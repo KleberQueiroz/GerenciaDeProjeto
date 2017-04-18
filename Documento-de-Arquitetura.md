@@ -13,7 +13,7 @@
 | 04/04/2017 | 1.4    | Refatoração Representação da Arquitetura; Refatoração Metas e Restrições Arquitetura; Refatoração Banco de Dados; Refatoração Desempenho; Refatoração Qualidade;                                                     | Kairon Velozo                                           |
 | 06/04/2017 | 1.5    | Atualização dos casos de uso e do seu diagramas                                                                                                                                                                      | Mateus Roriz                                            |
 | 07/04/2017 | 1.6    | Atualização do diagrama de pacotes e diagrama de classe                                                                                                                                                              | Mateus Roriz                                            |
-| 17/04/2017 | 1.7    | Atualização do diagrama de casos de uso, diagrama de classes.                                                                                                                                                        | Lucas S, Taynara, Kairon Velozo, Mateus Roriz, Stéfane, |
+| 17/04/2017 | 1.7    | Atualização do diagrama de casos de uso, diagrama de classes.                                                                                                                                                        | Lucas S, Taynara, Kairon Velozo, Mateus Roriz, Stéfane. |
 
 
 -------------------------------------------------------------------
