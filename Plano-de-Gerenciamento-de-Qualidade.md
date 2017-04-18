@@ -39,7 +39,7 @@ O processo de qualidade será dado a partir de uma sequência de passos definido
 
 * Monitorar e controlar a qualidade do projeto: é dado ao monitorar, registrar para então avaliar o desempenho e recomendar mudanças no projeto. É benéfico ao projeto pois identifica causas da baixa qualidade e pode fazer recomendações para elimina-la e valida a conformidade do projeto para com as partes interessadas.
 
-## GQM do projeto
+## 2. GQM do projeto
 
 <p align="justify">O Goal Question Metric (GQM), é um paradigma de medição que visa definir e integrar objetivos à modelos de processo, produto e aspectos de qualidade. É uma abordagem orientada a metas que tem como base a definição de metas operacionais e mensuráveis top-down no processo de medição e interpretação dos dados resultantes bottom-up. O processo GQM é separado em passos ou fases que cobrem todo o planejamento e execução de um plano de medições. As fases são:
 
@@ -74,7 +74,6 @@ Para cada fator de qualidade registrado no Abstraction Sheet é gerada uma pergu
 
 O nível de qualidade do código será dado a partir de três fatores: Complexidade, Quantidade de Comentários por Quantidade de Linhas e Duplicidade de Código. Para cada variável será atribuída uma pontuação. Os quadros a seguir contém os critérios para julgar a qualidade em cada variável. A partir dos resultados obtidos, essas variáveis poderão interpoladas para se ter uma conclusão final sobre a qualidade do código.
 
-
 **Métrica 1:** Complexidade do Código
 
 Segundo uma pesquisa sobre psicologia cognitiva, um indivíduo consegue armazenar em sua memória de 5 a 9 objetos simultaneamente (MOURÃO, 2015). Por isso, um desenvolvedor ao analisar o código, o ideal seria que no máximo o código tivesse 5 caminhos diferentes, por isso foi escolhida a complexidade de no máximo 5.
@@ -104,7 +103,25 @@ A ideologia Don't Repeat Yourself (DRY) é um conceito de programação que defe
 | Baixa | Sim |
 | Alta | Não |
 
-## 3. Ferramentas da análise de qualidade
+
+**Métrica 4:** Cobertura de Teste
+
+|              **Indicador**                |            **Legenda**              |
+|:-------------------------------:|:---------------------------:|
+|acima de 90%   |Excelente|
+|50% - 89%   |Bom|
+|30% - 49%   |Razoável|
+|abaixo de 30%   |Ruim|
+
+**Métrica 5:** Número de Caracteres por Linha
+
+De acordo com o guia de estilo, cada linha deverá ter no máximo 80 caracteres.
+
+**Métrica 6:** Número de Linhas por Método
+
+Devido a alta distinção entre métodos, cada um tendo sua função específica. Esta métrica será utilizado apenas para fins informativos, para a averiguação dos resultados será utilizada a Complexidade Ciclomática, tendo como foco um bom design de operações.
+
+## 3. Ferramentas para análise de qualidade
 
 ### Flay
 
@@ -129,35 +146,6 @@ SimpleCov é uma ferramenta de análise de cobertura de teste para código em Ru
 ### MetricFu
 
 MetricFu é um compilado de diversas ferramentas que ajudam a encontrar partes do código que podem ser melhoradas. No projeto será utilizado o MetricFu para a análise, utilizando todas as ferramentas mencionadas neste documento.
-
-## 4. Métricas
-
-### Complexidade Ciclomática
-
-Como indicador de complexidade ciclomática, adotou-se que serão aceitados apenas valores abaixo de 12, a parte do código que tiver este indicador acima de 12 deverá ser simplificada e até quebrada
-
-|              **Indicador**                |            **Legenda**              |
-|:-------------------------------:|:---------------------------:|
-|0 - 5   |Excelente|
-|6 - 12   |Razoável|
-|acima de 12   |Ruim|
-
-### Cobertura de Teste
-
-|              **Indicador**                |            **Legenda**              |
-|:-------------------------------:|:---------------------------:|
-|acima de 90%   |Excelente|
-|50% - 89%   |Bom|
-|30% - 49%   |Razoável|
-|abaixo de 30%   |Ruim|
-
-### Número de Caracteres por Linha
-
-De acordo com o guia de estilo, cada linha deverá ter no máximo 80 caracteres.
-
-### Número de Linhas por Método
-
-Devido a alta distinção entre métodos, cada um tendo sua função específica. Esta métrica será utilizado apenas para fins informativos, para a averiguação dos resultados será utilizada a Complexidade Ciclomática, tendo como foco um bom design de operações.
 
 ## 5. Referências Bibliográficas
 
