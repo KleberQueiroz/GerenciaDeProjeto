@@ -1,6 +1,6 @@
 # Onde É? UnB
 
-![](http://imgur.com/a/ijUId)
+![Logo](http://imgur.com/a/ijUId)
 <!---![Imgur](http://i.imgur.com/MXSzQCq.jpg) --->
 
 # Equipe
