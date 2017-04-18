@@ -39,6 +39,37 @@ O processo de qualidade será dado a partir de uma sequência de passos definido
 
 * Monitorar e controlar a qualidade do projeto: é dado ao monitorar, registrar para então avaliar o desempenho e recomendar mudanças no projeto. É benéfico ao projeto pois identifica causas da baixa qualidade e pode fazer recomendações para elimina-la e valida a conformidade do projeto para com as partes interessadas.
 
+## GQM do projeto
+
+<p align="justify">O Goal Question Metric (GQM), é um paradigma de medição que visa definir e integrar objetivos à modelos de processo, produto e aspectos de qualidade. É uma abordagem orientada a metas que tem como base a definição de metas operacionais e mensuráveis top-down no processo de medição e interpretação dos dados resultantes bottom-up. O processo GQM é separado em passos ou fases que cobrem todo o planejamento e execução de um plano de medições. As fases são:
+
+* **Estudo prévio**
+
+Trata da motivação envolvida. Nessa fase ocorre a definição da área de melhoria.
+
+| Dimensão | Objetivos 1 e 2 |
+|-----------------------|---------------------|
+| Analisar | Código |
+| Com propósito de | Conhecer e Melhorar |
+| Com respeito a | Qualidade |
+| Sob ponto de vista do | Desenvolvedor |
+| No contexto de | Projeto OndeÉ?UnB |
+
+
+* **Desenvolvimento do Plano GQM**
+
+Baseado nos objetivos, foi desenvolvido um plano GQM que consiste em objetivo, perguntas e métricas.
+
+Para cada fator de qualidade registrado no Abstraction Sheet é gerada uma pergunta que nada mais é que um resultado do objetivo de mensuração.
+
+| <p align="left">Fatores de Qualidade | <p align="left">Fatores de Variação |
+|-------------------------------------------|------------------------------------------------------------------------|
+| Complexidade do código<br/>Taxa de comentários | Experiência do desenvolvedor com a linguagem<br/>Motivação do Desenvolvedor |
+| **Hipótese de Linha-Base** | **Impacto na Hipótese de Linha-Base** |
+| Deve haver complexidade de no máximo 5<br/>Deve haver no mínimo uma linha de comentário a cada quatro linhas de código<br/>Duplicidade de código|  |
+
+
+
 ## 3. Ferramentas da análise de qualidade
 
 ### Flay
