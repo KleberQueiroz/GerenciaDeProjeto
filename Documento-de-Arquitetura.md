@@ -98,8 +98,8 @@
 
 ### 4.2 Diagrama de Casos de Uso   
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-casos-de-uso.png)  
-[Diagrama de Casos de Uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-casos-de-uso.png)    
+![](http://i.imgur.com/UTJq5h0.png)  
+[Diagrama de Casos de Uso 2.0](http://i.imgur.com/UTJq5h0.pngg)    
 
 ### 4.3 Descrição dos Casos de Uso  
 
@@ -154,8 +154,8 @@
 ### 5.2 Diagrama de Classes  
 <p align ="justify">Abaixo encontra-se o diagrama de classes do sistema:  
 
-![](http://i.imgur.com/UTJq5h0.png)  
-[Diagrama de Classes](http://i.imgur.com/UTJq5h0.png)  
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-classe-3.0.jpg)  
+[Diagrama de Classes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-classe-3.0.jpg)  
 
 ### 5.3 Diagrama de Pacotes
 
