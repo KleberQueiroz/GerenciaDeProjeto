@@ -155,7 +155,7 @@
 <p align ="justify">Abaixo encontra-se o diagrama de classes do sistema:  
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-classe-3.0.jpg)  
-[Diagrama de Classes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-classe-3.0.jpg)  
+[Diagrama de Classes 3.0](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.1-LocalizacaoDarcy/imagens/diagrama-de-classe-3.0.jpg)  
 
 ### 5.3 Diagrama de Pacotes
 
