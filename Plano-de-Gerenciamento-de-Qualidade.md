@@ -47,10 +47,10 @@ O processo de qualidade será dado a partir de uma sequência de passos definido
 
 Trata da motivação envolvida. Nessa fase ocorre a definição da área de melhoria.
 
-| Dimensão | Objetivos 1 e 2 |
+| Dimensão | Objetivo|
 |-----------------------|---------------------|
 | Analisar | Código |
-| Com propósito de | Conhecer e Melhorar |
+| Com propósito de | Conhecer|
 | Com respeito a | Qualidade |
 | Sob ponto de vista do | Desenvolvedor |
 | No contexto de | Projeto OndeÉ?UnB |
@@ -68,7 +68,41 @@ Para cada fator de qualidade registrado no Abstraction Sheet é gerada uma pergu
 | **Hipótese de Linha-Base** | **Impacto na Hipótese de Linha-Base** |
 | Deve haver complexidade de no máximo 5<br/>Deve haver no mínimo uma linha de comentário a cada quatro linhas de código<br/>Duplicidade de código|  |
 
+* **Perguntas e Métricas**
 
+**Pergunta 1:** Qual a qualidade do código do OndeÉUnB?
+
+O nível de qualidade do código será dado a partir de três fatores: Complexidade, Quantidade de Comentários por Quantidade de Linhas e Duplicidade de Código. Para cada variável será atribuída uma pontuação. Os quadros a seguir contém os critérios para julgar a qualidade em cada variável. A partir dos resultados obtidos, essas variáveis poderão interpoladas para se ter uma conclusão final sobre a qualidade do código.
+
+
+**Métrica 1:** Complexidade do Código
+
+Segundo uma pesquisa sobre psicologia cognitiva, um indivíduo consegue armazenar em sua memória de 5 a 9 objetos simultaneamente (MOURÃO, 2015). Por isso, um desenvolvedor ao analisar o código, o ideal seria que no máximo o código tivesse 5 caminhos diferentes, por isso foi escolhida a complexidade de no máximo 5.
+
+| Qualidade relacionada a Complexidade | Média de Complexidade do Código |
+|--------------------------------------|---------------------------------|
+| Baixa | Complexidade < 5 |
+| Média | Complexidade = 5 |
+| Alta | Complexidade > 5 |
+
+**Métrica 2:** Comentários por Total de Linhas
+
+Dentre o número de aplicações de técnicas de comentários, inicialmente será definido um número de uma linha de comentário para cada dez linhas de código.
+
+| Qualidade relacionada a Comentários | Linhas de Comentários / Quantidade total de linhas (C) |
+|-------------------------------------|--------------------------------------------------------|
+| Baixa | C < 1/10 |
+| Média | C = 1/10 |
+| Alta | C > 1/10 |
+
+**Métrica 3:** Código Duplicado
+
+A ideologia Don't Repeat Yourself (DRY) é um conceito de programação que defende que um sistema deve possuir uma representação única. A não repetição de código auxilia a tornar o código manutenível.
+
+| Qualidade para Código Duplicado | Possui |
+|---------------------------------|--------|
+| Baixa | Sim |
+| Alta | Não |
 
 ## 3. Ferramentas da análise de qualidade
 
@@ -128,3 +162,5 @@ Devido a alta distinção entre métodos, cada um tendo sua função específica
 ## 5. Referências Bibliográficas
 
 PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
+
+MOURAO JUNIOR, Carlos Alberto  and  FARIA, Nicole Costa. Memória. Psicol. Reflex. Crit. [online]. 2015, vol.28, n.4, pp.780-788. Available from: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-79722015000400017&lng=en&nrm=iso>. ISSN 0102-7972.  http://dx.doi.org/10.1590/1678-7153.201528416.
