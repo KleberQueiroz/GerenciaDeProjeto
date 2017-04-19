@@ -45,33 +45,33 @@
 
 ### 3.1. Saída de um integrante do time
 
-Data: 11/03/2017
+<p align="justify">Data: 11/03/2017
 
-Descrição: na iteração 1, após a primeira reunião de equipe (dia 09/03/2017) em membro de MDS desistiu da matéria por motivos pessoais. Esse foi um risco definido com prioridade alta, e de acordo com o plano de riscos, por isso foi tratado o quanto antes.
+<p align="justify">Descrição: na iteração 1, após a primeira reunião de equipe (dia 09/03/2017) em membro de MDS desistiu da matéria por motivos pessoais. Esse foi um risco definido com prioridade alta, e de acordo com o plano de riscos, por isso foi tratado o quanto antes.
 
-Impacto: A desistência de um membro causou um certo desconforto na equipe, porém, por ter sido solucionado rápido, não surtiu muitos efeitos.
+<p align="justify">Impacto: A desistência de um membro causou um certo desconforto na equipe, porém, por ter sido solucionado rápido, não surtiu muitos efeitos.
 
-Ação: por ainda se tratar do início do semestre, a comunicação entre os membros funcionou muito bem, por parte, houve um encorajamento da equipe com isso, logo encontraram um novo membro, e rapidamente foi substituído.
+<p align="justify">Ação: por ainda se tratar do início do semestre, a comunicação entre os membros funcionou muito bem, por parte, houve um encorajamento da equipe com isso, logo encontraram um novo membro, e rapidamente foi substituído.
 
 ### 3.2. Concorrência
 
-Data: 29/03/2017
+<p align="justify">Data: 29/03/2017
 
-Descrição: na iteração 2, na busca de mais dados relacionados a salas do Darcy Ribeiro, a fornecedora dos dados de geolocalização das salas anunciou que iria fazer um sistema utilizando-os, e que não poderia fornece-los.
+<p align="justify">Descrição: na iteração 2, na busca de mais dados relacionados a salas do Darcy Ribeiro, a fornecedora dos dados de geolocalização das salas anunciou que iria fazer um sistema utilizando-os, e que não poderia fornece-los.
 
-Impacto: Isso causou uma certa desmotivação da equipe e provavelmente fará com que o público alvo esteja dividido.
+<p align="justify">Impacto: Isso causou uma certa desmotivação da equipe e provavelmente fará com que o público alvo esteja dividido.
 
-Ação: houve a necessidade de uma comunicação maior sobre esse aspecto. Os membros decidiram continuar com o projeto OndeÉUnB. A equipe de GPP observou para os membros de MDS que a equipe é capaz de fazer um sistema ainda melhor.
+<p align="justify">Ação: houve a necessidade de uma comunicação maior sobre esse aspecto. Os membros decidiram continuar com o projeto OndeÉUnB. A equipe de GPP observou para os membros de MDS que a equipe é capaz de fazer um sistema ainda melhor.
 
 ### 3.3. Tecnologia com funções que trazem resultados imprecisos
 
-Data: 13/04/2017
+<p align="justify">Data: 13/04/2017
 
-Descrição: na iteração 3, após estudar a API do Google Maps, foi constatado que a precisão de rotas a pé da API não era satisfatória no Campus Darcy Ribeiro. Com isso, as rotas traçadas pela API, em sua maioria, seguiam rotas de carros, o que tornaria inviável para o público alvo principal do projeto (estudantes) utilizarem a pé.
+<p align="justify">Descrição: na iteração 3, após estudar a API do Google Maps, foi constatado que a precisão de rotas a pé da API não era satisfatória no Campus Darcy Ribeiro. Com isso, as rotas traçadas pela API, em sua maioria, seguiam rotas de carros, o que tornaria inviável para o público alvo principal do projeto (estudantes) utilizarem a pé.
 
-Impacto: Isso causou na equipe nervosismo no sentido que seria necessário encontrar logo uma solução.
+<p align="justify">Impacto: Isso causou na equipe nervosismo no sentido que seria necessário encontrar logo uma solução.
 
-Ação: Diante da situação, os membros estudaram tanto a viabilidade de continuar com a API do Google Maps e no futuro a mesma não ser satisfatório o resultado, como também estudaram uma nova tecnologia que tem por característica ser de código aberto, chamada Leaflet. A API do Leaflet foi satisfatória, tanto para necessidades presentes, quanto a longo prazo. Por esses motivos, a API do Google Maps foi substituída pela API do Leaflet.
+<p align="justify">Ação: Diante da situação, os membros estudaram tanto a viabilidade de continuar com a API do Google Maps e no futuro a mesma não ser satisfatório o resultado, como também estudaram uma nova tecnologia que tem por característica ser de código aberto, chamada Leaflet. A API do Leaflet foi satisfatória, tanto para necessidades presentes, quanto a longo prazo. Por esses motivos, a API do Google Maps foi substituída pela API do Leaflet.
 
 
 
