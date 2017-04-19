@@ -46,27 +46,25 @@ Foram testadas as seguintes features. Os cenários delas podem ser vistas na pas
 
 ## 3. Problemas
 
-Todo o conteúdo HTML presente na pasta ‘app/views’ pode ser testada normalmente utilizando o cucumber. Ou seja, é possível encontrar todas as tags e conteúdo html.
+Todo o conteúdo HTML presente na pasta ‘app/views’ pode ser testada normalmente utilizando o cucumber. Ou seja, o cucumber consegue encontrar todas as tags e conteúdo html.
 
-O problema ocorreu ao testar o código gerado dinamicamente, via javascript, pela API leaflet. O mapa e botões como o de zoom, que vemos na tela principal, é gerado via javascript, e o cucumber não consegue encontrar esses elementos na DOM do HTML.
+O problema ocorreu ao testar o código gerado dinamicamente pela API leaflet, via javascript. O mapa e botões como o de zoom, que vemos na tela principal por exemplo, é gerado via javascript. E, por isso, o cucumber não consegue encontrar esses elementos na DOM do HTML.
 
 Dessa forma, não conseguimos rodar os testes que englobam conteúdo gerado dinamicamente.
 
 ## 4. Tentativas de solucionar o problema
 
-1. Passamos a utilizar, então, o ‘Capybara’, porém o seu driver padrão ‘'RackTest" também não tem suporte a javascript.
+1. Passamos a utilizar, então, o "Capybara". Porém o seu driver padrão "RackTest" também não tem suporte a javascript.
 
-2. Então, tentou-se utilizar o “capybara" com o driver do selenium. Apesar de termos configurado o ambiente corretamente e instalado o firefox, geckodriver e o selenium, essa solução não foi viável. Isso porque o grupo está usando vagrant, e a falta de uma GUI impede a sua utilização.
+2. Então, tentou-se utilizar o "Capybara" com o driver do "selenium". Apesar de termos configurado o ambiente corretamente e instalado o firefox, geckodriver e o selenium, essa solução não foi viável. Isso porque o grupo está usando vagrant, e a falta de uma GUI impede a sua utilização.
 
-3. Finalmente, encontrou-se um browser que não depende de uma interface gráfica, o PhantomJS que em conjunto com o driver ‘poltergeist' para o Capybara, em teoria, solucionaria o nosso problema. Porém, ele também não funcionou, ou não conseguimos configurá-lo corretamente.
+3. Finalmente, encontrou-se um browser que não depende de uma interface gráfica, o PhantomJS que em conjunto com o driver "poltergeist" para o Capybara, em teoria, solucionaria o nosso problema. Porém, ele também não funcionou, ou não conseguimos configurá-lo corretamente.
 
 ## 5. Resultados
 
 O numero de testes ficou reduzido devido aos problemas citados, mas o resultado obtido foi o seguinte:
 
 
-9 scenarios (9 passed)
-
-32 steps (32 passed)
-
-0m3.257s
+	9 scenarios (9 passed)
+	32 steps (32 passed)
+	0m3.257s
