@@ -19,3 +19,4 @@
 7. UC07 - [Visualizar Trajeto](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Visualizar-Trajeto)
 8. UC08 - [Pesquisar Locais do Campus](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Pesquisar-Locais-do-Campus)
 9. UC09 - [Visualizar Mapa do Campus](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Mostrar-Mapa-do-Campus)
+10. UC010 - [Fazer Login](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Fazer-Login)
