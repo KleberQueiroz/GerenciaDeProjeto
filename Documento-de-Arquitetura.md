@@ -99,8 +99,8 @@
 
 ### 4.2 Diagrama de Casos de Uso   
 
-![](http://i.imgur.com/UTJq5h0.png)  
-[Diagrama de Casos de Uso 2.0](http://i.imgur.com/UTJq5h0.pngg)    
+![](http://i.imgur.com/Rfq8bzo.png)  
+[Diagrama de Casos de Uso 2.0](http://i.imgur.com/Rfq8bzo.png)    
 
 ### 4.3 Descrição dos Casos de Uso  
 
@@ -130,6 +130,7 @@
 
 **UC09 - Visualizar Mapa do Campus**  
 <p align ="justify">Este caso de uso se refere ao ato de mostrar o mapa do Campus junto com os itens nele cadastrados ao usuário.  
+
 
 ## 5) Visão Lógica  
 
