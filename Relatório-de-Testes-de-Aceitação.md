@@ -28,18 +28,21 @@ Foi utilizada principalmente a gem ‘cucumber’ para a realização dos testes
 Foram testadas as seguintes features. Os cenários delas podem ser vistas na pasta 'features' do repositório.
 
 1)
+
 	* Feature: View Unb Map
 	In order find a specific location 
 	As a normal user
 	I want to view the university map
 
 2)
+
 	* Feature: View about page
 	In order find information about the project
 	As a normal user
 	I want to view the about page
 
 3)
+
 	* Feature: Manage the web application content
 	In order to manage the website content
 	As an admin user
