@@ -39,6 +39,8 @@
 
 [Plano de Gerenciamento da Qualidade](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Qualidade)
 
+   * [Relatório de Qualidade](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Relatorio-de-Qualidade)
+
 [Plano de Gerenciamento das Partes Interessadas](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-das-Partes-Interessadas)
 
 [Plano de Gerenciamento dos Custos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Custos)
