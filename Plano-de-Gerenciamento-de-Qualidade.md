@@ -83,7 +83,7 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 | Período de coleta | Após o desenvolvimento dos Casos de Uso da R1 e ao final de cada Sprint na R2 |
 | Ação | Caso seja alta a complexidade, o código deverá ser refatorado. |
 | Meta | A complexidade será considerada: Baixa < 5, Regular = 5, Alta > 5. |
-|Ferramenta| Codacy/Rubocop|
+|Ferramenta| Code Climate/Rubocop|
 
 #### M2. Cobertura de Testes
 
@@ -107,7 +107,7 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 | Período de coleta | Após o desenvolvimento dos Casos de Uso da R1 e ao final de cada Sprint na R2 |
 | Ação | Caso seja ultrapassada a meta, o código deverá ser refatorado. |
 | Meta | Cada classe deve ter no máximo 100 linhas de código |
-|Ferramenta| Codacy/Rubocop|
+|Ferramenta| Code Climate/Rubocop|
 
 
 #### M4. Linhas por método
@@ -120,17 +120,17 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 | Período de coleta | Após o desenvolvimento dos Casos de Uso da R1 e ao final de cada Sprint na R2 |
 | Ação | Se o limite for ultrapassado, refatorar método. |
 | Meta | Pontuação de 15 ou menor que 15. |
-|Ferramenta| Codacy/Rubocop|
+|Ferramenta| Code Climate/Rubocop|
 
 ## 3. Ferramentas para análise de qualidade
 
-### 3.1. Codacy
+### 3.1. Code Climate
 
-<p align="justify">Codacy é uma ferramenta de análise estática que coleta diversas métricas. Com ela é possível escolher quais ferramentas utilizar e quais métricas coletar sem a necessidade de configurar um arquivo na path do seu projeto.
+<p align="justify">Code Climate é uma ferramenta de análise estática que coleta diversas métricas. Nela podem ser configuradas diversas ferramentas, dentre elas o Rubocop.
 
 ### 3.2. Rubocop
 
-<p align="justify">Rubocop é uma das ferramentas que o Codacy utiliza, tendo grande importância para o OndeEUnB pois fará a maior parte das coletas de métricas.
+<p align="justify">Rubocop é uma das ferramentas que o Code Climate utiliza, tendo grande importância para o OndeEUnB pois fará a maior parte das coletas de métricas.
 
 ### 3.3. CircleCI
 
