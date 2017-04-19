@@ -10,9 +10,21 @@
 
 ***
 
-## Sumário
-
-[1. Introdução](#1-introdução) 
+1.  [Objetivo](#1-objetivo)
+2.  [Relatório](#2-relat%C3%B3rio)
+   * [2.1 Iteração 1](#21-itera%C3%A7%C3%A3o)
+      * [2.1.1 Custo e Esforço](#211-custo-e-esfor%C3%A7o)
+      * [2.1.2 Riscos Ocorridos](#212-riscos-ocorridos)
+      * [2.1.3 Considerações](#213-considera%C3%A7%C3%B5es)
+   * [2.2 Iteração 2](#22-itera%C3%A7%C3%A3o-2)
+      * [2.2.1 Custo e Esforço](#221-custo-e-esfor%C3%A7o)
+      * [2.2.2 Riscos Ocorridos](#222-riscos-ocorridos)
+      * [2.2.3 Considerações](#223-considera%C3%A7%C3%B5es)
+   * [2.3 Iteração 3](#23-itera%C3%A7%C3%A3o)
+      * [2.3.1 Custo e Esforço](#231-custo-e-esfor%C3%A7o)
+      * [2.3.2 Riscos Ocorridos](#232-riscos-ocorridos)
+      * [2.3.3 Considerações](#233-considera%C3%A7%C3%B5es)
+3.  [Considerações Finais](#3-considerações)
 
 ## 1. Objetivo
 
@@ -44,7 +56,11 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 
 * A primeira iteração do projeto foi a mais curta, a definição de equipe e a elaboração do documento de visão foram os focos dessa iteração.
 
+* A falta de uma boa distribuição de tarefas na primeira semana causou uma menor participação dos membros de MDS, o que ocasionou o atraso do Documento de Visão.
+
 * Um membro saiu da equipe de MDS, porém foi rapidamente substituído por ainda ser no início do semestre.
+
+* Não houve replanejamento de horas com a saída do integrantes de MDS uma vez que outro entrou em seu lugar antes da criação do cronograma.
 
 ### 2.2 Iteração 2
 
@@ -64,13 +80,15 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 
 #### 2.2.2 Riscos Ocorridos
 
-*
+* Concorrência
 
 #### 2.2.3 Considerações
 
 * A iteração 2 teve como foco desenvolver planos, finalizar o documento de visão, treinamentos e o protótipo do projeto.
 
-* 
+* A falta de uma boa estimativa de custos foi o motivo da CV ser tão alta, uma vez que o elevado número de integrantes de GPP realizou as tarefas em menos tempo do que o previsto. Foram adiantadas algumas atividades o que amenizou um pouco o impacto.
+
+
 
 ### 2.3 Iteração 3
 
@@ -90,8 +108,14 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 
 #### 2.3.2 Riscos Ocorridos
 
-* 
+* Tecnologia com funções que trazem resultados imprecisos
 
 #### 2.3.3 Considerações
 
 * Nesta iteração foi identificado pelo time que a API do Google Maps não forneceria uma precisão satisfatória em relação a rotas dentro do Campus Darcy Ribeiro. Isso foi identificado como um ponto crítico do trabalho, a API do Google Maps foi substituída pela API Leaflet.
+
+* Mesmo com a troca de API 6 dias antes da release, o grupo conseguiu entregar o planejado e ainda conseguiu entregar outro caso de uso testado.
+
+* O atraso que ocorreu nesta iteração foi causado pela troca de API que impossibilitou a realização do treinamento de testes, que está planejado para a segunda release.
+
+## 3. Considerações Finais
