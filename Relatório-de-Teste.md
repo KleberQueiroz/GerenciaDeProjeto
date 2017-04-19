@@ -3,8 +3,8 @@
 | Data  | Versão  |  Descrição | Autor  |
 |---|:---:|---|---:|
 |  18/04/2017 | 0.1  |  Início do Documento | Stéfane Souza  |
-| 18/04/2017  | 0.2  |  Inclusão de TC10, TC11, TC06, TC07 | Stéfane Souza |
-| 18/04/2017  | 1.0  | Inclusão de TC01, TC09 | Kairon Veloso  |
+| 18/04/2017  | 0.2  |  Inclusão de TC10, TC06, TC07 | Stéfane Souza |
+| 18/04/2017  | 1.0  | Inclusão de TC01, TC09 | Kairon Velozo  |
 
 
 ## TC01 - Cadastrar/Editar Edifícios 
@@ -93,7 +93,7 @@ TFUC10 - Fazer Login
 
 | Caso de Teste  | Entrada  | Resultado esperado  | Resultado obtido  | Status  |
 |:-:|---|---|---|---|
-| TC10_01  | E-mail Válido  | O email do administrador é cadastrado no banco de dados  | E-mail do administrador cadastrado  | Êxito  |
-| TC10_02  | E-mail Inválido  | O sistema irá mostrar que o email inserido é inválido e solicita o dado novamente  | Uma mensagem de erro de e-mail incorreto  | Êxito  |
-| TC10_01  | Senha Válida  | A senha do administrador é cadastrada no banco de dados  | Senha do administrado cadastrada  |  Êxito |
-| TC10_02  | Senha Inválida  | O sistema irá mostrar que a senha inserida é inválida e solicita o dado novamente  | Uma mensagem de erro de senha inválida  | Êxito  |
+| TC10_01  | E-mail Válido  | O administrador é logado.  | O admininstrador é logado.   | Êxito  |
+| TC10_02  | E-mail Inválido  | O sistema irá mostrar os dados de acesso são incorretos.  | Uma mensagem de erro de dados incorretos.  | Êxito  |
+| TC10_01  | Senha Válida  |  O admininstrador é logado.  | O admininstrador é logado.   |  Êxito |
+| TC10_02  | Senha Inválida  | O sistema irá mostrar os dados de acesso são incorretos.  | Uma mensagem de erro de dados incorretos.  | Êxito  |
