@@ -69,7 +69,7 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 |-------------------------------------------|------------------------------------------------------------------------|
 | Complexidade do código<br/>Taxa de comentários<br/>Cobertura de Testes | Experiência do desenvolvedor com a linguagem<br/>Motivação do Desenvolvedor |
 | **Hipótese de Linha-Base** | **Impacto na Hipótese de Linha-Base** |
-| Espera se que o projeto tenha complexidade 5<br/>É esperado que na R1 tenha mais de 30% de cobertura de testes e na R2 mais de 90%<br/>A classe tem um número de linhas <= 100|Com o impacto dos fatores de variação, prevê-se que a complexidade do código seja 8<br/>Que a cobertura de testes diminua 10% em relação a Hipótese de Linha-Base <br/>O código irá possui 150 linhas por classe |
+| Espera se que o projeto tenha complexidade 5<br/>É esperado que na R1 tenha mais de 30% de cobertura de testes e na R2 mais de 90%<br/>A classe tem um número de linhas <= 100<br/>O código possui uma pontuação de 15 no ABC metric|Com o impacto dos fatores de variação, prevê-se que a complexidade do código seja 8<br/>Que a cobertura de testes diminua 10% em relação a Hipótese de Linha-Base <br/>O código irá possui 150 linhas por classe<br/>O codigo tem nota 20 em relação ao ABC metric|
 
 ### 2.3. Métricas
 
@@ -95,7 +95,7 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 | Período de coleta | Após o desenvolvimento dos Casos de Uso da R1 e ao final de cada Sprint na R2 |
 | Ação | Caso metas não sejam atingidas, buscar entender motivos e e tomar decisões corretivas. |
 | Meta | Testes R1 > 30%, Testes R1 > 90% |
-|Ferramenta|SimpleCov|
+|Ferramenta|SimpleCov, Cucumber, rspec|
 
 #### M3. Tamanho de Classes
 
@@ -126,26 +126,34 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 
 ### 3.1. Codacy
 
-Codacy é uma ferramenta de análise estática que coleta diversas métricas. Com ela é possível escolher quais ferramentas utilizar e quais métricas coletar sem a necessidade de configurar um arquivo na path do seu projeto.
+<p align="justify">Codacy é uma ferramenta de análise estática que coleta diversas métricas. Com ela é possível escolher quais ferramentas utilizar e quais métricas coletar sem a necessidade de configurar um arquivo na path do seu projeto.
 
 ### 3.2. Rubocop
 
-Rubocop é uma das ferramentas que o Codacy utiliza, tendo grande importância para o OndeEUnB pois fará a maior parte das coletas de métricas.
+<p align="justify">Rubocop é uma das ferramentas que o Codacy utiliza, tendo grande importância para o OndeEUnB pois fará a maior parte das coletas de métricas.
 
 ### 3.3. CircleCI
 
-
+<p align="justify">Circle CI é uma ferramenta de integração contínua e deploy para projetos hospedados no GitHub. Nele é possível criar uma build em cada commit, passando por todos os testes unitários e de integração. Garantindo assim que a versão no servidor será sempre a última versão estável do software.
 
 ### 3.4. SimpleCov
 
+<p align="justify">O SimpleCov é uma ferramenta de análise para ruby on rails, ele determina o status de cobertura de testes para cada arquivo do seu projeto.
+
 ### 3.5. Cucumber
+
+<p align="justify">Cucumber é uma ferramentar em que é possível escrever testes de aceitação automatizados do sistemas. No Cucumber são executados passos que descrevem como o software deve se comportar.
+
+### 3.6. RSpec
+
+RSpec é uma ferramenta de testes para Rails de testes unitários. Ela fornece uma forma de encapsular o que irá ser testado com um bloco "describe".
 
 ## 5. Referências Bibliográficas
 
-PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
+<p align="justify">PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
 
-MOURAO JUNIOR, Carlos Alberto  and  FARIA, Nicole Costa. Memória. Psicol. Reflex. Crit. [online]. 2015, vol.28, n.4, pp.780-788. Available from: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-79722015000400017&lng=en&nrm=iso>. ISSN 0102-7972.  http://dx.doi.org/10.1590/1678-7153.201528416.
+<p align="justify">MOURAO JUNIOR, Carlos Alberto  and  FARIA, Nicole Costa. Memória. Psicol. Reflex. Crit. [online]. 2015, vol.28, n.4, pp.780-788. Available from: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-79722015000400017&lng=en&nrm=iso>. ISSN 0102-7972.  http://dx.doi.org/10.1590/1678-7153.201528416.
 
-SARAIVA, V. A. 2006. "UTILIZAÇÃO DA ABORDAGEM GOAL-QUESTION-METRICS (GQM) NA ELABORAÇÃO E EXECUÇÃO DE PLANOS DE AVALIAÇÃO DE USABILIDADE DE SOFTWARE : UM ESTUDO EMPÍRICO SOBRE UM SOFTWARE AGROPECUÁRIO".
+<p align="justify">SARAIVA, V. A. 2006. "UTILIZAÇÃO DA ABORDAGEM GOAL-QUESTION-METRICS (GQM) NA ELABORAÇÃO E EXECUÇÃO DE PLANOS DE AVALIAÇÃO DE USABILIDADE DE SOFTWARE : UM ESTUDO EMPÍRICO SOBRE UM SOFTWARE AGROPECUÁRIO".
 
-MALDONADO, José Carlos et al. Introduçao ao teste de software. Rio de Janeiro: Campus, 2007.
+<p align="justify">MALDONADO, José Carlos et al. Introduçao ao teste de software. Rio de Janeiro: Campus, 2007.
