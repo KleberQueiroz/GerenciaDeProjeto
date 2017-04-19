@@ -14,6 +14,7 @@
 | 06/04/2017 | 1.5    | Atualização dos casos de uso e do seu diagramas                                                                                                                                                                      | Mateus Roriz                                            |
 | 07/04/2017 | 1.6    | Atualização do diagrama de pacotes e diagrama de classe                                                                                                                                                              | Mateus Roriz                                            |
 | 17/04/2017 | 1.7    | Atualização do diagrama de casos de uso, diagrama de classes.                                                                                                                                                        | Lucas S, Taynara, Kairon Velozo, Mateus Roriz, Stéfane. |
+| 18/04/2017 | 1.8    | Atualização do diagrama de casos de uso e inclusão dos casos UC10 e UC11.                                                                                                                                                    | Kairon Velozo, Mateus Roriz, Stéfane. |
 
 
 -------------------------------------------------------------------
@@ -131,6 +132,11 @@
 **UC09 - Visualizar Mapa do Campus**  
 <p align ="justify">Este caso de uso se refere ao ato de mostrar o mapa do Campus junto com os itens nele cadastrados ao usuário.  
 
+**UC10 - Fazer Login**  
+<p align ="justify">O caso de uso é destinado ao administrador para efetuar o login na aplicação.  
+
+**UC11 - Manter Admininstradores**  
+<p align ="justify">O caso de uso é destinado ao administrador. Através dele é possível gerenciar as contas de administradores na aplicação.
 
 ## 5) Visão Lógica  
 
