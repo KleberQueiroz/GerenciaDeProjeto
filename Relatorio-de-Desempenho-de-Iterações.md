@@ -123,7 +123,7 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 
 ## 3. Considerações Finais
 
-* A equipe apresentou uma produtividade elevada depois de um foco maior na documentação que foi sentida na iteração 2 e 3. 
+* A equipe apresentou uma produtividade elevada depois de um foco maior na documentação demonstrada nos índices da iteração 2 e 3. 
 
 * Futuros planejamentos levarão em conta o elevado número de integrantes para maior aproveitamento da produtividade.
 
