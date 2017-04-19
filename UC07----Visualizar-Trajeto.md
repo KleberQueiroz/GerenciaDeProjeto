@@ -10,7 +10,7 @@
 
 ### 4. Fluxo de Eventos 
 
-**4.1 Fluxo Principal (FP):** 
+**4.1 Fluxo Principal:** 
 * Este caso de uso se inicia quando o usuário determina pontos de partida e destino dentro do mapa.
 1. O usuário clica em Visualizar Trajeto. **[FA01]**
 2. É apresentada uma tela para colocar os pontos de partida e destino. **[FE01] [RN01]**
@@ -23,7 +23,8 @@
 **4.3. Fluxo de Exceção:** 
 * [FE01] - Dados incorretos
 1. O usuário insere o nome de um local que não existe ou não está cadastrado.
-2. O sistema irá apresentar uma mensagem de erro e o caso de uso se reinicia.
+2. O sistema irá apresentar uma mensagem de erro.
+3. O sistema retorna para o passo 2 do fluxo principal.
 
 
 #### 5. Regra de Negócio: 
