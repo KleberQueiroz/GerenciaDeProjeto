@@ -9,7 +9,7 @@
 |03/04/2017|2.0|Refatorando documento, criação de um outro documento para as tabelas de rastreabilidade |Rafael Rabetti|
 |16/04/2017|2.1|Refatorando documento, introdução, processo de elicitação |Eduardo Brasil|
 |16/04/2017|2.2|Gerenciamento dos requisitos, ferramentas para o gerenciamento e Programa de Gerenciamento de Requisitos|Eduardo Brasil|
-|19/04/2017|2.2|Tabelas de necessidade caracteristica e caso de uso|Rafael Rabetti|
+
 
 
 
@@ -82,56 +82,8 @@ Para gerenciar os requisitos durante a release 1 foram utilizadas as ferramentas
 
 * Wiki do Github Utilizado para a documentação oficial do projeto, baseada em versionamento, para visibilidade dos envolvidos e repositório oficial dos requisitos documentados assim como a manutenção destes requisitos em caso de mudanças. 
 
-### 3. O Programa de Gerenciamento de Requisitos
-#### 3.1 Identificação de Requisitos<a name="identificacao"></a>	 	 	
-##### 3.1.1 Descrição do Problema<a name="problema"></a>
 
-| ID | O problema de | afeta | cujo impacto é | Uma boa solução seria |
-|----|---------------|-------|----------------|-----------------------|
-| P1 | A dificuldade das pessoas de se localizarem pelos edifícios e salas no campus Darcy Ribeiro,  | estudantes, servidores e visitantes da universidade | a demora para encontrar e chegar à determinado lugar na universidade |  uma plataforma web que fornece as informações de localização de salas e prédios dentro do campus. |
-
-##### 3.1.2 Necessidades
-
-| **ID**   | **Necessidade**     | **Descrição**|
-|----------|-----------------|---------------|
-|**NE01**|Orienteção dentro do campus|Atualmente, a localização dentro do campus conta apenas com marcações de teto que muitas vezes são de difícil visualização.|
-
-##### 3.1.3 Características
-
-| **ID**   | **Característica**     | **Descrição**|
-|----------|-----------------|---------------|
-|**CA01**|Mapa com as principais localidades.| Apresentação da localização de salas e edifícios.|
-|**CA02**|Orientação entre localidades| Apresentação de rotas e caminhos entre as principais localidades. |
-
-##### 3.1.4 Requisitos
-| **ID**   | **Requisito**     | **Descrição**|
-|----------|-----------------|---------------|
-|**R01**|Localizar Edifícios|O sistema deve apresentar ao usuário a localização dos vários edifícios dentro do campus.|
-|**R02**|Localizar Departamentos|O sistema deve apresentar ao usuário a localização dos vários departamentos dentro do campus.|
-|**R03**|Localizar Salas|O sistema deve apresentar ao usuário a localização das salas dentro do campus.|
-|**R04**|Localizar Bicicletários|O sistema deve apresentar ao usuário a localização dos bicicletários dentro do campus.|
-|**R05**|Indicar trajetos entre locais|O sistema deve apresentar rotas, partindo da localização atual do usuário até o destino desejado.|
-|**R06**|Informar sobre uma localidade|O sistema deve aprensentar informações sobre um determinado edifício, sala, departamento ou local de comida. Como, horário de funcionamento, nome e outras informações.|
-
-##### 3.1.5 Casos de Uso
-
-O diagrama de casos de uso pode ser visto [aqui](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Diagrama-de-Casos-de-Uso).
-
-| **ID**   | **Caso de Uso**     | **Descrição**|
-|----------|-----------------|---------------|
-|**UC01**|Manter Edifícios|Permite a criação, leitura, exclusão e alteração de edifícios.|
-|**UC02**|Manter Departamentos|Permite a criação, leitura, exclusão e alteração de departamentos.|
-|**UC03**|Manter Salas |Permite a criação, leitura, exclusão e alteração de salas.|
-|**UC04**|Manter Bicicletários|Permite a criação, leitura, exclusão e alteração de bicicletários.|
-|**UC05**|Manter Pontos de Acesso|Permite a criação, leitura, exclusão e alteração dos pontos de acesso de um edifício.|
-|**UC06**|Mostrar Informações|Apresenta para o usuário informações sobre o local desejado. |
-|**UC07**|Calcular Trajeto|Permite ao usuário, partindo da sua localização atual, traçar rotas para chegar a um destino desejado.|
-|**UC08**|Pesquisar Locais do Campus|Permite ao usuário pesquisar locais dentro da universidade.|
-|**UC09**|Mostrar Mapa do Campus|Destinado a mostrar ao usuário o mapa do campus.|
-
-	
-
-## 4. Gerenciamento da priorização e atributos de requisitos
+## 3. Gerenciamento da priorização e atributos de requisitos
 
 A priorização dos requisitos se deu por meio da experiência da equipe de gerência em identificar quais os requisitos são mais facilmente implementados, mas mais importante que isso, quais requisitos implementam a arquitetura estabelecida para o software.
 
@@ -145,14 +97,14 @@ A priorização dos requisitos se deu por meio da experiência da equipe de ger�
 
    * Esforço 
 
-## 5. Gerência de Requisitos
+## 4. Gerência de Requisitos
 
 ###  Rastreabilidade
 
 A rastreabilidade se dará pela seguinte classificação de níveis: Problema, Necessidades, Características, Requisitos Funcionais e Não-Funcionais e Casos de uso. De acordo com esses níveis de rastreabilidade, o nível de impacto do projeto caso haja alguma mudança em algum, segue a mesma lógica. Sendo o maior impacto se houver mudança no Problema e o menor impacto se houver mudança no Caso de Uso.
 
   
-#### 5.1 Problemas
+#### 4.1 Problemas
 
 Os problemas são o nível mais altos de requisitos, desses problemas são demandadas soluções de *software*. Todo problema deve conter:
 
@@ -162,7 +114,7 @@ Os problemas são o nível mais altos de requisitos, desses problemas são deman
 
 * **Descrição**: Detalhamento do problema a ser solucionado.
 
-#### 5.2 Necessidades
+#### 4.2 Necessidades
 
 As necessidades são uma abstração dos problemas e a resolução dessas necessidades impactam na resolução do problema associado.
 
@@ -172,7 +124,7 @@ As necessidades são uma abstração dos problemas e a resolução dessas necess
 
 * **Descrição**: Detalhamento da necessidade.
 
-#### 5.3 Características
+#### 4.3 Características
 
 São características do sistema que buscam atender a uma necessidade específica.
 
@@ -182,7 +134,7 @@ São características do sistema que buscam atender a uma necessidade específic
 
 * **Descrição**: Detalhamento da característica.
 
-#### 5.4 Requisitos
+#### 4.4 Requisitos
 
 São propriedades e comportamentos que o produto de *software* deve atender.
 
@@ -192,7 +144,7 @@ São propriedades e comportamentos que o produto de *software* deve atender.
 
 * **Descrição**: Detalhamento do requisito.
 
-#### 5.5 Casos de Uso
+#### 4.5 Casos de Uso
 
 São unidades funcionais do sistema. Representam a interação entre o usuário e o sistema.
 
