@@ -100,8 +100,8 @@
 
 ### 4.2 Diagrama de Casos de Uso   
 
-![](http://i.imgur.com/Rfq8bzo.png)  
-[Diagrama de Casos de Uso 2.0](http://i.imgur.com/Rfq8bzo.png)    
+![](http://i.imgur.com/Esf9rKu.png)  
+[Diagrama de Casos de Uso 2.0](http://i.imgur.com/Esf9rKu.png)    
 
 ### 4.3 Descrição dos Casos de Uso  
 
