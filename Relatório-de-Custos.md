@@ -7,6 +7,12 @@
 ![custo.png](http://i.imgur.com/ZcCPg6O.png)
 [Clique aqui para ampliar a visualização](http://i.imgur.com/ZcCPg6O.png)
 
+## 1.1 Custo por iteração
+
+![custo.png](http://i.imgur.com/BrEM2JY.png)
+
+[Clique aqui para ampliar a visualização](http://i.imgur.com/BrEM2JY.png)
+
 
 ## 2. Gráficos
 
