@@ -29,15 +29,15 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 
 ## 2. Processo de Qualidade
 
-O processo de qualidade será dado a partir de uma sequência de passos definidos no PMBoK. As fases do processo de qualidade serão dados nas etapas de Planejamento, Execução e Monitoramento e Controle do projeto.
+<p align="justify">O processo de qualidade será dado a partir de uma sequência de passos definidos no PMBoK. As fases do processo de qualidade serão dados nas etapas de Planejamento, Execução e Monitoramento e Controle do projeto.
 
-[![ProcessoDeQualidade.png](https://s29.postimg.org/wjrbm1ygn/Processo_De_Qualidade.png)](https://postimg.org/image/8g0jxrfzn/)
+[![Captura de tela de 2017-04-19 00-33-08.png](https://s10.postimg.org/6xnfo9pkp/Captura_de_tela_de_2017-04-19_00-33-08.png)](https://postimg.org/image/7zxm6t8dx/)
 
-* Criar o planejamento da gerencia de qualidade: consiste na elaboração de um plano que contem a identificação dos requisitos ou padrões de qualidade do projeto. Realizar esse processo auxilia no fornecimento de orientações e instruções sobre como será validada e gerenciada a qualidade do projeto. 
+* <p align="justify">Criar o planejamento da gerencia de qualidade: consiste na elaboração de um plano que contem a identificação dos requisitos ou padrões de qualidade do projeto. Realizar esse processo auxilia no fornecimento de orientações e instruções sobre como será validada e gerenciada a qualidade do projeto. 
 
-* Garantir a qualidade: é o processo para garantir o uso de padrões de qualidade, de auditoria dos requisitos de qualidade e resultados de medição.
+* <p align="justify">Garantir a qualidade: é o processo para garantir o uso de padrões de qualidade, de auditoria dos requisitos de qualidade e resultados de medição.
 
-* Monitorar e controlar a qualidade do projeto: é dado ao monitorar, registrar para então avaliar o desempenho e recomendar mudanças no projeto. É benéfico ao projeto pois identifica causas da baixa qualidade e pode fazer recomendações para elimina-la e valida a conformidade do projeto para com as partes interessadas.
+* <p align="justify">Monitorar e controlar a qualidade do projeto: é dado ao monitorar, registrar para então avaliar o desempenho e recomendar mudanças no projeto. É benéfico ao projeto pois identifica causas da baixa qualidade e pode fazer recomendações para elimina-la e valida a conformidade do projeto para com as partes interessadas.
 
 ## 2. GQM do projeto
 
@@ -45,7 +45,7 @@ O processo de qualidade será dado a partir de uma sequência de passos definido
 
 * **Estudo prévio**
 
-Trata da motivação envolvida. Nessa fase ocorre a definição da área de melhoria.
+<p align="justify">Trata da motivação envolvida. Nessa fase ocorre a definição da área de melhoria.
 
 | Dimensão | Objetivo|
 |-----------------------|---------------------|
@@ -58,9 +58,9 @@ Trata da motivação envolvida. Nessa fase ocorre a definição da área de melh
 
 * **Desenvolvimento do Plano GQM**
 
-Baseado nos objetivos, foi desenvolvido um plano GQM que consiste em objetivo, perguntas e métricas.
+<p align="justify">Baseado nos objetivos, foi desenvolvido um plano GQM que consiste em objetivo, perguntas e métricas.
 
-Para cada fator de qualidade registrado no Abstraction Sheet é gerada uma pergunta que nada mais é que um resultado do objetivo de mensuração.
+<p align="justify">Para cada fator de qualidade registrado no Abstraction Sheet é gerada uma pergunta que nada mais é que um resultado do objetivo de mensuração.
 
 | <p align="left">Fatores de Qualidade | <p align="left">Fatores de Variação |
 |-------------------------------------------|------------------------------------------------------------------------|
@@ -72,11 +72,11 @@ Para cada fator de qualidade registrado no Abstraction Sheet é gerada uma pergu
 
 **Pergunta 1:** Qual a qualidade do código do OndeÉUnB?
 
-O nível de qualidade do código será dado a partir de três fatores: Complexidade, Quantidade de Comentários por Quantidade de Linhas e Duplicidade de Código. Para cada variável será atribuída uma pontuação. Os quadros a seguir contém os critérios para julgar a qualidade em cada variável. A partir dos resultados obtidos, essas variáveis poderão interpoladas para se ter uma conclusão final sobre a qualidade do código.
+<p align="justify">O nível de qualidade do código será dado a partir de três fatores: Complexidade, Quantidade de Comentários por Quantidade de Linhas e Duplicidade de Código. Para cada variável será atribuída uma pontuação. Os quadros a seguir contém os critérios para julgar a qualidade em cada variável. A partir dos resultados obtidos, essas variáveis poderão interpoladas para se ter uma conclusão final sobre a qualidade do código.
 
 **Métrica 1:** Complexidade do Código
 
-Segundo uma pesquisa sobre psicologia cognitiva, um indivíduo consegue armazenar em sua memória de 5 a 9 objetos simultaneamente (MOURÃO, 2015). Por isso, um desenvolvedor ao analisar o código, o ideal seria que no máximo o código tivesse 5 caminhos diferentes, por isso foi escolhida a complexidade de no máximo 5.
+<p align="justify">Segundo uma pesquisa sobre psicologia cognitiva, um indivíduo consegue armazenar em sua memória de 5 a 9 objetos simultaneamente (MOURÃO, 2015). Por isso, um desenvolvedor ao analisar o código, o ideal seria que no máximo o código tivesse 5 caminhos diferentes, por isso foi escolhida a complexidade de no máximo 5.
 
 | Qualidade relacionada a Complexidade | Média de Complexidade do Código |
 |--------------------------------------|---------------------------------|
@@ -86,7 +86,7 @@ Segundo uma pesquisa sobre psicologia cognitiva, um indivíduo consegue armazena
 
 **Métrica 2:** Comentários por Total de Linhas
 
-Dentre o número de aplicações de técnicas de comentários, inicialmente será definido um número de uma linha de comentário para cada dez linhas de código.
+<p align="justify">Dentre o número de aplicações de técnicas de comentários, inicialmente será definido um número de uma linha de comentário para cada dez linhas de código.
 
 | Qualidade relacionada a Comentários | Linhas de Comentários / Quantidade total de linhas (C) |
 |-------------------------------------|--------------------------------------------------------|
@@ -96,7 +96,7 @@ Dentre o número de aplicações de técnicas de comentários, inicialmente ser�
 
 **Métrica 3:** Código Duplicado
 
-A ideologia Don't Repeat Yourself (DRY) é um conceito de programação que defende que um sistema deve possuir uma representação única. A não repetição de código auxilia a tornar o código manutenível.
+<p align="justify">A ideologia Don't Repeat Yourself (DRY) é um conceito de programação que defende que um sistema deve possuir uma representação única. A não repetição de código auxilia a tornar o código manutenível.
 
 | Qualidade para Código Duplicado | Possui |
 |---------------------------------|--------|
