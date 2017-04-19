@@ -33,10 +33,12 @@ Foram testadas as seguintes features. Os cenários delas podem ser vistas na pas
 	I want to view the university map
 
 
+
 	* Feature: View about page
 	In order find information about the project
 	As a normal user
 	I want to view the about page
+
 
 
 	* Feature: Manage the web application content
