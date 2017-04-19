@@ -62,3 +62,6 @@ Para gerenciar as mudanças é necessário saber se a o pedido de mudança é um
 |Kit pincel permanente|R$ 10,90|1 unidade 4 pincéis|Kalunga|R$ 10,90|
 |Vale transporte|R$ 16,00|13 por 16 dias (reuniões)|-|R$ 3.328,00|
 |Locação de espaço|R$ 650,00|1 unidade x 4 meses|FGA|R$ 2.600,00|
+
+![Imgur](http://i.imgur.com/1gkU1Dt.png)
+[Clique para visualizar melhor](http://i.imgur.com/1gkU1Dt.png)
