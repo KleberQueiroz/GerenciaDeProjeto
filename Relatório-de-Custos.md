@@ -1,14 +1,22 @@
 ## 1. Estimativa de Custo x Custo Real x Valor Agregado
 
-![custo.png](https://github.com/fga-gpp-mds/2016.2-Jardim-Botanico-Mobile/wiki/imagens/custo.png)
+![custo.png](http://i.imgur.com/qKfDcsM.png)
 
-[Clique aqui para ampliar a visualização](https://github.com/fga-gpp-mds/2016.2-Jardim-Botanico-Mobile/wiki/imagens/custo.png)
+[Clique aqui para ampliar a visualização](http://i.imgur.com/qKfDcsM.png)
+
+![custo.png](http://i.imgur.com/ZcCPg6O.png)
+[Clique aqui para ampliar a visualização](http://i.imgur.com/ZcCPg6O.png)
+
 
 ## 2. Gráficos
 
-![graficos.png](https://github.com/fga-gpp-mds/2016.2-Jardim-Botanico-Mobile/wiki/imagens/graficos.png)
+![graficos.png](http://i.imgur.com/Uu4u0hN.png)
 
-[Clique aqui para ampliar a visualização](https://github.com/fga-gpp-mds/2016.2-Jardim-Botanico-Mobile/wiki/imagens/graficos.png)
+[Clique aqui para ampliar a visualização](http://i.imgur.com/Uu4u0hN.png)
+
+![graficos.png](http://i.imgur.com/7XOsRKS.png)
+
+[Clique aqui para ampliar a visualização](http://i.imgur.com/Uu4u0hN.png)
 
 ## 3. Custo da _Release_
 
