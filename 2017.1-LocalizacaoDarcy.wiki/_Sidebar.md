@@ -45,7 +45,7 @@
 
 [Plano de Gerenciamento dos Custos](https://github.com/fga-gpp-mds/2017.1-LocalizacaoDarcy/wiki/Plano-de-Gerenciamento-de-Custos)
 
-   * [Registro de Custos]()
+   * [Registro de Custos](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Relat%C3%B3rio-de-Custos)
 
 [Plano de Iteração](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Plano-de-Itera%C3%A7%C3%A3o)
 
