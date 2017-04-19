@@ -5,6 +5,7 @@
 |:----:|:------:|:---------:|:-----:|
 |02/04/2017|1.0|Criação do documento com riscos|Eduardo Gomes|
 |08/04/2017|2.0|Prioridades de riscos pontuadas|Eduardo Gomes|
+|19/04/2017|2.1|Atualização do Riscos Ocorridos|Eduardo Gomes|
 
 
 ## 1. Análise e resposta dos riscos negativos
@@ -32,3 +33,38 @@
 | Risco | Efeito | Probabilidade | Impacto | Prioridade | Ação | Estratégia | Responsável |
 |:----------------------------:|:-------------------------------------:|:-------------:|:-------:|------------|:---------------------------------------------------------------------------:|:----------:|:-----------:|
 | Alta produtividade da equipe | Termino do projeto antes do planejado | Alta | Alto | Alta | Revisar artefatos, refatoração do código, inclusão de novas funcionalidades | Aceitar | Todos |
+
+## 3. Riscos Ocorridos
+
+### 3.1. Saída de um integrante do time
+
+Data: 11/03/2017
+
+Descrição: na iteração 1, após a primeira reunião de equipe (dia 09/03/2017) em membro de MDS desistiu da matéria por motivos pessoais. Esse foi um risco definido com prioridade alta, e de acordo com o plano de riscos, por isso foi tratado o quanto antes.
+
+Impacto: A desistência de um membro causou um certo desconforto na equipe, porém, por ter sido solucionado rápido, não surtiu muitos efeitos.
+
+Ação: por ainda se tratar do início do semestre, a comunicação entre os membros funcionou muito bem, por parte, houve um encorajamento da equipe com isso, logo encontraram um novo membro, e rapidamente foi substituído.
+
+### 3.2. Concorrência
+
+Data: 29/03/2017
+
+Descrição: na iteração 2, na busca de mais dados relacionados a salas do Darcy Ribeiro, a fornecedora dos dados de geolocalização das salas anunciou que iria fazer um sistema utilizando-os, e que não poderia fornece-los.
+
+Impacto: Isso causou uma certa desmotivação da equipe e provavelmente fará com que o público alvo esteja dividido.
+
+Ação: houve a necessidade de uma comunicação maior sobre esse aspecto. Os membros decidiram continuar com o projeto OndeÉUnB. A equipe de GPP observou para os membros de MDS que a equipe é capaz de fazer um sistema ainda melhor.
+
+### 3.3. Tecnologia com funções que trazem resultados imprecisos
+
+Data: 
+
+### 3.2. 
+
+concorrencia, saida de membro da euipe, tecnologias com funções que trazem dados imprecisos, 
+
+
+
+
+
