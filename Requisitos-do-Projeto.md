@@ -23,9 +23,9 @@
 
 ### 1. Problemas
 
-| **ID**   | **Problema**     | **Descrição**|
-|----------|-----------------|---------------|
-| **P01** | Dificuldade de localização |A dificuldade das pessoas de se localizarem pelos edifícios e salas no campus Darcy Ribeiro afeta estudantes, servidores e visitantes da universidade, cujo impacto é a demora para encontrar e chegar à determinado lugar na universidade, causando atrasos.|
+| ID | O problema de | afeta | cujo impacto é | Uma boa solução seria |
+|----|---------------|-------|----------------|-----------------------|
+| **P1** | A dificuldade das pessoas de se localizarem pelos edifícios e salas no campus Darcy Ribeiro,  | estudantes, servidores e visitantes da universidade | a demora para encontrar e chegar à determinado lugar na universidade |  uma plataforma web que fornece as informações de localização de salas e prédios dentro do campus. |
 
 ### 2. Necessidades
 
