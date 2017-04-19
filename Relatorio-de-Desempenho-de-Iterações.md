@@ -129,4 +129,6 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 
 * O fato do Custo Real (AC) estar abaixo do planejado indica que uma melhor elaboração do cronograma daria mais valor ao cliente uma vez que poderíamos adiantar algumas outras atividades.
 
+* Algumas horas gastas pela equipe, como com reuniões por exemplo, não entraram nos custos. Isso se deve a uma falta de organização inicial ao prever a inclusão dessas atividades no cronograma. Uma solução futura seria inserir atividades como essa no cronograma e planejamento de custos e então, essas horas poderiam ser aproveitadas.
+
  
