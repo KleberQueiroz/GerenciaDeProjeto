@@ -64,6 +64,8 @@ O diagrama de casos de uso pode ser visto [aqui](https://github.com/fga-gpp-mds/
 |**UC07**|Calcular Trajeto|Permite ao usuário, partindo da sua localização atual, traçar rotas para chegar a um destino desejado.|
 |**UC08**|Pesquisar Locais do Campus|Permite ao usuário pesquisar locais dentro da universidade.|
 |**UC09**|Mostrar Mapa do Campus|Destinado a mostrar ao usuário o mapa do campus.|
+|**UC10**|Fazer Login|O caso de uso é destinado ao administrador para efetuar o login na aplicação.|
+|**UC11**|Manter Administradores|O caso de uso é destinado ao administrador. Através dele é possível gerenciar as contas de administradores na aplicação.|
 
 ### 6. Rastreabilidade
 
