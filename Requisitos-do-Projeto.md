@@ -68,7 +68,6 @@ O diagrama de casos de uso pode ser visto [aqui](https://github.com/fga-gpp-mds/
 |**UC11**|Manter Administradores|O caso de uso é destinado ao administrador. Através dele é possível gerenciar as contas de administradores na aplicação.|
 
 ### 6. Rastreabilidade
+![Imgur](http://i.imgur.com/hfcPX11.png)
 
-![Imgur](http://i.imgur.com/izZNReP.png)
-
-[Clique aqui para visualizar melhor.](http://i.imgur.com/izZNReP.png)
+[Clique aqui para visualizar melhor.](http://i.imgur.com/hfcPX11.png)
