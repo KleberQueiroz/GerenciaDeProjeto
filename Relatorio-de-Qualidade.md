@@ -16,6 +16,7 @@
 
 ## Iteração 1
 
+[![it1.png](https://s8.postimg.org/6h5y0kvl1/it1.png)](https://postimg.org/image/ij1buq4td/)
 ## Iteração 2
 
 ## Iteração 3
