@@ -90,20 +90,20 @@ Para gerenciar os requisitos durante a release 1 foram utilizadas as ferramentas
 |----|---------------|-------|----------------|-----------------------|
 | P1 | A dificuldade das pessoas de se localizarem pelos edifícios e salas no campus Darcy Ribeiro,  | estudantes, servidores e visitantes da universidade | a demora para encontrar e chegar à determinado lugar na universidade |  uma plataforma web que fornece as informações de localização de salas e prédios dentro do campus. |
 
-### 2. Necessidades
+##### 3.1.2 Necessidades
 
 | **ID**   | **Necessidade**     | **Descrição**|
 |----------|-----------------|---------------|
 |**NE01**|Orienteção dentro do campus|Atualmente, a localização dentro do campus conta apenas com marcações de teto que muitas vezes são de difícil visualização.|
 
-### 3. Características
+##### 3.1.3 Características
 
 | **ID**   | **Característica**     | **Descrição**|
 |----------|-----------------|---------------|
 |**CA01**|Mapa com as principais localidades.| Apresentação da localização de salas e edifícios.|
 |**CA02**|Orientação entre localidades| Apresentação de rotas e caminhos entre as principais localidades. |
 
-### 4. Requisitos
+##### 3.1.4 Requisitos
 | **ID**   | **Requisito**     | **Descrição**|
 |----------|-----------------|---------------|
 |**R01**|Localizar Edifícios|O sistema deve apresentar ao usuário a localização dos vários edifícios dentro do campus.|
@@ -113,7 +113,7 @@ Para gerenciar os requisitos durante a release 1 foram utilizadas as ferramentas
 |**R05**|Indicar trajetos entre locais|O sistema deve apresentar rotas, partindo da localização atual do usuário até o destino desejado.|
 |**R06**|Informar sobre uma localidade|O sistema deve aprensentar informações sobre um determinado edifício, sala, departamento ou local de comida. Como, horário de funcionamento, nome e outras informações.|
 
-### 5. Casos de Uso
+##### 3.1.5 Casos de Uso
 
 O diagrama de casos de uso pode ser visto [aqui](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Diagrama-de-Casos-de-Uso).
 
