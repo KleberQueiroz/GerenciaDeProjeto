@@ -28,7 +28,8 @@ Este caso de uso é iniciado quando o administrador deseja autenticar-se na apli
 
 **[FE01]** - Dados incorretos  
 1. O administrador informa os dados de acesso incorretos.  
-2. O sistema irá apresentar uma mensagem de erro e o caso de uso se reinicia.  
+2. O sistema irá apresentar uma mensagem de erro.
+3. O sistema retorna para o passo 1 do fluxo principal.  
 
 
 ### 5. Regra de Negócio
