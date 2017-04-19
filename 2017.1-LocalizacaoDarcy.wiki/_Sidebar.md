@@ -73,7 +73,9 @@
 ***
 ### Encerramento
 
-:arrows_counterclockwise: [_Postmortem R1_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/PostmortemR1)
+:arrows_counterclockwise: [_Postmortem R1_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Postmortem-R1)
+
+:arrows_counterclockwise:[Dividas Técnicas para a R2](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Dividas-T%C3%A9cnicas-para-a-R2)
 
 :ballot_box_with_check: [_Release Notes_]()
 
