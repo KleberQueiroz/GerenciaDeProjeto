@@ -5,9 +5,11 @@
 |23/03/2017|1.0|Primeira Versão da EAP|Eduardo Gomes|
 |25/03/2017|2.0|Segunda Versão da EAP|Eduardo Gomes|
 |03/04/2017|2.1|Edição da Segunda Versão da EAP|Eduardo Gomes|
+|04/04/2017|2.2|Edição de Imagem em UCs|Eduardo Gomes|
 
-## v2.1
-[![Captura de tela de 2017-04-03 11-09-11.png](https://s23.postimg.org/u9jwd3hij/Captura_de_tela_de_2017-04-03_11-09-11.png)](https://postimg.org/image/oy4zsdvfr/)
+## v2.2
+
+[![Captura de tela de 2017-04-19 00-16-23.png](https://s10.postimg.org/dj54a4k7d/Captura_de_tela_de_2017-04-19_00-16-23.png)](https://postimg.org/image/9mrse4z7p/)
 
 
 ## v1.0
