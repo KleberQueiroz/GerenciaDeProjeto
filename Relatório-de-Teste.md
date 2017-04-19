@@ -97,25 +97,3 @@ TFUC10 - Fazer Login
 | TC10_02  | E-mail Inválido  | O sistema irá mostrar que o email inserido é inválido e solicita o dado novamente  | Uma mensagem de erro de e-mail incorreto  | Êxito  |
 | TC10_01  | Senha Válida  | A senha do administrador é cadastrada no banco de dados  | Senha do administrado cadastrada  |  Êxito |
 | TC10_02  | Senha Inválida  | O sistema irá mostrar que a senha inserida é inválida e solicita o dado novamente  | Uma mensagem de erro de senha inválida  | Êxito  |
-
-
-TFUC11 - Manter Administradores  
-## Classes de Equivalência
-
-| Caso de Teste  | Entrada  | Classes de Equivalência Válidas  | Classes de Equivalência Inválidas  |
-|:-:|---|---|---|
-| TC11  |Nome (string)   | Nome com letras de A-Z, a-z de até 255 caracteres  | Números, caracteres especiais, nome com mais de 255 caracteres, espaços em branco.  |
-| TC11  | E-mail (string)  | E-mail com até 255 caracteres e é permitido o uso de “_”, “-”, “.”, “@”  | E-mail com mais de 255 caracteres, espaços em branco, outros caracteres não listados ou e-mail fora do padrão.|
-| TC11  | Senha (inteiro)  | Senha com no mínimo 6 caracteres e ser igual a senha do campo de confirmação | Senha com menos de 6 caracteres, caracteres especiais, espaços em branco ou senhas de ambos campos de preenchimento diferentes(senha e confirmação da senha) |
-
-
-## Análise de Resultados
-
-| Caso de Teste  | Entrada  | Resultado esperado  | Resultado obtido  | Status  |
-|:-:|---|---|---|---|
-| TC11_01  | Nome Válido  | O nome do administrador é cadastrado no banco de dados  | Nome do administrador cadastrado  | Êxito  |
-| TC11_02  | Nome Inválido   | O sistema irá mostrar que o nome é inválido e solicita o dado novamente  | Uma mensagem de erro do nome inválido  | Êxito  |
-| TC11_01  | E-mail Válido  | O email do administrador é cadastrado no banco de dados  | E-mail do administrador cadastrado  | Êxito  |
-| TC11_02  | E-mail Inválido  | O sistema irá mostrar que o email inserido é inválido e solicita o dado novamente  | Uma mensagem de erro de e-mail incorreto  | Êxito  |
-| TC11_01  | Senha Válida  | A senha do administrador é cadastrada no banco de dados  |  Senha do administrado cadastrada | Êxito  |
-| TC11_02  | Senha Inválida  | O sistema irá mostrar que a senha inserida é inválida e solicita o dado novamente  | Uma mensagem de erro de senha inválida  | Êxito  |
