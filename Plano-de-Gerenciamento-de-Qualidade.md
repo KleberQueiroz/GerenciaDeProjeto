@@ -25,7 +25,7 @@
 
 ## 1. Introdução
 
-O gerenciamento de qualidade é uma coleção de processos que garantem a qualidade em relação ao ciclo de vida, produto de software e serviços também de acordo com as necessidades dos stakeholders (PMBoK, 2014).
+<p align="justify">O gerenciamento de qualidade é uma coleção de processos que garantem a qualidade em relação ao ciclo de vida, produto de software e serviços também de acordo com as necessidades dos stakeholders (PMBoK, 2014).
 Este documento tem como finalidade descrever questões de planejamento, garantia e controle da qualidade do Onde é UnB.
 
 ## 2. Processo de Qualidade
@@ -34,11 +34,11 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 
 [![Captura de tela de 2017-04-19 00-33-08.png](https://s10.postimg.org/6xnfo9pkp/Captura_de_tela_de_2017-04-19_00-33-08.png)](https://postimg.org/image/7zxm6t8dx/)
 
-* <p align="justify">Criar o planejamento da gerencia de qualidade: consiste na elaboração de um plano que contem a identificação dos requisitos ou padrões de qualidade do projeto. Realizar esse processo auxilia no fornecimento de orientações e instruções sobre como será validada e gerenciada a qualidade do projeto. 
+* <p align="justify">**Criar o planejamento da gerencia de qualidade:** consiste na elaboração de um plano que contem a identificação dos requisitos ou padrões de qualidade do projeto. Realizar esse processo auxilia no fornecimento de orientações e instruções sobre como será validada e gerenciada a qualidade do projeto. 
 
-* <p align="justify">Garantir a qualidade: é o processo para garantir o uso de padrões de qualidade, de auditoria dos requisitos de qualidade e resultados de medição.
+* <p align="justify">**Garantir a qualidade:** é o processo para garantir o uso de padrões de qualidade, de auditoria dos requisitos de qualidade e resultados de medição.
 
-* <p align="justify">Monitorar e controlar a qualidade do projeto: é dado ao monitorar, registrar para então avaliar o desempenho e recomendar mudanças no projeto. É benéfico ao projeto pois identifica causas da baixa qualidade e pode fazer recomendações para elimina-la e valida a conformidade do projeto para com as partes interessadas.
+* <p align="justify"> **Monitorar e controlar a qualidade do projeto:** é dado ao monitorar, registrar para então avaliar o desempenho e recomendar mudanças no projeto. É benéfico ao projeto pois identifica causas da baixa qualidade e pode fazer recomendações para elimina-la e valida a conformidade do projeto para com as partes interessadas.
 
 ## 2. GQM do projeto
 
@@ -85,7 +85,7 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 
 #### M3. Cobertura de Testes
 
-
+<p align="justify">A cobertura de testes possui um caráter de analisar dinamicamente o produto. É uma atividade para a identificação e eliminação de erros que possam persistir. O conjunto de informações obtidas a partir dos testes de software tem grande valor para atividades como a manutenção, depuração e estimativa de confiabilidade de software (MALDONADO, 2007).
 
 #### M4. Tamanho de Classes
 
@@ -201,3 +201,4 @@ MOURAO JUNIOR, Carlos Alberto  and  FARIA, Nicole Costa. Memória. Psicol. Refle
 
 SARAIVA, V. A. 2006. "UTILIZAÇÃO DA ABORDAGEM GOAL-QUESTION-METRICS (GQM) NA ELABORAÇÃO E EXECUÇÃO DE PLANOS DE AVALIAÇÃO DE USABILIDADE DE SOFTWARE : UM ESTUDO EMPÍRICO SOBRE UM SOFTWARE AGROPECUÁRIO".
 
+MALDONADO, José Carlos et al. Introduçao ao teste de software. Rio de Janeiro: Campus, 2007.
