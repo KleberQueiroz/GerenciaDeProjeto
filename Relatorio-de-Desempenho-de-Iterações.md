@@ -88,6 +88,7 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 
 * A falta de uma boa estimativa de custos foi o motivo da CV ser tão alta, uma vez que o elevado número de integrantes de GPP realizou as tarefas em menos tempo do que o previsto. Foram adiantadas algumas atividades o que amenizou um pouco o impacto.
 
+* Pela primeira vez o valor agregado (EV) fica maior que o planejado (PV) o que indica que foi uma boa decisão adiantar os planos da terceira iteração para a segunda.
 
 
 ### 2.3 Iteração 3
@@ -119,3 +120,11 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 * O atraso que ocorreu nesta iteração foi causado pela troca de API que impossibilitou a realização do treinamento de testes, que está planejado para a segunda release.
 
 ## 3. Considerações Finais
+
+* A equipe apresentou uma produtividade elevada depois de um foco maior na documentação que foi sentida na iteração 2 e 3. 
+
+* Futuros planejamentos levarão em conta o elevado número de integrantes para maior aproveitamento da produtividade.
+
+* O fato do Custo Real (AC) estar abaixo do planejado indica que uma melhor elaboração do cronograma daria mais valor ao cliente uma vez que poderíamos adiantar algumas outras atividades.
+
+ 
