@@ -11,7 +11,8 @@
 | 29/03/2017 | 0.7    | Inclusão de novos casos de uso.                                                                                                                                            | Kairon Velozo    |
 | 29/03/2017 | 0.8    | Refatorando os casos de uso Visualizar Informações e Visualizar Mapa.                                                                                                                                            | Taynara Carvalho    | 
 | 29/03/2017 | 0.9    | Refatoração do documento.                                                                                                                                             | Kairon Velozo    | 
-| 03/04/2017 | 1.0    |Remoção do Manter Administrador e Centro Acadêmico, refatoração de casos de uso e organização do documento.                                                                                                                                             | Stéfane Souza    | 
+| 03/04/2017 | 1.0    | Centro Acadêmico, refatoração de casos de uso e organização do documento.                                                                                                                                             | Stéfane Souza    | 
+| 18/04/2017 | 1.1    | Inclusão de Fazer Login e Manter Administradores.                                                                                                                                             | Stéfane Souza    | 
 
 
 ***
@@ -27,3 +28,6 @@
 7. UC07 - [Visualizar Trajeto](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC07----Visualizar-Trajeto)
 8. UC08 - [Pesquisar Locais do Campus](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC08---Procurar-Locais-do-Campus)
 9. UC09 - [Visualizar Mapa do Campus](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC09--Visualizar-Mapa-do-Campus)
+9. UC09 - [Visualizar Mapa do Campus](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC09--Visualizar-Mapa-do-Campus)
+10. UC10 - [Fazer Login](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC10-Fazer-Login)
+11. UC11 - [Manter Administradores](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/UC11-Manter-Administradores)
