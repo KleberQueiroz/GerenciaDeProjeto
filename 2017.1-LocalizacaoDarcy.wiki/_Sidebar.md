@@ -53,6 +53,9 @@
 
 [Relatório de Desempenho de Iterações](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Relatorio-de-Desempenho-de-Iterações)
 
+[Relatório dos testes de aceitação](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Relatório-de-Testes-de-Aceitação)
+
+
 ### Desenvolvimento
 [Documento de Visão](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Documento--de-Visão)
 
