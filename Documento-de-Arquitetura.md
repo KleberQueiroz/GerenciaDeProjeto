@@ -14,7 +14,7 @@
 | 06/04/2017 | 1.5    | Atualização dos casos de uso e do seu diagramas                                                                                                                                                                      | Mateus Roriz                                            |
 | 07/04/2017 | 1.6    | Atualização do diagrama de pacotes e diagrama de classe                                                                                                                                                              | Mateus Roriz                                            |
 | 17/04/2017 | 1.7    | Atualização do diagrama de casos de uso, diagrama de classes.                                                                                                                                                        | Lucas S, Taynara, Kairon Velozo, Mateus Roriz, Stéfane. |
-| 18/04/2017 | 1.8    | Atualização do diagrama de casos de uso e inclusão dos casos UC10 e UC11.                                                                                                                                                    | Kairon Velozo, Mateus Roriz, Stéfane. |
+| 18/04/2017 | 1.8    | Atualização do diagrama de casos de uso e inclusão dos casos UC10 e UC11.                                                                                                                                                    | Kairon Velozo, Stéfane Souza. |
 
 
 -------------------------------------------------------------------
