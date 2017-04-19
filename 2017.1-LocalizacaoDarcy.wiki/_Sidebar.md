@@ -71,7 +71,7 @@
 
 [Especificação de Casos de Teste](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste)
 
-[Relatório de Teste]()
+[Relatório de Teste](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Relat%C3%B3rio-de-Teste)
 
 [Especificação Suplementar](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Especifica%C3%A7%C3%A3o-Suplementar)
 
