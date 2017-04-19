@@ -70,7 +70,7 @@
 
 [Relatório de Teste]()
 
-[API]()
+[Especificação Suplementar](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Especifica%C3%A7%C3%A3o-Suplementar)
 
 ***
 ### Encerramento
