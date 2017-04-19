@@ -32,21 +32,21 @@ Foram testadas as seguintes features. Os cenários delas podem ser vistas na pas
 	As a normal user
 	I want to view the university map
 
-salsa
+-
 
 	* Feature: View about page
 	In order find information about the project
 	As a normal user
 	I want to view the about page
 
-defesa
+-
 
 	* Feature: Manage the web application content
 	In order to manage the website content
 	As an admin user
 	I want to interact with the admin dashboard
 
-staff
+-
 
 ## 3. Problemas
 
