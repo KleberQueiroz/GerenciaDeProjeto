@@ -3,7 +3,7 @@
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
 |20/03/2017|0.1|Criação da estrutura do documento|Matheus Mello|
-|22/03/2017|0.2|Atualização da estrutura do documento|Alexandre|
+|22/03/2017|0.2|Atualização da estrutura do documento|Alexandre Torres|
 |22/03/2017|0.3|Adicionados Tópicos 1, 2, 3, 4, 5, 8|Alexandre Torres|
 |23/03/2017|0.4|Atualização Tópicos 1, 6, 7, 9|Matheus Mello|
 |23/03/2017|1.0|Atualização Tópicos 5, 11|Matheus Mello|
