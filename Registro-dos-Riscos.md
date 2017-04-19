@@ -7,8 +7,14 @@
 |08/04/2017|2.0|Prioridades de riscos pontuadas|Eduardo Gomes|
 |19/04/2017|2.1|Atualização do Riscos Ocorridos|Eduardo Gomes|
 
+1. [Análise e resposta dos riscos negativos](#1-Análise-e-resposta-dos-riscos-negativos)
+
+2. [Análise e resposta dos riscos positivos](#2-Análise-e-resposta-dos-riscos-positivos)
+
+3. [Riscos Ocorridos](#3-Riscos-Ocorridos)
 
 ## 1. Análise e resposta dos riscos negativos
+
 | Risco | Efeito | Probabilidade | Impacto | Prioridade | Ação | Estratégia | Responsável |
 |:-----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:-------------:|:----------:|------------|:--------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:-----------:|
 | Greve geral da UnB | Falta de acompanhamento do projeto por não haverem aulas | Baixo | Muito alto | Médio | Reunir integrantes para posicionamento sobre o assunto | Aceitar | Todos |
@@ -30,6 +36,7 @@
 | Tecnologia com funções que trazem resultados imprecisos|Aplicação que não cumpre seus objetivos e desmotivação da equipe|Muito baixo|Muito alto|Alta|Trocar a tecnologia|Mitigar|Rafael|
 
 ## 2. Análise e resposta dos riscos positivos
+
 | Risco | Efeito | Probabilidade | Impacto | Prioridade | Ação | Estratégia | Responsável |
 |:----------------------------:|:-------------------------------------:|:-------------:|:-------:|------------|:---------------------------------------------------------------------------:|:----------:|:-----------:|
 | Alta produtividade da equipe | Termino do projeto antes do planejado | Alta | Alto | Alta | Revisar artefatos, refatoração do código, inclusão de novas funcionalidades | Aceitar | Todos |
@@ -58,13 +65,13 @@ Ação: houve a necessidade de uma comunicação maior sobre esse aspecto. Os me
 
 ### 3.3. Tecnologia com funções que trazem resultados imprecisos
 
-Data: 
+Data: 13/04/2017
 
-### 3.2. 
+Descrição: na iteração 3, após estudar a API do Google Maps, foi constatado que a precisão de rotas a pé da API não era satisfatória no Campus Darcy Ribeiro. Com isso, as rotas traçadas pela API, em sua maioria, seguiam rotas de carros, o que tornaria inviável para o público alvo principal do projeto (estudantes) utilizarem a pé.
 
-concorrencia, saida de membro da euipe, tecnologias com funções que trazem dados imprecisos, 
+Impacto: Isso causou na equipe nervosismo no sentido que seria necessário encontrar logo uma solução.
 
-
+Ação: Diante da situação, os membros estudaram tanto a viabilidade de continuar com a API do Google Maps e no futuro a mesma não ser satisfatório o resultado, como também estudaram uma nova tecnologia que tem por característica ser de código aberto, chamada Leaflet. A API do Leaflet foi satisfatória, tanto para necessidades presentes, quanto a longo prazo. Por esses motivos, a API do Google Maps foi substituída pela API do Leaflet.
 
 
 
