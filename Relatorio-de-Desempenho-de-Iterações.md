@@ -57,6 +57,7 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 | Variância de Prazo (VP) | Variância de Custo (VC) | Índice de Desempenho de Custo (IDC) | Índice de Desempenho de Prazo (IDP) |
 |-------------------------|-------------------------|-------------------------------------|-------------------------------------|
 | -R$ 38,25               | R$ 596,79               | 1,17112025                          | 1,018103448                         |
+
 | Horas totais planejadas | Horas totais cumpridas |
 |-------------------------|------------------------|
 | 354:43:20               | 313:13:00              |
