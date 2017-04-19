@@ -119,6 +119,8 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 
 * O atraso que ocorreu nesta iteração foi causado pela troca de API que impossibilitou a realização do treinamento de testes, que está planejado para a segunda release.
 
+* A queda do Índice de Desempenho de Custo (CPI) e Variação do Custo (CV)indica que houve um melhor planejamento de horas planejadas e horas realizadas, o que diminuiu o valor da diferença entre os custos.
+
 ## 3. Considerações Finais
 
 * A equipe apresentou uma produtividade elevada depois de um foco maior na documentação que foi sentida na iteração 2 e 3. 
