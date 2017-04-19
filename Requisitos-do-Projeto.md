@@ -5,6 +5,8 @@
 |03/04/2017|1.0|Problemas, Necessidades,Características, Requisitos, Casos de uso e Rastreabilidade|Rafael Rabetti|
 |07/04/2017|1.0|Refatorando casos de uso e rastreabilidade|Rafael Rabetti|
 |19/04/2017|1.1|Refatorando casos de uso e rastreabilidade|Rafael Rabetti|
+|19/04/2017|1.1|Refatorando casos de uso e rastreabilidade|Rafael Rabetti|
+|19/04/2017|1.2|matriz de ratreabilidade|Eduardo Brasil|
 ***
 ## Sumário
 
@@ -72,3 +74,10 @@ O diagrama de casos de uso pode ser visto [aqui](https://github.com/fga-gpp-mds/
 ![Imgur](http://i.imgur.com/hfcPX11.png)
 
 [Clique aqui para visualizar melhor.](http://i.imgur.com/hfcPX11.png)
+
+
+##### 6.1 matriz de rastreabilidade
+
+Segundo o Guia PMBOK®, a matriz de rastreabilidade dos requisitos associa os requisitos às suas origens e os rastreia durante todo o ciclo de vida do projeto.
+
+![Imgur](http://i.imgur.com/VkGe5Hu.png)
