@@ -33,4 +33,6 @@
 
 -----------------------------------------
 
-Planilha completa disponível para _download_ e visualização em: [https://docs.google.com/spreadsheets/d/1L9r-B8zp3Q3ckdmO1mRKgAUzvommZWfBC6N8yNYgaAo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1L9r-B8zp3Q3ckdmO1mRKgAUzvommZWfBC6N8yNYgaAo/edit?usp=sharing)		
+Planilha completa disponível para _download_ e visualização em: 
+
+[https://docs.google.com/spreadsheets/d/1L9r-B8zp3Q3ckdmO1mRKgAUzvommZWfBC6N8yNYgaAo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1L9r-B8zp3Q3ckdmO1mRKgAUzvommZWfBC6N8yNYgaAo/edit?usp=sharing)		
