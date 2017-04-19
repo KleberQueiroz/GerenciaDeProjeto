@@ -8,7 +8,7 @@
 
 ## Introdução
 
-Este documento tem como objetivo apresentar os pontos negativos, pontos positivos e lições aprendidas durante a realização do projeto. Assim, é possível fazer uma avaliação do que deu certo ou não e evoluir a equipe.
+Este documento tem como objetivo apresentar os pontos negativos, pontos positivos e lições aprendidas durante a realização do projeto. Assim, é possível fazer uma avaliação do que deu certo ou não, e assim possibilitando a evolução da equipe.
 
 ## Pontos Negativos:
 * Falta de uma boa distribuição de tarefas na primeira semana, onde muitos integrantes trabalharam menos que 10 horas.
