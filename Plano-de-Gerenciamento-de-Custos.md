@@ -83,6 +83,10 @@ O cálculo hora/aluno foi feito com base no Relatório de Gestão do ano de 2015
 
 Este valor serviu para estimarmos o custo da mão de obra, o cálculo foi feito utilizando a seguinte fórmula: 10hrs/semana × R$ 15,3/hr × 13 integrantes equipe.
 
+3. As horas gastas com os coaches da equipe foram realizados com o cálculo acima.
+
+4. As horas gastas com o treinamentos dos coaches organizados pela disciplina foram realizados com o cálculo acima. 
+
 ## 6. Custos com Aquisições
 ### 6.1.	Notebooks
 Os notebooks utilizados no projeto foram adquiridos individualmente por cada membro da equipe, uma vez que o uso de cada um será pessoal. A escolha dos notebooks também foi pessoal, o que causou uma certa discrepância nos valores das máquinas.
