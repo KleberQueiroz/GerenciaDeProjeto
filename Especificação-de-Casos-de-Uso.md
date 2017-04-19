@@ -12,7 +12,7 @@
 | 29/03/2017 | 0.8    | Refatorando os casos de uso Visualizar Informações e Visualizar Mapa.                                                                                                                                            | Taynara Carvalho    | 
 | 29/03/2017 | 0.9    | Refatoração do documento.                                                                                                                                             | Kairon Velozo    | 
 | 03/04/2017 | 1.0    | Centro Acadêmico, refatoração de casos de uso e organização do documento.                                                                                                                                             | Stéfane Souza    | 
-| 18/04/2017 | 1.1    | Inclusão de Fazer Login e Manter Administradores.                                                                                                                                             | Stéfane Souza    | 
+| 18/04/2017 | 1.1    | Inclusão de Fazer Login e Manter Administradores.                                                                                                                                             | Stéfane Souza, Kairon Velozo    | 
 
 
 ***
