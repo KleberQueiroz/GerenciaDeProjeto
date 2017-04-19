@@ -7,6 +7,7 @@
 |02/04/2017|0.1|Criação do documento|Eduardo Gomes|
 |04/04/2017|0.2|Adição de Introdução e Processo de Qualidade|Eduardo Gomes|
 |04/04/2017|0.3|Métricas e Ferramentas|Matheus Mello|
+|19/04/2017|1.0|Adição do GQM|Eduardo Gomes|
 
 ***
 
@@ -41,26 +42,39 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 
 ## 2. GQM do projeto
 
-<p align="justify">O Goal Question Metric (GQM), é um paradigma de medição que visa definir e integrar objetivos à modelos de processo, produto e aspectos de qualidade. É uma abordagem orientada a metas que tem como base a definição de metas operacionais e mensuráveis top-down no processo de medição e interpretação dos dados resultantes bottom-up. O processo GQM é separado em passos ou fases que cobrem todo o planejamento e execução de um plano de medições. As fases são:
+<p align="justify">O Goal Question Metric (GQM), é um paradigma de medição que visa definir e integrar objetivos à modelos de processo, produto e aspectos de qualidade. É uma abordagem orientada a metas que tem como base a definição de metas operacionais e mensuráveis top-down no processo de medição e interpretação dos dados resultantes bottom-up. O processo GQM é separado em passos ou fases que cobrem todo o planejamento e execução de um plano de medições.
 
-* **Estudo prévio**
+### 2.1. Objetivos
 
-<p align="justify">Trata da motivação envolvida. Nessa fase ocorre a definição da área de melhoria.
+<p align="justify">O objetivo do projeto trata do seu ponto de vista, o propósito e o ambiente (SARAIVA, 2006). Com isso a seguinte tabela busca representar os objetivos de qualidade do OndeÉ?UnB.
 
 | Dimensão | Objetivo|
 |-----------------------|---------------------|
 | Analisar | Código |
-| Com propósito de | Conhecer|
+| Com propósito de | Conhecer e Melhorar|
 | Com respeito a | Qualidade |
 | Sob ponto de vista do | Desenvolvedor |
 | No contexto de | Projeto OndeÉ?UnB |
+
+### 2.2. Perguntas
+
+Perguntas ou Questões são definidas a partir dos objetivos estabelecidos para obter informações sobre os mesmos. Para cada fator de qualidade registrado no Abstraction Sheet é gerada uma mais perguntas que nada mais serão do que um resultados para o objetivo de mensuração.
+
+
+| <p align="left">Fatores de Qualidade | <p align="left">Fatores de Variação |
+|-------------------------------------------|------------------------------------------------------------------------|
+| Complexidade do código<br/>Taxa de comentários<br/>Cobertura de Testes | Experiência do desenvolvedor com a linguagem<br/>Motivação do Desenvolvedor |
+| **Hipótese de Linha-Base** | **Impacto na Hipótese de Linha-Base** |
+| Espera se que o projeto tenha complexidade 5<br/>É esperado que tenha uma linha de comentário a cada dez linhas de código<br/>É esperado que na R1 tenha mais de 30% de cobertura de testes e na R2 mais de 90%|Com o impacto dos fatores de variação, prevê-se que a complexidade do código seja 8<br/>O código tenha 1 linha de comentário a cada 15<br/>Que a cobertura de testes diminua 10% em relação a Hipótese de Linha-Base  |
+
+
 
 
 * **Desenvolvimento do Plano GQM**
 
 <p align="justify">Baseado nos objetivos, foi desenvolvido um plano GQM que consiste em objetivo, perguntas e métricas.
 
-<p align="justify">Para cada fator de qualidade registrado no Abstraction Sheet é gerada uma pergunta que nada mais é que um resultado do objetivo de mensuração.
+<p align="justify">
 
 | <p align="left">Fatores de Qualidade | <p align="left">Fatores de Variação |
 |-------------------------------------------|------------------------------------------------------------------------|
@@ -76,7 +90,7 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 
 **Métrica 1:** Complexidade do Código
 
-<p align="justify">Segundo uma pesquisa sobre psicologia cognitiva, um indivíduo consegue armazenar em sua memória de 5 a 9 objetos simultaneamente (MOURÃO, 2015). Por isso, um desenvolvedor ao analisar o código, o ideal seria que no máximo o código tivesse 5 caminhos diferentes, por isso foi escolhida a complexidade de no máximo 5.
+<p align="justify">Segundo uma pesquisa sobre psicologia cognitiva, um indivíduo consegue armazenar em sua memória de 5 a 9 objetos simultaneamente (MOURÃO, 2015). Por isso, um desenvolvedor ao analisar o código e necessitar dar uma manutenção ao mesmo teria uma dificuldade maior em assimilar 6 caminhos diferentes ou mais, o ideal seria que no máximo o código tivesse 5 caminhos, por isso foi escolhida a complexidade média foi de  5.
 
 | Qualidade relacionada a Complexidade | Média de Complexidade do Código |
 |--------------------------------------|---------------------------------|
@@ -86,7 +100,7 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 
 **Métrica 2:** Comentários por Total de Linhas
 
-<p align="justify">Dentre o número de aplicações de técnicas de comentários, inicialmente será definido um número de uma linha de comentário para cada dez linhas de código.
+<p align="justify">Dentre o número de aplicações de técnicas de comentários, será definido o número de uma linha de comentário para cada dez linhas de código.
 
 | Qualidade relacionada a Comentários | Linhas de Comentários / Quantidade total de linhas (C) |
 |-------------------------------------|--------------------------------------------------------|
@@ -152,3 +166,6 @@ MetricFu é um compilado de diversas ferramentas que ajudam a encontrar partes d
 PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
 
 MOURAO JUNIOR, Carlos Alberto  and  FARIA, Nicole Costa. Memória. Psicol. Reflex. Crit. [online]. 2015, vol.28, n.4, pp.780-788. Available from: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-79722015000400017&lng=en&nrm=iso>. ISSN 0102-7972.  http://dx.doi.org/10.1590/1678-7153.201528416.
+
+SARAIVA, V. A. 2006. "UTILIZAÇÃO DA ABORDAGEM GOAL-QUESTION-METRICS (GQM) NA ELABORAÇÃO E EXECUÇÃO DE PLANOS DE AVALIAÇÃO DE USABILIDADE DE SOFTWARE : UM ESTUDO EMPÍRICO SOBRE UM SOFTWARE AGROPECUÁRIO".
+
