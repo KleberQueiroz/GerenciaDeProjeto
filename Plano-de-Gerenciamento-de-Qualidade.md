@@ -58,14 +58,46 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 
 ### 2.2. Perguntas
 
-Perguntas ou Questões são definidas a partir dos objetivos estabelecidos para obter informações sobre os mesmos. Para cada fator de qualidade registrado no Abstraction Sheet é gerada uma mais perguntas que nada mais serão do que um resultados para o objetivo de mensuração.
+<p align="justify">Perguntas ou Questões são definidas a partir dos objetivos estabelecidos para obter informações sobre os mesmos. Para cada fator de qualidade registrado no Abstraction Sheet é gerada uma mais perguntas que nada mais serão do que um resultados para o objetivo de mensuração.
 
 
 | <p align="left">Fatores de Qualidade | <p align="left">Fatores de Variação |
 |-------------------------------------------|------------------------------------------------------------------------|
 | Complexidade do código<br/>Taxa de comentários<br/>Cobertura de Testes | Experiência do desenvolvedor com a linguagem<br/>Motivação do Desenvolvedor |
 | **Hipótese de Linha-Base** | **Impacto na Hipótese de Linha-Base** |
-| Espera se que o projeto tenha complexidade 5<br/>É esperado que tenha uma linha de comentário a cada dez linhas de código<br/>É esperado que na R1 tenha mais de 30% de cobertura de testes e na R2 mais de 90%|Com o impacto dos fatores de variação, prevê-se que a complexidade do código seja 8<br/>O código tenha 1 linha de comentário a cada 15<br/>Que a cobertura de testes diminua 10% em relação a Hipótese de Linha-Base  |
+| Espera se que o projeto tenha complexidade 5<br/>É esperado que tenha uma linha de comentário a cada dez linhas de código<br/>É esperado que na R1 tenha mais de 30% de cobertura de testes e na R2 mais de 90%<br/>A classe tem um número de linhas <= 100|Com o impacto dos fatores de variação, prevê-se que a complexidade do código seja 8<br/>O código tenha 1 linha de comentário a cada 15<br/>Que a cobertura de testes diminua 10% em relação a Hipótese de Linha-Base <br/>O código irá possui 150 linhas por classe |
+
+### 2.3. Métricas
+
+#### M1. Complexidade
+
+<p align="justify">Segundo uma pesquisa sobre psicologia cognitiva, um indivíduo consegue armazenar em sua memória de 5 a 9 objetos simultaneamente (MOURÃO, 2015). Por isso, um desenvolvedor ao analisar o código e necessitar dar uma manutenção ao mesmo teria uma dificuldade maior em assimilar 6 caminhos diferentes ou mais, o ideal seria que no máximo o código tivesse 5 caminhos, por isso foi escolhida a complexidade média foi de  5.
+
+| M1 | Complexidade |
+|-------------------|-------------------------------------------------------------------------------|
+| Medida | Complexidade de código |
+| Período de coleta | Após o desenvolvimento dos Casos de Uso da R1 e ao final de cada Sprint na R2 |
+| Ação | Caso seja alta a complexidade, o código deverá ser refatorado. |
+| Meta | A complexidade será considerada: Baixa < 5, Regular = 5, Alta > 5. |
+|Ferramenta| Codacy/Rubocop|
+
+#### M2. Taxa de Comentários
+
+#### M3. Cobertura de Testes
+
+
+
+#### M4. Tamanho de Classes
+
+<p align="justify">Com o objetivo de manter uma boa modularização do código, será calculado a quantidade de linhas de cada classe.
+
+| M4 | Tamanho da Classe |
+|-------------------|-------------------------------------------------------------------------------|
+| Medida | Linhas por classe |
+| Período de coleta | Após o desenvolvimento dos Casos de Uso da R1 e ao final de cada Sprint na R2 |
+| Ação | Caso seja ultrapassada a meta, o código deverá ser refatorado. |
+| Meta | Cada classe deve ter no máximo 100 linhas de código |
+|Ferramenta| Codacy/Rubocop|
 
 
 
