@@ -5,6 +5,7 @@
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
 |15/04/2017|0.1|Estrutura de Tópicos|Eduardo Gomes|
+|19/04/2017|1.0|Término do Relatório|Daniel Moura|
 
 
 ***
@@ -23,19 +24,17 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 
 #### 2.1.1 Custo e esforço
 
-#### 2.1.1 Custo e esforço
-
 | Valor Planejado | Valor Real | Valor Agregado |
 |-----------------|------------|----------------|
-|  |  |  |
+| R$2.056,36      | R$1.713,60 | R$2.004,95     |
 
 | Variância de Prazo (VP) | Variância de Custo (VC) | Índice de Desempenho de Custo (IDC) | Índice de Desempenho de Prazo (IDP) |
 |-------------------------|-------------------------|-------------------------------------|-------------------------------------|
-|  |  |  |  |
+| -R$ 76,16               | R$ 291,35               | 1,17                                | 0,96                                |
 
 | Horas totais planejadas | Horas totais cumpridas |
 |-------------------------|------------------------|
-|  |  |
+| 134:24:10               | 112:00:00              |
 
 #### 2.1.2 Riscos Ocorridos
 
@@ -51,17 +50,16 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 
 #### 2.2.1 Custo e esforço
 
-| Valor Planejado | Valor Real | Valor Agregado |
-|-----------------|------------|----------------|
-|  |  |  |
+| Valor Planejado | Valor Real  | Valor Agregado |
+|-----------------|-------------|----------------|
+| R$ 7.483,61     | R$ 6.505,82 | R$ 7.619,09    |
 
 | Variância de Prazo (VP) | Variância de Custo (VC) | Índice de Desempenho de Custo (IDC) | Índice de Desempenho de Prazo (IDP) |
 |-------------------------|-------------------------|-------------------------------------|-------------------------------------|
-|  |  |  |  |
-
+| -R$ 38,25               | R$ 596,79               | 1,17112025                          | 1,018103448                         |
 | Horas totais planejadas | Horas totais cumpridas |
 |-------------------------|------------------------|
-|  |  |
+| 354:43:20               | 313:13:00              |
 
 #### 2.2.2 Riscos Ocorridos
 
@@ -79,15 +77,15 @@ O presente relatório tem como objetivo apresentar os resultados das iterações
 
 | Valor Planejado | Valor Real | Valor Agregado |
 |-----------------|------------|----------------|
-|  |  |  |
+| R$ 10.953,74    | R$ 9.960   | R$10.572,87    |
 
 | Variância de Prazo (VP) | Variância de Custo (VC) | Índice de Desempenho de Custo (IDC) | Índice de Desempenho de Prazo (IDP) |
 |-------------------------|-------------------------|-------------------------------------|-------------------------------------|
-|  |  |  |  |
+| - R$ 160,65             | R$ 330,57               | 1,06150164                          | 0,9652298851                        |
 
 | Horas totais planejadas | Horas totais cumpridas |
 |-------------------------|------------------------|
-|  |  |
+| 257:53:20               | 225:47:00              |
 
 #### 2.3.2 Riscos Ocorridos
 
