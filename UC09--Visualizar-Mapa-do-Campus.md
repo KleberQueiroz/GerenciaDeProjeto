@@ -21,6 +21,7 @@ Este caso de uso é destinado a mostrar ao usuário o mapa do campus.
 
 **[FA01]** - O caso de uso se inicia quando o usuário amplia a imagem do mapa.
 1. O usuário verá as especificações do mapa de acordo com o zoom.
+2. O sistema retorna para o passo 1 do fluxo principal.
 
 #### 4.3 Fluxo de Exceção
 
@@ -32,7 +33,7 @@ Este caso de uso é destinado a mostrar ao usuário o mapa do campus.
 
 | Local                 | Descrição                                                                               | Valor                          |
 |-----------------------|-----------------------------------------------------------------------------------------|--------------------------------|
-| Edifícios             | Locais que abrigam atividades da universidade.                                          | Ex: Reitoria, Biblioteca.      |
+| Edifícios             | Local onde se localiza as salas do campus                                          | Ex: Reitoria, Biblioteca.      |
 | Departamentos         | Espaços onde se localizam atividades relacionadas a determinadas áreas de conhecimento. | Ex:Departamento de Matemática. |
 | Centro Acadêmicos     | Entidade que representa todos os estudantes de um curso.                                | Ex: CA de Engenharia.          |
 | Salas                 | Locais onde são ministradas aulas ou sala de professores.                               | Ex: BT-23/1                    |
