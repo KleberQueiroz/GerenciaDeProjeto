@@ -28,15 +28,8 @@
 
 [Clique aqui para ampliar a visualização](http://i.imgur.com/Uu4u0hN.png)
 
-## 3. Custo da _Release_
 
-| Recursos | Preço Unitário | Quantidade | Preço Total |
-| ----- | ----- | ----- | ---- |
-| Custo de Trabalho dos Integrantes | R$ 15,30 / hora | 1003:05:00 | R$ 15.347,18 |
-| _Notebook_ com ferramentas de desenvolvimento | R$2.000,00 | 10 | R$ 20.000,00 |
-| Plano de Internet Banda Larga	| R$104,90 | 10 por 2 meses | R$ 2.098,00 |
-| _Coach_ | R$ 30,60 / semanas | 2 por 7 semanas | R$ 428,40 |
-| **Custo Total** | **-** | **-** | **R$ 37.873,58** |
+
 
 -----------------------------------------
 
