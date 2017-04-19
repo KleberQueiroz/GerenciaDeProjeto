@@ -21,6 +21,10 @@
 
 ## 1. Introdução
 
+Os testes de aceitação são realizados num sistema antes de sua disponibilização, e tem como objetivo verificar se o sistema abrange os requisitos originais e as atuais necessidades do usuário.
+
+Automatizar esses testes é uma prática bastante recomendada.
+
 ## 2. Sobre os testes
 
 Foi utilizada principalmente a gem ‘cucumber’ para a realização dos testes de aceitação.
