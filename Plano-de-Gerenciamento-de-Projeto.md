@@ -64,7 +64,7 @@ O Ciclo de Vida definido para esse projeto é bastante específica para esse pro
 
 Em ambas as etapas do projeto, serão utilizados ciclos de vida Iterativos e Incrementais. Porém, na primeira etapa do projeto, será utilizado um ciclo de vida que combina as fases do Processo Unificado (RUP) e de fases relacionadas ao gerenciamento do projeto baseado no PMBOK.
 
-Conforme dito anteriormente, será utilizado RUP apenas na primeira parte de projeto, de tal forma que apenas três das suas fases serão utilizadas nesse projeto. Serão realizadas três iterações, a primeira sendo a Iniciação, a segunda de elaboração e a terceira de construção.
+Conforme dito anteriormente, será utilizado RUP apenas na primeira parte de projeto, de tal forma que apenas duas das suas fases serão utilizadas nesse projeto. Serão realizadas três iterações, a primeira sendo a Iniciação, a segunda e terceira de elaboração.
 
 O objetivo da primeira fase será entender o domínio para o qual o software será projetado, estabelecer uma visão comum entre os stakeholders sobre o produto que será desenvolvido, elicitar e iniciar a modelagem e análise dos requisitos. A fase de elaboração tem como finalidade definir a arquitetura do software a ser desenvolvido. Já na fase construção, o foco é na implementação da solução, ou seja, no código.
 
