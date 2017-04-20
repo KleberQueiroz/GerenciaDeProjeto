@@ -13,8 +13,6 @@
 
 [Apresentação](https://docs.google.com/presentation/d/1-qzljjNW0Jf3lcqeNTG32oMbDcenEXfs_M6GxN9p8C8/edit?usp=sharing)
 
-***
-
 ### Plano de Gerência
 
 [Termo de Abertura](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Termo-de-Abertura)
