@@ -82,9 +82,9 @@
 
 [Dividas Técnicas para a R2](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Dividas-T%C3%A9cnicas-para-a-R2)
 
-[_Release Notes_]()
+[_Release Notes_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/releases/tag/v0.1-alpha)
 
-[Apresentação]()
+[Apresentação](https://docs.google.com/presentation/d/1-qzljjNW0Jf3lcqeNTG32oMbDcenEXfs_M6GxN9p8C8/edit?usp=sharing)
 
 
 ***
@@ -98,4 +98,4 @@
 
 [_Release Notes_]()
 
-[Apresentação](https://docs.google.com/presentation/d/1-qzljjNW0Jf3lcqeNTG32oMbDcenEXfs_M6GxN9p8C8/edit?usp=sharing)
+[Apresentação]()
