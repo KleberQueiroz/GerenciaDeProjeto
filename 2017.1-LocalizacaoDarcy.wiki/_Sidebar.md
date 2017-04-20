@@ -5,6 +5,16 @@
 
 ## Release 1
 
+[_Postmortem R1_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Postmortem-R1)
+
+[Dividas Técnicas para a R2](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Dividas-T%C3%A9cnicas-para-a-R2)
+
+[_Release Notes_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/releases/tag/v0.1-alpha)
+
+[Apresentação](https://docs.google.com/presentation/d/1-qzljjNW0Jf3lcqeNTG32oMbDcenEXfs_M6GxN9p8C8/edit?usp=sharing)
+
+***
+
 ### Plano de Gerência
 
 [Termo de Abertura](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Termo-de-Abertura)
@@ -74,17 +84,6 @@
 [Relatório de Teste](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Relat%C3%B3rio-de-Teste)
 
 [Especificação Suplementar](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Especifica%C3%A7%C3%A3o-Suplementar)
-
-***
-### Encerramento
-
-[_Postmortem R1_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Postmortem-R1)
-
-[Dividas Técnicas para a R2](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Dividas-T%C3%A9cnicas-para-a-R2)
-
-[_Release Notes_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/releases/tag/v0.1-alpha)
-
-[Apresentação](https://docs.google.com/presentation/d/1-qzljjNW0Jf3lcqeNTG32oMbDcenEXfs_M6GxN9p8C8/edit?usp=sharing)
 
 
 ***
