@@ -98,4 +98,4 @@
 
 [_Release Notes_]()
 
-[Apresentação]()
+[Apresentação](https://docs.google.com/presentation/d/1-qzljjNW0Jf3lcqeNTG32oMbDcenEXfs_M6GxN9p8C8/edit?usp=sharing)
