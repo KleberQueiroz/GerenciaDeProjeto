@@ -35,10 +35,9 @@
 &nbsp;&nbsp;[7.1 Interface de Usuário](#71-interface-de-usuario)   
 &nbsp;&nbsp;[7.2 Interface de Hardware](#72-Interface-de-Hardware)   
 &nbsp;&nbsp;[7.3 Interface de Software](#73-interface-de-software)   
-&nbsp;&nbsp;[7.4 Interface de Comunicações](#74-interface-de-comunicações)     
-[8. Requisitos de Licenciamento](#8-requisitos-de-licenciamento)    
-[9. Observações Legais de Direitos Autorais Etc](#9-observações-legais-de-direitos-autorais-etc)    
-[10. Padrões Aplicáveis](#10-padrões-aplicaveis)   
+&nbsp;&nbsp;[7.4 Interface de Comunicações](#74-interface-de-comunicações)      
+[8. Observações Legais de Direitos Autorais Etc](#9-observações-legais-de-direitos-autorais-etc)    
+[9. Padrões Aplicáveis](#10-padrões-aplicaveis)   
 
 ------
 
@@ -143,15 +142,11 @@ Acessado em 17 de abril em 2017.
 <p align ="justify">1. Wi-Fi  
 <p align ="justify">2. Internet Móvel  
 
-## 8. Requisitos de Licenciamento  
-
-<p align ="justify">Essa aplicação web é um software livre, o que significa que por ser matéria MDS pode ocorrer do projeto ser continuado, redistribuído e/ou melhorado acordo com os documentos que o descrevem. A licença do software é a GNU ou GNU GPL (General Public License) desenvolvida por Richard Stallman que fundou a Free Software Foundation (FSF), uma fundação que ajuda no desenvolvimento da GNU.  
-
-## 9. Obervações Legais de Direitos Autoraris etc  
+## 8. Obervações Legais de Direitos Autoraris etc  
 
 <p align ="justify">Para o mapa foram utilizadas imagens do OpenStreetMap e bibliotecas Leaflet para adicionar funcionalidades ao mapa.  
 
-## 10. Padrões Aplicáveis  
+## 9. Padrões Aplicáveis  
 
 <p align ="justify">Padrão da Arquitetura MVC (Model - View - Controller) foi utilizado no desenvolvimento da aplicação.  
 
