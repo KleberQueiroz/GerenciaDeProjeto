@@ -6,7 +6,7 @@
 * [_Apresentação R2_]()
 * [_EVM_](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/EVM)
 * [_Product Backlog_](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Product-Backlog)
-* [_Metodologia Aplicada_](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Product-Backlog)
+* [_Metodologia Aplicada_](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Metodologia-Aplicada)
 
 **_Sprints_**
 
