@@ -20,7 +20,7 @@ O objetivo dessa Sprint é melhorar a documentação do projeto, pagar dívidas 
 ## 3. Papéis
 
 * **Scrum Master:** Eduardo Gomes
-* **Product Owner:** Alexandre Torres
+* **Product Owner:** Rafael Rabetti
 * **Tracker:** Daniel Moura
 
 ## 4. Sprint Backlog
