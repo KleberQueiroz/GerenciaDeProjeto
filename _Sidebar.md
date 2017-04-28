@@ -1,17 +1,30 @@
 # [Onde É UnB](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki)
+
 ***
+## Release 2
 
-[Ata da Equipe](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Ata-da-Equipe)
+* [_Apresentação R2_]()
+* [_EVM_](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/EVM)
+* [_Product Backlog_](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Product-Backlog)
+* [_Metodologia Aplicada_](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Product-Backlog)
 
+**_Sprints_**
+
+* **_Sprint_ 0**
+
+* [Planejamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Planejamento-sprint-0)
+* [Resultados](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Resultados-sprint-0)
+
+* **_Sprint_ 1**
+
+* [Planejamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Planejamento-sprint-1)
+* [Resultados](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Resultados-sprint-1)
+
+
+***
 ## Release 1
 
-[_Postmortem R1_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Postmortem-R1)
-
-[Dividas Técnicas para a R2](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Dividas-T%C3%A9cnicas-para-a-R2)
-
-[_Release Notes_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/releases/tag/v0.1-alpha)
-
-[Apresentação](https://docs.google.com/presentation/d/1-qzljjNW0Jf3lcqeNTG32oMbDcenEXfs_M6GxN9p8C8/edit?usp=sharing)
+[Ata da Equipe](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Ata-da-Equipe)
 
 ### Plano de Gerência
 
@@ -83,16 +96,13 @@
 
 [Especificação Suplementar](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Especifica%C3%A7%C3%A3o-Suplementar)
 
-
 ***
-## Release 2
-
-
-***
-### Encerramento
+### Encerramento R1
  
-[_PostmortemR2_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Postmortem)
+[_Postmortem_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Postmortem-R1)
 
-[_Release Notes_]()
+[_Dividas Técnicas_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Dividas-T%C3%A9cnicas-para-a-R2)
 
-[Apresentação]()
+[_Release Notes_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/releases/tag/v0.1-alpha)
+
+[Apresentação](https://docs.google.com/presentation/d/1-qzljjNW0Jf3lcqeNTG32oMbDcenEXfs_M6GxN9p8C8/edit?usp=sharing)
