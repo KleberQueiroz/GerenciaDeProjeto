@@ -1,5 +1,3 @@
-# Plano de Gerenciamento dos Riscos
-
 ## Histórico de Revisões
 
 | Data | Versão | Descrição | Autor |
