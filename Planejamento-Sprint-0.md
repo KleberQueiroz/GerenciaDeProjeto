@@ -4,7 +4,7 @@
 2. [Objetivo](#2-Objetivo)
 3. [Papéis](#3-Papéis)
 4. [Histórias de Usuário](#4-Histórias)
-
+5. [Pareamento](#5-Pareamento)
 
 ***
 ## 1. Resumo
@@ -23,5 +23,12 @@ O objetivo dessa Sprint é melhorar a documentação do projeto, pagar dívidas 
 * **Product Owner:** Alexandre Torres
 * **Tracker:** Daniel Moura
 
-## 4. Histórias
+## 4. Sprint Backlog
+
+#### **Histórias Técnicas**
+
+* [TUS01] Refatorar Plano de Qualidade
+* [TUS02] Refatorar Plano de Gerência de Configuração de Software
+
+## 5. Pareamento
 
