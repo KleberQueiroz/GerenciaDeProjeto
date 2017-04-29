@@ -28,4 +28,4 @@ Este documento contém as convenções de códigos e utilização do Git a serem
 &nbsp;&nbsp;[Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
 
 ### Exemplos
-&nbsp;&nbsp;[Javascript Examples](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Exemplos-Folha-de-Estilo)
+&nbsp;&nbsp;[Exemplos](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Exemplos-Folha-de-Estilo)
