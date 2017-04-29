@@ -238,7 +238,7 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 
 #### 3.3.3. Com a finalidade de atingir o objetivo “Melhorar as estimativas de planejamento das sprints” foram definidas as seguintes métricas e sua importância para responder as perguntas associadas.
 
-
+	****** REMOVER ******
 	##### M1. Pontos Concluídos
 
 	| M1 | Pontos Concluidos |
@@ -283,6 +283,28 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 | Ação | Aperfeiçoar o planejamento da sprint seguinte. |
 | Meta | Recomendável: 10 horas. Aceitável: entre 8 e 13 |
 | Ferramenta | Coleta Manual |
+
+
+
+### 3.4. Utilizando as Métricas para responder as perguntas
+Será explicado como as métricas serão utilizadas a fim de responder as perguntas elaboradas.
+
+#### 3.4.1. Com a finalidade de atingir o objetivo “Melhorar a qualidade de código do software” foram definidas as seguintes as perguntas associadas.
+
+
+##### 3.4.1.1. A compreensibilidade do código está boa?
+
+
+##### 3.4.1.2. A estrutura do código está boa? 
+
+
+##### 3.4.1.3. O código está bem testado?
+
+
+#### 3.4.2. Com a finalidade de atingir o objetivo “Melhorar a qualidade de código do software” foram definidas as seguintes as perguntas associadas.
+
+
+##### 3.4.2.1. 
 
 
 
