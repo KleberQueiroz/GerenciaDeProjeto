@@ -56,8 +56,7 @@
 <p align ="justify">1. UnB - Universidade de Brasília
 <p align ="justify">2. FGA - Campus Gama da Universidade de Brasília
 <p align ="justify">3. MDS - Métodos de Desenvolvimento de Software
-<p align ="justify">4. GPP - Gestão de Portfólio de Projeto 
-<p align ="justify">5. GNU (General Public License) - Licença Pública Geral GNU
+<p align ="justify">4. GPP - Gestão de Portfólio de Projeto
 
 ### 1.4 Referências  
 
@@ -149,6 +148,3 @@ Acessado em 17 de abril em 2017.
 ## 9. Padrões Aplicáveis  
 
 <p align ="justify">Padrão da Arquitetura MVC (Model - View - Controller) foi utilizado no desenvolvimento da aplicação.  
-
-
-
