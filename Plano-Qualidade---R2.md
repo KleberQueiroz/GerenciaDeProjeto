@@ -142,7 +142,7 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 | Meta | A complexidade será considerada: Baixa < 5, Regular = 5, Alta > 5. |
 |Ferramenta| Code Climate/Rubocop|
 
-#### M2. Cobertura de Testes
+##### M2. Cobertura de Testes
 
 <p align="justify">A cobertura de testes possui um caráter de analisar dinamicamente o produto. É uma atividade para a identificação e eliminação de erros que possam persistir. O conjunto de informações obtidas a partir dos testes de software tem grande valor para atividades como a manutenção, depuração e estimativa de confiabilidade de software (MALDONADO, 2007).
 
@@ -154,7 +154,7 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 | Meta | Testes R1 > 30%, Testes R1 > 90% |
 |Ferramenta|SimpleCov, Cucumber, rspec|
 
-#### M3. Tamanho de Classes
+##### M3. Tamanho de Classes
 
 <p align="justify">Com o objetivo de manter uma boa modularização do código, será calculado a quantidade de linhas de cada classe.
 
@@ -167,7 +167,7 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 |Ferramenta| Code Climate/Rubocop|
 
 
-#### M4. Linhas por método
+##### M4. Linhas por método
 
 <p align="justify">Devido a alta distinção entre métodos, cada um tendo sua função específica. Esta métrica será utilizado apenas para fins informativos e possivelmente para refatoração.
 
@@ -179,8 +179,15 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 | Meta | Pontuação de 15 ou menor que 15. |
 |Ferramenta| Code Climate/Rubocop|
 
-#### M5. Percentual de Comentários por linhas de Código
+##### M5. Percentual de Comentários por linhas de Código
 
+| M5 | Percentual de Comentários por linhas de Código |
+|-------------------|-------------------------------------------------------------------------------|
+| Medida |  |
+| Período de coleta |  |
+| Ação |  |
+| Meta |  |
+|Ferramenta|  |
 
 
 #### 3.3.2. Com a finalidade de atingir o objetivo “Melhorar a qualidade do processo de desenvolvimento” foram definidas as seguintes métricas e sua importância para responder as perguntas associadas.
@@ -191,21 +198,11 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 
 | M1 | Pontos Concluidos |
 |-------------------|-------------------------------------------------------------------------------|
-| Medida | Número de pontos concluídos na sprint |
+| Medida | Número de pontos concluídos na sprint dividido pela quantidade média de pontos executados nas sprints anteriores (baseline).|
 | Período de coleta | Ao fim de cada sprint |
 | Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, planejar menos pontos na sprint seguinte, etc. |
-| Meta | Acima de 80% do planejado. |
-| Ferramenta |  Manual  |
-
-##### M1. Pontos Concluídos
-
-| M1 | Pontos Concluidos |
-|-------------------|-------------------------------------------------------------------------------|
-| Medida | Número de pontos concluídos na sprint |
-| Período de coleta | Ao fim de cada sprint |
-| Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, planejar menos pontos na sprint seguinte, etc. |
-| Meta | Acima de 80% do planejado. |
-| Ferramenta |  Manual  |
+| Meta | Acima de 80% |
+| Ferramenta | Coleta Manual |
 
 
 ##### M2. Nível de Integração da Equipe
@@ -216,7 +213,7 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 | Período de coleta | Ao fim de cada sprint |
 | Ação |  |
 | Meta | Acima de 80% do planejado. |
-| Ferramenta |  Manual  |
+| Ferramenta | Coleta Manual |
 
 ##### M3. Avaliação da dificuldade do processo
 
@@ -226,21 +223,52 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 | Período de coleta | Ao fim de cada sprint |
 | Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, planejar menos pontos na sprint seguinte, etc. |
 | Meta | Acima de 80% do planejado. |
-| Ferramenta |  Manual  |
+| Ferramenta | Coleta Manual |
 
-##### M3. Avaliação da dificuldade do processo
 
-| M3 | Avaliação da dificuldade do processo  |
+##### M4. Percentual de artefatos rejeitados 
+
+| M4 | Percentual de artefatos rejeitados  |
 |-------------------|-------------------------------------------------------------------------------|
-| Medida | Número de pontos concluídos na sprint |
-| Período de coleta | Ao fim de cada sprint |
-| Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, planejar menos pontos na sprint seguinte, etc. |
-| Meta | Acima de 80% do planejado. |
-| Ferramenta |  Manual  |
+| Medida | Percentual de artefatos rejeitados devido a qualidade dividido pelo total de artefatos criados na sprint |
+| Período de coleta | Ao fim de cada sprint, durante a sprint review |
+| Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, alterações no processo, etc. |
+| Meta | Acima de 75% de rejeição. |
+| Ferramenta | Coleta Manual |
 
 
 #### 3.3.3. Com a finalidade de atingir o objetivo “Melhorar as estimativas de planejamento das sprints” foram definidas as seguintes métricas e sua importância para responder as perguntas associadas.
 
+
+##### M1. Pontos Concluídos
+
+| M1 | Pontos Concluidos |
+|-------------------|-------------------------------------------------------------------------------|
+| Medida | Número de pontos concluídos na sprint |
+| Período de coleta | Ao fim de cada sprint |
+| Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, planejar menos pontos na sprint seguinte, etc. |
+| Meta | Acima de 80% do planejado. |
+| Ferramenta | Coleta Manual |
+
+
+##### M2. Pontos Planejados
+
+| M2 | Pontos Planejados |
+|-------------------|-------------------------------------------------------------------------------|
+| Medida | Número de pontos planejados para a sprint |
+| Período de coleta | No início de cada sprint |
+| Ação | Como o objetivo é encontrar a quantidade de pontos ideal para cada sprint, deve-se aumentar ou diminuir a quantidade de pontos de acordo com a restrospectiva e baseline de sprints anteriores. |
+| Meta | Ser igual ao pontos Concluídos e garantir que a equipe fique ocupada por 10 horas por dia. |
+| Ferramenta | Coleta Manual |
+
+##### M3. Percentual dos pontos Concluidos
+| M3 | Percentual dos pontos Concluidos |
+|-------------------|-------------------------------------------------------------------------------|
+| Medida |  |
+| Período de coleta |  |
+| Ação |  |
+| Meta |  |
+| Ferramenta |  |
 
 
 
