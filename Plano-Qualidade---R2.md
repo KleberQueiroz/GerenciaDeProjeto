@@ -124,8 +124,13 @@ OLD
 
 
 ### 3.3. Métricas
+As métricas abaixo serão divididas de acordo como os objetivos definidos, e posteriormente identificaremos quais perguntas elas respondem.
 
-#### M1. Complexidade
+
+#### 3.3.1. Com a finalidade de atingir o objetivo “Melhorar a qualidade de código do software” foram definidas as seguintes métricas e sua importância para responder as perguntas associadas.
+
+
+##### M1. Complexidade
 
 <p align="justify">Segundo uma pesquisa sobre psicologia cognitiva, um indivíduo consegue armazenar em sua memória de 5 a 9 objetos simultaneamente (MOURÃO, 2015). Por isso, um desenvolvedor ao analisar o código e necessitar dar uma manutenção ao mesmo teria uma dificuldade maior em assimilar 6 caminhos diferentes ou mais, o ideal seria que no máximo o código tivesse 5 caminhos, por isso foi escolhida a complexidade média foi de  5.
 
@@ -173,6 +178,72 @@ OLD
 | Ação | Se o limite for ultrapassado, refatorar método. |
 | Meta | Pontuação de 15 ou menor que 15. |
 |Ferramenta| Code Climate/Rubocop|
+
+#### M5. Percentual de Comentários por linhas de Código
+
+
+
+#### 3.3.2. Com a finalidade de atingir o objetivo “Melhorar a qualidade do processo de desenvolvimento” foram definidas as seguintes métricas e sua importância para responder as perguntas associadas.
+
+
+
+##### M1. Pontos Concluídos
+
+| M1 | Pontos Concluidos |
+|-------------------|-------------------------------------------------------------------------------|
+| Medida | Número de pontos concluídos na sprint |
+| Período de coleta | Ao fim de cada sprint |
+| Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, planejar menos pontos na sprint seguinte, etc. |
+| Meta | Acima de 80% do planejado. |
+| Ferramenta |  Manual  |
+
+##### M1. Pontos Concluídos
+
+| M1 | Pontos Concluidos |
+|-------------------|-------------------------------------------------------------------------------|
+| Medida | Número de pontos concluídos na sprint |
+| Período de coleta | Ao fim de cada sprint |
+| Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, planejar menos pontos na sprint seguinte, etc. |
+| Meta | Acima de 80% do planejado. |
+| Ferramenta |  Manual  |
+
+
+##### M2. Nível de Integração da Equipe
+
+| M2 | Nível de Integração da Equipe |
+|-------------------|-------------------------------------------------------------------------------|
+| Medida | Pergunta individual para os integrantes sobre como consideração sua integração da equipe |
+| Período de coleta | Ao fim de cada sprint |
+| Ação |  |
+| Meta | Acima de 80% do planejado. |
+| Ferramenta |  Manual  |
+
+##### M3. Avaliação da dificuldade do processo
+
+| M3 | Avaliação da dificuldade do processo  |
+|-------------------|-------------------------------------------------------------------------------|
+| Medida | Número de pontos concluídos na sprint |
+| Período de coleta | Ao fim de cada sprint |
+| Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, planejar menos pontos na sprint seguinte, etc. |
+| Meta | Acima de 80% do planejado. |
+| Ferramenta |  Manual  |
+
+##### M3. Avaliação da dificuldade do processo
+
+| M3 | Avaliação da dificuldade do processo  |
+|-------------------|-------------------------------------------------------------------------------|
+| Medida | Número de pontos concluídos na sprint |
+| Período de coleta | Ao fim de cada sprint |
+| Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, planejar menos pontos na sprint seguinte, etc. |
+| Meta | Acima de 80% do planejado. |
+| Ferramenta |  Manual  |
+
+
+#### 3.3.3. Com a finalidade de atingir o objetivo “Melhorar as estimativas de planejamento das sprints” foram definidas as seguintes métricas e sua importância para responder as perguntas associadas.
+
+
+
+
 
 ## 4. Ferramentas para análise de qualidade
 
