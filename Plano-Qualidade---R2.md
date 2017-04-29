@@ -294,35 +294,60 @@ Será explicado como as métricas serão utilizadas a fim de responder as pergun
 
 ##### 3.4.1.1. A compreensibilidade do código está boa?
 
+A fim de analisar a compreensibilidade do código, serão utilizadas as métricas "Percentual de Comentários”, ”Tamanho de Classes” e "Linhas por método”, visto que as duas últimas sugerem o quão coeso o software está, e um software coeso é de mais fácil compreensão para humanos.
+
+FORMULA de como será calculado
 
 ##### 3.4.1.2. A estrutura do código está boa? 
+
+A fim de analisar a estrutura do código, será utilizada principalmente a Métrica  “Complexidade”. Porém em conjunto com, serão utilizadas as métricas "Tamanho de Classes” e "Linhas por método” que podem sugerir o quão coeso o software está, o que influencia na qualidade de sua estruturação.
+
+FORMULA de como será calculado
 
 
 ##### 3.4.1.3. O código está bem testado?
 
+Será utilizada a Métrica “Cobertura de Testes” como base. Conforme especifico anteriormente no relatório a cobertura deve ser maior que 90%.
 
 #### 3.4.2. Com a finalidade de atingir o objetivo “Melhorar a qualidade do processo de desenvolvimento” foram definidas as seguintes as perguntas associadas.
 
 
 ##### 3.4.2.1. Como foi a produtividade da equipe na última sprint?
 
+Será utilizados a métrica "Variação nos pontos concluídos”. Dessa forma, será comparado a quantidade de pontos concluídos nessa sprint com os dados registrados de sprints anteriores (baseline). Dessa forma, será possível  identificar melhorias ou pioras no desempenho da equipe ao serem realizadas alterações na metodologia utilizada. Apesar disso, não será possível comparar o desempenho da equipe desse projeto com outras equipes utilizando somente essa métrica.
 
 ##### 3.4.2.2. Como foi a integração da equipe na última sprint?
+
+Será utilizados a métrica "Nível de Integração da Equipe”. 
+
+EXPLICAR
 
 
 ##### 3.4.2.3. O processo está sendo seguido facilmente pela equipe?
 
+Será utilizados a métrica "Avaliação da dificuldade de se adequar as mudanças planejadas”. 
+
+EXPLICAR
 
 ##### 3.4.2.4. Como está a qualidade dos artefatos gerados ao aplicar esse processo?
+
+Será utilizados a métrica "Percentual de artefatos rejeitados”. E as métricas de qualidade de código ("Complexidade”, ”Cobertura de Testes”, "Tamanho de Classes”, "Linhas por método", "Percentual de Comentários por linhas de Código"
+
+EXPLICAR COMO / FORMULA
 
 
 #### 3.4.2. Com a finalidade de atingir o objetivo “Melhorar a qualidade do processo de desenvolvimento” foram definidas as seguintes as perguntas associadas.
 
 
+
 ##### 3.4.2.1. Qual o percentual do planejado foi executado?
+
+Será utilizados a métrica "Percentual dos pontos Concluidos”.
 
 
 ##### 3.4.2.2. A duração e a quantidade de pontos planejadas para essa sprint foi boa? 
+
+Será utilizados a métrica "Média de horas para a execução das atividades”.
 
 
 
