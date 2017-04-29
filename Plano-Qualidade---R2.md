@@ -196,11 +196,11 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 
 ##### M1. Pontos Concluídos
 
-| M1 | Pontos Concluidos |
+| M1 | Percentual de pontos concluídos com relação a dados históricos |
 |-------------------|-------------------------------------------------------------------------------|
 | Medida | Número de pontos concluídos na sprint dividido pela quantidade média de pontos executados nas sprints anteriores (baseline).|
 | Período de coleta | Ao fim de cada sprint |
-| Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, planejar menos pontos na sprint seguinte, etc. |
+| Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão. |
 | Meta | Acima de 80% |
 | Ferramenta | Coleta Manual |
 
@@ -212,7 +212,7 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 | Medida | Pergunta individual para os integrantes sobre como consideração sua integração da equipe |
 | Período de coleta | Ao fim de cada sprint |
 | Ação |  |
-| Meta | Acima de 80% do planejado. |
+| Meta |  |
 | Ferramenta | Coleta Manual |
 
 ##### M3. Avaliação da dificuldade do processo
@@ -235,6 +235,18 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 | Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, alterações no processo, etc. |
 | Meta | Acima de 75% de rejeição. |
 | Ferramenta | Coleta Manual |
+
+
+##### M5. Percentual de características negativas da sprint
+
+| M5 | Percentual de características negativas da sprint  |
+|-------------------|-------------------------------------------------------------------------------|
+| Medida | Quantidade de características negativas dividido por (positivas + negativas) da sprint |
+| Período de coleta | Ao fim de cada sprint, durante a retrospectiva |
+| Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a qualidade da sprint. |
+| Meta | Abaixo de 50% |
+| Ferramenta | Coleta Manual |
+
 
 
 #### 3.3.3. Com a finalidade de atingir o objetivo “Melhorar as estimativas de planejamento das sprints” foram definidas as seguintes métricas e sua importância para responder as perguntas associadas.
