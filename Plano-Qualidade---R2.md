@@ -301,10 +301,28 @@ Será explicado como as métricas serão utilizadas a fim de responder as pergun
 ##### 3.4.1.3. O código está bem testado?
 
 
-#### 3.4.2. Com a finalidade de atingir o objetivo “Melhorar a qualidade de código do software” foram definidas as seguintes as perguntas associadas.
+#### 3.4.2. Com a finalidade de atingir o objetivo “Melhorar a qualidade do processo de desenvolvimento” foram definidas as seguintes as perguntas associadas.
 
 
-##### 3.4.2.1. 
+##### 3.4.2.1. Como foi a produtividade da equipe na última sprint?
+
+
+##### 3.4.2.2. Como foi a integração da equipe na última sprint?
+
+
+##### 3.4.2.3. O processo está sendo seguido facilmente pela equipe?
+
+
+##### 3.4.2.4. Como está a qualidade dos artefatos gerados ao aplicar esse processo?
+
+
+#### 3.4.2. Com a finalidade de atingir o objetivo “Melhorar a qualidade do processo de desenvolvimento” foram definidas as seguintes as perguntas associadas.
+
+
+##### 3.4.2.1. Qual o percentual do planejado foi executado?
+
+
+##### 3.4.2.2. A duração e a quantidade de pontos planejadas para essa sprint foi boa? 
 
 
 
