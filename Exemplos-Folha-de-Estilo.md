@@ -1,7 +1,7 @@
 Do's and Dont's Javascript
 
-// Faça isso 
-
+ Faça isso 
+```
 const atom = { 
   value: 1,
 
@@ -9,9 +9,9 @@ const atom = {
     return atom.value + value;
   },
 };
-
-// Não faça isso, vai quebrar o heroku 
-
+```
+ Não faça isso, vai quebrar o heroku 
+```
 const atom = {
   value: 1,
 
@@ -19,26 +19,25 @@ const atom = {
     return atom.value + value;
   },
 };
-
-
+```
 
 Do's and Dont's Ruby on rails
 
-//Prefira  essa sintaxe quando for declarar
+Usar aspas simples quando não estiver usando caracteres especiais ou interpolação de strings
 
-find('.navbar-title', text:  'Dashboard')
-
-//Do que essa 
-
-find('.navbar-title', :text => 'Dashboard')
-
-//Usar aspas simples quando não estiver usando caracteres especiais ou interpolação de strings
-
-//Prefira assim
-
+Prefira assim
+```
 fill_in 'admin_password', :with => password
-
-//Do que assim
-
+```
+Do que assim
+```
 fill_in "admin_password", :with => password
-
+```
+Prefira  essa sintaxe quando for declarar
+```
+find('.navbar-title', text:  'Dashboard')
+```
+Do que essa 
+```
+find('.navbar-title', :text => 'Dashboard')
+```
