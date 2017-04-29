@@ -43,7 +43,9 @@ Outra prática utilizada no projeto foi a integração contínua e deploy contí
 
 ## Ferramenta de Acompanhamento da Sprint
 
-Inicialmente foi realizada uma pesquisa comparativa entre 3 ferramentas de controle de sprint. Foram o ZenHub, o Waffle e o HuBoard. Foram testas as 3 ferramentas e com a ajuda de um comparativo [link](https://stackshare.io/stackups/huboard-vs-waffle-io-vs-zenhub). No final, houve um impasse entre a ferramenta ZenHub e Waffle que são eficientes para o nosso projeto. Foi escolhido o ZenHub por não precisar sair do repositório para o controle da sprint, além de ser integrado com o slack.
+Inicialmente foi realizada uma pesquisa comparativa entre 3 ferramentas de controle de sprint. Foram o ZenHub, o Waffle e o HuBoard. Foram testas as 3 ferramentas e com a ajuda de um comparativo [link](https://stackshare.io/stackups/huboard-vs-waffle-io-vs-zenhub). 
+
+No final, houve um impasse entre a ferramenta ZenHub e Waffle que são eficientes para o nosso projeto. Foi escolhido o ZenHub por não precisar sair do repositório para o controle da sprint, além de ser integrado com o slack.
 
 [![Captura de tela de 2017-04-29 11-57-31.png](https://s23.postimg.org/6olmz8hbv/Captura_de_tela_de_2017-04-29_11-57-31.png)](https://postimg.org/image/lxbkd0b07/)
 
