@@ -78,24 +78,13 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 
 #### 3.2.1. As perguntas elaboradas relacionadas aos objetivo **Melhorar a qualidade de código do software** foram:
 
-OLD
-* Qual a qualidade do código do OndeÉUnB?
-
-<p align="justify">O nível de qualidade do código será dado a partir de três fatores: Complexidade, Tamanho da Classe, Cobertura de Testes.
-
-| <p align="left">Fatores de Qualidade | <p align="left">Fatores de Variação |
-|-------------------------------------------|------------------------------------------------------------------------|
-| Complexidade do código<br/>Taxa de comentários<br/>Cobertura de Testes | Experiência do desenvolvedor com a linguagem<br/>Motivação do Desenvolvedor |
-| **Hipótese de Linha-Base** | **Impacto na Hipótese de Linha-Base** |
-| Espera se que o projeto tenha complexidade 5<br/>É esperado que na R1 tenha mais de 30% de cobertura de testes e na R2 mais de 90%<br/>A classe tem um número de linhas <= 100<br/>O código possui uma pontuação de 15 no ABC metric|Com o impacto dos fatores de variação, prevê-se que a complexidade do código seja 8<br/>Que a cobertura de testes diminua 10% em relação a Hipótese de Linha-Base <br/>O código irá possui 150 linhas por classe<br/>O codigo tem nota 20 em relação ao ABC metric|
-
 * A compreensibilidade do código está boa? 
 
 
 * A estrutura do código está boa? 
 
 
-* A estrutura do código está boa? 
+* O código está bem testado?
 
 
 #### 3.2.1. As perguntas elaboradas relacionadas aos objetivo **Melhorar a qualidade do processo de desenvolvimento** foram:
@@ -119,8 +108,6 @@ OLD
 
 * A duração e a quantidade de pontos planejadas para essa sprint foi boa? 
 
-
-* O que acarretou atrasos no tempo planejado?
 
 
 ### 3.3. Métricas
@@ -194,9 +181,9 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 
 
 
-##### M1. Pontos Concluídos
+##### M1. Variação nos pontos concluídos
 
-| M1 | Percentual de pontos concluídos com relação a dados históricos |
+| M1 | Variação nos pontos concluídos |
 |-------------------|-------------------------------------------------------------------------------|
 | Medida | Número de pontos concluídos na sprint dividido pela quantidade média de pontos executados nas sprints anteriores (baseline).|
 | Período de coleta | Ao fim de cada sprint |
@@ -209,20 +196,20 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 
 | M2 | Nível de Integração da Equipe |
 |-------------------|-------------------------------------------------------------------------------|
-| Medida | Pergunta individual para os integrantes sobre como consideração sua integração da equipe |
-| Período de coleta | Ao fim de cada sprint |
-| Ação |  |
-| Meta |  |
+| Medida | Pergunta individual para os integrantes sobre como consideração sua integração da equipe seguindo uma escala de 0 a 5. A pergunta elaborada aos integrantes será: _"Avalie de 0 a 5 o quão bom você considera a sua integração e comunicação com o restante da equipe durante essa sprint"_. |
+| Período de coleta | Ao fim de cada sprint, durante a sprint review. |
+| Ação | Avaliar a alterar ferramentas de comunicação, conversar com o membro que se sentiu pouco integrado, realizar alterações no processo |
+| Meta | Média de todos os integrantes do grupo como sendo no mínimo 3.3. |
 | Ferramenta | Coleta Manual |
 
-##### M3. Avaliação da dificuldade do processo
+##### M3. Avaliação da dificuldade de se adequar as mudanças planejadas. 
 
-| M3 | Avaliação da dificuldade do processo  |
+| M3 | Avaliação da dificuldade de se adequar as mudanças planejadas|
 |-------------------|-------------------------------------------------------------------------------|
-| Medida | Número de pontos concluídos na sprint |
+| Medida | Para cada alteração na metodologia ou nas práticas realizada na sprint atual, os integrantes deverão informar o quão difícil foi se adequar a essas alterações (baseando-se nas sprints anteriores). A avaliação será subjetiva e irá variar de 0 a 5. A resposta a ser respondida será  _"Avalie de 0 a 5 o quão difícil você considera ter sido sua adequação a < prática ou metodologia modificada > nessa sprint"_. |
 | Período de coleta | Ao fim de cada sprint |
-| Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, planejar menos pontos na sprint seguinte, etc. |
-| Meta | Acima de 80% do planejado. |
+| Ação | Avaliar se essa mudança será adotada ou não para as sprints restantes. |
+| Meta | Não tem meta para essa métrica. Um valor baixo indica que é uma mudança difícil de ser aplicada, mas não necessariamente é negativa. |
 | Ferramenta | Coleta Manual |
 
 
@@ -241,7 +228,7 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 
 | M5 | Percentual de características negativas da sprint  |
 |-------------------|-------------------------------------------------------------------------------|
-| Medida | Quantidade de características negativas dividido por (positivas + negativas) da sprint |
+| Medida | Quantidade de características negativas da sprint dividido pela soma das positivas com as negativas |
 | Período de coleta | Ao fim de cada sprint, durante a retrospectiva |
 | Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a qualidade da sprint. |
 | Meta | Abaixo de 50% |
@@ -252,26 +239,26 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 #### 3.3.3. Com a finalidade de atingir o objetivo “Melhorar as estimativas de planejamento das sprints” foram definidas as seguintes métricas e sua importância para responder as perguntas associadas.
 
 
-##### M1. Pontos Concluídos
+	##### M1. Pontos Concluídos
 
-| M1 | Pontos Concluidos |
-|-------------------|-------------------------------------------------------------------------------|
-| Medida | Número de pontos concluídos na sprint |
-| Período de coleta | Ao fim de cada sprint |
-| Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, planejar menos pontos na sprint seguinte, etc. |
-| Meta | Acima de 80% do planejado. |
-| Ferramenta | Coleta Manual |
+	| M1 | Pontos Concluidos |
+	|-------------------|-------------------------------------------------------------------------------|
+	| Medida | Número de pontos concluídos na sprint |
+	| Período de coleta | Ao fim de cada sprint |
+	| Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, planejar menos pontos na sprint seguinte, etc. |
+	| Meta | Acima de 80% do planejado. |
+	| Ferramenta | Coleta Manual |
 
 
-##### M2. Pontos Planejados
+	##### M2. Pontos Planejados
 
-| M2 | Pontos Planejados |
-|-------------------|-------------------------------------------------------------------------------|
-| Medida | Número de pontos planejados para a sprint |
-| Período de coleta | No início de cada sprint |
-| Ação | Como o objetivo é encontrar a quantidade de pontos ideal para cada sprint, deve-se aumentar ou diminuir a quantidade de pontos de acordo com a restrospectiva e baseline de sprints anteriores. |
-| Meta | Ser igual ao pontos Concluídos e garantir que a equipe fique ocupada por 10 horas por dia. |
-| Ferramenta | Coleta Manual |
+	| M2 | Pontos Planejados |
+	|-------------------|-------------------------------------------------------------------------------|
+	| Medida | Número de pontos planejados para a sprint |
+	| Período de coleta | No início de cada sprint |
+	| Ação | Como o objetivo é encontrar a quantidade de pontos ideal para cada sprint, deve-se aumentar ou diminuir a quantidade de pontos de acordo com a restrospectiva e baseline de sprints anteriores. |
+	| Meta | Ser igual ao pontos Concluídos e garantir que a equipe fique ocupada por 10 horas por dia. |
+	| Ferramenta | Coleta Manual |
 
 ##### M3. Percentual dos pontos Concluidos
 | M3 | Percentual dos pontos Concluidos |
@@ -282,6 +269,17 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 | Meta |  |
 | Ferramenta |  |
 
+##### M4. Média de horas para a execução das atividades 
+
+->OBS: Se foi gasto muito mais de 10 horas , a sprint deveria ser maior ou menos pontos deveriam ser atribuídos por pessoa.
+
+| M4 | Média de horas para a execução das atividades |
+|-------------------|-------------------------------------------------------------------------------|
+| Medida |  |
+| Período de coleta | Ao fim de cada sprint, durante a sprint review |
+| Ação | Aperfeiçoar o planejamento da sprint seguinte. |
+| Meta | Recomendável: 10 horas. Aceitável: entre 8 e 13 |
+| Ferramenta | Coleta Manual |
 
 
 
