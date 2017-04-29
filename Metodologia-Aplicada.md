@@ -41,7 +41,14 @@ Uma das práticas utilizadas no projeto foi o pareamento.
 Outra prática utilizada no projeto foi a integração contínua e deploy contínuo. A integração contínua era executada automaticamente sempre que uma mudança fosse realizada e colocada no repositório oficial do GitHub. Essa integração era realizada pela ferramenta CicleCI. 
 
 
-## _Kanban_
+## Ferramenta de Acompanhamento da Sprint
+
+Inicialmente foi realizada uma pesquisa comparativa entre 3 ferramentas de controle de sprint. Foram o ZenHub, o Waffle e o HuBoard. Foram testas as 3 ferramentas e com a ajuda de um comparativo [link](https://stackshare.io/stackups/huboard-vs-waffle-io-vs-zenhub). No final, houve um impasse entre a ferramenta ZenHub e Waffle que são eficientes para o nosso projeto. Foi escolhido o ZenHub por não precisar sair do repositório para o controle da sprint, além de ser integrado com o slack.
+
+[![Captura de tela de 2017-04-29 11-57-31.png](https://s23.postimg.org/6olmz8hbv/Captura_de_tela_de_2017-04-29_11-57-31.png)](https://postimg.org/image/lxbkd0b07/)
+
+
+## Kanban
 
 Foi utilizado o Kanban para a equipe ter uma melhor visibilidade do projeto de forma que todos os integrantes do projeto possam visualizá-lo e modificá-lo de forma rápida e fácil, além de que qualquer pessoa interessada no projeto também possa visualizá-lo facilmente. Para facilitar esta visualização, foi usada a ferramenta ZenHub conectada ao Git. Na aba de Boards é possível ver o que a equipe tinha para fazer "To Do", o que estava sendo feito "Doing", o que estava pronto "Done" e o que havia sido aceito pelo PO, e portanto estava com issue fechada "Closed".
 
