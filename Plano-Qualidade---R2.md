@@ -260,18 +260,21 @@ As métricas abaixo serão divididas de acordo como os objetivos definidos, e po
 	| Meta | Ser igual ao pontos Concluídos e garantir que a equipe fique ocupada por 10 horas por dia. |
 	| Ferramenta | Coleta Manual |
 
+
+
 ##### M3. Percentual dos pontos Concluidos
+
 | M3 | Percentual dos pontos Concluidos |
 |-------------------|-------------------------------------------------------------------------------|
-| Medida |  |
-| Período de coleta |  |
-| Ação |  |
-| Meta |  |
-| Ferramenta |  |
+| Medida | Número de pontos concluídos na sprint dividido pela quantidade de pontos planejados |
+| Período de coleta | Ao fim de cada sprint |
+| Ação | Caso esteja abaixo do esperado, a equipe deve se reunir para identificar os problemas que afetaram a conclusão das atividades. A ação dependerá dessa conclusão, poderão ser realizados treinamentos adicionais, planejar menos pontos na sprint seguinte, etc. Como o objetivo é encontrar a quantidade de pontos ideal para cada sprint, deve-se utilizar os dados obtidas nessa sprint a fim de planejar as sprints seguintes com um maior nível de acurácia. |
+| Meta | Ideal: 100% - Recomendável: 80% - Crítico: 50% |
+| Ferramenta | Coleta Manual |
 
 ##### M4. Média de horas para a execução das atividades 
 
-->OBS: Se foi gasto muito mais de 10 horas , a sprint deveria ser maior ou menos pontos deveriam ser atribuídos por pessoa.
+->OBS: A duração e a quantidade de pontos planejadas estão diretamente relacionadas... Dessa forma é mais interessante verificar o esforço gasto semanalmente. Se foi gasto muito mais de 10 horas , a sprint deveria ser maior com a mesma quantidade de pontos ou do mesmo tamanho com menos pontos.
 
 | M4 | Média de horas para a execução das atividades |
 |-------------------|-------------------------------------------------------------------------------|
