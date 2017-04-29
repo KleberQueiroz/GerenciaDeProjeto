@@ -11,9 +11,9 @@
 
 [2. Processo de Qualidade](#2-Processo-de-Qualidade)
 
-[3. Ferramentas da análise de qualidade](#3-Ferramentas-da-análise-de-qualidade)
+[3. GQM do Projeto](#3-GQM-do-Projeto)
 
-[4. Métricas](#4-Metricas)
+[4. Ferramentas da análise de qualidade](#3-Ferramentas-da-análise-de-qualidade)
 
 [5. Referências Bibliográficas](#5-Referências-Bibliograficas)
 
@@ -34,11 +34,11 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 
 * <p align="justify"> Monitorar e controlar a qualidade do projeto: é dado ao monitorar, registrar para então avaliar o desempenho e recomendar mudanças no projeto. É benéfico ao projeto pois identifica causas da baixa qualidade e pode fazer recomendações para elimina-la e valida a conformidade do projeto para com as partes interessadas.
 
-## 2. GQM do projeto
+## 3. GQM do projeto
 
 <p align="justify">O Goal Question Metric (GQM), é um paradigma de medição que visa definir e integrar objetivos à modelos de processo, produto e aspectos de qualidade. É uma abordagem orientada a metas que tem como base a definição de metas operacionais e mensuráveis top-down no processo de medição e interpretação dos dados resultantes bottom-up. O processo GQM é separado em passos ou fases que cobrem todo o planejamento e execução de um plano de medições.
 
-### 2.1. Objetivos
+### 3.1. Objetivos
 
 <p align="justify">O objetivo do projeto trata do seu ponto de vista, o propósito e o ambiente (SARAIVA, 2006). Com isso a seguinte tabela busca representar os objetivos de qualidade do OndeÉ?UnB.
 
@@ -50,7 +50,7 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 | Sob ponto de vista do | Desenvolvedor |
 | No contexto de | Projeto OndeÉ?UnB |
 
-### 2.2. Perguntas
+### 3.2. Perguntas
 
 <p align="justify">Perguntas ou Questões são definidas a partir dos objetivos estabelecidos para obter informações sobre os mesmos. Para cada fator de qualidade registrado no Abstraction Sheet é gerada uma mais perguntas que nada mais serão do que um resultados para o objetivo de mensuração.
 
@@ -65,7 +65,7 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 | **Hipótese de Linha-Base** | **Impacto na Hipótese de Linha-Base** |
 | Espera se que o projeto tenha complexidade 5<br/>É esperado que na R1 tenha mais de 30% de cobertura de testes e na R2 mais de 90%<br/>A classe tem um número de linhas <= 100<br/>O código possui uma pontuação de 15 no ABC metric|Com o impacto dos fatores de variação, prevê-se que a complexidade do código seja 8<br/>Que a cobertura de testes diminua 10% em relação a Hipótese de Linha-Base <br/>O código irá possui 150 linhas por classe<br/>O codigo tem nota 20 em relação ao ABC metric|
 
-### 2.3. Métricas
+### 3.3. Métricas
 
 #### M1. Complexidade
 
@@ -116,29 +116,29 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 | Meta | Pontuação de 15 ou menor que 15. |
 |Ferramenta| Code Climate/Rubocop|
 
-## 3. Ferramentas para análise de qualidade
+## 4. Ferramentas para análise de qualidade
 
-### 3.1. Code Climate
+### 4.1. Code Climate
 
 <p align="justify">Code Climate é uma ferramenta de análise estática que coleta diversas métricas. Nela podem ser configuradas diversas ferramentas, dentre elas o Rubocop.
 
-### 3.2. Rubocop
+### 4.2. Rubocop
 
 <p align="justify">Rubocop é uma das ferramentas que o Code Climate utiliza, tendo grande importância para o OndeEUnB pois fará a maior parte das coletas de métricas.
 
-### 3.3. CircleCI
+### 4.3. CircleCI
 
 <p align="justify">Circle CI é uma ferramenta de integração contínua e deploy para projetos hospedados no GitHub. Nele é possível criar uma build em cada commit, passando por todos os testes unitários e de integração. Garantindo assim que a versão no servidor será sempre a última versão estável do software.
 
-### 3.4. SimpleCov
+### 4.4. SimpleCov
 
 <p align="justify">O SimpleCov é uma ferramenta de análise para ruby on rails, ele determina o status de cobertura de testes para cada arquivo do seu projeto.
 
-### 3.5. Cucumber
+### 4.5. Cucumber
 
 <p align="justify">Cucumber é uma ferramentar em que é possível escrever testes de aceitação automatizados do sistemas. No Cucumber são executados passos que descrevem como o software deve se comportar.
 
-### 3.6. RSpec
+### 4.6. RSpec
 
 RSpec é uma ferramenta de testes para Rails de testes unitários. Ela fornece uma forma de encapsular o que irá ser testado com um bloco "describe".
 
