@@ -42,19 +42,43 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 
 <p align="justify">O objetivo do projeto trata do seu ponto de vista, o propósito e o ambiente (SARAIVA, 2006). Com isso a seguinte tabela busca representar os objetivos de qualidade do OndeÉ?UnB.
 
+#### 3.1.1 Melhorar a qualidade de código do software.
 | Dimensão | Objetivo|
 |-----------------------|---------------------|
-| Analisar | Código |
+| Analisar | Código do Software sendo desenvolvido |
 | Com propósito de | Conhecer e Melhorar|
 | Com respeito a | Qualidade |
-| Sob ponto de vista do | Desenvolvedor |
-| No contexto de | Projeto OndeÉ?UnB |
+| Sob ponto de vista dos | Desenvolvedores |
+| No contexto do | Projeto OndeÉUnB |
+
+
+#### 3.1.2 Melhorar a qualidade do processo de desenvolvimento.
+| Dimensão | Objetivo|
+|-----------------------|---------------------|
+| Analisar | O processo  |
+| Com propósito de | Verificar |
+| Com respeito a | Qualidade |
+| Sob ponto de vista do | Gerentes de Projeto (GPP) |
+| No contexto de | Projeto de OndeÉUnB |
+
+
+#### 3.1.3 Melhorar as estimativas de planejamento das sprints.
+| Dimensão | Objetivo|
+|-----------------------|---------------------|
+| Analisar | Estimativas de Tempo  |
+| Com propósito de | Verificar |
+| Com respeito a | Acurácia do Planejamento |
+| Sob ponto de vista do | Gerentes de Projeto (GPP) |
+| No contexto de | Projeto de OndeÉUnB |
+
 
 ### 3.2. Perguntas
 
 <p align="justify">Perguntas ou Questões são definidas a partir dos objetivos estabelecidos para obter informações sobre os mesmos. Para cada fator de qualidade registrado no Abstraction Sheet é gerada uma mais perguntas que nada mais serão do que um resultados para o objetivo de mensuração.
 
+#### 3.2.1. As perguntas elaboradas relacionadas aos objetivo **Melhorar a qualidade de código do software** foram:
 
+OLD
 * Qual a qualidade do código do OndeÉUnB?
 
 <p align="justify">O nível de qualidade do código será dado a partir de três fatores: Complexidade, Tamanho da Classe, Cobertura de Testes.
@@ -64,6 +88,40 @@ Este documento tem como finalidade descrever questões de planejamento, garantia
 | Complexidade do código<br/>Taxa de comentários<br/>Cobertura de Testes | Experiência do desenvolvedor com a linguagem<br/>Motivação do Desenvolvedor |
 | **Hipótese de Linha-Base** | **Impacto na Hipótese de Linha-Base** |
 | Espera se que o projeto tenha complexidade 5<br/>É esperado que na R1 tenha mais de 30% de cobertura de testes e na R2 mais de 90%<br/>A classe tem um número de linhas <= 100<br/>O código possui uma pontuação de 15 no ABC metric|Com o impacto dos fatores de variação, prevê-se que a complexidade do código seja 8<br/>Que a cobertura de testes diminua 10% em relação a Hipótese de Linha-Base <br/>O código irá possui 150 linhas por classe<br/>O codigo tem nota 20 em relação ao ABC metric|
+
+* A compreensibilidade do código está boa? 
+
+
+* A estrutura do código está boa? 
+
+
+* A estrutura do código está boa? 
+
+
+#### 3.2.1. As perguntas elaboradas relacionadas aos objetivo **Melhorar a qualidade do processo de desenvolvimento** foram:
+
+* Como foi a produtividade da equipe na última sprint?
+
+
+* Como foi a integração da equipe na última sprint?
+
+
+* O processo está sendo seguido facilmente pela equipe?
+
+
+* Como está a qualidade dos artefatos gerados ao aplicar esse processo?
+
+
+#### 3.2.1. As perguntas elaboradas relacionadas aos objetivo **Melhorar as estimativas de planejamento das sprints** foram:
+
+* Qual o percentual do planejado foi executado?
+
+
+* A duração e a quantidade de pontos planejadas para essa sprint foi boa? 
+
+
+* O que acarretou atrasos no tempo planejado?
+
 
 ### 3.3. Métricas
 
