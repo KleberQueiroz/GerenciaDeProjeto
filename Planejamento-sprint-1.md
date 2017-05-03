@@ -57,7 +57,7 @@ Critérios de aceitação: Desenhar no mapa e Indoor map.
 
 Eu como usuário, desejo clicar no mapa em um ponto de partida e um ponto de destino, para que eu possa saber qual trajeto irei percorrer.
 
-Critérios de aceitação: 
+* Critérios de aceitação: 
       * Trajeto com partida e destino
       * Trocar lib de trajetos por Leaflet RouteMachine + MapZen
       * Corrigir UX/UI
