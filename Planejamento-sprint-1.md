@@ -27,41 +27,46 @@ O objetivo dessa Sprint é melhorar as funcionalidades relacionadas aos edifíci
 
 #### **Histórias Técnicas**
 
-* [TS06] - Parser MatriculaWeb
+* **[TS06]** - Parser MatriculaWeb
 
 Eu, como desenvolvedor, desejo obter informações sobre as salas onde as matérias são realizadas para salvar em um arquivo.
 
-Critério de aceitação: Arquivo com todas as matérias em uma sala, separadas por departamento.
+* Critério de aceitação: 
+   * Arquivo com todas as matérias em uma sala, separadas por departamento.
 
 #### **Histórias de Usuário**
 
-* [US03] - Visualizar Informações de Edifício
+* **[US03]** - Visualizar Informações de Edifício
 
 Eu, como usuário, desejo clicar sobre um ponto/edifício marcado no mapa para saber mais detalhes sobre o mesmo, como nome, telefone e outras informações.
 
-Critério de aceitação: Mostrar informações referentes ao edifício clicado.
+* Critério de aceitação: 
+   * Mostrar informações referentes ao edifício clicado.
 
-* [US02] - Pesquisar Edifício
+* **[US02]** - Pesquisar Edifício
 
 Eu como usuário, desejo consultar edifícios para que seja possível encontrá-los ao utilizar o mapa.
 
-Critério de aceitação: Auto-complete search.
+* Critério de aceitação: 
+   * Auto-complete search.
 
-* US07 - Cadastrar Salas
+* **[US07]** - Cadastrar Salas
 
 Eu, como administrador, desejo cadastrar salas do ICC, para que seja possível disponibilizar salas aos usuários.
 
-Critérios de aceitação: Desenhar no mapa e Indoor map.
+* Critérios de aceitação: 
+   * Desenhar no mapa 
+   * Indoor map.
 
-* [US04] - Marcar Pontos de Trajeto
+* **[US04]** - Marcar Pontos de Trajeto
 
 Eu como usuário, desejo clicar no mapa em um ponto de partida e um ponto de destino, para que eu possa saber qual trajeto irei percorrer.
 
 * Critérios de aceitação: 
-      * Trajeto com partida e destino
-      * Trocar lib de trajetos por Leaflet RouteMachine + MapZen
-      * Corrigir UX/UI
-      * Adicionar menu de contexto para definir pontos de partida e chegada
+   * Trajeto com partida e destino
+   * Trocar lib de trajetos por Leaflet RouteMachine + MapZen
+   * Corrigir UX/UI
+   * Adicionar menu de contexto para definir pontos de partida e chegada
 
 ## 5. Pareamento
 
