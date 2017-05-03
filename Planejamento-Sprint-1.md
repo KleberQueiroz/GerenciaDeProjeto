@@ -23,7 +23,7 @@ O objetivo dessa Sprint é melhorar as funcionalidades relacionadas aos edifíci
 * **Product Owner:** Rafael Rabetti
 * **Tracker:** Eduardo Brasil
 
-_Observação_: Nessa Sprint 1, em especial, optou-se por manter o Product Owner da Sprint 0 para que fosse finalizada a atualização do Product Backlog.
+_Observação_: Nessa Sprint 1, em especial, optou-se por manter o Product Owner da Sprint 0. Foi tomada essa decisão para que fosse finalizada a atualização do Product Backlog.
 
 ## 4. Sprint Backlog
 
