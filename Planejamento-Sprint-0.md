@@ -10,7 +10,7 @@
 ## 1. Resumo
 
 * **Data do Início da Sprint:** 22/04/2017
-* **Data do Fim da Sprint:** 22/04/2017
+* **Data do Fim da Sprint:** 29/04/2017
 * **Pontos Planejados:** 49,5
 
 ## 2. Objetivo
