@@ -29,11 +29,10 @@ O objetivo dessa Sprint é melhorar a documentação do projeto, pagar dívidas 
 
 | Histórias | Descrição | Pontos |
 | ------- | :----: |  :----: |
-|[TS01] Refatorar Plano de Qualidade e Relatório de Extração das Métricas|Eu, como gerente,  desejo refatorar o plano de qualidade com melhores definições de métricas e referências para que sejam feitas coletas de métricas com maior qualidade e que MDS comece a entender sobre qualidade de código no decorrer das sprints.|2|
-|[TS02] Refatorar Plano de Gerência de Configuração de Software|
-Eu, como gerente, desejo refatorar o plano de Gerência de Configuração de Software, para que para esteja claro o que a ferramenta de integração contínua faz e como foi dado o deploy contínuo.|2|
-|[TS03] Mapeamento da UnB|Eu, como desenvolvedor, desejo um mapeamento eficaz das rotas do campus Darcy Ribeiro para que estas sejam as melhores possíveis.|13|
-|[TS04] Refatorar Código|Eu, como desenvolvedor, desejo refatorar o código para melhorar a qualidade e facilitar a sua manutenção.|5|
+|TS01 - Refatorar Plano de Qualidade e Relatório de Extração das Métricas|Eu, como gerente,  desejo refatorar o plano de qualidade com melhores definições de métricas e referências para que sejam feitas coletas de métricas com maior qualidade e que MDS comece a entender sobre qualidade de código no decorrer das sprints.|2|
+|TS02 - Refatorar Plano de Gerência de Configuração de Software| Eu, como gerente, desejo refatorar o plano de Gerência de Configuração de Software, para que para esteja claro o que a ferramenta de integração contínua faz e como foi dado o deploy contínuo.|2|
+|TS03 - Mapeamento da UnB|Eu, como desenvolvedor, desejo um mapeamento eficaz das rotas do campus Darcy Ribeiro para que estas sejam as melhores possíveis.|13|
+|TS04 - Refatorar Código|Eu, como desenvolvedor, desejo refatorar o código para melhorar a qualidade e facilitar a sua manutenção.|5|
 |TS07 - Teste Javascript|Eu, como desenvolvedor, desejo realizar testes na parte de javascript do código que não foi previamente testada para trazer mais confiabilidade para o código.|8|
 
 Critérios de Aceitação: As issues do Codeclimate devem diminuir em 60%, Deve ser aplicada uma Folha de estilo.
