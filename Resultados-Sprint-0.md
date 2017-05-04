@@ -12,6 +12,8 @@
 
 ### 3. Burndown Chart
 
+![Imgur](http://i.imgur.com/O8A4TWK.png)
+
 ### 4. Velocity
 
 ### 5. Retrospectiva da Sprint
