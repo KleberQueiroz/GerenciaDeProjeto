@@ -20,6 +20,11 @@
 * [Planejamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Planejamento-sprint-1)
 * [Resultados](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Resultados-sprint-1)
 
+* **_Sprint_ 2**
+
+* [Planejamento](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Planejamento-sprint-2)
+* [Resultados](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Resultados-sprint-2)
+
 
 ***
 ## Release 1
