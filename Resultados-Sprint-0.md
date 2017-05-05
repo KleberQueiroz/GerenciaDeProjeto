@@ -25,3 +25,5 @@ Esse documento visa trazer os resultados da sprint 0, podendo assim servir de ap
 ### 6. Métricas
 
 ### 7. Quadro de Conhecimento
+
+![Imgur](http://i.imgur.com/PnwgdRP.png)
