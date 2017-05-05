@@ -1,5 +1,7 @@
 ### 1. Relato da Sprint
 
+Esse documento visa trazer os resultados da sprint 0, podendo assim servir de aprendizado para as sprints que virão. A sprint 0 foi inteiramente técnica, uma sprint de adaptação dos membros para a nova tecnologia com o foco de refatoração. Ainda, foi planejada uma história técnica para a realização de testes em Javascript que não foi concluída, houve muita dificuldade com a tecnologia.
+
 ### 2. Resumo da Sprint
 
 | Histórias |  Status |
