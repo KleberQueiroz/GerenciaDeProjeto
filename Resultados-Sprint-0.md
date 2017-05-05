@@ -16,6 +16,8 @@
 
 ### 4. Velocity
 
+![Imgur](http://i.imgur.com/80ouPMz.png)
+
 ### 5. Retrospectiva da Sprint
 
 ### 6. Métricas
