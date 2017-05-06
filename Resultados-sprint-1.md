@@ -6,12 +6,19 @@ Esse documento visa trazer os resultados da sprint
 
 | Histórias |  Status |
 | ------- |  :----: |
-|T|:white_check_mark:|
-
+|TS06 - Parser MatriculaWeb|:x:|
+|US03 - Visualizar Informações de Edifício|:x:|
+|US02 - Pesquisar Edifício|:x:|
+|US07 - Cadastrar Salas|:x:|
+|US04 - Marcar Pontos de Trajeto|:x:|
 
 ### 3. Burndown Chart
 
+![Imgur](http://i.imgur.com/K53zUgd.png)
+
 ### 4. Velocity
+
+![Imgur](http://i.imgur.com/CpDH8SB.png)
 
 ### 5. Retrospectiva da Sprint
 
