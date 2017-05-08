@@ -4,6 +4,8 @@ Não foi concluída nenhuma história nessa sprint, porém aprendemos muito. O k
 
 Foi decidido não quebrar as histórias e futuramente aumentar a duração da sprint para que sejam entregued as histórias no tempo planejado.
 
+Durante essa sprint, foi adotado que uma milestone é uma sprint e essa milestone possui histórias relacionadas, que quando concluídas, encerram aquela milestone.
+
 ### 2. Resumo da Sprint
 
 | Histórias |  Status |
