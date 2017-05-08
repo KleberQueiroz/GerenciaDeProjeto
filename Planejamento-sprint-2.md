@@ -8,18 +8,18 @@
 ***
 ## 1. Resumo
 
-* **Data do Início da Sprint:** 
-* **Data do Fim da Sprint:** 
-* **Pontos Planejados:** 
+* **Data do Início da Sprint:** 06/05/2017
+* **Data do Fim da Sprint:** 13/05/2017
+* **Pontos Planejados:** 36
 
 ## 2. Objetivo
 
-O objetivo dessa Sprint é
+O objetivo dessa Sprint é testar principalmente em javascript as dívidas da Sprint 1.
 
 ## 3. Papéis
 
-* **Scrum Master:** 
-* **Product Owner:** 
+* **Scrum Master:** Eduardo Brasil
+* **Product Owner:** Eduardo Gomes
 * **Tracker:** 
 
 ## 4. Sprint Backlog
