@@ -29,6 +29,19 @@ Esse documento visa trazer os resultados da sprint 0, podendo assim servir de ap
 |                             | Histórias feitas de última hora |                                                                  |
 ### 6. Métricas
 
+**Resumo**
+![Imgur](http://i.imgur.com/i8Nm9Xy.png)
+
+**Linhas de código**
+![Imgur](http://i.imgur.com/dqhDn1t.png)
+
+**Erros**
+![Imgur](http://i.imgur.com/3ejEJEn.png)
+
+**Resumo dos arquivos e complexidade**
+![Imgur](http://i.imgur.com/pVb7pgD.png)
+
+
 ### 7. Quadro de Conhecimento
 
 ![Imgur](http://i.imgur.com/PnwgdRP.png)
