@@ -24,4 +24,6 @@ Esse documento visa trazer os resultados da sprint
 
 ### 6. Métricas
 
+Por não ter sido entregue nenhuma nova funcionalidade, optou-se por não coletar novas métricas.
+
 ### 7. Quadro de Conhecimento
