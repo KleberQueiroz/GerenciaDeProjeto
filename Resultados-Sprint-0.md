@@ -21,7 +21,12 @@ Esse documento visa trazer os resultados da sprint 0, podendo assim servir de ap
 ![Imgur](http://i.imgur.com/80ouPMz.png)
 
 ### 5. Retrospectiva da Sprint
-
+| Pontos Positivos            | Pontos Negativos                | Pontos de Melhoria                                               |
+|-----------------------------|---------------------------------|------------------------------------------------------------------|
+| Pró-atividade               | Falta de comunicação            | Maior comprometimento para rituais                               |
+| Pareamento efetivo          | Papéis mal definidos            | Fazer uma organização mais clara da sprint e definição de papéis |
+| Alta produtividade no geral | Sprint mal pontuada             |                                                                  |
+|                             | Histórias feitas de última hora |                                                                  |
 ### 6. Métricas
 
 ### 7. Quadro de Conhecimento
