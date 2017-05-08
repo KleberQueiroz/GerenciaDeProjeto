@@ -71,3 +71,5 @@ Eu como usuário, desejo clicar no mapa em um ponto de partida e um ponto de des
    * 50% de cobertura de testes unitários.
 
 ## 5. Pareamento
+
+![Imgur](http://i.imgur.com/0AxlUk8.png)
