@@ -10,7 +10,7 @@
 
 * **Data do Início da Sprint:** 06/05/2017
 * **Data do Fim da Sprint:** 13/05/2017
-* **Pontuação da Sprint:** 36
+* **Pontuação da Sprint**
    * Pontos de dívida técnica: 36 pontos
    * Pontos adicionados: 0 pontos
    * Pontos planejados: 13 pontos
