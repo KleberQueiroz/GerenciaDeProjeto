@@ -1,6 +1,8 @@
 ### 1. Relato da Sprint
 
-Esse documento visa trazer os resultados da sprint 
+Não foi concluída nenhuma história nessa sprint, porém aprendemos muito. O kanban do _zenhub_ nos mostra que as histórias planejadas eram muito complexas para a duração da sprint e mostra que testes em javascript ainda são uma grande dificuldade para a equipe.
+
+Foi decidido não quebrar as histórias e futuramente aumentar a duração da sprint para que sejam entregued as histórias no tempo planejado.
 
 ### 2. Resumo da Sprint
 
