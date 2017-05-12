@@ -2,3 +2,4 @@ Tendo em vista que é necessário ter uma visão do custo do projeto e um escopo
 
 [EVM](https://goo.gl/NmYXhu)
 
+Seguindo o que foi previamente definido no Termo de Abertura ([Termo de Abertura](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Termo-de-Abertura#6-resumo-do-or%C3%A7amento)) pela equipe, 
