@@ -11,59 +11,59 @@
 | Tirar obstáculos para o projeto |  |  |  |
 ### Reuniões Diárias
 
-#### Iteração 0
+#### Daily Meeting
 
-Nesse primeiro momento, foi seguida a metodologia proposta na disciplina, onde as reuniões são diárias. Na terça, quinta e sábado as reuniões serão presenciais, e nos demais dias, através do canal do slack "daily meetings".
+<p align="justify">Nesse primeiro momento, foi seguida a metodologia proposta na disciplina, onde as reuniões são diárias. Na terça, quinta e sábado as reuniões serão presenciais, e nos demais dias, através do canal do Slack "Daily".
 
 ### Reunião Semanal
 
-Ao final de cada sprint a equipe se reunia para fazer a Sprint Review, Retrospectiva e o Planejamento da próxima sprint. Na Retrospectiva, a equipe conversava acerca dos pontos positivos, negativos e propostas de melhoria que deveriam ocorrer para melhor andamento do projeto. No planejamento, eram escritas as tasks de cada história pela equipe, os critérios de aceitação pelo PO e logo em seguida eram divididas entre o time de desenvolvimento.
+<p align="justify">Ao final de cada Sprint a equipe se reunia para fazer a Sprint Review, Retrospectiva e o Planejamento da próxima sprint. Na Sprint Review será analisado o que foi alcançado no Sprint. Na Retrospectiva, a equipe conversava acerca dos pontos positivos, negativos e propostas de melhoria que deveriam ocorrer para melhor andamento do projeto. No planejamento, é escrita a descrição de cada história pela equipe, os critérios de aceitação pelo PO e logo em seguida eram divididas entre o time de desenvolvimento.
 
 ### Artefatos
 
-Dois artefatos foram produzidos e gerenciados pelo Product Owner: o Backlog do Produto, que contém todas as histórias derivadas, e o Backlog da Sprint, com as histórias planejadas para a sprint atual.
+<p align="justify">Dois artefatos foram produzidos e gerenciados pelo Product Owner: o Product Backlog, que contém todas as histórias derivadas, e o Backlog da Sprint, com as histórias planejadas para a Sprint atual.
 
 ### Duração das Sprints
 
-Conforme solicitado na disciplina, foram executadas sprints com duração de uma semana cada.
+<p align="justify">Conforme solicitado na disciplina, foram executadas Sprints com duração de uma semana cada.
 
 ## Extreme programing (XP)
 
 ### Programação em Pares
 
-Uma das práticas utilizadas no projeto foi o pareamento.
+<p align="justify">Uma das práticas utilizadas no projeto foi o pareamento.
 
-### Integração Contínua
+### Integração Contínua e Deploy Contínuo
 
-Outra prática utilizada no projeto foi a integração contínua e deploy contínuo. A integração contínua era executada automaticamente sempre que uma mudança fosse realizada e colocada no repositório oficial do GitHub. Essa integração era realizada pela ferramenta CicleCI. 
-
+<p align="justify">Outra prática utilizada no projeto foi a Integração Contínua e Deploy Contínuo. A Integração Contínua é executado automaticamente pelo CircleCI sempre que uma mudança fosse realizada e colocada no repositório oficial do GitHub e em seguida era feito o Deploy da Software no Heroku.
 
 ## Ferramenta de Acompanhamento da Sprint
 
-Inicialmente foi realizada uma pesquisa comparativa entre 3 ferramentas de controle de sprint. Foram o ZenHub, o Waffle e o HuBoard. Foram testas as 3 ferramentas e com a ajuda de um comparativo [link](https://stackshare.io/stackups/huboard-vs-waffle-io-vs-zenhub). 
+<p align="justify">Inicialmente foi realizada uma pesquisa comparativa entre 3 ferramentas de controle de sprint. Foram o ZenHub, o Waffle e o HuBoard. Foram testas as 3 ferramentas e com a ajuda de um comparativo [link](https://stackshare.io/stackups/huboard-vs-waffle-io-vs-zenhub). 
 
-No final, houve um impasse entre a ferramenta ZenHub e Waffle que são eficientes para o nosso projeto. Foi escolhido o ZenHub por não precisar sair do repositório para o controle da sprint, além de ser integrado com o slack.
+<p align="justify">No final, houve um impasse entre a ferramenta ZenHub e Waffle que são eficientes para o nosso projeto. Foi escolhido o ZenHub por não precisar sair do repositório para o controle da sprint, além de ser integrado com o slack.
 
 [![Captura de tela de 2017-04-29 11-57-31.png](https://s23.postimg.org/6olmz8hbv/Captura_de_tela_de_2017-04-29_11-57-31.png)](https://postimg.org/image/lxbkd0b07/)
 
-
 ## Kanban
 
-Foi utilizado o Kanban para a equipe ter uma melhor visibilidade do projeto de forma que todos os integrantes do projeto possam visualizá-lo e modificá-lo de forma rápida e fácil, além de que qualquer pessoa interessada no projeto também possa visualizá-lo facilmente. Para facilitar esta visualização, foi usada a ferramenta ZenHub conectada ao Git. Na aba de Boards é possível ver o que a equipe tinha para fazer "To Do", o que estava sendo feito "Doing", o que estava pronto "Done" e o que havia sido aceito pelo PO, e portanto estava com issue fechada "Closed".
+<p align="justify">Foi utilizado o Kanban para a equipe ter uma melhor visibilidade do projeto de forma que todos os integrantes do projeto possam visualizá-lo e modificá-lo de forma rápida e fácil, além de que qualquer pessoa interessada no projeto também possa visualizá-lo facilmente. Para facilitar esta visualização, foi usada a ferramenta ZenHub conectada ao Git. Na aba de Boards é possível ver o que a equipe tinha para fazer "To Do", o que estava sendo feito "Doing", o que estava pronto "Done" e o que havia sido aceito pelo PO, e portanto estava com issue fechada "Closed" além das abas "Testing", que está associada a histórias sendo testadas e "ERROR", que são para histórias com problemas.
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time02-Jardim-Botanico-Mobile/imagens/kanban.png)
+![Kanban](http://i.imgur.com/0ivy8dt.png)
 
 O quadro está divido nas seguintes trilhas:
 * **Product Backlog**: Esta trilha é responsável por armazenar todas as histórias a serem realizadas no projeto.
 * **Sprint Backlog**: Esta trilha contém as histórias selecionadas para realização na sprint atual.
 * **In Progress**: Esta trilha contém as histórias da sprint atual que já começaram a ser realizadas.
 * **Done**: Esta trilha contém as histórias da sprint atual que já foram concluídas.
+* **Testing**: Esta trilha contém as histórias da sprint atual que estão sendo testadas.
+* **ERROR**: Esta trilha contém as histórias com problemas.
 
-O quadro está integrado ao repositório no Github e pode ser acessado por meio deste [link](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB#boards?repos=85082265).
+<p align="justify">O quadro está integrado ao repositório no Github e pode ser acessado por meio deste [link](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB#boards?repos=85082265).
 
 ----------------------------
 
 **Observação**: O quadro é gerado pela ferramenta Zenhub. Para poder visualizar o quadro é necessário instalar  a extensão do Zenhub no navegador (esta extensão está disponível para os navegadores Google Chrome e Mozilla Firefox). Para instalar a extensão, deve-se seguir as seguintes etapas:
 * Entre em [zenhub.com](https://zenhub.com)
 * Clique em **Add Zenhub to Github**
-* Após isso, vá à [página inicial do repositório](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/) e será possível visualizar tanto as abas **Boards** quanto **Burndown**, onde será possível ver, respectivamente, o quadro Kanban e o burndown relativo a cada sprint.
+* Após isso, vá à [página inicial do repositório](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/) e será possível visualizar **Boards**, onde será possível ver o Kanban da equipe.
