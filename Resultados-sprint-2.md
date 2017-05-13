@@ -33,4 +33,10 @@ Após a realização de um treinamento de testes em javascript, mais precisament
 
 ### 6. Métricas
 
+![Imgur](http://i.imgur.com/dhFPYWZ.png)
+
+![Imgur](http://i.imgur.com/jjUGNI6.png)
+
+![Imgur](http://i.imgur.com/KkXXkN4.png)
+
 ### 7. Quadro de Conhecimento
