@@ -69,10 +69,10 @@ Eu, como administrador, desejo cadastrar salas do ICC, para que seja possível d
 Eu como usuário, desejo clicar no mapa em um ponto de partida e um ponto de destino, para que eu possa saber qual trajeto irei percorrer.
 
 * Critérios de aceitação: 
-   * Trajeto com partida e destino
-   * Trocar lib de trajetos por Leaflet RouteMachine + MapZen
-   * Corrigir UX/UI
-   * Adicionar menu de contexto para definir pontos de partida e chegada
+   * Trajeto com partida e destino. (OK!)
+   * Trocar lib de trajetos por Leaflet RouteMachine + MapZen. (OK!)
+   * Corrigir UX/UI. (OK!)
+   * Adicionar menu de contexto para definir pontos de partida e chegada. (OK!)
    * Testes de aceitação em javascript.
 
 * **US12** - Cadastrar Departamentos
