@@ -44,6 +44,7 @@ Eu, como usuário, desejo clicar sobre um ponto/edifício marcado no mapa para s
 
 * Critério de aceitação: 
    * Mostrar informações referentes ao edifício clicado.
+   * Testes de aceitação em javascript.
 
 * **[US02]** - Pesquisar Edifício
 
@@ -51,6 +52,7 @@ Eu como usuário, desejo consultar edifícios para que seja possível encontrá-
 
 * Critério de aceitação: 
    * Auto-complete search.
+   * Testes de aceitação em javascript.
 
 * **[US07]** - Cadastrar Salas
 
@@ -59,6 +61,7 @@ Eu, como administrador, desejo cadastrar salas do ICC, para que seja possível d
 * Critérios de aceitação: 
    * Desenhar no mapa 
    * Indoor map.
+   * Testes de aceitação em javascript.
 
 * **[US04]** - Marcar Pontos de Trajeto
 
@@ -69,6 +72,7 @@ Eu como usuário, desejo clicar no mapa em um ponto de partida e um ponto de des
    * Trocar lib de trajetos por Leaflet RouteMachine + MapZen
    * Corrigir UX/UI
    * Adicionar menu de contexto para definir pontos de partida e chegada
+   * Testes de aceitação em javascript.
 
 ## 5. Pareamento
 
