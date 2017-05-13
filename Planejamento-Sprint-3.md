@@ -24,7 +24,7 @@ Desenvolvimento de um número maior de histórias, uma vez que os problemas que 
 
 * **Scrum Master:** Kairon Velozo
 * **Product Owner:** Lucas Souza
-* **Tracker:** Eduardo Gomes
+* **Tracker:** Matheus Melo
 
 ## 4. Sprint Backlog
 
