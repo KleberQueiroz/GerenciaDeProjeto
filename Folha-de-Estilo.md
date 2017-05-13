@@ -4,7 +4,7 @@
 |-------|--------|----------------------------|---------------|
 | 08/04 | 0.1    | Criação do documento.      | Kairon Velozo |
 | 08/04 | 0.2    | Inclusão das style guides. | Kairon Velozo |
-
+| 29/04 | 0.3    | Inclusão de exemplos.      | Mateus Roriz  |
 ## Introdução
 
 Este documento contém as convenções de códigos e utilização do Git a serem adotadas, sempre que possível, durante o desenvolvimento da aplicação _Onde É? UnB_.
