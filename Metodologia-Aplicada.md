@@ -59,7 +59,7 @@ O quadro está divido nas seguintes trilhas:
 * **Testing**: Esta trilha contém as histórias da sprint atual que estão sendo testadas.
 * **ERROR**: Esta trilha contém as histórias com problemas.
 
-<p align="justify">O quadro está integrado ao repositório no Github e pode ser acessado por meio deste [link](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB#boards?repos=85082265).
+O quadro está integrado ao repositório no Github e pode ser acessado por meio deste [link](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB#boards?repos=85082265).
 
 ----------------------------
 
