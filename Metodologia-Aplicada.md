@@ -2,16 +2,13 @@
 
 ### Papéis
 
-<table class="tg">
-  <tr>
-    <th class="tg-30rh">Scrum Master</th>
-    <th class="tg-5frq">Product Owner (PO)</th>
-    <th class="tg-5frq">Development</th>
-  </tr>
-  <tr>
-  </tr>
-</table>
-
+| Scum Master | Product Owner | Tracker | Developer |
+|-----------------------------------|--------------------------------------|--------------------------------|-----------------------------------|
+| Assegurar Práticas do Scrum | Gerenciar Backlog | Garantir a qualidade de código | Desenvolver Histórias de Usuários |
+| Controlar o tempo das reuniões | Validar Histórias de Usuário | Coleta de Métricas da Sprint | Buscar o auto-gerenciamento |
+| Assegurar rotação do conhecimento | Auxiliar no planejamento das sprints | Gerenciar branches | Disseminar conhecimento |
+| Garantir a colaboração da equipe |  |  |  |
+| Tirar obstáculos para o projeto |  |  |  |
 ### Reuniões Diárias
 
 #### Iteração 0
