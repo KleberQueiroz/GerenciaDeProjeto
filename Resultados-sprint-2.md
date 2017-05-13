@@ -20,9 +20,16 @@ Após a realização de um treinamento de testes em javascript, mais precisament
 
 ### 4. Velocity
 
-!![Imgur](http://i.imgur.com/l6QVcUn.png)
+![Imgur](http://i.imgur.com/l6QVcUn.png)
 
 ### 5. Retrospectiva da Sprint
+
+| Pontos Positivos            | Pontos Negativos                | Pontos de Melhoria                                               |
+|--------------------|-----------------------|--------------------------------------|
+| Testes        | Falta de participação nas reuniões       | Melhorar a wiki           |
+| Pareamento    | Semana corrida   | Atualizar os quadros |
+| Equipe pró-ativa buscando ajuda | Teste ainda é dificuldade para alguns membros|    Deixar a definição dos papéis mais clara               |
+| Histórias entregues               |   | Melhorar Comunicação                       |
 
 ### 6. Métricas
 
