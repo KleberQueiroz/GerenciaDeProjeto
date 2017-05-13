@@ -76,10 +76,20 @@ Eu como usuário, desejo clicar no mapa em um ponto de partida e um ponto de des
    * Testes de aceitação em javascript.
 
 * **US12** - Cadastrar Departamentos
+
 Eu, como administrador, desejo cadastrar departamentos para disponibilizar sua localização para os usuários.
 
 * Critérios de aceitação:
    * Testes de aceitação em javascript.
+
+* **US17** - Cadastro de Administradores 
+
+Eu, como administrador, desejo ser o único que pode cadastrar outros administradores, para que os mesmos possam manter o sistema e impedir que qualquer um possa ter privilégios de administrador.
+
+* Critérios de aceitação:
+   * Cadastro de administrador apenas através da página de admin
+   * O layout da tela de cadastro de usuário administrador deve ser responsivo
+   * Devem haver testes. Caso os testes sejam em JavaScript eles devem ser de aceitação.
 
 ## 5. Pareamento
 
