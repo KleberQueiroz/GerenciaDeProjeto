@@ -4,7 +4,7 @@
 ## Release 2
 
 * [_Apresentação R2_]()
-* [_EVM_](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/EVM)
+* [_EVM_](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Earned-Value-Management-(EVM))
 * [_Product Backlog_](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Product-Backlog)
 * [_Metodologia Aplicada_](https://github.com/fga-gpp-mds/mds-gpp-g2/wiki/Metodologia-Aplicada)
 
