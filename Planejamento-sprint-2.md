@@ -24,7 +24,7 @@ O objetivo dessa Sprint é testar principalmente em javascript as dívidas da Sp
 
 * **Scrum Master:** Eduardo Brasil
 * **Product Owner:** Eduardo Gomes
-* **Tracker:** 
+* **Tracker:** Rafael Rabetti
 
 ## 4. Sprint Backlog
 
@@ -35,7 +35,7 @@ Eu, como administrador, desejo cadastrar departamentos para disponibilizar sua l
 Eu, como administrador, desejo ser o único que pode cadastrar outros administradores, para que os mesmos possam manter o sistema e impedir que qualquer um possa ter privilégios de administrador.
 
 * Critérios de aceitação: 
-
+   * Testes de aceitação em javascript.
 
 ## 5. Pareamento
 
