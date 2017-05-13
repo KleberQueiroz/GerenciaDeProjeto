@@ -1,4 +1,14 @@
-Do's and Dont's Javascript
+## Histórico de Versões
+
+| Data  | Versão | Descrição                  | Autor(es)     |
+|-------|--------|----------------------------|---------------|
+| 29/04 | 0.1    | Criação do documento.      | Mateus Roriz  |
+
+## Introdução
+
+Este documento contém exemplos de código de acordo com a folha de estilo, usada durante o desenvolvimento da aplicação _Onde É? UnB_.
+
+## Do's and Dont's Javascript
 
  Faça isso 
 ```javascript
@@ -21,7 +31,7 @@ const atom = {
 };
 ```
 
-Do's and Dont's Ruby on rails
+## Do's and Dont's Ruby on rails
 
 Usar aspas simples quando não estiver usando caracteres especiais ou interpolação de strings
 
