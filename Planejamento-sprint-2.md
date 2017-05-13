@@ -75,14 +75,14 @@ Eu como usuário, desejo clicar no mapa em um ponto de partida e um ponto de des
    * Adicionar menu de contexto para definir pontos de partida e chegada. (OK!)
    * Testes de aceitação em javascript.
 
-* **US12** - Cadastrar Departamentos
+* **[US12]** - Cadastrar Departamentos
 
 Eu, como administrador, desejo cadastrar departamentos para disponibilizar sua localização para os usuários.
 
 * Critérios de aceitação:
    * Testes de aceitação em javascript.
 
-* **US17** - Cadastro de Administradores 
+* **[US17]** - Cadastro de Administradores 
 
 Eu, como administrador, desejo ser o único que pode cadastrar outros administradores, para que os mesmos possam manter o sistema e impedir que qualquer um possa ter privilégios de administrador.
 
