@@ -28,10 +28,18 @@ Desenvolvimento de um número maior de histórias, uma vez que os problemas que 
 
 ## 4. Sprint Backlog
 
-#### **Histórias Técnicas**
+### **Histórias Técnicas**
 
 
-#### **Histórias de Usuário**
+### **Histórias de Usuário**
+
+#### [US05] - Marcar Trajeto de Acordo com Localização Atual
+
+Eu, como usuário, desejo informar minha informar minha localização atual ao calcular uma rota para ir a um destino. 
+
+**Critério de aceitação** 
+   * opção de usar localização no formulário;
+   * testes de aceitação.
 
 ## 5. Pareamento
 
