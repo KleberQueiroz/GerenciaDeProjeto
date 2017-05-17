@@ -66,6 +66,13 @@ Eu, como administrador, desejo editar as informações de um bicicletário para 
    * editar informações dos bicicletários;
    * testes de aceitação.
 
+### US24 - Remover Bicicletário
+
+Eu, como administrador, desejo remover um bicicletário pois este pode deixar de existir.
+
+**Critério de aceitação** 
+   * testes de aceitação.
+
 
 ## 5. Pareamento
 
