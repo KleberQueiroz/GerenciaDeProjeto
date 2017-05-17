@@ -33,7 +33,7 @@ Desenvolvimento de um número maior de histórias, uma vez que os problemas que 
 
 ### **Histórias de Usuário**
 
-#### [US05] - Marcar Trajeto de Acordo com Localização Atual
+#### US05 - Marcar Trajeto de Acordo com Localização Atual
 
 Eu, como usuário, desejo informar minha informar minha localização atual ao calcular uma rota para ir a um destino. 
 
@@ -58,6 +58,15 @@ Eu, como usuário, desejo ver os pontos de acesso dos edifícios no mapa, para s
    * identificar os pontos de acesso com cor e ícone de fácil entendimento;
    * testes de aceitação.
 
+#### US22 - Visualizar Bicicletários
+
+Eu, como usuário, desejo ver os bicicletários no mapa, para saber onde ficam localizados os bicicletários.
+
+**Critério de aceitação** 
+   * mostrar a localização dos bicicletários no mapa;
+   * identificar os bicicletários com cor e ícone de fácil entendimento;
+   * testes de aceitação.
+
 #### US23 - Editar Bicicletário
 
 Eu, como administrador, desejo editar as informações de um bicicletário para realizar possíveis correções de informações incorretas ou desatualizadas.
@@ -66,13 +75,20 @@ Eu, como administrador, desejo editar as informações de um bicicletário para 
    * editar informações dos bicicletários;
    * testes de aceitação.
 
-### US24 - Remover Bicicletário
+#### US21 - Cadastrar Bicicletário
 
 Eu, como administrador, desejo remover um bicicletário pois este pode deixar de existir.
 
 **Critério de aceitação** 
    * testes de aceitação.
 
+#### US24 - Remover Bicicletário
+
+Eu, como administrador, desejo remover um bicicletário pois este pode deixar de existir.
+
+**Critério de aceitação** 
+   * definir a localização dos bicicletários no mapa;
+   * testes de aceitação
 
 ## 5. Pareamento
 
