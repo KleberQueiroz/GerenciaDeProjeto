@@ -58,6 +58,13 @@ Eu, como usuário, desejo ver os pontos de acesso dos edifícios no mapa, para s
    * identificar os pontos de acesso com cor e ícone de fácil entendimento;
    * testes de aceitação.
 
+#### US21 - Cadastrar Bicicletário
+
+Eu, como administrador, desejo remover um bicicletário pois este pode deixar de existir.
+
+**Critério de aceitação** 
+   * testes de aceitação.
+
 #### US22 - Visualizar Bicicletários
 
 Eu, como usuário, desejo ver os bicicletários no mapa, para saber onde ficam localizados os bicicletários.
@@ -73,13 +80,6 @@ Eu, como administrador, desejo editar as informações de um bicicletário para 
 
 **Critério de aceitação** 
    * editar informações dos bicicletários;
-   * testes de aceitação.
-
-#### US21 - Cadastrar Bicicletário
-
-Eu, como administrador, desejo remover um bicicletário pois este pode deixar de existir.
-
-**Critério de aceitação** 
    * testes de aceitação.
 
 #### US24 - Remover Bicicletário
