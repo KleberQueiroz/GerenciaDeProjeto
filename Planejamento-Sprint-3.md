@@ -41,6 +41,32 @@ Eu, como usuário, desejo informar minha informar minha localização atual ao c
    * opção de usar localização no formulário;
    * testes de aceitação.
 
+#### US18 - Cadastrar Pontos de Acesso
+
+Eu, como administrador, desejo cadastrar os pontos de acesso do edifício, para que esses pontos possam ser mostrados aos usuários. 
+
+**Critério de aceitação** 
+   * definir localização dos pontos de acesso no mapa;
+   * testes de aceitação.
+
+#### US19 - Visualizar Pontos de Acesso
+
+Eu, como usuário, desejo ver os pontos de acesso dos edifícios no mapa, para saber onde ficam localizadas as entradas e saídas dos edifícios.
+
+**Critério de aceitação** 
+   * mostrar a localização dos pontos de acesso no mapa;
+   * identificar os pontos de acesso com cor e ícone de fácil entendimento;
+   * testes de aceitação.
+
+#### US23 - Editar Bicicletário
+
+Eu, como administrador, desejo editar as informações de um bicicletário para realizar possíveis correções de informações incorretas ou desatualizadas.
+
+**Critério de aceitação** 
+   * editar informações dos bicicletários;
+   * testes de aceitação.
+
+
 ## 5. Pareamento
 
 ![Imgur](http://i.imgur.com/tDS4CU1.png)
