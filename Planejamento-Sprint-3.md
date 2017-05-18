@@ -65,7 +65,7 @@ Eu, como usuário, desejo pesquisar salas dos edifícios, para localizá-las no 
 
 #### US13 - Visualizar Departamentos 
 
-Eu, como usuário, desejo saber a localização dos departamentos no campus, para ver onde estão distribuídas as áreas de conhecimento.
+Eu, como usuário, desejo saber a localização dos departamentos no campus, para ver onde estão distribuídas as áreas de conhecimento.  
 **Critérios de aceitação** 
 * apresentar no mapa os departamentos;
 * testes de aceitação.
@@ -73,7 +73,7 @@ Eu, como usuário, desejo saber a localização dos departamentos no campus, par
 
 #### US14 - Excluir Departamentos
 
-Eu, como administrador, desejo excluir departamentos para refletir possíveis mudanças do mundo real.
+Eu, como administrador, desejo excluir departamentos para refletir possíveis mudanças do mundo real.  
 **Critérios de aceitação** 
 * testes de aceitação.
 ***
