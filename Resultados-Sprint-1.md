@@ -33,3 +33,7 @@ Por não ter sido entregue nenhuma nova funcionalidade, optou-se por não coleta
 ### 7. Quadro de Conhecimento
 
 [![Captura de tela de 2017-05-17 22-24-23.png](https://s12.postimg.org/g5x4lbacd/Captura_de_tela_de_2017-05-17_22-24-23.png)](https://postimg.org/image/oo6kpngux/)
+
+###### Legenda
+
+[![Captura de tela de 2017-05-18 13-23-16.png](https://s24.postimg.org/d625j7q5h/Captura_de_tela_de_2017-05-18_13-23-16.png)](https://postimg.org/image/exv4e49i9/)
