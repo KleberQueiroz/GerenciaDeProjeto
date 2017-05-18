@@ -43,6 +43,4 @@ Esse documento visa trazer os resultados da sprint 0, podendo assim servir de ap
 
 ### 7. Quadro de Conhecimento
 
-![Imgur](http://i.imgur.com/PnwgdRP.png)
-
-![Imgur](http://i.imgur.com/NN2VJIk.png)
+[![Captura de tela de 2017-05-17 22-05-16.png](https://s16.postimg.org/6zrsb5kud/Captura_de_tela_de_2017-05-17_22-05-16.png)](https://postimg.org/image/8etczvlxd/)
