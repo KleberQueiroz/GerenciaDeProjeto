@@ -2,6 +2,9 @@ Tendo em vista que é necessário ter uma visão do custo do projeto e um escopo
 
 [EVM](https://goo.gl/NmYXhu)
 
+#### Custo da Release
+
+
 #### Custo das _Sprints_
 
 Seguindo o que foi previamente definido no [Termo de Abertura](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Termo-de-Abertura#6-resumo-do-or%C3%A7amento) pela equipe, cada hora trabalhada por cada integrante vale R$ 15,30. Tendo em vista que no mesmo termo, foi estipulado 10 horas semanais de trabalho, conclui-se que o custo de um integrante é de R$ 150,30 por semana. Considerando que a equipe é composta por 13 integrantes, logo, o valor de uma _sprint_ de uma semana é de R$ 1,953.90. Como foi previsto o desenvolvimento durante 9 semanas, temos o valor planejado para a release (BAC) de R$ 17,585.10.
@@ -12,10 +15,12 @@ Ainda conforme o [Termo de Abertura](https://github.com/fga-gpp-mds/2017.1-OndeE
 
 #### Valor Agregado (EV)
 
-O valor agregado é a grandeza que reflete a produtividade da equipe naquela _sprint_. Diferentemente do custo real e do valor planejado, o valor agregado difere a cada _sprint_ de acordo com a porcentagem concluída na _sprint_ (PPC). 
+O valor agregado é a grandeza que reflete a produtividade da equipe naquela _sprint_. Diferentemente do custo real e do valor planejado, o valor agregado difere a cada _sprint_ de acordo com a porcentagem concluída na _sprint_ (PPC). O cálculo dessa porcentagem é resultado da multiplicação entre os pontos planejados (PP) e os pontos concluídos (PC) mais os pontos adicionados (PA) se houver.
 
-PPC = PC * PP
+#### Índices
 
-EV = PPC * PV
+A Variação do Custo (CV) e a Variação do Prazo (SV) tiverem valores iguais em todas as _sprints_ porque se baseam no custo real e valor planejado, respectivamente.
 
-Obs.: PC - Pontos Concluídos e PP - Pontos Planejados
+Da mesma forma, o Índice de Desempenho de Custo (CPI) e o Índice de Desempenho de Prazo (SPI) tiveram resultados iguais para todas as _sprints_.
+
+
