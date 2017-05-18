@@ -31,3 +31,5 @@ Durante essa sprint, foi adotado que uma milestone é uma sprint e essa mileston
 Por não ter sido entregue nenhuma nova funcionalidade, optou-se por não coletar métricas.
 
 ### 7. Quadro de Conhecimento
+
+[![Captura de tela de 2017-05-17 22-24-23.png](https://s12.postimg.org/g5x4lbacd/Captura_de_tela_de_2017-05-17_22-24-23.png)](https://postimg.org/image/oo6kpngux/)
