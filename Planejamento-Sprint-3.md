@@ -65,7 +65,10 @@ Eu, como usuário, desejo pesquisar salas dos edifícios, para localizá-las no 
 
 #### US13 - Visualizar Departamentos 
 
-Eu, como usuário, desejo saber a localização dos departamentos do campus Darcy Ribeiro UnB para saber onde desenvolver atividades de ensino, pesquisa e extensão.
+Eu, como usuário, desejo saber a localização dos departamentos no campus, para ver onde estão distribuídas as áreas de conhecimento.
+**Critérios de aceitação** 
+* apresentar no mapa os departamentos;
+* testes de aceitação.
 ***
 
 #### US14 - Excluir Departamentos
