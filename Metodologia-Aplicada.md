@@ -7,7 +7,7 @@
 | Assegurar Práticas do Scrum | Gerenciar Backlog | Garantir a qualidade de código | Desenvolver Histórias de Usuários |
 | Controlar o tempo das reuniões | Validar Histórias de Usuário | Coleta de Métricas da Sprint | Buscar o auto-gerenciamento |
 | Assegurar rotação do conhecimento | Auxiliar no planejamento das sprints | Gerenciar branches | Disseminar conhecimento |
-| Garantir a colaboração da equipe |  |  |  |
+| Garantir a colaboração da equipe |  | Fazer merges de branches ao final da sprint |  |
 | Tirar obstáculos para o projeto |  |  |  |
 ### Reuniões Diárias
 
