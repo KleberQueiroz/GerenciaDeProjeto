@@ -41,6 +41,46 @@ Eu, como usuário, desejo informar minha informar minha localização atual ao c
    * opção de usar localização no formulário;
    * testes de aceitação.
 
+#### US10 - Excluir Salas
+
+Eu, como administrador, desejo excluir salas, pois estas podem estar erradas.
+
+**Critério de aceitação**
+*  testes de aceitação.
+
+#### US11 - Pesquisar Salas
+
+Eu, como usuário, desejo pesquisar salas dos edifícios, para localizá-las no campus.
+
+**Critério de aceitação** 
+   * a pesquisa de salas deve possuir autocomplete ou sugestões;
+   * ao encontrar uma sala, deve-se mostrá-la em destaque no mapa;
+   * testes de aceitação.
+
+#### US11 - Pesquisar Salas
+
+Eu, como usuário, desejo pesquisar salas dos edifícios, para localizá-las no campus.
+
+**Critério de aceitação** 
+   * a pesquisa de salas deve possuir autocomplete ou sugestões;
+   * ao encontrar uma sala, deve-se mostrá-la em destaque no mapa;
+   * testes de aceitação.
+
+#### US13 - Visualizar Departamentos 
+
+Eu, como usuário, desejo saber a localização dos departamentos do campus Darcy Ribeiro UnB para saber onde desenvolver atividades de ensino, pesquisa e extensão.
+
+
+#### US16 - Pesquisar Departamento
+
+Eu como usuário, desejo consultar departamentos para que seja possível entender onde cada área de conhecimento está distribuído no campus.
+
+**Critério de aceitação** 
+* a pesquisa de departamentos deve possuir autocomplete ou sugestões;
+* ao  encontrar um departamento deve-se destacá-lo no mapa;
+* testes de aceitação.
+
+
 #### US18 - Cadastrar Pontos de Acesso
 
 Eu, como administrador, desejo cadastrar os pontos de acesso do edifício, para que esses pontos possam ser mostrados aos usuários. 
