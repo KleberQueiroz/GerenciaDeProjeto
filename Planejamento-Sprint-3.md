@@ -163,6 +163,14 @@ Eu, como administrador, desejo ter uma lista de administradores cadastrados, par
 * listar todos os administradores com seus dados de identificação;
 * testes de aceitação.
 
+***
+
+#### US30 - Melhorar Responsividade
+
+Eu, como usuário, desejo que o site possa ser responsivo para que eu possa ter boa experiência de uso em diferentes tamanhos de tela.
+**Critérios de aceitação**
+* corrigir problemas de usabilidade apresentados
+
 
 ## 5. Pareamento
 
