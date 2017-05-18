@@ -4,10 +4,16 @@ Tendo em vista que é necessário ter uma visão do custo do projeto e um escopo
 
 #### Custo da Release
 
+| Recursos | Preço Unitário | Quantidade | Preço Total |
+| ----- | ----- | ----- | ---- |
+| Custo de Trabalho dos Integrantes | R$ 153,00 / semana | 13 por 8 semanas| R$ 17.901,00 |
+| Plano de Internet Banda Larga	| R$84,90 | 13 por 2 meses | R$ 2.207,40 |
+| _Coach_ | R$ 30,60 / semanas | 2 por 9 semanas | R$ 550,80 |
+| **Custo Total** | **-** | **-** | **R$ 20.659,20** |
 
 #### Custo das _Sprints_
 
-Seguindo o que foi previamente definido no [Termo de Abertura](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Termo-de-Abertura#6-resumo-do-or%C3%A7amento) pela equipe, cada hora trabalhada por cada integrante vale R$ 15,30. Tendo em vista que no mesmo termo, foi estipulado 10 horas semanais de trabalho, conclui-se que o custo de um integrante é de R$ 150,30 por semana. Considerando que a equipe é composta por 13 integrantes, logo, o valor de uma _sprint_ de uma semana é de R$ 1,953.90. Como foi previsto o desenvolvimento durante 9 semanas, temos o valor planejado para a release (BAC) de R$ 17,585.10.
+Seguindo o que foi previamente definido no [Termo de Abertura](https://github.com/fga-gpp-mds/2017.1-OndeE-UnB/wiki/Termo-de-Abertura#6-resumo-do-or%C3%A7amento) pela equipe, cada hora trabalhada por cada integrante vale R$ 15,30. Tendo em vista que no mesmo termo, foi estipulado 10 horas semanais de trabalho, conclui-se que o custo de um integrante é de R$ 153,00 por semana. Considerando que a equipe é composta por 13 integrantes, logo, o valor de uma _sprint_ de uma semana é de R$ 1.989,00. Como foi previsto o desenvolvimento durante 9 semanas, temos o valor planejado para a release (BAC) de R$ 17.901,00.
 
 #### Valor Planejado (PV) e Custo Real (AC)
 
